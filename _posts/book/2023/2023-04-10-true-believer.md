@@ -6,7 +6,7 @@ description: 狂热分子
 keywords: 狂热分子
 ---
 
-乌合之众兄弟作品
+「乌合之众」姊妹篇
 
 [豆瓣评论](https://book.douban.com/subject/3057556/)
 
