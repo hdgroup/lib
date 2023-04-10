@@ -8,6 +8,10 @@ menu: 链接
 permalink: /links/
 ---
 
+# 镇站之宝
+
+[https://z-lib.org/](https://lib-tcax32kadrwnoe3qjcrqqyzy.booksc.me/)
+
 # Blog
 
 卢昌海 [https://www.changhai.org/](https://www.changhai.org/)
@@ -25,8 +29,6 @@ permalink: /links/
 
 # Read
 
-[https://z-lib.org/](https://lib-tcax32kadrwnoe3qjcrqqyzy.booksc.me/)  
-[https://zebra.9farm.com/](https://zebra.9farm.com/)  
 [https://www.marxists.org/chinese/maozedong/index.htm](https://www.marxists.org/chinese/maozedong/index.htm)  
 [https://www.marxists.org/chinese/reference-books/luxun/index.htm](https://www.marxists.org/chinese/reference-books/luxun/index.htm)
 
