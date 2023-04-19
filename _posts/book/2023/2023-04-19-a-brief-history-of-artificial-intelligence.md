@@ -10,234 +10,6 @@ keywords: 人工智能简史
 
 [豆瓣评论](https://book.douban.com/subject/27193496/)
 
-前言
-
-# 第 1 章　达特茅斯会议：人工智能的缘起
-
-## 1. 背景
-
-## 2. 达特茅斯会议
-
-## 3. AI 历史的方法论
-
-## 4. 会议之后
-
-## 5. 预测未来：会有奇点吗？
-
-参考文献指南
-
-# 第 2 章　自动定理证明兴衰纪
-
-## 1. 自动定理证明的起源
-
-## 2. 罗宾逊和归结原理
-
-## 3. 项重写
-
-## 4. 阿贡小组和马库恩
-
-## 5. 符号派的内部矛盾：问答系统和归结原理的失落
-
-## 6. 几何定理证明与计算机代数
-
-## 7. 定理证明系统和竞赛
-
-## 8. 哲学问题
-
-## 9. 现状
-
-## 10. 结语
-
-参考文献指南
-
-附录 1：自动定理证明大事记
-
-附录 2：埃尔布朗奖
-
-附录 3：几本自动定理证明教科书的评论
-
-# 第 3 章　从专家系统到知识图谱
-
-## 1. 费根鲍姆和 DENDRAL
-
-## 2. MYCIN
-
-## 3. 专家系统的成熟
-
-## 4. 知识表示
-
-逻辑
-
-心理学与语言学
-
-明斯基的框架
-
-Sowa 的概念图
-
-## 5. 雷纳特和大知识系统
-
-## 6. 语义网
-
-## 7. 谷歌和知识图谱
-
-参考文献指南
-
-# 第 4 章　第五代计算机的教训
-
-## 1. 背景
-
-## 2. 理论基础：逻辑程序和 Prolog
-
-## 3. 五代机计划和五代机研究所
-
-## 4. 并发 Prolog
-
-## 5. 美国和欧洲对日本五代机计划的反应
-
-美国的回应
-
-英国的阿尔维计划
-
-欧洲的 ESPRIT
-
-## 6. 结局和教训
-
-## 7. 日本还有机会吗：日本下一代人工智能促进战略
-
-参考文献指南
-
-# 第 5 章　神经网络简史
-
-## 1. 神经网络的初创文章
-
-## 2. 罗森布拉特和感知机
-
-## 3. 神经网络的复兴
-
-## 4. 深度学习
-
-参考文献指南
-
-# 第 6 章　计算机下棋简史：机定胜人，人定胜天
-
-## 1. 机器下棋史前史
-
-## 2. 跳棋插曲
-
-## 3. 计算机下棋之初
-
-## 4. “深蓝”
-
-## 5. 围棋和 AlphaGo
-
-参考文献指南
-
-# 第 7 章　自然语言处理
-
-## 1. 乔治敦实验
-
-## 2. 乔姆斯基和句法分析
-
-## 3. ELIZA 和 PARRY
-
-## 4. 维诺格拉德和积木世界
-
-## 5. 统计派又来了
-
-## 6. 神经翻译是终极手段吗？
-
-## 7. 问答系统和 IBM 沃森
-
-## 8. 回顾和展望
-
-参考文献指南
-
-# 第 8 章　向自然学习：从遗传算法到强化学习
-
-## 1. 霍兰德和遗传算法
-
-## 2. 遗传编程
-
-## 3. 强化学习
-
-## 4. 计算向自然学习还是自然向计算学习
-
-## 5. 计算理论与生物学
-
-参考文献指南
-
-# 第 9 章　哲学家和人工智能
-
-## 1. 德雷弗斯和《计算机不能干什么》
-
-## 2. 塞尔和中文屋
-
-## 3. 普特南和缸中脑
-
-## 4. 给哲学家一点忠告
-
-# 第 10 章　人是机器吗？——人工智能的计算理论基础
-
-## 1. 丘奇-图灵论题：为什么图灵机是最重要的发明？
-
-## 2. 相似性原则：另一个重要但不太被提及的计算理论思想
-
-## 3. 超计算
-
-## 4. BSS 实数模型
-
-## 5. 量子计算
-
-## 6. 计算理论的哲学寓意
-
-## 7. 丘奇-图灵论题、超计算和人工智能
-
-参考文献指南
-
-# 第 11 章　智能的进化
-
-## 1. 大脑的进化
-
-## 2. 能源的摄取和消耗
-
-## 3. 全社会的算力作为文明的测度
-
-## 4. 人工智能从哪里来？
-
-## 5. 人工智能向哪里去：会有超级智能吗？
-
-参考文献指南
-
-# 第 12 章　当我们谈论生死时，我们在谈论什么？
-
-附录 1 　图灵小传
-
-附录 2 　人工智能前史：图灵与人工智能
-
-附录 3 　冯诺伊曼与人工智能
-
-附录 4 　计算机与智能
-
-## 1. 模仿游戏
-
-## 2. 对新问题的评论
-
-## 3. 游戏中用到的机器
-
-## 4. 数字计算机
-
-## 5. 数字计算机的通用性
-
-## 6. 主要问题的反方观点
-
-## 7. 学习机器
-
-参考文献
-
-参考文献
-
-人名对照
-
 # 前言
 
 历史素有两种写法：以人为主和以事为主。所有的传记都是以人为主的；而各种专史，如战争史，则多以事为主。所谓历史是人民创造的还是英雄创造的，我个人的偏好还是以人为本。八卦的历史，读者自然喜欢，对作者也有好处，就像一战后英国首相劳合·乔治对他的耶路撒冷总督说的那样：有争执，咱们政治家才派得上用场，如果他们停下来不打了，你就失业了。
@@ -390,7 +162,7 @@ What is past is prologue.
 
 明斯基和乔姆斯基在麻省理工学院 150 周年纪念会上同室不操戈，并没针锋相对
 
-参考文献指南
+## 参考文献指南
 
 人工智能是一门新学科，历史的读物并不多。波登的《认知科学历史》（Boden 2008）和尼尔森的《人工智能探究》（Nilsson 2010）是两本严肃的读物。麦克达克（Pamela McCorduck）曾是费根鲍姆的御用作家，她 1979 年写的《能思考的机器》（Machines Who Think ）一书，无论是取材还是立意，从今天的角度看都略微过时。尼尔森是人工智能学科的早期参与者，也一直是领导者之一，他多年担任 SRI 的人工智能部门负责人和斯坦福大学计算机系主任，是圈里人。
 
@@ -648,7 +420,7 @@ ANS 这个系统谓词已经在 Otter 这样的定理证明器中得到实现。
 
 逻辑要想有用，必须得走定理证明的路子，当所有的数学家都离不开定理证明器时，逻辑学家才敢对趴在背上的数学家和数学家背上的那谁以及更上的那谁理直气壮。定理证明比下棋可难多了。
 
-参考文献指南
+## 参考文献指南
 
 除了几本教科书和那本手册，Siekmann 和 Wrightson 编辑的经典论文集是不错的参考文献。如果懂一点逻辑，想进一步探索，可参考王浩的《数理逻辑通俗讲话》，虽然是 1981 年出版的，但对于深度科普而言，不算过时。其中提到机器定理证明和计算理论。Davis (2001)和 Bibel (2007)是自动定理证明早期历史的第一手材料。20 世纪 80 年代末期出版的《人工智能手册》中有两章关于机器定理证明的内容，但取材莫名其妙，想想手册的编者是费根鲍姆一干人等，也就不会太过惊奇。
 
@@ -926,7 +698,7 @@ XCON 到底为 DEC 省了多少钱一直是个谜，最高的说法是一年省�
 
 知识表示一直是人工智能不温不火的一个领域，催生者是专家系统和自然语言理解。KRL（Knowledge Representation Language）是最早的知识表示语言之一，有影响但不成功。参加过施乐实验室（XEROXParc）KRL 项目的维诺格拉德在多年后总结教训时说，KRL 要同时解决两个问题：第一，知识工程师的可用性，也就是说人可读可写；第二，得有底层的麦卡锡风格的逻辑来支撑语义。要同时解决这两个互相矛盾的问题，必然导致结果太复杂，四不像，知识工程师和逻辑学家都不买账。
 
-逻辑
+### 逻辑
 
 逻辑是最方便的知识表示语言，从亚里士多德开始人们就熟悉，逻辑同时具有各种数学性质。任何一本逻辑入门书都会有那个著名的苏格拉底的例子：人必有一死，苏格拉底是人，所以苏格拉底必死。这个三段论表示成现代的数理逻辑就成了如下形式。
 
@@ -956,19 +728,19 @@ has Father ▫ has Father ⊑ has GrandFather
 
 has Father(x , y ) ∧ has Father(y , z ) → has GrandFather(x , z )
 
-心理学与语言学
+### 心理学与语言学
 
 知识表示的另一个来源是心理学和语言学，例如概念的上下位继承关系最方便的表示方式是树而不是一阶逻辑。心理学实验表明人在回答“金丝雀会飞吗？”要比回答“鸟会飞吗？”花的时间长，要回答第一个问题，人要再做一次“金丝雀是鸟”的推理。因为人在存储知识时只存储抽象的，这是空间经济的考虑。心理学家米勒和乔姆斯基等一起开拓了认知科学，他最出名的论文大概就是那篇“魔力数字七”（The Magic Number Seven）。他除了理论的贡献，晚年带领普林斯顿大学的认知科学实验室同仁做了“词网”（WordNet）。WordNet 不单是一个同义词辞典，还定义了词的上下位关系，例如，car 的一种上位是 motor，可以再上位到 wheeled vehicle，直到 entity。WordNet 成为自然语言处理的基本工具。
 
 WordNet
 
-明斯基的框架
+### 明斯基的框架
 
 框架（Frame）就是类型。金丝雀是鸟，所有鸟的性质自动流传给金丝雀，鸟能飞，金丝雀也能飞。苹果手机是手机，手机能打电话，苹果手机也能打电话。框架导致了面向对象（OO，Object-Oriented）的设计哲学，相关的程序设计语言都受此影响。从这个意义上还真验证了：当一个概念有了成熟的实现时，就自动脱离了人工智能。
 
 差不多同时出现的语义网络（Semantic Net，注意这个和后面讲到的 Semantic Web 相关但不同）是与框架等价的表示方式。语义网络中的每个节点就是一个框架，每个节点上的边可以看作一个 slot。
 
-Sowa 的概念图
+### Sowa 的概念图
 
 IBM 的索瓦（John Sowa）在 20 世纪 80 年代初提出“概念图”（Conceptual Graph），企图把知识表示奠定在更加坚实的数学和逻辑基础上。大约同时或稍早，德国数学家威勒（Rudolf Wille）提出基于代数的“形式化概念分析”（Formal Concept Analysis）。程序设计语言理论也变得越发严谨。在概念图中，多重继承的类型层次（Muliple Inheritance）可以用代数的偏序关系“格”（Lattice）来表示。“全序”关系（total-order）是“偏序”的一个特例。一个全序集中的成员要么是 a <=b ，要么是 b <=a 。偏序关系容许一个成员可以有多个上级，也可以有多个下级。而全序集中，每个成员只能有一个上级和一个下级，所以，全序关系有时也被称为线性关系。当用“格”做知识表示时，每个概念就是“格”中的一员，概念之间服从偏序关系。多重继承的 OO 都是偏序关系。
 
@@ -1016,7 +788,7 @@ IBM 沃森的底层就整合了两个开源知识图谱 Yago 和 DBpedia。在�
 
 纽厄尔和司马贺在人工智能中是符号派。其实，符号派中也派中有派，比司马贺一支更加“符号”的是机器定理证明，纽厄尔和司马贺的早期生涯曾和一帮逻辑学家结下梁子，而费根鲍姆继承了老师的基因，对定理证明的第二代代表人物阿兰·罗宾逊极尽攻击之能事。明尼苏达大学巴贝奇研究所做口述历史的诺伯格在采访各位人工智能前辈时，总想把符号派归结到麻省理工学院和卡内基梅隆大学之争，而在斯坦福大学的麦卡锡和 SRI 的尼尔森偏麻省理工学院，同在斯坦福大学的费根鲍姆则偏自己的母校卡内基梅隆大学。当然我们还可以溯源到更早的达特茅斯会议上麦卡锡和司马贺结下的梁子。但归根结底，专家系统的理论基础依然是机器定理证明。尽管费根鲍姆从某种意义上人造了“知识与推理”的对立话题，并强调知识对于逻辑推理的重要性，但知识和推理是不可分割的一对，强调知识并不能让你脱离符号派。如果从纯粹的定理证明的角度简单地看专家系统，所谓知识其实就是公理，公理越多，推理的步骤自然就会越少。所谓知识和推理的对立，其实是狭义（特殊目的）和广义（通用）的区别。知识是狭义的，推理是广义的，因为不需要过多的公理。狭义对机器的短期实现高效，但人的学习门槛较高；而广义对机器的实现自然低效，但人学习的门槛较低。一阶逻辑的学习门槛最低，但当知识库变大，推理引擎也得变得更加专用才能高效。
 
-参考文献指南
+## 参考文献指南
 
 DENDRAL 项目的来龙去脉见 Lindsay, Buchanan, Feigenbaum, Lederberg (1993)。李德伯格 1987 年的文章值得一读，除了关于 DENDRAL 的人和事的回忆，还有他对科学方法的体会和总结。MYCIN 项目见 Buchanan (2006)的文章和 Buchanan , Shortliffe (1984)的书。纽厄尔在给后者写的前言中指出 MYCIN 才是真正的第一个专家系统。
 
@@ -1112,7 +884,7 @@ A←B1 & B2 & ... & Bn .
 
 ## 5. 美国和欧洲对日本五代机计划的反应
 
-美国的回应
+### 美国的回应
 
 20 世纪 50 年代，美国在苏联卫星上天的压力下，大力投资科技和教育。但当冷战进入缓和期后，美国人失去了以举国之力打造超级项目的动力。美国众议院贸易委员会在分析了美日贸易数字之后说美国对日贸易，除了飞机外，几乎就像一个发展中国家对发达国家的贸易，美国向日本提供农产品和原材料，日本向美国提供工业品、家用电器和高科技产品。其实当下的中美贸易也类似。
 
@@ -1132,13 +904,13 @@ A←B1 & B2 & ... & Bn .
 
 除了 MCC，DARPA 还建立了另外三个国防项目：无人驾驶车、飞行员辅助系统和战场管理系统（Battle Management System），里面有和机器-指挥官的自然语言理解界面。DARPA 无人驾驶车项目是现在各种类似项目的源头。
 
-英国的阿尔维计划
+### 英国的阿尔维计划
 
 沃伦在 1982 年评论刚出锅的日本五代机计划时说，日本和美国的类似计划的源头都是欧洲，更确切地说是英国。他大概忘了他的导师科瓦尔斯基实际是从美国逃到英国去的。英国政府于 1982 年夏婉拒了日本邀请联合开发五代机的倡议，宣布将在未来五年内投入两亿五千万英镑（等值三亿六千万美元）开发英国人自己的阿尔维计划（Alvey Program）。作为对比，同年的马尔维纳斯群岛之战英国花了七亿英镑。英国撒切尔政府面临压力要求阿尔维计划必须产生可市场化的产品。1987 年在日本五代机计划进入胶着状态时，英国宣布放弃阿尔维计划。英国人似乎对失败超级敏感，退出总是很快。事后，阿尔维计划的头儿奥克利（Brian Oakley）1991 年在《科学》杂志上撰文马后炮自抽脸：“把繁荣寄望于研究，英国也真是够蠢的。”
 
 战时跟随图灵在布莱彻利庄园破译德军密码的米奇当时是爱丁堡大学人工智能单位（Artificial Intelligence Unit）的头儿，这个人工智能单位当时是一个学院的编制。米奇 1983 年在人工智能鼎盛时期离开爱丁堡，去不远处的格拉斯哥建立了图灵研究所（Turing Institute），1994 年没钱关门，整个历程和日本的五代机的时间点重合。2015 年英国政府联合了五所大学（剑桥、牛津、爱丁堡、UCL 和华威大学）再次成立阿兰·图灵研究所，新的研究所坐落于大英图书馆内，定位大数据。看起来每次有新的话题时，图灵都会“复活”一次。
 
-欧洲的 ESPRIT
+### 欧洲的 ESPRIT
 
 1978 年，整个欧洲经济共同体在信息技术有 50 亿美元贸易顺差，但 4 年后的 1982 年却有 120 亿的逆差。日本五代机项目更加重了紧迫感。1983 年欧洲启动了“欧洲信息技术战略计划”（ESPRIT），十年预算是十五亿欧洲货币单位 ECU（1999 年改为欧元）。劳工的短缺也是上马 ESPRIT 的原因。随着 ESPRIT 逐步退火，大家又说机器靠不住，还得靠人。不知人工智能技术会不会改变欧洲的人口结构。
 
@@ -1164,7 +936,7 @@ MCC 国际合作总监伊顿（Eaton）并不认为五代机失败了：MITI 对
 
 2 当下流行的卷积神经网络 CNN 的源头就是福岛邦彦的工作。
 
-参考文献指南
+## 参考文献指南
 
 Moto-Oka (1982)是日本第五代计算机项目的宣言，标志着日本这一雄心勃勃项目的开始。费根鲍姆在项目的早期被以“外来的和尚”的形式请到日本，他和他的御用作者麦克达克写了本描述五代机项目早期内幕的书，见 McCorduct and Fengenbaum (1984)，但这本书更多地旨在唤醒美国的科技政策决策者，当然也是为自己能拿到更多政府资助奠定舆论基础。
 
@@ -1284,7 +1056,7 @@ I bet the human brain is a kludge.
 
 人工智能的统计派或神经网络派和逻辑派或符号派之争是从 1956 年达特茅斯会议开始的。明斯基的合作者佩珀特曾说神经派和符号派的区别就像分子生物学和进化生物学的区别，甚至有人因而争论大学的数学课应该以微积分为主还是以统计为主。新派自然是以统计为主。斯坦福大学人工智能实验室的创办人麦卡锡，是达特茅斯会议的主要组织者，“人工智能”这个词如果不是他最早提出的，至少是他最早使之流行的。也正是他把明斯基拉到了他当时任教的麻省理工学院。说他是“人工智能之父”是名副其实的，约翰大叔是铁杆的符号派。但后来的人工智能实验室主任却分别是做神经网络的吴恩达和李飞飞。这个转变也许是“吃啥补啥”派得志的风向标。斯坦福大学的这个神经网络的目标是模拟人的大脑。这让我们不禁想起了罗森布拉特，那不正是他的梦想吗？
 
-参考文献指南
+## 参考文献指南
 
 McCulloch and Pitts (1943)今天读来仍有意义。而 Rosenblatt (1958)和 Minsky and Papert (1969)则没必要花功夫去仔细研读了，只要知道结果就行了，就如想知道牛顿第二定律不一定非得读他的原著《自然哲学的数学原理》，一本中学物理教科书足矣。Wang and Raj (2017)是详实的深度学习历史，但那是写给内行人看的。Hopefield 开创了神经网络研究的新气象，Hopfield (1982)讲离散型 Hopfield 网络，Hopfield and Tank (1985)讲连续型 Hopfield 网络。如果有理工背景，这两篇文章都不难懂，值得一看。深度学习的文献真不需要“指南”，各种深度的“深度”都烂大街了。
 
@@ -1374,7 +1146,7 @@ IBM 的外号叫 Big Blue，于是新的项目 1996 年被命名为“深蓝”�
 
 强化学习从 20 世纪 80 年代就被发明，但一直不被重视，是 AlphaGo 使得它发出亮光。萨顿还值壮年，AlphaGo 团队里就有 4 个萨顿的学生，其中包括首席科学家席尔瓦（David Silver）。巴托老兵不死，在做了一届计算机系主任后，几年前从麻省大学退休了。退休前，他终于看到强化学习渐成显学，他和萨顿合著的《强化学习》马上要出第二版了。
 
-参考文献指南
+## 参考文献指南
 
 Standage (2002)是关于最早的下棋机“土耳其人”最完整的描述，有兴趣深究历史的读者不妨翻翻这本书。
 
@@ -1756,7 +1528,7 @@ IBM 吸取了深蓝的教训，沃森在 Jeopardy！ 节目上取得的宣传成
 
 其实，即使人类在不理解力学的时候，就会造弹弓了。对那时的人类，弹弓的工作原理就是黑匣子。乔姆斯基和诺维格分别所代表的两种人关心的是两种不同的问题。一种人力图打造实用的工具，没有解释也能凑合，他们是不求甚解的工程师；另一种人寻求终极的知识，他们是科学家。只不过，在计算机科学这个特定的学科中，科学家和工程师的角色变换太快，这门学科的开拓者，很多都是身兼二职，例如图灵和冯诺伊曼。
 
-参考文献指南
+## 参考文献指南
 
 乔姆斯基的《句法结构》是本小册子，不需要什么背景就能读。Brown (1988，1990)是统计派的奠基作品，正文只有 6 页，虽是学术论文，却非常可读。
 
@@ -1944,7 +1716,7 @@ e) 将子代个体添加到新群体中。
 
 蔡汀把自己的新理论称为“元生物学”（metabiology）。目前元生物学还比较原始，进化论里的很多概念还没有被解释，比如 Papadimitriou 关心的“性”。但有蔡汀这样的数学家关注生物学，会让我们更加放心。
 
-参考文献指南
+## 参考文献指南
 
 Holland (1975)是遗传算法的原创著作。Goldberg (1989)是教科书体例，容易上手，尽管出版日期较早，但仍有参考价值。Koza (1990)是遗传编程的原创著作，是斯坦福大学计算机系的内部技术报告，可免费获取。Koza (1992)是基于 Koza (1990)的正式出版物，后来分别在 1994 年、1999 年和 2003 年出版了第二卷、第三卷和第四卷，每卷都主打某一类应用问题。
 
@@ -2260,7 +2032,7 @@ BSS 是三个人姓氏的首字母。B 是雷诺尔·布卢姆（Lenore Blum）�
 
 在图灵曾任职的布莱彻利庄园里，computer 一词就是指那些人类计算者（通常是女性），她们按照算法设计师的要求，执行计算步骤来完成一个计算任务。也许人类和计算机并没有什么本质差别，只是给 computer 一词的赋值不同罢了。
 
-参考文献指南
+## 参考文献指南
 
 计算理论需要很多数学背景，想进一步了解可参阅 Arora (2009) 或 Sipser (2012) ，但必须警告在先：水很深，非数学或计算机专业的，非诚勿扰。Hong Jia-wei (1986) 是洪加威本人关于相似性原则的原始文献。Blum, Cucker, Shub and Smale (1998)是实数理论原创者的权威论述。Feynman (2000) 和 Milburn (1999) 是量子计算的导论，可读性介于科普和专业之间，而 Deutsch (1998)和 Penrose (1989) 则更偏科普。
 
@@ -2364,7 +2136,7 @@ Art is everything else we do.
 
 5 “We can only see a short distance ahead, but we can see plenty there that needs to be done.” 本书附录 4 另译为“初见前路近可至，细思百事说待忙。”
 
-参考文献指南
+## 参考文献指南
 
 本章的参考文献在文中都已列出。需要指出的是，《西方将主宰多久》有个单独出版的阅读伴侣，书名叫《文明的度量》（The Measure of Civilization ），该书为原书提供了详实的数据依据和方法论，电子版的书名是 Social Development ，可在该书作者莫里斯的网站上免费获得：http://ianmorris.org/docs/social-development.pdf 。
 
@@ -2500,17 +2272,15 @@ I keep the memory of you and me, inside.
 
 尼：你离开我们是不是为了追求“超智能”？哦，你是不是已经把你的记忆体留在哪了？
 
-附录 1 　图灵小传
+# 附录 1 　图灵小传
 
-Beauty is truth, truth beauty,—that is all Ye know on earth,
+> Beauty is truth, truth beauty,—that is all Ye know on earth,  
+> and all ye need to know.
 
-and all ye need to know.
+> 美就是真，真就是美——你只能知道这么多，  
+> 你只需知道这么多。
 
-美就是真，真就是美——你只能知道这么多，
-
-你只需知道这么多。
-
-——John Keats（济慈 ）
+> ——John Keats（济慈 ）
 
 图灵（Alan Turing）生于 1912 年 6 月 23 日，逝于 1954 年 6 月 7 日，活了不到 42 岁。生得不伟大，死得不光荣。一方面由于他的性取向，另一方面由于他在二战中从事过机密工作，图灵在生前并没有被广泛了解。数学家兼同性恋运动活动家霍奇斯（Andrew Hodges）1983 年出版了《艾伦·图灵传：如谜的解谜者》（Alan Turing: The Enigma ），为我们展示了图灵谜一样的一生。该书后来一而再再而三地重版，书的内容没有本质变化，最新的一版出于 2014 年，配合好莱坞大片《模仿游戏》的发行。
 
@@ -2574,7 +2344,7 @@ and all ye need to know.
 
 曼彻斯特公园里图灵雕像的底座上引用了罗素的话：“数学不仅有真理，也有最高的美，那是一种冷艳和简朴的美，就像雕塑。”我觉得合适。以前不懂为什么蒙克把图灵列为十二位最伟大的哲学家之一。看了罗素的话，我明白了：伟大光荣其实无所谓，重要的是“真”和“美”。
 
-附录 2 　人工智能前史：图灵与人工智能
+# 附录 2 　人工智能前史：图灵与人工智能
 
 It is humbling to read Alan Turing's papers. He thought of it all First.
 
@@ -2612,7 +2382,7 @@ It is humbling to read Alan Turing's papers. He thought of it all First.
 
 图灵 1936 年的文章首页
 
-附录 3 　冯诺伊曼与人工智能
+# 附录 3 　冯诺伊曼与人工智能
 
 冯诺伊曼生于 1903 年 12 月 28 日，逝于 1957 年 2 月 8 日。他在数学、理论物理和逻辑领域都做出了很多贡献。他同辈的朋友和晚一辈的同行都认为他是当时最聪明的人。冯诺伊曼 19 岁就读布达佩斯大学时，曾花大量时间去柏林听爱因斯坦的“统计力学原理”的课，只在考试时才中断。1930 年，冯诺伊曼先知先觉地加入普林斯顿大学任教，1933 年加入普林斯顿高等研究院，作为创始数学家之一。二战期间他为曼哈顿计划工作。二战结束后，他的大部分精力都花在电子计算机项目上。计算机科学一直都有两条互相交错的路线，工程路线终究可以追溯到冯诺伊曼，而理论的起源则在图灵。他们共同关注的课题是大脑和智能。
 
@@ -2650,7 +2420,7 @@ It is humbling to read Alan Turing's papers. He thought of it all First.
 
 冯诺伊曼和奥本海默在普林斯顿计算机前
 
-附录 4 　计算机与智能
+# 附录 4 　计算机与智能
 
 阿兰·麦奇森·图灵
 
@@ -2955,1339 +2725,3 @@ C：请 X 告诉他或她头发的长度。
 最终我们可能希望看到，机器能够纯粹在智力领域和人类一较高下。但是从什么领域开始呢？这也是个难题。许多人建议选择抽象的项目最好，例如国际象棋。也有人认为要给机器提供能买得到的最好的传感器，再培养它理解和学说英语。这个过程和教一个正常的孩子是一样的。我们会告诉它们，这是什么，那是什么，等等。我仍然不知道正确的答案是什么，但是我想这两种方法都应该试试。
 
 初见前路近可至，细思百事竞待忙。（We can only see a short distance ahead, but we can see plenty there that needs to be done.）
-
-参考文献
-
-Samuel Butler, Erevhon, London, 1865. Chapters 23, 24, 25, The Book of the Machines .
-
-Alonzo Church, “An Unsolvable Problem of Elementary Number Theory”, American J. of Math ., 58 (1936), 345-363.
-
-K. Gödel, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I”, Monatshefte für Mathematik und Physik., (1931) 173–198 .
-
-D. R. Hartree, Calculating Instrutments and Machines , New York, 1949.
-
-S. C. Kleene, “ General Recursive Functions of Natural Numbers ”, American J. of Math ., 57 (1935), 153-173 and 219-244.
-
-G. Jefferson, “ The Mind of Mechanical Man ”. Lister Oration for 1949. British Medical Journal , vol. i (1949), 1105-1121.
-
-Countess of Lovelace, “Translator's notes to an artlcle on Babbage's Analytical Engine”, Scientific Memoirs (ed. by R. Taylor), vol. 3 (1842), 691-731.
-
-Bertrand Russell, History of Western Philosophy , London, 1940.
-
-A. M. Turing, “ On Computable Numbers, with an Application to the Entscheidungsproblem ”, Proc. London Math. Soc. (2), 42 (1937), 230-265.
-
-于维多利亚曼彻斯特大学 9 （Victoria University of Manchester ）.
-
-9 译注：就是现在的曼彻斯特大学。
-
-参考文献
-
-Aaronson, Scott (2013), Quantum Computing since Democritus .
-
-Aaronson, Scott (2013), Why Philosophers Should Care about Computational Complexity, Computability: Turing, Godel, Church and Beyond , ed. Jack Copeland, Carl Posy and Oron Shagir, MIT Press.
-
-Aaronson, Scott, Who Can Name the Bigger Number, http://www.scottaaronson.com/writings/bignumbers.html .
-
-Allemang, Dean and Jim Handler (2011), Semantic Web for Working Ontologist , 2nd ed. （语义万维网——工程实践指南, 高等教育出版社, 2014）.
-
-Anderson, James and Edward Rosenfeld (1998), Talking Nets: An Oral History of Neural Networks , Bradford Books.
-
-Arbib, Michael (1987) ,Brains, Machines and Mathematics , Springer, 1st ed 1964, 2nd ed（大脑, 机器和数学, 商务印书馆, 1982）
-
-Arora, Sanjeev and Boaz Barak (2009), Computational Complexity: A Modern Approach , Cambridge University Press.
-
-Ballantyne, M., R. S. Boyer and L. Hines (1996), Woody Bledsoe: His Life and Legacy, AI Magazine , Vol. 17, No. 1, pp. 7-20, Springer.
-
-Batterson, Steve (2000), Stephen Smale: The Mathematician Who Broke the Dimension Barrier , American Mathematical Society.
-
-Beeson, Michael J. (1995), Computerizing Mathematics: Logic and Computation , in Rolf Herken ed.
-
-Bellman, R. E. (1957), Dynamic Programming , Princeton University Press.
-
-Benenti, Giuliano, Giulio Casati and Giuliano Strini (2004), Principles of Quantum Computation and Information , Vol. 1. （量子计算与量子信息原理, 第一卷：基本概念, 科学出版社, 2011）
-
-Berners-Lee, Tim, Jim Hendler and O. Lassila (2001), The Semantic Web. Scientific American , 284 (5):34–43.
-
-Berwick, Robert and Noam Chomsky (2016), Why Only Us , MIT Press.
-
-Bibel, W. (1987), Automated Theorem Proving , 2nd ed, Verlag.
-
-Bibel, W. (2007), Early History and Perspectives of Automated Deduction, J. Hertzberg, M. Beetz and R. Englert (eds) Lectures Notes on Artificial Intelligence , Springer-Verlag.
-
-Birkhoff G. and S. MacLane (1961), A Survey of Modern Algebra .
-
-Blake, D. V. and A. M. Uttley (1959), (ed.) Proceedings of the Symposium on Mechanisation of Thought Process , H. M. Stationery Office.
-
-Blum, L., F. Cucker, M. Shub and Steve Smale (1998), Complexity and Real Computation , Springer-Verlag.
-
-Boden, Margaret (2008), Mind as Machine: A History of Cognitive Science , Oxford University Press.
-
-Boden, Margaret (2016), AI: Its Nature and Future . （人工智能的本质与未来, 中国人民大学出版社, 2017）
-
-Bolhuis, Johan, Ian Tattersall, Noam Chomsky and Robert C. Berwick (2014), How Could Language Have Evolved? PLoS Biology , 12(8): e1001934. doi: 10.1371/journal.pbio.1001934.
-
-Bonacina, Maria Paola and Mark E. Stickel (2013), Automated Reasoning and Mathematics ,Essays in Honor of William McCune , Springer.
-
-Boyer, R. S. and J. S. Moore (1977), A Fast String Searching Algorithm, Communications of ACM , Vol. 20, No. 10, pp. 762–772.
-
-Boyer, R. S. and J. S. Moore (1979), A Computational Logic Handbook , Academic Press.
-
-Brooks, Rodney (2001), The relationship between matter and life, Nature , Vol. 409, 18 Jan.
-
-Brooks, Rodney (2013), The Case for Embodied Intelligence , in Cooper and Leeuwen.
-
-Brown, Peter F., John Cocke, Stephen A. Della Pietra, Vincent J. Della Pietra, Fredrick Jelinek, John D. Lafferty, Robert L. Mercer and Paul S. Roossin (1988), A Statistical Approach to Language Translation, Proceesings of 12th Conference of Computational Linguistics .
-
-Brown, Peter F., John Cocke, Stephen A. Della Pietra, Vincent J. Della Pietra, Fredrick Jelinek, John D. Lafferty, Robert L. Mercer and Paul S. Roossin (1990), A STATISTICAL APPROACH TO MACHINE TRANSLATION, Computational Linguistics , Vol. 16, No. 2.
-
-Buchanan, Bruce G. (1991), Oral history interview with Bruce G. Buchanan, Charles Babbage Institute, http://conservancy.umn.edu/handle/11299/107165 .
-
-Buchanan, Bruce G. (2006), A (Very) Brief History of Artificial Intelligence, AI Magazine , Vol. 26, No. 4.
-
-Buchanan, Bruce G. and Edward H. Shortliffe (1984), (ed.) Rule-Based Expert Systems: The MYCIN Experiments of the Stanford Heuristic Programming Project , Addison Wesley.
-
-Burks, Arthur W. and Hao Wang (1957), The Logic of Automata, parts I and II, Journal of the Association for Computing Machinery .
-
-Burris, Stanley N. (1997), Logic for Mathematics and Computer Science , Prentice Hall.
-
-Calvin, William (1996), How Brains Think: Evolving Intelligence, Then and Now .
-
-Calvin, William (2004), A Brief History of the Mind: From Apes to Intellect and Beyond ..
-
-Chaitin, Gregory (2010), To a Mathematical Theory of Evolution and Biological Creativity, CDMTCS Research Report Series , https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/391greg.pdf .
-
-Chaitin, Gregory (2012), Proving Darwin: Making Biology Mathematical , Vintage Books,（证明达尔文, 人民邮电出版社, 2015）
-
-Chang, C. L. and Richard Char-tung Lee (1973), Symbolic Logic and Mechanical Theorem Proving , Academic Press.
-
-Chiou, Stefanie, Craig Music Kara Sprague and Rebekah Wahba (2001), A Marriage of Convenience: THE FOUNDING OF THE MIT ARTIFICIAL INTELLIGENCE LABORATORY, http://web.mit.edu/6.933/www/Fall2001/AILab.pdf .
-
-Chomsky, Noam (1953), Systems of Syntactic Analysis, Journal of Symbolic Logic , 18, No. 3.
-
-Chomsky, Noam (1956), Three Models for the Description of Language, Proceedings of Symposium on Information Theory .
-
-Chomsky, Noam (1957), Syntactic Structures .（句法结构, 中国社会科学出版社, 1979）
-
-Chomsky, Noam (1975), The Logical Structure of Linguistic Theory .
-
-Chomsky, Noam (1986), Knowledge of Language: Its Nature, Origins, and Use .
-
-Chomsky, Noam (2011), The Science of Language, Interviews with James McGilvray , Cambridge University Press.（语言的科学, 商务印书馆, 2015）
-
-Chou, shang-Ching Chou (1987), Mechanical Geometry Theorem Proving , Springer.
-
-Church, Alonzo (1941), Calculi of Lambda conversion , Princeton University Press.
-
-Cohen, Paul and Edward Feigenbaum (1983), Handbook of Artificial Intelligence , Vol. 3.
-
-Colby, K. (1975), Artificial Paranoia , Pergamon.
-
-Cooper, S. Barry and Andrew Hodges (2016), The Once and Future Turing: Computing the World , Cambridge University Press.
-
-Cooper, S. Barry and J. V. Leeuwen (2013), Alan Turing: His Work and Impact , Elsevier.
-
-Copeland, J. Carl Posy and Oron Shagrir (2013), Computability: Turing, Godel, Church, and Beyond , MIT Press.
-
-Copeland, Jack (1993), Artificial Intelligence: A Philosophical Introduction , Blackwell.
-
-Copeland, Jack (2012), Turing: Pioneer of the Information Age . Oxford University Press.
-
-Crick, Francis (1994), The Astonishing Hypothesis: The Scientific Search for the Soul , Simon and Schuster.
-
-Critchley, Simon (2009), The Book of Dead Philosophers .
-
-Darden, Lindley (1987), Viewing the history of scicncc as compiled hindsight. Al Magazine , Summer.
-
-Dauben, Joseph (2002), Book Review: The Universal History of Numbers and The Universal History of Computing (part 1), (part2), Notices of the AMS . Vol. 49, Jan. And Feb.
-
-Davis, M. (2011), Hao Wang's contributions to mechanized deduction and to the Entscheidungs problem, Hao Wang: Logician and Philosopher , (ed.) Charles Parsons and Montgomery Link, Individual Authors and College Publications.
-
-Davis, M. (2008), Interview with Martin Davis, Notices of the AMS , May, 2008.
-
-Davis, M. (2001), The Early History of Automated Deduction, Handbook of Automated Reasoning .
-
-Davis, M. (1957), A computer program for Presburger's algorithm. In Summaries of talks presented at the Summer Institute for Symbolic Logic , Princeton, pp. 215–233, Institute for Defense Analysis, in Siekmann and Wrightson, pp. 41–48.
-
-de Brujin, N. G. (1980), A survey of the project AUTOMATH, in To H.B. Curry: Essays on Combinatory Logic, Lambda Calculus and Formalism , (eds) J. P. Seldin and J. R. Hindley, Academic Press.
-
-Dennett, D. (1997), Kinds of Minds: Toward an Understanding Of Consciousness , Basic Books.
-
-Deutsch, David (1998), The Fabric of Reality: The Science of Parallel Universes and Its Implications , Penguin.（真实世界的脉络, 人民邮电出版社, 2016）
-
-Deutsch, David (2011), The Beginning of Infinity: Explanations that Transform the World .（无穷的开始：世界进步的本原, 人民邮电出版社, 2016）
-
-Djerassi, Carl (1992), The Pill. Pygmy Chimps, and Degas' Horse: The Autobiography of Carl Djerassi , Basic Books.
-
-Dormehl, Luke (2016), Thinking Machines: The Quest for Artificial Intelligence--and Where It's Taking Us Next .（人工智能：改变世界, 重建未来, 中信出版社, 2017）
-
-Dreyfus, Hubert (1965), Alchemy and AI , RAND Corporation.
-
-Dreyfus, Hubert (1972), What Computers Can 't Do: The Limits of Artificial Intelligence , MIT Press.（计算机不能做什么, 三联书店）
-
-Dreyfus, Hubert (1992), What Computers Still Can 't Do: The Critique of Artificial Reason , MIT Press.
-
-Dreyfus, Hubert (2001), On the Internet , Revised Second Edition, Routledge.
-
-Dreyfus, Hubert (2008), Why Heideggerian AI Failed and how Fixing it would Require making it more, in Husbands et al.
-
-Dreyfus, Hubert and Stuart Dreyfus (1988), Making a Mind Versus Modeling the Brain: Artificial Intelligence Back at a Branchpoint, in Graubard.
-
-Dunham, B., Fridshal, R., Sward, G. L. (1960), A non-heuristic program for proving elementary logical theorems. In First International Conference on Information Processing , Paris, pp. 282–285. Unesco House, in Siekmann and Wrightson, Vol. 1, pp. 93–98.
-
-Dyson, Freeman (2008), The Scientist as Rebel , New York Review Books.（反叛的科学家, 浙江大学出版社, 2013）
-
-Feferman, Solomon (2005), Tarski's influence on computer science, Invited Talk, LICS , Chicago.
-
-Feigenbaum, E. and J. Feldman (1963), Computers and Thought , McGraw Hill.
-
-Feynman, Richard (1982), Simulating Physics with Computers, International Journal of Theoretical Physics , Vol. 21, Nos 6/7.
-
-Feynman, Richard (2000), Feynman Lectures on Computation , ed. Anthony Hey and Robin Allen, revised edition.
-
-Fisher, Amy Weaver and J. L. MC Kenney (1993), The Development of the ERMA Banking System: Lessons from History, IEEE Annals of the Hirrory of Computing . val.15, No.1.
-
-Fisher, Ronald (1930), The Genetical Theory of Natural Selection .
-
-Fitting, M. (1995), First-Order Logic and Automated Theorem Proving , 2nd ed., Springer.
-
-Friedberg, R. M. (1958), A Learning Machine: Part 1, IBM Journal of Research and Development , Vol. 2, January, pp. 2-13.
-
-Frost, Richard (1986), Introduction to Knowledge Base Systems , Collins Professional and Technical Books, London.
-
-Fuchi, Kazuhiro and Koichi Furukawa (1987), The Role of Logic Programming in the Fifth Generation Computer Project, New Generation Computing, March 1987, Vol. 5, Issue 1, pp. 3-28.
-
-Furukawa, Koichi (1987), Fifth generation computer project: Current research activity and future plans, TAPSOFT'87, LNCS, Vol. 250, Springer.
-
-Gallier, J. H. (2003), Logic for Computer Science: Foundations of Automatic Theorem Proving , 2nd ed., Dover.
-
-Gardner, Howard (1987), The Mind's New Science: A History of the Cognitive Revolution , Basic Books.
-
-Garnelo, Marta, Kai Arulkumaran and Murray Shanahan (2016), Towards deep symbolic reinforcement learning . arXiv:1609.05518.
-
-Gessler, Nicholas (2013), The Computerman, The Cryptographer and The Physicist, in Cooper and Leeuwen.
-
-Gibson, David and Everett Rogers (1994), R & D Collaboration on Trial: The Microelectronics and Computer Technology Corporation , Harvard University Press.
-
-Gilmore, P. C. (1960), A proof method for quantification theory: Its justification and realization, IBM Journal of Research Development , Vol. 4, pp. 28–36.
-
-Goldberg, David (1989), Genetic Algorithms in Search, Optimization and Machine Learning, Reading , MA: Addison-Wesley Professional.
-
-Goldreich, O. (2004), On Quantum Computing, http://www.wisdom.weizmann.ac.il/~oded/on-qc.html .
-
-Goto-Jones, Christopher (2007), Modern Japan: A Very Short Introduction , Oxford University Press. （现代日本, 译林出版社, 2014）
-
-Graf, P. (1996), Term Indexing , Springer-Verlag.
-
-Graubard, Stephen (1988), (ed.) The Artificial Intelligence Debate: False Starts, Real Foundations , MIT Press.
-
-Graves, Alex, Greg Wayne and Ivo Danihelka (2014), Neural Turing Machine, arXiv:1410.5401v2 [cs.NE] 10 Dec 2014.
-
-Guha, Ramanathan (2013), Light at the End of Tunnel, http://videolectures.net/iswc2013_guha_tunnel/ .
-
-Hadamard, Jacques (1954), An essay on the psychology of invention in the mathematical field, New York: Dover Publications. （数学领域中的发明心理学, 江苏教育出版社, 1988）
-
-Halmos, Paul (1988), I Want to Be a Mathematician: An Automathography , Mathematical Association of America.
-
-Harari, Yural Noal (2016), Homo Deus: A Brief History of Tomorrow .（未来简史, 中信出版社, 2017）
-
-Hassabis, Demis, Dharshan Kumaran, Christopher Summerfield and Matthew Botvinick (2017). Affiliations
-
-Heath, David and Derek Allum (1997), The Historical Development of Computer Chess and its Impact on Artificial Intelligence, AAAI Workshop: Deep Blue Versus Kasparov: The Significance for Artificial Intelligence .
-
-Hebb, Donald Olding (1949), The Organization of Behavior: A Neuropsychological Theory , Wiley.
-
-Hecht-Nielsen, Robert (1989), Theory of the backpropagation neural network, International Joint Conference on Neural Networks , pp. 593–605.
-
-Henderson, Harry (2007), Artificial Intelligence: Mirrors for the Mind , Chelsea House Pulications.
-
-Herken, Rolf (1994), (ed.) The Universal Turing Machine: A Half Century Survey , Springer-Verlag.
-
-Hewitt, Carl (2009), Middle History of Logic Programming, https://arxiv.org/pdf/0904.3036v4.pdf .
-
-Hinton, Geoffrey E. and P. R. Salakhutdinov (2006), Reducing the Dimensionality of Data with Neural Networks, Science , 313, 5786, pp. 504-507.
-
-Hinton, Geoffrey E., Simon Osindero and Yee-Whye Teh (2006), A fast learning algorithm for deep belief nets. Neural Computation , 18(7) pp 1527–1554.
-
-Hodges, A. (1983), Alan Turing: The Enigma , Simon & Schuster.
-
-Hodges, Wilfrid (2007), Necessity in mathematics, http://wilfridhodges.co.uk/semantics06.pdf .
-
-Holland, John (1959), Cyclesin Logical Nets , PhD Thesis, University of Michigan, https://deepblue.lib.umich.edu/bitstream/handle/2027.42/32404/0000479.pdf .
-
-Holland, John (1975), Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control and Artificial Intelligence , 1st edition, University of Michigan Press.
-
-Holland, John (1999), Emergence: From Chaos to Order .
-
-Holland, John (2008), An Interview with John Holland, in Husbands, Philip, Owen Holland and Michael Wheeler.
-
-Holland, John (2014), Complexity: A Very Short Introduction , Oxford University Press.
-
-Hong, Hoon, Deepak Kapur and Peter Paule (2006), Bruno Buchberger—A life devoted to symbolic computation, Journal of Symbolic Computation , Vol. 41, pp. 255-258.
-
-Hong, Jia-wei (1986), Computation: Computability, Similarity and Duality , Pitman.
-
-Hopfield, J. J. and Tank, D. W (1985), “Neural” computation of decisions in optimization problems. Biological Cybernetics , 55, pp. 141-146.
-
-Hopfield, John (1982), Neural networks and physical systems with emergent collective computational abilities, Proceedings of the National Academy of Sciences , 79(8) pp. 2554–2558.
-
-Horgan, John (1990), The End of Science: Facing The Limits Of Knowledge In The Twilight Of The Scientific Age.
-
-Horgan, John (1993), The Death of Proof, Scientific American , Oct., 1993.
-
-Hsu, Feng-hsiung (2004), Behind Deep Blue: Building the Computer that Defeated the World Chess Champion , Princeton University Press.（“深蓝”揭秘：追寻人工智能圣杯之旅, 上海科技教育出版社, 2005）
-
-Huang, Xuedong, James Baker and Raj Reddy (2014), A Historical Perspective of Speech Recognition, CACM , Vol. 57 No. 1, pp. 94-103.
-
-Husbands, Philip, Owen Holland and Michael Wheeler (2008), (eds) The Mechanical Mind in History , MIT Press.
-
-Hutchins, John (2005), The history of machine translation in a nutshell, http://www.hutchinsweb.me.uk/Nutshell-2005.pdf .
-
-IBM J. Res. Develop., 11.
-
-ICOT (1988), (ed.) Fifth Generation Computer Systems , 1988 FGCS'88, Tokyo.
-
-Ifrah, Georges (1994), From One to Zero: A Universal History of Numbers .
-
-Ifrah, Georges (2001), The Universal History of Computing: From the Abacus to the Quantum Computer .
-
-Jacobsen, Annie (2015), The Pentagon's Brain, An Uncensored History of DARPA , America's Top-Secret Military Research Agency.
-
-Jain, Sanjay, Daniel N. Osherson, James S. Royer and Arun Sharma (1999), Systems That Learn: An Introduction to Learning Theory (Learning, Development, and Conceptual Change) , 2nd Edition, MIT Press.
-
-Johnson, Paul (1988), \_Intellectuals: From Marx and Tolstoy to Sartre and Chomsky+, Weidenfeld & Nicolson.
-
-Judd, Stephen (1990), Neural Network Design and the Complexity of Learning , MIT Press.
-
-Kakas, Antonis C. and Fariba Sadri (2002), (ed.), Computational Logic: Logic Programming and Beyond, Essays in Honour of Robert Kowalski , Part 1, Springer.
-
-Kalman, J. A. (2001), Automated Reasoning with Otter , Rinton Press.
-
-Kasparov, Garry (2016), Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins .
-
-Katz, Yarden (2012), Noam Chomsky on Where Artificial Intelligence Went Wrong, Atlantic , Nov. 1.
-
-Kemeny, John (1955), Man Viewed as a Machine, Scientific American , Vol. 192, No. 4.
-
-Knuth, Donald and Bendix, P. B. (1970), Simple Word Problems in Universal Algebras. In Computational Problems in Abstract Algebra . J. Leech, 263-297. Oxford, U. K.: Pergamon.
-
-Knuth, Donald (2001), Things a Computer Scientist Rarely Talks About , Center for the Study of Language and Information.
-
-Kolata, Gina, New York Times , http://www.nytimes.com/library/cyber/week/1210math.html , 1996.
-
-Korf, R. (1997), Does Deep-Blue use AI? AAAI Workshop: Deep Blue Versus Kasparov: The Significance for Artificial Intelligence .
-
-Kowalski, Robert (1986), The Limitations of Logic. Proceedings of the ACM Annual Conference on Computer Science .
-
-Kowalski, Robert (1988), The Early Years of Logic Programming, CACM , January 1988.
-
-Koza, J. R. (1990), Genetic Programming: A Paradigm for Genetically Breeding Populations of Computer Programs to Solve Problems , Stanford University Computer Science Department technical report STAN-CS-90-1314. http://www.genetic-programming.com/jkpdf/tr1314.pdf .
-
-Koza, J. R. (1992), Genetic Programming: On the Programming of Computers by Means of Natural Selection , MIT Press.
-
-Koza, J. R. (1994), Genetic Programming II: Automatic Discovery of Reusable Programs , MIT Press.
-
-Kruozumi, Takashi (1992), Overview of the 10 years of the FGCS project. Proceedings of the international conference on fifth generation computer systems .
-
-Kubat, Miroslav (2015), Introduction to Machine Learning , Springer.（机器学习导论, 机械工业出版社, 2016）
-
-Lassez, Jean-Louis and Gordon Plotkin (1991), (ed.) Computational Logic: Essays in Honor of Alan Robinson , MIT Press.
-
-LeCun, Yann, Yoshua Bengio and Geoffrey Hinton (2015), Deep learning, NATURE , Vol. 521, 28 May 2015, http://www.cs.toronto.edu/~hinton/absps/Nature Deep Review.pdf .
-
-Lederberg, Joshua (1987), How DENDRAL was conceived and born. Rockefeller University, ACM Symposium on the History of Medical Informatics.
-
-Lenat, Douglas and R. V. Guha (1989), Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project .
-
-Lindsay, Robert K., Bruce G. Buchanan, Edward A. Feigenbaum and Joshua Lederberg (1993), DENDRAL: a case study of the first expert system for scientific hypothesis formation, Aritificial Intelligence , Vol. 61, pp. 209.
-
-Livnat, Adi and Christos Papadimitriou (2016), Sex as an Algorithm: The Theory of Evolution Under the Lens of Computation, Communications of the ACM , Vol. 59 No. 11, Pages 84-93.
-
-Loos, Sarah, Geoffrey Irving, Christian Szegedy and Cezary Kaliszyk (2017), Deep Network Guided Proof Search, arXiv:1701.06972v1 [cs.AI] 24 Jan 2017.
-
-Loveland, D.W. (1978), Automated Theorem Proving: A Logical Basis , North Holland.
-
-Lungarella, M., F. Iida, J. Bongard and R. Pfeifer (2007), 50 Years of Artificial Intelligence: Essays Dedicated to the 50th Anniversary of Artificial Intelligence , Springer.
-
-Machlup, Fritz and U. Mansfield (1983), (ed.) The Study of Information: Interdisciplinary Messages , John Wiley.
-
-MacRae, Norman (1997), John Von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More , 2nd ed., AMS.
-
-Marr, David (1982), \_Vision: A Computational Approach, \_Freeman & Co.
-
-McCarthy, John (1979), History of LISP, http://jmc.stanford.edu/articles/lisp/lisp.pdf .
-
-McCarthy, John (1988), Mathematical Logic in Artificial Intelligence, in The Artifical Intelligence Debate: False Starts, Real Foundations , ed Stephen R. Grubard, MIT Press.
-
-McCarthy, John (1989), Oral History Interview with John McCarthy, Charles Babbage Institute, http://conservancy.umn.edu/handle/11299/107476 .
-
-McCarthy, John and Hayes, P. J. (1969), Some philosophical problems from the standpoint of artificial intelligence at the Wayback Machine, In Meltzer, B. and Michie, D., eds., Machine Intelligence 4.
-
-McCarthy, John, M. Minsky, N. Rochester and C. Shannon (1955), A PROPOSAL FOR THE DARTMOUTH SUMMER RESEARCH PROJECT ON ARTIFICIAL INTELLIGENCE, August 31, 1955.
-
-McCarthy, John (2005), Science Lives, interview at Simons Foundation, https://www.simonsfoundation.org/science_lives_video/john-mccarthy/ .
-
-McCorduck, Pamela (1979), Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence , Freeman and Company.
-
-McCorduck, Pamela and Edward Feigenbaum (1984), The Fifth Generation: Artificial Intelligence & Japan's Computer Challenge to the World , 2nd ed, Addison Wesley.
-
-McCulloch, Warren S. and Walter Pitts (1943), A logical calculus of the ideas immanent in nervous activity. The bulletin of mathematical biophysics , 5(4):115–133.
-
-Milburn, Gerald (1999), The Feynman Processor: Quantum Entanglement and the Computing Revolution , Basic Books.
-
-Minsky, Marvin (1974), A Framework for Representing Knowledge, MIT AI Lab Memo 306, http://web.media.mit.edu/~minsky/papers/Frame/frames.html .
-
-Minsky, Marvin (1989), Oral History Interview with Marvin Minsky, Charles Babbage Institute, http://conservancy.umn.edu/handle/11299/107503 .
-
-Minsky, Marvin L. and Seymour A. Papert (1969), Perceptrons: an introduction to computational geometry , MIT Press.
-
-Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio and Jeff Dean (2017), Device Placement Optimization with Reinforcement Learning, arXiv:1706.04972 [cs. LG].
-
-MIT, MIT 150 Symposia on Brains, Minds and Machines, http://mit150.mit.edu/symposia/brains-minds-machines , 2011.
-
-Mitchell, Melanie (2009), Complexity: A Guided Tour , Oxford University Press. （复杂, 湖南科技出版社, 2011）
-
-Moses, Joel (2008), Macsyma: A Personal History, Invited Presentation in Milestones in Computer Algebra, May 2008, Tobago, http://esd.mit.edu/Faculty_Pages/moses/Macsyma.pdf .
-
-Moto-Oka, T. (1982), (ed.) Fifth Generation Computer Systems , North Holland, 1st reprint 1982, 2nd reprint 1983.
-
-Nerode, Anil and Richard A. Shore (1997), Logic for Applications , 2nd ed., Springer.
-
-Neuroscience-Inspired Artificial Intelligence, Neuron .
-
-Newborn, M. (1975), Computer Chess , Academic Press.
-
-Newborn, M. (2002), Deep Blue: An Artificial Intelligence Milestone , Springer.
-
-Newell, Alan (1981), Intellectual Issues in the History of AI, in The Study of Information , ed. Machlup and Mansfield.
-
-Newell, Alan (1991), Oral History Interview with Alan Newell, Charles Babbage Institute, http://conservancy.umn.edu/handle/11299/107544 .
-
-Nilsson, Nils J. (1989), Oral history interview with Nils J. Nilsson. Charles Babbage Institute, http://hdl.handle.net/11299/107545 .
-
-Nilsson, Nils J. (2010), The Quest for Artificial Intelligence: A History of Ideas and Achievements , Cambridge University Press.
-
-Overback, R. and E. Lusk, Wos (1997), Automated Deduction at ANL: The Ethos , in Veroff (ed.).
-
-Penrose, Roger (1989), The Emperor's New Mind , Oxford University Press. （皇帝的新脑, 湖南科技出版社, 2007, 这个译本不推荐）
-
-Petzold, C. (2008), The Annotated Turing , John Wiley & Sons. （图灵的秘密：他的生平、思想及论文解读, 人民邮电出版社, 2012）
-
-Pinker, Steve (1997), How the Mind Works .
-
-Plaisted, David A. (2015), History and Prospects for First-Order Automated Deduction, CADE-25, Lecture Notes in Computer Science , Vol. 9195, pp. 3-28.
-
-Poundstone, William (1992), Prisoner 's Dilemma: John von Neumann, Game Theory, and the Puzzle of the Bomb .（囚徒的困境, 中信出版社, 2016）
-
-Prawitz, Dag, Håkan Prawitz and Neri Voghera (1960), A mechanical proof procedure and its realization in an electronic computer. Journal of the ACM , 7(2):102-128.
-
-Putnam, Hilary (1981), Reason, Truth, and History .（理性, 真理与历史, 上海译文出版社, 1997）
-
-Quine, van Orman Willard (1955), A proof procedure for quantification theory. Journal of Symbolic Logic 20, 141–149.
-
-Reddy, Raj (1991), Oral history interview with Raj Reddy, Charles Babbage Institute, http://hdl.handle.net/11299/107605 .
-
-Reeke, George N., Jr. and Gerald M. Edelman (1988), Real Brain and Artificial Intelligence, in Graubard.
-
-Riazanov, Alexandre (2002), The design and implementation of VAMPIRE, PhD Thesis, University of Manchester.
-
-Robinson, Alan J. (1965), A machine-oriented logic based on the resolution principle. Journal of ACM 12, pp. 23–41.
-
-Robinson, Alan J. (1992), Logic and Logic Programming, CACM , Vol. 35 March.
-
-Robinson, Alan J. and Andrei Voronkov (2001), Handbook of Automated Reasoning , 2 vols.
-
-Rodney A. Brooks (2002), Flesh and Machines: How Robots Will Change Us , Vintage Books.
-
-Rosenblatt, Frank (1958), The perceptron: a probabilistic model for information storage and organization in the brain. Psychological Review , 65(6):386.
-
-Rudolph, Sebastian (2011), Foundations of Description Logics, In Reasoning Web: Semantic Technologies for the Web of Data, 7th International Summer School, Lecture Notes in Computer Science , Vol. 6848, pp. 76–136. Springer.
-
-Ruelle, D. (2007), The Mathematician's Brain: A Personal Tour Through the Essentials of Mathematics and Some of the Great Minds Behind Them , Princeton University Press.
-
-Russell, Stuart and Peter Norvig (2012), Artificial Intelligence: A Modern Approach , 3rd ed.
-
-Samuel, A. (1960), Programming computers to play games. Advances in Computers , 1.
-
-Samuel, A. (1967), Some studies in machine learning using the game of checkers.
-
-Schaeffer, Jonathan, et al (2007), Checkers Is Solved, Science , Vol. 317, pp. 1518–1522, September 14.
-
-Sergot, Marek (2002), Bob Kowalski: A Portrait, in Kakas, A. C. and F. Sadri.
-
-Shannon, Claude E. (1950), A Chess Playing Machine, Scientific American , Feb. 1950.
-
-Shannon, Claude E. (1950), Programming a Computer for Playing Chess, Philosophical Magazine , Ser.7, Vol. 41, No. 314, March 1950.
-
-Shannon, Claude E. (1982), Oral History, http://ethw.org/Oral-History:Claude_E._Shannon .
-
-Shannon, Clause and John McCarthy (1956), Automata Studies , Princeton University Press.
-
-Shapiro, Ehud (1987), (ed.) Concurrent Prolog: Collected Papers , MIT Press.
-
-Shasha, D. and Lazere, C. (2010), Natural Computing: DNA, Quantum Bits, and the Future of Smart Machines , W. W. Norton & Company. （自然计算：DNA, 量子比特和智能机器的未来, 人民邮电出版社, 2014）
-
-Shasha, Dennis E. and Cathy Lazere (1998), Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists , Copernicus.
-
-Shaw, D. E. (1981). NON-VON: A Parallel Machine Architecture for Knowledge Based Systems.
-
-Siekmann, J. and G. Wrightson (1983) (eds.), Automated Reasoning 2 – Classical Papers on Computational Logic 1967–1970 , Vol. 2, pp. 1–24. Springer, Berlin.
-
-Siekmann, J. and G. Wrightson (1983) (eds.), Automation of Reasoning — Classical Papers on Computational Logic 1957-1966 , Vol. 1. Springer, Berlin.
-
-Silver, David, Aja Huang, Chris J. Maddison, Arthur Guez, Laurent Sifre, George Van Den Driessche, Julian Schrittwieser, Ioannis Antonoglou, Veda Panneershelvam, Marc Lanctot, et al. (2016), Mastering the game of go with deep neural networks and tree search. Nature , 529 (7587):484–489.
-
-Simon, Herbert (1996), The Sciences of Artificial , 3rd Edition, MIT Press.
-
-Simon, Herbert and Toshinori Munakata (1997), AI Lessons, Communication of ACM , August, 1997
-
-Simon, Herbert (1996), Models of My Life , MIT Press.
-
-Sipser, M. (2012), Introduction to the Theory of Computation , 3rd ed., Cengage Learning.
-
-Smiley, Jane (2010), The Man Who Invented the Computer: The Biography of John Atanasoff , Digital Pioneer . （最强大脑：数字时代的前世今生, 新世界出版社, 2015）
-
-Smith, S. W. (2005), Turing is from Mars, Shannon is from Venus: Computer Science and Computer, IEEE SECURITY & PRIVACY .
-
-Solomonoff, Ray (1997), The Discovery of Algorithmic Probability, Journal of Computer and System Sciences , Vol. 55, pp. 73-88.
-
-Sowa, John (1993), Book Review of Building Large Knowledge-Based Systems: Representation and Inference in the Cyc Project, Artificial Intelligence , Vol. 61, pp. 95-104.
-
-Sperlich, Woldfgang (2006), Noam Chomsky , Realtion Books. （乔姆斯基, 北京大学出版社）
-
-Spiser, Dag and Kirsten Tashevthe, The Quest to Build Thinking Machine: A History of Computer Chess , Computer History Museum.
-
-Standage, Tom (2002), The Turk: The Life and Times of the Famous Eighteenth- Century Chess-Playing Machine . Walker and Company, New York City.
-
-Sutcliffe, Geoff and Christian Suttner, The TPTP Problem Library for Automated Theorem Proving, http://www.cs.miami.edu/~tptp/ .
-
-Sutton, R. and A. Barto (1998), Reinforcement Learning: An Introduction , 1st ed. 1998, 2nd ed. 2017, MIT Press. （这本书第一版和第二版初稿的在线版：http://incompleteideas.net/sutton/book/the-book.html ）
-
-Tarski, Alfred (1948), A Decision Method for Elementary Algebra and Geometry .
-
-Turing, A. M. (1953). Digital computers applied to games, in Faster than Thought , Bowden, B. V. ed. London, Pitman.
-
-Turing, A. M. (1936), On Computable Numbers, with an Application to the Entscheidungs problem, Proceedings of the London Mathematical Society . 2. 42. pp. 230–65.
-
-Turing, A. M. (1937), Computability and λ-Definability, The Journal of Symbolic Logic . pp. 153–163.
-
-Turing, A. M. (1950), Turing's contributions to the Conference on Information Theory http://www.turing.org.uk/sources/info50turing.html .
-
-Turing, A. M. (1947), Lecture to the London Mathematical Society on 20 February 1947, in Cooper and Leeuwen , 2013.
-
-Turing, A. M. (1948), Intelligent Machinery , National Physical Laboratory, Teddington, 1948, in Maltzer, B. and D. Michie (ed.) Machine Intelligence , Vol. 5, Edinburgh University Press, Edinburgh, 1969.
-
-Tymoczko, T. (1979), The Four-Color Problem and Its Philosophical Significance, The Journal of Philosophy , Vol. LXXVI, No. 2.
-
-Valiant, Leslie (2013), Probably Approximately Correct: Nature's Algorithms for Learning and Prospering in a Complex World .
-
-Veroff, R. (1997) (ed.) Automated Reasoning and Its Applications: Essays in Honor of Larry Wos , MIT Press.
-
-von Neumann, John (1948), The general and logical theory of automata, in Cerebral Mechanisms in Behavior: The Hixon Symposium, \_also in \_Collected Works of von Neumann.
-
-von Neumann, John (2013), The Computer and the Brain , 3rd ed., Yale University Press. （计算机与大脑, 商务印书馆）
-
-Wang, Hao (1960), Proving theorems by pattern recognition—I, CACM , Vol. 3, pp. 220-234.
-
-Wang, Hao (1960), Toward Mechanical Mathematics, IBM J. Research and Development , Vol. 4. pp. 2-22.
-
-Wang, Hao (1960), Proving theorems by pattern recognition—II, Bell System Technical Journal , 40, pp. 1-41.
-
-Wang, Hao (1978), Private communication with Wu Wen-tsun, April 10, 1978.
-
-Wang, Hao (1981), Popular Lectures on Mathematical Logic . （数理逻辑通俗讲话, 科学出版社, 1981）
-
-Wang, Hao (1984). Computer Theorem Proving and Artificial Intelligence, reprint in Computation, Logic and Philosophy, A Collection of Essays , 1990, originally in Contemporary Mathematics, AMS.
-
-Wang, Haohan and Bhiksha Raj (2017), On the Origin of Deep Learning, arXiv: 1702.07800v4 [cs.LG] 3 Mar 2017.
-
-Warren, David H. D. (1982), A View of the Fifth Generation and Its Impact, AI Magazine , Fall.
-
-Watkins, Christopher (1989), Learning from Delayed Rewards , PhD Thesis, Cambridge University.
-
-Weizenbaum, Joseph (1966), ELIZA—A Computer Program for the Study of Natural Language Communication Between Man And Machine, Communications of the ACM , Vol. 9, No. 1.
-
-Weizenbaum, Joseph (1976), Computer Power and Human Reason: From Judgement to Calculation.
-
-Widrow, Bernard (2013), Oral History of Bernard Widrow, http://archive.computerhistory.org/resources/access/text/2014/01/102746758-05-01-acc.pdf , Computer History Museum, Mountain View, California.
-
-Wiener, Nobert (1964), I Am a Mathematician , MIT Press.
-
-Wiener, Nobert (2013), Cybernetics: Or the Control and Communication in the Animal and the Machine , 1st ed 1948, 2nd ed. 2013.
-
-Winograd, Terry (1972), Understanding Natural Language , Academic Press.
-
-Winograd, Terry (1982), Language As A Cognitive Process , Vol. 1, Syntax Addison-Wesley.
-
-Winograd, Terry (1991), Oral history interview with Terry Allen Winograd. Charles Babbage Institute, http://hdl.handle.net/11299/107717 .
-
-Winograd, Terry and Fernando Flores (1986), Understanding Computers and Cognition: A New Foundation for Design , Ablex Publ Corp.
-
-Winston, Patrick (1990), Oral history interview with Patrick H. Winston, Charles Babbage Institute, http://conservancy.umn.edu/handle/11299/107719 .
-
-Wittgenstein, Ludwig (1951), Philosophical Investigations .
-
-Wolfram, Stephen (2002), A New Kind of Science .
-
-Wolfram, Stephen (2017), Idea Makers: Personal Perspectives on the Lives and Ideas of Some Notable People , Wolfram Media.
-
-Wos, L. and Henschen, L. (1983), Automated theorem proving 1965–1970 . In Siekmann, J., Wrightson, G. (eds.) Automated Reasoning 2 – Classical Papers on Computational Logic 1967–1970 , Vol. 2, pp. 1–24. Springer, Berlin, 1983.
-
-Wos, L., R. Overbeck and E. Lusk (1991), Subsumption, a Sometimes Undervalued Procedure, in Lassez and Plotkin .
-
-Wos, L., R. Overbeck, E. Lusk and J. Boyle (1983), Automated Reasoning: Introduction and Applications , McGraw-Hill.
-
-Wos, L. (2013), The Legacy of a Great Researcher , in Bonacina eds. 2013.
-
-Wright, R. (1988), Three Scientists and Their Gods , Times Books.
-
-Wu, Wen-tsun (2001), Mathematics Mechanization , Science Press and Kluwer Academic Publishers.
-
-Wu, Yonghui, et al (2016), Google‘s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, Technical Report .
-
-Yourgrau, Palle (2005), A World Without Time: The Forgotten Legacy of Godel and Eistein , Basic Books. （没有时间的世界, 电子工业出版社）
-
-Yukota, Kazumasa (1994), From Databases to Knowledge-Bases, Proceedings of FGCS 1994, ICOT , Tokyo.
-
-Zhang, Nick (1992), Complexity of Neural Network Learning in Real Number Model, Proceedings of 2nd IEEE Workshop on Physics and Computation , Dallas, Texas.
-
-冯志伟 (2008)，计算语言学基础，商务印书馆.
-
-尼克 (2014)，哲学评书，浙江大学出版社.
-
-吴文俊 (1984)，几何定理机器证明的基本原理，科学出版社.
-
-吴文俊 (2003)，数学机械化，科学出版社.
-
-吴文俊 (2015)，走自己的路：吴文俊口述自传，湖南教育出版社.
-
-政协齐河县文史资料委员会 (2000)，齐河文史资料第六辑：科学巨匠王浩.
-
-周志华 (2016)，机器学习，清华大学出版社.
-
-人名对照
-
-A
-
-阿比卜　 Michael Arbib
-
-阿达玛　 Jacques Solomon Hadamard
-
-阿伦森　 Scott Aaronson
-
-阿佩尔　 Kenneth Appel
-
-阿什比　 Ross Ashby
-
-埃德尔曼　 Gerald Edelman
-
-埃克特　 John Presper Eckert
-
-艾伦　 Mary Ellen
-
-爱波斯坦　 David Epstein
-
-爱因斯坦　 Albert Einstein
-
-安德鲁斯　 Peter B. Andrews
-
-安德森　 Marc Andreessen
-
-奥克利　 Brian Oakley
-
-奥斯丁　 John Langshaw Austin
-
-奥威尔　 George Orwell
-
-B
-
-阿乌林·布卢姆　 Avrim Blum
-
-巴克斯　 John Warner Backus
-
-巴罗　 Harry Barrow
-
-巴托　 Andy Barto
-
-白贝尔　 Wolfgang Bibel
-
-柏林纳　 Hans Berliner
-
-邦迪　 Alan Bundy
-
-贝尔曼　 Bellman
-
-本迪克斯　 Peter Bendix
-
-本内特　 Charles Bennett
-
-比森　 Michael Beeson
-
-波尔　 Robert S. Boyer
-
-波普尔　 Karl Popper
-
-伯恩斯坦　 Alex Bernstein
-
-伯克霍夫　 George David Birkhoff
-
-伯克斯　 Authur Burks
-
-伯林　 Isaiah Berlin
-
-伯奈斯　 Paul Bernays
-
-博斯特罗姆　 Nick Bolstrom
-
-博伊德　 Cassidy Boyd
-
-布坎南　 Bruce Buchanan
-
-布莱克　 Archie Blake
-
-布莱森　 Bill Bryson
-
-布莱索　 Woody Bledsoe
-
-布利斯博格　 Mojżesz Presburger
-
-布林　 Sergey Brin
-
-布鲁克斯　 Rodney Brooks
-
-布鲁姆　 Manual Blum
-
-布什　 Vannevar Bush
-
-德布罗金　 Nicolaas Govert de Bruijn
-
-雷诺尔·布卢姆　 Lenore Blum
-
-C
-
-蔡汀　 Gregory Chaitin
-
-查普曼　 John Chapman
-
-D
-
-戴客斯特拉　 Edsger Wybe Dijkstra
-
-戴森　 Freeman Dyson
-
-戴维斯　 Martin Davis
-
-丹尼特　 Daniel Dennett
-
-道本　 Joseph Dauben
-
-道金斯　 Richard Dawkins
-
-德布罗金　 de Brujin
-
-德施维茨　 Nachum Dershowitz
-
-丁斯利　 Marion Tinsley
-
-丢东聂　 Jean Alexandre Eugène Dieudonné
-
-杜彻斯内　 Ricardo Duchesne
-
-多依奇　 David Deutsch
-
-斯图亚特·德雷弗斯　 Stuart Dreyfus
-
-休伯特·德雷弗斯　 Hubert Dreyfus
-
-翟若适　 Carl Djerassi
-
-E
-
-爱之地　 Donald W. Loveland
-
-厄埃　 Gérard Huet
-
-厄内斯特　 Les Earnest
-
-F
-
-菲尔德曼　 Julian Feldman
-
-菲舍尔　 Bobby Fischer
-
-菲亭　 Melvin Fitting
-
-费佛曼　 Solomon Feferman
-
-费根鲍姆　 Edward Albert Feigenbaum
-
-费马　 Pierre de Fermat
-
-费曼　 Richard Phillips Feynman
-
-费米　 Enrico Fermi
-
-费舍　 Ronald Fisher
-
-冯诺伊曼　 John von Neumann
-
-弗班克　 Furbank
-
-弗兰肯斯坦　 Frankenstein
-
-弗雷德伯格　 R. M. Friedberg
-
-弗雷德金　 Edward Fredkin
-
-弗里格　 Gottlob Frege
-
-弗洛雷斯　 Fernando Flores
-
-伏尼契　 Ethel Lilian Voynich
-
-福吉　 Charles Forgy
-
-G
-
-甘迪　 Robin Gandy
-
-甘金格　 Harald Ganzinger
-
-高德纳　 Donald Ervin Knuth
-
-哥德尔　 Kurt Gödel
-
-格兰特　 Herb Gelernter
-
-格雷汉姆　 Ron Graham
-
-格林布拉特　 Richard Greenblatt
-
-格鲁什科　 Robert Glushko
-
-根岑　 Gerhard Gentzen
-
-古德　 Irving John Good
-
-古德曼　 Nelson Goodman
-
-古德瑞克　 Oded Goldreich
-
-古德斯丁　 Herman Goldstine
-
-古哈　 Ramanathan V. Guha
-
-H
-
-埃尔布朗　 Jacques Herbrand
-
-哈泊　 Grace Hopper
-
-哈尔莫斯　 Paul Halmos
-
-哈尔西　 William Halsey
-
-哈里斯　 Zellig Harris
-
-海尔梅尔　 George Heilmeirer
-
-海思　 Patrick Hayes
-
-韩丁　 William Hinton
-
-寒春　 Joan Hinton
-
-赫布　 Donald Hebb
-
-赫拉利　 Yuval Harari
-
-黑肯　 Wolfgang Haken
-
-亨培尔　 Carl Hempel
-
-亨亭顿　 Samuel Huntington
-
-胡贝尔　 David Hubel
-
-胡塞尔　 Edmund Husserl
-
-怀特海　 Alfred North Whitehead
-
-霍根　 John Horgan
-
-霍兰德　 John Holland
-
-霍普　 Grace Murray Hopper
-
-霍普菲尔德　 John Hopfield
-
-霍奇　 Wilfrid Hodges
-
-霍维茨　 Eric Horvitz
-
-希尔伯特　 David Hilbert
-
-I
-
-英曼　 Inman
-
-J
-
-吉尔莫　 Paul Gilmore
-
-贾德　 Steve Judd
-
-贾里尼克　 Frederick Jelinek
-
-杰洛姆　 Jean-Léon Gérôme
-
-K
-
-卡尔纳普　 Paul Rudolf Carnap
-
-卡尔森　 Magnus Carlsen
-
-卡普　 Richard Karp
-
-卡普尔　 Deepak Kapur
-
-卡斯帕罗夫　 Garry Kasparov
-
-坎普尔　 Murray Campbell
-
-康斯特波　 Robert L. Constable
-
-康韦　 Conway
-
-考夫曼　 Matt Kaufman
-
-柯尔莫格罗夫　 Kolmogorov
-
-柯克　 John Cocke
-
-柯里　 Haskell Curry
-
-科德　 Edgar Codd
-
-科恩　 Paul Joseph Cohen
-
-科夫　 Rich Korf
-
-科林斯　 George E. Collins
-
-科莫饶尔　 Alain Colmerauer
-
-科瓦尔斯基　 Robert Kowalski
-
-克拉克　 Jim Clark
-
-克拉克　 Edmund M. Clarke
-
-克劳福　 Harry Klopf
-
-克劳斯　 Lawrence M. Krauss
-
-克里克　 Francis Crick
-
-克里尼　 Stephen Kleene
-
-克里普克　 Saul Aaron Kripke
-
-克里切利　 Simon Critchley
-
-克门尼　 John Kemeny
-
-克柔克　 Steve Crocker
-
-肯德尔　 Eric Kandel
-
-肯佩伦　 Wolfgang von Kempelen
-
-寇恩　 Paul Cohen
-
-寇克　 John Cocke
-
-寇普兰　 Jack Copeland
-
-寇扎　 John Koza
-
-库布里克　 Stanley Kubrick
-
-库恩　 Thomas Sammual Kuhn
-
-库克　 Stephen Arthur Cook
-
-库兹韦尔　 Ray Kurzweil
-
-蒯因　 Willard Van Orman Quine
-
-L
-
-阿兰·罗宾逊　 John Alan Robinson
-
-伯纳斯-李　 Tim Berners-Lee
-
-拉希德　 Rick Rashid
-
-莱夫谢茨　 Solomon Lefschetz
-
-莱瑟　 Victor Lesser
-
-朗道　 Lev Davidovich Landau
-
-朗道尔　 Rolf Landauer
-
-雷蒂　 Raj Reddy
-
-雷纳特　 Douglas Lenat
-
-李德伯格　 Joshua Lederberger
-
-里克　 George Reeke
-
-利克莱德　 Joseph Licklider
-
-列维　 David Levy
-
-列文　 Leonid Levin
-
-卢梭　 Roussel
-
-鲁梅尔哈特　 David Rumelhart
-
-罗宾斯　 Herbert Robbins
-
-罗切斯特　 Nathaniel Rochester
-
-罗森布拉特　 Frank Rosenblatt
-
-伯特兰·罗素　 Bertrand Russell
-
-斯图尔特·罗素　 Stuart Russell
-
-乔治·罗宾逊　 George Robinson
-
-亚伯拉罕·罗宾逊　 Abraham Robinson
-
-M
-
-费舍　 Ronald Fisher
-
-马尔　 David Marr
-
-马库恩　 William McCune
-
-马纳　 Zohar Manna
-
-马泽尔　 Johann Nepomuk Maelzel
-
-麦卡洛克　 Warren McCulloch
-
-麦卡锡　 John McCarthy
-
-麦克达克　 Pamela McCorduck
-
-麦克道高尔　 Duncan MacDougall
-
-麦克利兰德　 James McLelland
-
-曼斯菲尔德　 Mike Mansfield
-
-芒福德　 David Mumford
-
-毛彻里　 John Mauchly
-
-梅尔泽　 Bernard Meltzer
-
-蒙克　 RayMonk
-
-米德　 Carver Mead
-
-米勒　 George Miller
-
-米奇　 Donald Michie
-
-明斯基　 Marvin Lee Minsky
-
-摩尔　 J Strother Moore
-
-摩尔　 Trenchard More
-
-摩尔康　 Christopher Morcom
-
-摩根斯顿　 Oskar Morgenstern
-
-莫里斯　 Ian Morris
-
-莫瑞　 Arnold Murray
-
-N
-
-冯诺伊曼　 John von Neumann
-
-纳什　 John Nash
-
-内尔逊　 C Greg Nelson
-
-牛伯恩　 Monty Newborn
-
-纽厄尔　 Allen Newell
-
-纽曼　 Judith Newman
-
-诺伯格　 Norberg
-
-诺曼　 Don Norman
-
-诺维格　 Peter Norvig
-
-O
-
-欧赫　 Franz Josef Och
-
-欧文白克　 Overback
-
-P
-
-庞加莱　 Jules Henri Poincaré
-
-庞提　 Merleau-Ponty
-
-佩里　 Matthew Perry
-
-佩珀特　 Seymour Papert
-
-佩奇　 Larry Page
-
-彭罗斯　 Roger Penrose
-
-皮茨　 Walter Pitts
-
-皮亚诺　 Giuseppe Peano
-
-平克　 Steve Pinker
-
-坡斯特　 Emil Post
-
-珀里思　 Alan Perlis
-
-普拉格维茨　 Dag Pragwitz
-
-普雷斯泰　 David Plaisted
-
-普林茨　 Dietrich Prinz
-
-普特南　 Hilary Putnam
-
-Q
-
-乔姆斯基　 Avram Noam Chomsky
-
-丘奇　 Alonzo Church
-
-R
-
-瑞迪　 Raj Reddy
-
-S
-
-萨顿　 Richard Sutton
-
-萨瑟兰　 Ivan Edward Sutherland
-
-萨斯曼　 Sussman
-
-萨特克里夫　 Geoff Sutfliffe
-
-塞尔　 John Searle
-
-塞弗里奇　 Oliver Selfridge
-
-塞缪尔　 Arthur Samuel
-
-塞耶斯　 Dorothy Sayers
-
-沙布　 Michael Shub
-
-舍佛　 Jonathan Schaeffer
-
-施伦伯杰　 Schlumberger
-
-史蒂克尔　 Mark E. Stickel
-
-史密斯　 S. W. Smith
-
-司考特　 Dana Scott
-
-司马贺　 Herbert Simon
-
-斯金纳　 Burrhus Frederic Skinner
-
-斯梅尔　 Steve Smale
-
-斯帕斯基　 Boris Spassky
-
-斯坦因　 Aurel Stein
-
-斯特拉切　 Christopher Strachey
-
-所罗门诺夫　 Solomonoff
-
-索瓦　 John Sowa
-
-肖特莱福　 Edward Shortliffe
-
-T
-
-马蹄·塔南鲍姆　 Marty Tennenbaum
-
-塞吉诺斯基　 Terry Sejnowski
-
-塔尔斯基　 Alfred Tarski
-
-塔克　 Albert Tucker
-
-汤普森　 Ken Thompson
-
-特蕾西娅　 Maria Theresia
-
-铁木钦科　 Thomas Tymoczko
-
-图灵　 Alan Turing
-
-约书亚·塔南鲍姆　 Joshua Tennenbaum
-
-W
-
-埃尔库拉诺-乌泽尔　 Suzana Herculano-Houzel
-
-瓦丁格　 Richard Waldinger
-
-瓦连特　 Leslie Valiant
-
-外尔　 Hermann Weyl
-
-威尔金森　 David Wilkinson
-
-威勒　 Rudolf Wille
-
-威瑟尔　 Torsten Wiesel
-
-韦弗　 Warren Weaver
-
-维布伦　 Oswald Veblen
-
-维德罗　 Bernard Widrow
-
-维纳　 Norbert Wiener
-
-维诺格拉德　 Terry Winograd
-
-维斯纳　 Jerry Wiesner
-
-魏森鲍姆　 Joseph Weizenbaum
-
-温克　 Steve Winker
-
-温斯顿　 Patrick Winston
-
-沃波斯　 Paul Werbos
-
-沃尔弗拉姆　 Stephen Wolfram
-
-沃伦　 David Warren
-
-沃伦可夫　 Andrei Voronkov
-
-沃森 JamesWatson
-
-沃思　 Larry Wos
-
-沃斯　 Niklaus Wirth
-
-伍德华　 Philip Woodward
-
-X
-
-希利斯　 Danny Hillis
-
-席尔瓦　 David Silver
-
-夏皮若　 Ehud Shapiro
-
-香农　 Claude Shannon
-
-肖　 D. E. Shaw
-
-肖　 Peter Shor
-
-辛顿　 Geoffrey Hinton
-
-休伊特　 Carl Hewitt
-
-Y
-
-雅各布森　 Annie Jacobsen
-
-亚里士多德　 Aristotle
-
-耶茨　 Yates
-
-伊顿　 Eaton
-
-约翰逊　 William Ernest Johnson
-
-约翰逊　 Neville Johnson
-
-中文人名
-
-金芳蓉　 Fan Chung
-
-李家同　 Richad Char-tung Lee
-
-王士元　 William Wang
-
-吴恩达　 Andrew Ng
-
-项洁　 Jieh Hsiang
-
-周咸青　 Chou Shang-ching
-
-其他人名
-
-福岛邦彦　 Fukushima
-
-甘利俊一　 Shun'ichi Amari
-
-古川康一　 Koichi Furukara
-
-李世石　 Lee Sedol
-
-上田和纪　 Kazunori Ueda
-
-渕一博　 Kazuhiro Fuchi
-
-元冈达　 Tohru Moto-Oka
-
-宗像俊则　 Toshinori Munakata
-
-看完了
-
-如果您对本书内容有疑问，可发邮件至contact@turingbook.com，会有编辑或作译者协助答疑。也可访问图灵社区，参与本书讨论。
-
-如果是有关电子书的建议或问题，请联系专用客服邮箱：ebook@turingbook.com。
-
-在这里可以找到我们：
-
-微博 @图灵教育 : 好书、活动每日播报
-
-微博 @图灵社区 : 电子书和好文章的消息
-
-微博 @图灵新知 : 图灵教育的科普小组
-
-微信 图灵访谈 : ituring_interview，讲述码农精彩人生
-
-微信 图灵教育 : turingbooks
-
----
-
-091507240605ToBeReplacedWithUserId
