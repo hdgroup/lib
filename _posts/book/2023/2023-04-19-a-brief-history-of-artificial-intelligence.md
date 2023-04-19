@@ -36,8 +36,8 @@ keywords: 人工智能简史
 
 # 第 1 章　达特茅斯会议：人工智能的缘起
 
-> What is past is prologue.
-> 过去只是序幕。
+> What is past is prologue.  
+> 过去只是序幕。  
 > ——William Shakespeare（莎士比亚 ）
 
 ## 1. 背景
@@ -172,11 +172,11 @@ keywords: 人工智能简史
 
 # 第 2 章　自动定理证明兴衰纪
 
-> As a material machine economises the exertion of force, so a symbolic calculus
-> economises the exertion of intelligence ... the more perfect the calculus, the smaller
-> the intelligence compared to the results.
-> 就像机器能省体力一样，符号演算能省脑力。
-> 演算越完美，付出的脑力就越少。
+> As a material machine economises the exertion of force, so a symbolic calculus  
+> economises the exertion of intelligence ... the more perfect the calculus, the smaller  
+> the intelligence compared to the results.  
+> 就像机器能省体力一样，符号演算能省脑力。  
+> 演算越完美，付出的脑力就越少。  
 > ——W. E. Johnson（约翰逊 ）
 
 > Proof is cultivated reasoning.
@@ -643,8 +643,8 @@ Robinson and Voronkov (2001)是手册型。两位编者一位是归结原理的�
 
 # 第 3 章　从专家系统到知识图谱
 
-> The test of all knowledge is experiment.
-> 实验是知识的试金石。
+> The test of all knowledge is experiment.  
+> 实验是知识的试金石。  
 > ——Feynman Lectures on Physics（《费曼物理学讲义 》）
 
 ## 1. 费根鲍姆和 DENDRAL
@@ -791,12 +791,12 @@ Cyc 项目见 Lenat and Guha (1989)。描述逻辑从浅到深有各种文献，
 
 # 第 4 章　第五代计算机的教训
 
-> People learn from history that people never learn from history.
-> 历史的教训就是历史从来没给过人教训。
+> People learn from history that people never learn from history.  
+> 历史的教训就是历史从来没给过人教训。  
 > ——Georg Wilhelm Friedrich Hegel（黑格尔 ）
 
-> Those that fail to learn from history, are doomed to repeat it.
-> 不懂吸取教训的人注定会重蹈覆辙。
+> Those that fail to learn from history, are doomed to repeat it.  
+> 不懂吸取教训的人注定会重蹈覆辙。  
 > ——Winston Churchill（丘吉尔 ）
 
 ## 1. 背景
@@ -931,8 +931,8 @@ Moto-Oka (1982)是日本第五代计算机项目的宣言，标志着日本这�
 
 # 第 5 章　神经网络简史
 
-> I bet the human brain is a kludge.
-> 人脑就是一台计算机。
+> I bet the human brain is a kludge.  
+> 人脑就是一台计算机。  
 > ——Marvin Minsky（明斯基 ）
 
 自图灵提出“机器与智能”起，就一直有两派观点：一派认为实现人工智能必须用逻辑和符号系统，这一派看问题是自顶向下的；还有一派认为通过仿造大脑可以达到人工智能，这一派是自底向上的，他们认为如果能造一台机器，模拟大脑中的神经网络，这台机器就有智能了。前一派，我想用“想啥来啥”来形容；后一派就称之为“吃啥补啥”，估计他们的思想来源于中国古代的原始思维，套一句庸俗的哲学词，前者偏唯心，后者偏唯物。这两派一直是人工智能领域里“两个阶级、两条路线”的斗争，这斗争有时还你死我活。
@@ -1045,12 +1045,12 @@ McCulloch and Pitts (1943)今天读来仍有意义。而 Rosenblatt (1958)和 Mi
 
 # 第 6 章　计算机下棋简史：机定胜人，人定胜天
 
-> lay is the beginning of knowledge.
-> 游戏是知识之源。
+> lay is the beginning of knowledge.  
+> 游戏是知识之源。  
 > ——George Dorsey（多尔西 ）
 
-> … because chess requires intelligence.
-> 下棋需要智能。
+> … because chess requires intelligence.  
+> 下棋需要智能。  
 > ——Alan Turing（图灵 ）
 
 ## 1. 机器下棋史前史
@@ -1135,12 +1135,12 @@ Standage (2002)是关于最早的下棋机“土耳其人”最完整的描述�
 
 # 第 7 章　自然语言处理
 
-> The noblest pleasure is the joy of understanding.
-> 最高级的快乐就是理解的愉悦。
+> The noblest pleasure is the joy of understanding.  
+> 最高级的快乐就是理解的愉悦。  
 > ——Leonardo da Vinci（达芬奇 ）
 
-> It is not our aim to refine or complete the system of rules for the use of our words in unrelated of ways.
-> 完善规则系统用于无关的字词，绝不是我们的目的。
+> It is not our aim to refine or complete the system of rules for the use of our words in unrelated of ways.  
+> 完善规则系统用于无关的字词，绝不是我们的目的。  
 > ——Ludwig Wittgenstein（维特根斯坦 ）
 
 ## 1. 乔治敦实验
@@ -1533,8 +1533,8 @@ Minsky is survived by his wife Gloria Minsky; three children, Margaret Minsky, J
 
 # 第 8 章　向自然学习：从遗传算法到强化学习
 
-> Natural selection is a mechanism for generating an exceedingly high degree of improbability.
-> 自然选择就是能生成极不可能之事的机制。
+> Natural selection is a mechanism for generating an exceedingly high degree of improbability.  
+> 自然选择就是能生成极不可能之事的机制。  
 > ——Ronald Fisher（费舍 ）
 
 从生物学里找计算的模型，一直是人工智能的研究方向之一，学术上大致有两条传承的脉络：一条是麦卡洛克和皮茨的神经网络，演化到今天成了深度学习；另一条是冯诺伊曼的细胞自动机，历经遗传算法、遗传编程，其中一条支线最后演变成了今天的强化学习。
@@ -1699,8 +1699,8 @@ Kubat (2015)是一本非常可读的机器学习导论，并且有中译本，�
 
 # 第 9 章　哲学家和人工智能
 
-> The real discovery is the one that makes me capable of stopping doing philosophy when I want to, the one that gives philosophy peace.
-> 真的发现是能让我停下来不做哲学的发现，让哲学消停的发现。
+> The real discovery is the one that makes me capable of stopping doing philosophy when I want to, the one that gives philosophy peace.  
+> 真的发现是能让我停下来不做哲学的发现，让哲学消停的发现。  
 > ——Wittgenstein（维特根斯坦 ）
 
 哲学家不一定懂哲学，就像相声演员不一定会说相声，这是低门槛行业的通病。本章只讲哲学家和人工智能的故事，而真正的人工智能中的哲学问题散布在别处。加州大学伯克利分校的哲学系有两位人工智能的出名批评者。一位是休伯特·德雷弗斯（Hubert Dreyfus）。另一位是塞尔（John Searle1 ）。德雷弗斯的《计算机不能干什么》和塞尔的假想实验 2 “中文屋” 一度代表了外行反对人工智能的最强音。2016 年去世的普特南（Hilary Putnam）身兼哲学家、数学家和计算机科学家，对自动定理证明做过原创贡献，是内行。他的“缸中脑”是严肃的假想实验。
@@ -1847,8 +1847,8 @@ Kubat (2015)是一本非常可读的机器学习导论，并且有中译本，�
 
 # 第 10 章　人是机器吗？——人工智能的计算理论基础
 
-> ...humans are nothing but meat machines that carry a computer in their head.
-> ……人不过就是脑袋上顶了个计算机的肉机器而已。
+> ...humans are nothing but meat machines that carry a computer in their head.  
+> ……人不过就是脑袋上顶了个计算机的肉机器而已。  
 > ——Marvin Minsky（明斯基 ）
 
 那些认为人是机器的，其道理很简单：人也是由各种物理化学机制构成的，当然是机器了。早有法国哲学家美特里，现有 DNA 双螺旋结构发现者克里克，都持这种观点。克里克认为在不远的将来，生命可以在试管中合成。而那些认为人不是机器的，其论据是人有很多功能，目前机器无法完成，尤其是那个叫“灵魂”的神奇东西。“灵魂”被苏格拉底用来论证永生的可能性，算是他被执行死刑之前给自己的宽心丸。
@@ -2001,8 +2001,8 @@ BSS 是三个人姓氏的首字母。B 是雷诺尔·布卢姆（Lenore Blum）�
 
 # 第 11 章　智能的进化
 
-> Science is what we understand well enough to explain to a computer. Art is everything else we do.
-> 科学就是那些我们能对计算机说明白的东西，余下的都叫艺术。
+> Science is what we understand well enough to explain to a computer. Art is everything else we do.  
+> 科学就是那些我们能对计算机说明白的东西，余下的都叫艺术。  
 > ——Donald Knuth（高德纳 ）
 
 ## 1. 大脑的进化
@@ -2103,16 +2103,16 @@ BSS 是三个人姓氏的首字母。B 是雷诺尔·布卢姆（Lenore Blum）�
 
 # 第 12 章　当我们谈论生死时，我们在谈论什么？
 
-> I don't want to achieve immortality through my work; I want to achieve immortality through not dying.
-> 我才不想靠我的作品达到不朽，肉身不死才算不朽。
+> I don't want to achieve immortality through my work; I want to achieve immortality through not dying.  
+> 我才不想靠我的作品达到不朽，肉身不死才算不朽。  
 > ——Woody Allen（伍迪·艾伦 ）
 
-> Immortality.
-> I make my journey through eternity.
-> I keep the memory of you and me, inside.
-> 不朽兮，
-> 我向来世奔袭，
-> 你我的记忆，在心中安息。
+> Immortality.  
+> I make my journey through eternity.  
+> I keep the memory of you and me, inside.  
+> 不朽兮，  
+> 我向来世奔袭，  
+> 你我的记忆，在心中安息。  
 > ——Bee Gees（BG 兄弟乐队 ）
 
 苏格拉底说：哲学家只研究“正在死”（dying）和“刚刚死”（being dead）。除了这个啥都不管。有一种说法是哲学起始于苏格拉底之死。苏格拉底因为三项罪名被判死刑：腐蚀雅典青年，不敬城邦和引入自己的新神。苏格拉底受审前一天恰好赶上雅典的“花船节”，祭祀的船要离开雅典再返航。花期，城邦要保持清洁，因而不能执行死刑，于是苏格拉底临死前有一段时间可以和学生们聊哲学。柏拉图据此写了四篇对话。耶稣之死和苏格拉底之死不同，耶稣完成了使命，苏格拉底留下了一堆问题。
@@ -2222,11 +2222,9 @@ BSS 是三个人姓氏的首字母。B 是雷诺尔·布卢姆（Lenore Blum）�
 # 附录 1 　图灵小传
 
 > Beauty is truth, truth beauty,—that is all Ye know on earth,  
-> and all ye need to know.
-
+> and all ye need to know.  
 > 美就是真，真就是美——你只能知道这么多，  
-> 你只需知道这么多。
-
+> 你只需知道这么多。  
 > ——John Keats（济慈 ）
 
 图灵（Alan Turing）生于 1912 年 6 月 23 日，逝于 1954 年 6 月 7 日，活了不到 42 岁。生得不伟大，死得不光荣。一方面由于他的性取向，另一方面由于他在二战中从事过机密工作，图灵在生前并没有被广泛了解。数学家兼同性恋运动活动家霍奇斯（Andrew Hodges）1983 年出版了《艾伦·图灵传：如谜的解谜者》（Alan Turing: The Enigma ），为我们展示了图灵谜一样的一生。该书后来一而再再而三地重版，书的内容没有本质变化，最新的一版出于 2014 年，配合好莱坞大片《模仿游戏》的发行。
@@ -2293,9 +2291,9 @@ BSS 是三个人姓氏的首字母。B 是雷诺尔·布卢姆（Lenore Blum）�
 
 # 附录 2 　人工智能前史：图灵与人工智能
 
-> It is humbling to read Alan Turing's papers. He thought of it all First.
-> 阅读图灵的文章，真是令人折服。这些玩意儿，
-> 他早就想到了，没人比他更先知。
+> It is humbling to read Alan Turing's papers. He thought of it all First.  
+> 阅读图灵的文章，真是令人折服。这些玩意儿，  
+> 他早就想到了，没人比他更先知。  
 > ——Rodney Brooks（布鲁克斯 ）
 
 如果以“人工智能”（Artificial Intelligence）一词的最早出现时间来标志这一学科的诞生，那么它的生日差不多是 1955 年或 1956 年。一般人认为这是麦卡锡的原创，但麦老晚年承认他也是从别人那儿听来的，但想不起来是谁。事实上，英国人在此之前一直就有“机器智能”（Machine Intelligence）的说法。在维基百科上，“机器智能”这一词条被重定位到“人工智能”，也就是说这两个词儿是同义词。
