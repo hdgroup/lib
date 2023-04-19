@@ -37,9 +37,7 @@ keywords: 人工智能简史
 # 第 1 章　达特茅斯会议：人工智能的缘起
 
 > What is past is prologue.
-
 > 过去只是序幕。
-
 > ——William Shakespeare（莎士比亚 ）
 
 ## 1. 背景
