@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/bitcoin-resources/</loc>
+<lastmod>2022-07-31T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/the-sovereign-individual-cn/</loc>
 <lastmod>2022-08-01T00:00:00+08:00</lastmod>
 </url>
@@ -269,12 +273,32 @@
 <lastmod>2023-03-16T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/collapsing-but-not-apart/</loc>
+<lastmod>2023-04-10T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/true-believer/</loc>
 <lastmod>2023-04-10T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/a-brief-history-of-artificial-intelligence/</loc>
+<lastmod>2023-04-19T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/elon-mask/</loc>
+<lastmod>2023-04-20T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/principe/</loc>
+<lastmod>2023-04-20T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/the-master-algorithm/</loc>
+<lastmod>2023-04-21T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/wiki/template/</loc>
-<lastmod>2023-04-10T15:39:32+08:00</lastmod>
+<lastmod>2023-04-25T10:29:15+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -317,5 +341,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page7/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page8/</loc>
 </url>
 </urlset>
