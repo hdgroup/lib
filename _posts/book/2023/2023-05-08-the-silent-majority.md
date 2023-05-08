@@ -6,7 +6,7 @@ description: 王小波
 keywords: 王小波
 ---
 
-序言
+[豆瓣书评](https://book.douban.com/subject/1054685/)
 
 # 前言
 
