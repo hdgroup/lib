@@ -6,6 +6,8 @@ description: 奥威尔
 keywords: 奥威尔
 ---
 
+上下五千年 古今中外史 最简约的表达 最直白的隐喻
+
 [豆瓣书评](https://book.douban.com/subject/11533585/)
 
 # 第一章
