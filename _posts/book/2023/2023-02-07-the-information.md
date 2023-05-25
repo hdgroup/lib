@@ -6,7 +6,7 @@ description: 信息简史
 keywords: 信息简史
 ---
 
-读懂 24 个单词中的熵
+在这里读懂 24 个单词中的熵
 
 [豆瓣链接](https://book.douban.com/subject/25752043/)  
 
