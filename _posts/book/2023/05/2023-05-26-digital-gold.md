@@ -6,9 +6,7 @@ description: DigitalGold
 keywords: DigitalGold
 ---
 
-Bitcoin early history
-
-[豆瓣书评](https://book.douban.com/subject/26990640/)
+Digital Gold, Bitcoin early history
 
 # INTRODUCTION
 
