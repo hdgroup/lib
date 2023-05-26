@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Digital Gold
-categories: "Digital Gold"
-description: "Digital Gold"
-keywords: "Digital Gold"
+categories: DigitalGold
+description: DigitalGold
+keywords: DigitalGold
 ---
 
 Bitcoin early history
