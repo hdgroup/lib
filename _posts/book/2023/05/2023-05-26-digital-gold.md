@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 数字黄金
-categories: 数字黄金
-description: 数字黄金
-keywords: 数字黄金
+title: Digital Gold
+categories: "Digital Gold"
+description: "Digital Gold"
+keywords: "Digital Gold"
 ---
 
 Bitcoin early history
