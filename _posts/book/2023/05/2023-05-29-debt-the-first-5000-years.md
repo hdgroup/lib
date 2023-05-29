@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 债
+title: 债：5000 年债务史
 categories: 债
 description: 债
 keywords: 债
