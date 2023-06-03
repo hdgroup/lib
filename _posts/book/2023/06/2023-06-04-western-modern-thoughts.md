@@ -6,7 +6,7 @@ description: 刘擎西方现代思想讲义
 keywords: 刘擎西方现代思想讲义
 ---
 
-现代社会使用指南
+西方现代思想
 
 [豆瓣链接](https://book.douban.com/subject/35313227/)
 
