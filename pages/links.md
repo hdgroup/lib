@@ -14,7 +14,8 @@ permalink: /links/
 
 # Blog
 
-卢昌海 [https://www.changhai.org/](https://www.changhai.org/)
+卢昌海 [https://www.changhai.org/](https://www.changhai.org/)  
+[https://manateelazycat.github.io/](https://manateelazycat.github.io/)
 
 # Dev
 
