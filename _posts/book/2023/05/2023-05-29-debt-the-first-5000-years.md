@@ -8,7 +8,7 @@ keywords: 债
 
 货币是由物物交换发展而来的吗？
 
-[豆瓣链接](https://book.douban.com/subject/34978654/)
+[豆瓣书评](https://book.douban.com/subject/34978654/)
 
 # 推荐语
 

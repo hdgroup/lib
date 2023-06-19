@@ -8,7 +8,7 @@ keywords: 芒福德
 
 钟表是所有其他机器的最重要原型
 
-[豆瓣链接](https://book.douban.com/subject/3815282/)
+[豆瓣书评](https://book.douban.com/subject/3815282/)
 
 # 中文版序
 

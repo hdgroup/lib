@@ -6,10 +6,4 @@ description: 曼昆
 keywords: 曼昆
 ---
 
-[豆瓣链接](https://book.douban.com/subject/26435630/)  
-
-
-
-
-
-
+[豆瓣书评](https://book.douban.com/subject/26435630/)

@@ -8,7 +8,7 @@ keywords: 福柯
 
 认识世界系列
 
-[豆瓣链接](https://book.douban.com/subject/1012307/)
+[豆瓣书评](https://book.douban.com/subject/1012307/)
 
 # 学术前沿总序
 

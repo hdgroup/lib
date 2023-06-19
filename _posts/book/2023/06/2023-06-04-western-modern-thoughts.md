@@ -8,7 +8,7 @@ keywords: 刘擎西方现代思想讲义
 
 现代人脑子里的观念
 
-[豆瓣链接](https://book.douban.com/subject/35313227/)
+[豆瓣书评](https://book.douban.com/subject/35313227/)
 
 # 前言：打开一本书，开始一次思想探索之旅
 

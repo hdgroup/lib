@@ -8,7 +8,7 @@ keywords: 信息简史
 
 在这里读懂 24 个单词中的熵
 
-[豆瓣链接](https://book.douban.com/subject/25752043/)
+[豆瓣书评](https://book.douban.com/subject/25752043/)
 
 作者：【美】詹姆斯·格雷克  
 出版社：人民邮电出版社  

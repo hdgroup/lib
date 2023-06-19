@@ -8,7 +8,7 @@ keywords: 人的境况
 
 胡老师写过这本书的读书笔记，评论区和墨月仁的讨论也很精彩
 
-[豆瓣链接](https://book.douban.com/subject/35504667/)
+[豆瓣书评](https://book.douban.com/subject/35504667/)
 
 # 序言
 

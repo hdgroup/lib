@@ -8,7 +8,7 @@ keywords: 遥远的救世主
 
 蔷仔说电影推荐，电视剧天道
 
-[豆瓣链接](https://book.douban.com/subject/1322455/)
+[豆瓣书评](https://book.douban.com/subject/1322455/)
 
 遥远的救世主
 
