@@ -177,7 +177,7 @@ photosynthesis works (its sequences were unraveled only during the
 1.1](#c10752_001.xhtml#fig_001a)]{.figureLabel} Matrix of energy
 conversions. Where more possibilities exist, no more than two leading
 transformations are
-identified.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_001_fig_001.jpg)
+identified.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_001_fig_001.jpg)
 
 ## Flows, Stores, and Controls
 
@@ -267,7 +267,7 @@ distinguishing mark of their behavior.
 ![[]{#c10752_001.xhtml#fig_002}[[Figure
 1.2](#c10752_001.xhtml#fig_002a)]{.figureLabel} Chimpanzee (*Pan
 troglodytes*) in Gabon using tools to crack nuts
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_001_fig_002.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_001_fig_002.jpg)
 
 Tools have given us a mechanical advantage in the acquisition of food,
 shelter, and clothing. The mastery of fire greatly extended our range of
@@ -433,7 +433,7 @@ d'Alembert 1769--1772]). An average horse of that period could not
 sustain a steady work rate of one horsepower. James Watt used an
 exaggerated rating to ensure customers' satisfaction with his
 horsepower-denominated steam engines installed to place harnessed
-animals.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_001_fig_003.jpg)
+animals.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_001_fig_003.jpg)
 
 Another important rate is **_energy density_**, the amount of energy per
 unit mass of a resource (box 1.4). This value is of a critical
@@ -534,7 +534,7 @@ least 100 times their size to ensure a continuous supply of that fuel.
 ![[]{#c10752_001.xhtml#fig_004}[[Figure
 1.4](#c10752_001.xhtml#fig_004a)]{.figureLabel} Charcoaling in early
 seventeenth-century England as depicted in John Evelyn's *Silva*
-(1607).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_001_fig_004.jpg)
+(1607).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_001_fig_004.jpg)
 
 Yet another rate, one that has assumed great importance with advancing
 industrialization, is the **_efficiency of energy conversions_**. This
@@ -1000,7 +1000,7 @@ were hafted to wooden spears beginning about 300,000 years ago.
 2.1](#c10752_002.xhtml#fig_001a)]{.figureLabel} Acheulean stone tools,
 first made by *Homo ergaster,* were formed by the removal of stone
 flakes to create specialized cutting blades
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_001.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_fig_001.jpg)
 
 But new discoveries in South Africa put the earliest date of making
 hafted multicomponent tools about 200,000 years earlier than previously
@@ -1199,7 +1199,7 @@ perfect example of these constraints (box 2.2).
 are rich in species but relatively poor in plants that would support
 larger foraging populations. This image shows canopies at La Fortuna,
 Costa Rica
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_002.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_fig_002.jpg)
 
 ## Box 2.2 Harvesting Brazil nuts {.featuretitle}
 
@@ -1370,7 +1370,7 @@ much energy in pursuing bison.
 
 ## Box 2.5 Body masses, energy densities, and food energy content of hunted animals {.featuretitle}
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_BT2.5.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_BT2.5.png)
 
 But energy considerations alone cannot provide a full explanation of
 foraging behavior. If they were always dominant, then optimal
@@ -1497,7 +1497,7 @@ attested by their remarkable sculptures, carvings, and cave paintings
 2.3](#c10752_002.xhtml#fig_003a)]{.figureLabel} Charcoal paintings of
 animals on a wall of the Chauvet Cave in southern France. These
 remarkable likenesses were dated to between 32,900 and 30,000 years ago
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_003.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_fig_003.jpg)
 
 The highest productivities in complex foraging were associated with the
 exploitation of aquatic resources (Yesner 1980). Excavations of
@@ -1702,7 +1702,7 @@ starting with goats and sheep, followed by cattle and pigs.
 domesticated cereals. a--c. Emmer wheat (*Triticum dicoccum*), einkorn
 wheat (*Triticum monococcum*), and barley (*Hordeum vulgare*) were the
 foundation of the origins of agriculture in the Middle East
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_004.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_fig_004.jpg)
 
 The two main explanations of Europe's Neolithic transition to farming
 have been through indigenous action animated by imitation (cultural
@@ -1774,7 +1774,7 @@ Net energy cost is used to calculate returns of shifting farming. I
 assume that an average labor input requires 700 kJ/h. Outputs are edible
 harvests uncorrected for storage losses and seed needs.
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_BT2.9.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_BT2.9.png)
 
 Where scarcity of precipitation, or its long seasonal absence, made
 cropping unrewarding or impossible, nomadic pastoralism has been an
@@ -1803,7 +1803,7 @@ densities of such societies were no higher than those of foraging groups
 ![[]{#c10752_002.xhtml#fig_005}[[Figure
 2.5](#c10752_002.xhtml#fig_005a)]{.figureLabel} Maasai herder with his
 cattle
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_005.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_fig_005.jpg)
 
 ## Box 2.10 Nomadic pastoralists {.featuretitle}
 
@@ -2097,7 +2097,7 @@ coulter in front of the share to cut the roots. The efficient American
 beam plow of the mid-nineteenth-century (bottom right) had its share and
 moldboard fused into a smoothly curving steel shape. *Sources:* Hopfen
 (1969), Diderot and D'Alembert (1769--1772) and Ardrey
-(1894).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_001.jpg)
+(1894).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_001.jpg)
 
 Heavy medieval European plows had a wooden moldboard and a coulter that
 cut an edge into the soil ahead of the wrought-iron share. During the
@@ -2154,7 +2154,7 @@ the cradled one for cereal harvesting. Also shown are tools for
 hammering (straightening) and sharpening the scythes, as well as a rake
 and pitchforks. The bottom illustrations show nineteenth-century
 American grain harvesting by sickle and cradled
-scythe.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_002.jpg)
+scythe.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_002.jpg)
 
 A considerable amount of energy went into crop processing. Grain spread
 on a threshing floor was beaten with sticks or flails; sheaves were hit
@@ -2229,7 +2229,7 @@ between mature seeds of various grains are mostly less than 10% (box
 
 ## Box 3.1 Energy density and carbohydrate and protein content of principal grains {.featuretitle}
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.1.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.1.png)
 
 The bulk of cereals' food energy is in carbohydrates, present mostly as
 highly digestible polysaccharides (starches). Rising share of starches
@@ -2295,7 +2295,7 @@ individual field and farmyard tasks (box 3.2).
 
 ## Box 3.2 Labor and energy requirements in traditional farming {.featuretitle}
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.2.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.2.png)
 
 But this level of detail is not necessary for calculating approximate
 energy balances. Using a representative average of typical net energy
@@ -2537,13 +2537,13 @@ horsepower (745 W), and usually delivered between 500 and 850 W (box
 
 ## Box 3.4 Typical weights, drafts, working speeds, and power of domestic animals {.featuretitle}
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.4.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.4.png)
 
 ![[]{#c10752_003.xhtml#fig_003}[[Figure
 3.3](#c10752_003.xhtml#fig_003a)]{.figureLabel} Comparisons of animal
 draft power showing the clear superiority of horses. Plotted from data
 in Hopfen (1969), Rouse (1970), and Cockrill
-(1974).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_003.jpg)
+(1974).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_003.jpg)
 
 Actual draft requirements varied widely with the task (the extremes of
 heavy and light work might be deep plowing and harrowing) and with soil
@@ -2592,7 +2592,7 @@ Asia favored a double neck yoke.
 first, and rather inefficient, harness for working oxen. The neck yoke
 became the dominant way of harnessing cattle throughout the Old World.
 Adapted from Hopfen (1963) and from a late Ming dynasty (1637)
-illustration.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_004.jpg)
+illustration.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_004.jpg)
 
 Horses are the most powerful draft animals. Unlike cattle, whose body
 mass is almost equally divided between the front and the rear, horses'
@@ -2671,7 +2671,7 @@ number of China's working horses.
 3.5](#c10752_003.xhtml#fig_005a)]{.figureLabel} The breastband harness,
 reproduced here from the *Encylopédie* (Diderot and D'Alembert
 1769--1772), remained in use for lighter duty until the twentieth
-century.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_005.jpg)
+century.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_005.jpg)
 
 The standard collar harness consists of a single oval wooden (later also
 metal) frame (hame), lined for a comfortable fit onto horse's shoulders,
@@ -2691,7 +2691,7 @@ late nineteenth-century collar harness (based on Telleen 1977 and
 Villiers 1976)---and a variety of mid-eighteenth-century horseshoes
 (Diderot and d'Alembert 1769--1772). The shapes (starting on the left)
 are, respectively, typical English, Spanish, German, Turkish, and French
-horseshoes.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_006.jpg)
+horseshoes.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_006.jpg)
 
 An efficient harness was not the only precondition of a horse's superior
 performance, and hence its introduction did not launch an agricultural
@@ -2864,7 +2864,7 @@ crossbar or a pole, was easily made and repaired
 ![[]{#c10752_003.xhtml#fig_007}[[Figure
 3.7](#c10752_003.xhtml#fig_007a)]{.figureLabel} Nineteenth-century
 engraving of Egyptian peasants using a shaduf
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_007.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_007.jpg)
 
 Its bucket dipper was suspended from the longer arm and counterpoised by
 a large stone or a ball of dry mud. Its effective lift was usually 1--3
@@ -2887,7 +2887,7 @@ animals walking in a circle.
 3.8](#c10752_003.xhtml#fig_008a)]{.figureLabel} China's ancient "dragon
 backbone machine" was powered by peasants leaning on a pole and treading
 a spoked axle. Adapted from a late Ming dynasty
-illustration.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_008.jpg)
+illustration.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_008.jpg)
 
 All of the following devices were always powered either by animals or by
 running water. The rope and bucket lift, common in India (_monte_ or
@@ -2920,14 +2920,14 @@ water-raising devices make the limits of human performance obvious (box
 
 ## Box 3.7 Power requirements, lifts, and capacities of traditional water-lifting devices {.featuretitle}
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.7.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.7.png)
 
 ![[]{#c10752_003.xhtml#fig_009}[[Figure
 3.9](#c10752_003.xhtml#fig_009a)]{.figureLabel} Comparison of lifts,
 volumes, and power requirements of preindustrial water-raising devices
 and machines. Plotted from data in Molenaar (1956), Forbes (1965), and
 Needham and colleagues
-(1965).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_009.jpg)
+(1965).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_009.jpg)
 
 The energy cost of human-powered irrigation was extraordinarily high. A
 worker could cut a hectare of wheat with a cradle scythe in eight hours,
@@ -3317,7 +3317,7 @@ fish.
 3.10](#c10752_003.xhtml#fig_010a)]{.figureLabel} Scenes of Egyptian
 farming activities from the eighteenth dynasty (New Kingdom) tomb of
 Unsou in East Thebes
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_010.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_010.jpg)
 
 And the boy whipping the oxen tries to cheer the working animals:
 "Thresh for yourselves, thresh for yourselves. ... Chaff to eat for
@@ -3418,7 +3418,7 @@ midflow.
 3.11](#c10752_003.xhtml#fig_011a)]{.figureLabel} Small area of extensive
 longji (dragon's back) rice terraces north of Guilin in Guangxi whose
 origins go back to Yuan Dynasty (1271--1368). *Source:*
-<https://en.wikipedia.org/wiki/Longsheng_Rice_Terrace#/media>.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_011.jpg)
+<https://en.wikipedia.org/wiki/Longsheng_Rice_Terrace#/media>.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_011.jpg)
 
 Water was diverted into branch canals and its flow was regulated by
 dikes and dams. Baskets of woven bamboo filled with rocks were the main
@@ -3585,7 +3585,7 @@ density in long-term perspective. A substantial expansion of cultivated
 area during the Qing dynasty was soon overwhelmed by the country's
 continuing population growth. Density bars indicate the uncertainty of
 historical estimates. Based on data in Perkins (1969) and Smil
-(2004).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_012.jpg)
+(2004).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_012.jpg)
 
 Buck's (1937) surveys for the early 1930s indicate a national average of
 at least 5.5 people/ha of cultivated land. This was nearly as much as in
@@ -3749,7 +3749,7 @@ returns, ranging mostly between 30 and 40, were fairly high (box 3.12).
 
 ## Box 3.12 Labor requirements of European wheat harvests, 200--1800 {.featuretitle}
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.12.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.12.png)
 
 The productivity of European farming changed very slowly during the
 millennium between the demise of the Western Roman Empire and the
@@ -3825,7 +3825,7 @@ seventeenth century ([]{#c10752_003.xhtml#fig_013a}[fig.
 ranged from small, ponylike animals less than 12 hands (1.2 m) tall to
 tall (more than 16 hands), heavy beasts (weighing around 1 t). Animal
 silhouettes, based on Silver (1976), have been scaled to
-size.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_013.jpg)
+size.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_013.jpg)
 
 This explains the medieval English complaints that horses were useless
 in heavy clay soils. In contrast, the heavy draft horses of the
@@ -3907,7 +3907,7 @@ in Italy around 200 CE (box 3.13).
 
 ## Box 3.13 Energy costs and returns of European wheat harvests, 200--1800 {.featuretitle}
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.13.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.13.png)
 
 Farming intensification continued in most European countries after the
 recovery from an overproduction-induced depression in the early
@@ -3981,7 +3981,7 @@ and the twine grain harvester (made during the last decades of the
 nineteenth century in Auburn, New York). These two innovations opened up
 the American plains for large-scale grain cropping. Reproduced from
 Ardrey
-(1894).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_014.jpg)
+(1894).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_014.jpg)
 
 Advances in plowing were matched by other innovations. Seed drills and
 horse-powered threshing machines were widely used by 1850. The first
@@ -4030,7 +4030,7 @@ productivity gain in a century.
 
 ## Box 3.14 Labor requirements (human/animal) in hours/hectare and the energy cost of American wheat, 1800--1900 {.featuretitle}
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.14.png)
+![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.14.png)
 
 The first representative case (1800) is a typical New England
 cultivation on which two oxen and one to four men powered all the tasks.
@@ -4156,7 +4156,7 @@ the task ([]{#c10752_003.xhtml#fig_015a}[fig.
 American wheat cultivation during the nineteenth century can be charted
 fairly accurately on the basis of data compiled by Rogin (1931) and the
 USDA
-(1959).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_015.jpg)
+(1959).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_015.jpg)
 
 The gradual intensification of traditional farming achieved by the
 substitution of human labor by animal draft increased productivity, but
@@ -4208,7 +4208,7 @@ Netherlands, but marginal in France, while in the United States the
 westward expansion of wheat farming to the drier interior had actually
 resulted in declining average yields. Plotted from data in USDA (1955),
 USBC (1975), Stanhill (1976), Clark (1991), and Palgrave Macmillan
-(2013).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_016.jpg)
+(2013).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_016.jpg)
 
 Energy returns increased a bit faster as an average hour of late
 nineteenth-century field work called for less physical exertion than the
@@ -4331,7 +4331,7 @@ China, the basin of Mexico, and Europe, 2500 BCE--1900 CE. Calculations
 are based on estimates and data in Perkins (1969), Mitchell (1975),
 Butzer (1976), Waterbury (1979), Richards (1990), and Whitmore and
 co-workers
-(1990).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_017.jpg)
+(1990).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_017.jpg)
 
 ### Nutrition
 
@@ -4577,7 +4577,7 @@ come.
 cultivation in late nineteenth-century Europe. In this photograph, taken
 by I. K. Inha in 1892 in Eno, Finland, women clear-burn slopeland before
 it is plowed and planted with a grain or root
-crop.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_018.jpg)
+crop.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_fig_018.jpg)
 
 The expansion of cropping required additional labor to open up new
 farmland---but in most instances this one-time energy investment was a
@@ -4762,7 +4762,7 @@ waterwheels whose rotary power was transferred by connecting rods
 (middle). Tilt-hammers at a nineteenth-century English foundry were
 high-performance, adjustable machines (bottom). Reproduced from drawings
 in Needham (1965) and Reynolds
-(1970).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_001.jpg)
+(1970).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_001.jpg)
 
 Similar comparisons can be made for every class of water- and
 wind-powered prime movers. What a difference there is between rough-hewn
@@ -5005,7 +5005,7 @@ and moving objects and in machinery construction. A detail from a
 partially reconstructed Assyrian bas-relief at Kuyunjik (about 700 BCE)
 shows a large lever used to move a giant statue of a winged bull with a
 man's head. Reproduced from Layard
-(1853).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_002.jpg)
+(1853).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_002.jpg)
 
 Common hand tools using levers of the first class are crowbars,
 scissors, and (a double lever) pliers. Wheelbarrows have been among the
@@ -5083,7 +5083,7 @@ building materials with Archimedean potential pulley (D) could lift
 (ignoring friction) a 200 kg stone with a force of only 25 kg, but a
 lift of 10 m will require pulling 80 m of the counterweight cord. A
 ratchet and pawl can be used to interrupt this effort
-anytime.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_003.jpg)
+anytime.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_003.jpg)
 
 The ancient Chinese were such frequent users of pulleys that even palace
 entertainments could not do without them, and once a whole corps de
@@ -5126,14 +5126,14 @@ horizontal windlass (left) and a crank (right) to lift water from a
 shaft. A heavy wooden wheel, sometimes with pieces of lead fastened to
 its spokes, helped to conserve the momentum and make the lifting easier.
 Reproduced from Agricola, *De re metallica* (1912
-[1556]).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_004.jpg)
+[1556]).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_004.jpg)
 
 ![[]{#c10752_004.xhtml#fig_005}[[Figure
 4.5](#c10752_004.xhtml#fig_005a)]{.figureLabel} Eight men rotating a
 large vertical capstan in a mid-eighteenth-century French workshop. The
 capstan winds a cord fastened to pincers, drawing a gold wire through a
 die. Reproduced from the *Encyclopédie* (Diderot and d'Alembert
-1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_005.jpg)
+1769--1772).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_005.jpg)
 
 This limitation was eliminated by using a crank to power a large wooden
 or iron wheel (the great wheel) that was independently mounted on a
@@ -5155,7 +5155,7 @@ by a crank, used to turn a metalworking lathe. The smaller wheel was
 used for working with larger diameters, and vice versa. In the
 background of this image a man works on a foot-powered lathe machining
 wood. Reproduced from the *Encyclopédie* (Diderot and d'Alembert
-1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_006.jpg)
+1769--1772).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_006.jpg)
 
 Deployment of the body's largest back and leg muscles on treadwheels
 delivered much more useful power than hand-turned rotaries. The largest
@@ -5174,7 +5174,7 @@ pump water ([]{#c10752_004.xhtml#fig_007a}[fig.
 with different torque. a. Internal treadwheel. b. External treadwheel
 (maximum torque). c. Inclined treadwheel. Reproduced from Agricola, *De
 re metallica* (1912
-[1556]).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_007.jpg)
+[1556]).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_007.jpg)
 
 The difference between the radius of the wheel and the radius of the
 axle drum gave these treadwheels a large mechanical advantage, and they
@@ -5216,7 +5216,7 @@ monotonous physical work can be comfortable."
 ![[]{#c10752_004.xhtml#fig_008}[[Figure
 4.8](#c10752_004.xhtml#fig_008a)]{.figureLabel} Prisoners on a treadmill
 at the Brixton House of Correction
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_008.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_008.jpg)
 
 All types of treadwheels could be also designed or adjusted for animal
 operation. All drumlike devices had the added advantage of relatively
@@ -5430,7 +5430,7 @@ a maximum power above 3.5 kW.
 waterwheel, also called the Greek or Norse wheel. The wheel was powered
 by the impact of running water and rotated directly the runner stone
 above. Reproduced from Ramelli (1976
-[1588]).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_009.jpg)
+[1588]).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_009.jpg)
 
 Vertical wheels supplanted the horizontal machines because of their
 superior efficiency. They turned the millstones by right-angle gears,
@@ -5473,7 +5473,7 @@ with backs to prevent water shooting over the floats.
 undershot wheel running a French royal paper mill (top) and of an
 overshot wheel powering ore-washing machinery in a French forge
 (bottom). Reproduced from the *Encyclopédie* (Diderot and d'Alembert
-1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_010.jpg)
+1769--1772).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_010.jpg)
 
 ## Box 4.5 Power of undershot wheels {.featuretitle}
 
@@ -5733,7 +5733,7 @@ useful power. The wheel worked until 1926 and was restored after 1965
 ![[]{#c10752_004.xhtml#fig_011}[[Figure
 4.11](#c10752_004.xhtml#fig_011a)]{.figureLabel} The Great Laxey
 waterwheel after restoration
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_011.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_011.jpg)
 
 But the era of giant waterwheels was short-lived. Just as these machines
 were being built during the first half of the nineteenth century, the
@@ -5818,7 +5818,7 @@ balanced was held up by four quarter-bars attached to massive
 cross-trees. Windmill rotations were transferred to the millstone by a
 lantern-and-crown gear and the only access was by ladder. Reproduced
 from the *Encyclopédie* (Diderot and d'Alembert
-1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_012.jpg)
+1769--1772).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_012.jpg)
 
 ## Box 4.8 Wind energy and power {.featuretitle}
 
@@ -5923,7 +5923,7 @@ During the last decade of the nineteenth century, Halladay windmills
 were the most popular American brand. They were a common sight at
 western railway stations, where they pumped water for steam locomotives.
 Reproduced from Wolff
-(1900).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_013.jpg)
+(1900).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_013.jpg)
 
 We have no information on the capacities of early windmills. The first
 reliable experimental measurements date from the late 1750s, when John
@@ -6105,7 +6105,7 @@ more than enough to melt even iron ores (Smil 2013a).
 started with leveling the ground and setting up the central pole; cut
 wood was stacked around it and covered up by clay before ignition.
 Reproduced from the *Encyclopédie* (Diderot and d'Alembert
-1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_014.jpg)
+1769--1772).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_014.jpg)
 
 The harvesting of wood for fuel (as well as for construction and
 shipbuilding) led to widespread deforestation, and the cumulative effect
@@ -6247,7 +6247,7 @@ Bangladeshi households are still using dung for cooking (Behera et al.
 ![[]{#c10752_004.xhtml#fig_015}[[Figure
 4.15](#c10752_004.xhtml#fig_015a)]{.figureLabel} Rows and piles of cow
 patties left to dry in Varanasi, Uttar Pradesh, India
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_015.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_015.jpg)
 
 ## Household Needs
 
@@ -6469,7 +6469,7 @@ place during the day (Hommel 1937).
 hypocaust (with the skeleton of a dog killed by fumes) displayed at
 Homburg-Schwarzenacker Roman Museum in Saarland. Photograph courtesy of
 Barbara F.
-McManus.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_016.jpg)
+McManus.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_016.jpg)
 
 Yates (2012) did a detailed engineering analysis of this traditional
 bed-stove (or heat exchanger) and offered suggestions for improving its
@@ -6711,7 +6711,7 @@ m tall, weighing more than 50 t) alabaster statue of Dje­hutyhotep, Great
 Chief of the Hare Nome (Osirisnet 2015). The drawing reconstructs a
 damaged wall painting in the tomb of Djehutyhotep at the site of
 el-Bersheh, Egypt
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_017.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_017.jpg)
 
 Inca builders used enormous irregular stone polygons whose smoothed
 sides were fitted with amazing precision. Pulling a 140 t stone, the
@@ -6886,7 +6886,7 @@ omnibuses (first in London in 1829), and delivery wagons ([fig.
 *Illustrated London* *News* of November 16, 1872, captures perfectly the
 high density of horse-drawn traffic (hansom cabs, omnibuses, heavy
 wagons) in the rapidly industrializing cities of late nineteenth-century
-Europe.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_018.jpg)
+Europe.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_018.jpg)
 
 The stabling of the animals in mews and the provision and storage of hay
 and straw made an enormous demand on urban space (McShane and Tarr
@@ -6927,7 +6927,7 @@ leading to the velocipedes of the 1860s. Subsequent design regression
 led to huge front wheels and plenty of accidents. Only the late 1880s
 brought the safety, efficiency, and simplicity of the modern bicycle.
 Adapted from Byrn
-(1900).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_019.jpg)
+(1900).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_019.jpg)
 
 Improved bicycles equipped with lights, various load carriers, and
 tandem seats became common for commuting, shopping, and recreation in a
@@ -6978,7 +6978,7 @@ Coates 1986; Morrison, Coates, and Rankov 2000).
 plan, and cross section of the reconstructed Greek trireme *Olympias*.
 Six files arranged in a V shape accommodate 170 rowers, and the topmost
 oars have their pivots on outriggers. Based on Coates
-(1989).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_020.jpg)
+(1989).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_020.jpg)
 
 Larger ships---quadriremes, quinquiremes, and so on---followed in rapid
 succession after Alexander's death in 323 BCE. As there is no indication
@@ -7118,7 +7118,7 @@ Melanesia (i), the Indian Ocean (j), and Europe (k, l). Masts and all
 supporting structures (booms, sprits, gaffs) are drawn with thicker
 lines, and the sails are not shown to scale. Based on Needham and
 co-workers (1971) and White
-(1984).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_021.jpg)
+(1984).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_021.jpg)
 
 Ships with fore-and-aft rigging had sails aligned with the vessel's long
 axis, and their masts were pivots for the sails to swing around and to
@@ -7170,7 +7170,7 @@ clipper, was rigged with triangular jibs fore, a spanker aft, and lofty
 main royal and skysails. Simplified outlines are based on images in
 Armstrong (1969), Daumas (1969), and Needham and co-workers (1971) and
 are drawn to
-scale.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_022.jpg)
+scale.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_022.jpg)
 
 > was essentially a compact device that allowed a relatively small crew
 > to master unparalleled masses of inanimate energy for movement and
@@ -7412,7 +7412,7 @@ Giza, Pyramid of the Sun at Teotihuacan, the Jetavana stupa at
 Anuradhapura, and the Choga Zanbil ziggurat at Elam. Detailed
 information about these structures is available in Bandaranayke (1974),
 Tompkins (1976), and Ching, Jarzombek, and Prakash
-(2011).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_023.jpg)
+(2011).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_023.jpg)
 
 The largest pyramid, the pharaonic tomb of Khufu of the Fourth Dynasty,
 best embodies all these qualities. Built of nearly 2.5 million stones
@@ -7653,7 +7653,7 @@ bridges, and inverted lead-pipe siphons to take water across deep
 valleys. Rome's aqueducts, supplying about 1 Mm^3^/day of water, formed
 an impressive system built over a period of more than 500 years. Based
 on Ashby (1935) and Smith (1978). Aqueduct slope is
-exaggerated.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_024.jpg)
+exaggerated.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_024.jpg)
 
 Starting with the Aqua Appia in 312 BCE, the water supply system
 eventually comprised 11 lines, totaling almost 500 km (Ashby 1935; Hodge
@@ -7974,7 +7974,7 @@ of coke.
 furnace of the mid-eighteenth century, with bellows powered by an
 overshot waterwheel. Reproduced from the *Encyclopédie* (Diderot and
 d'Alembert
-1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_025.jpg)
+1769--1772).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_025.jpg)
 
 Medieval bloomery hearths needed 3.6--8.8 times more fuel than the mass
 of the charged ore (Johannsen 1953). Even with ores containing about 60%
@@ -8214,7 +8214,7 @@ limited damage to city walls, however.
 
 ![[]{#c10752_004.xhtml#fig_026}[[Figure
 4.26](#c10752_004.xhtml#fig_026a)]{.figureLabel} Roman catapults
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_026.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_026.jpg)
 
 In contrast, trebuchets, invented in China before the third century BCE,
 were first-class levers with beams that pivoted around an axle and a
@@ -8322,7 +8322,7 @@ category of strategic matériel until the end of World War II.
 4.27](#c10752_004.xhtml#fig_027a)]{.figureLabel} Soviet cavalry in Red
 Square, Moscow, on November 7, 1941, a week before the start of the
 German offensive to reach Moscow
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_027.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_027.jpg)
 
 ### Explosives and Guns
 
@@ -8676,7 +8676,7 @@ accurate appraisal of actual physical exertion (box 5.2).
 ![[]{#c10752_005.xhtml#fig_001}[[Figure
 5.1](#c10752_005.xhtml#fig_001a)]{.figureLabel} Coal carriers in a
 Scottish mine in the early nineteenth century
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_001.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_001.jpg)
 
 ## Box 5.2 _An Inquiry Into the Condition of the Women Who Carry Coals Under Ground in Scotland, Known by the Name of BEARERS_ {.featuretitle}
 
@@ -8947,7 +8947,7 @@ to its lower right side. b. In Watt's engine, built in 1788, the boiler
 was placed in a separate enclosure, the cylinder was enveloped by an
 insulating steam jacket, and a separate condenser was connected to an
 air pump maintaining vacuum. Reproduced from Farey
-(1827).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_002.jpg)
+(1827).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_002.jpg)
 
 Newcomen's engines began to spread to English mines after 1750, but
 their poor performance could be tolerated only with on-site access to
@@ -9086,7 +9086,7 @@ _Clermont_, in the United States.
 Colliery was a typical English coal mine of the early steam engine era.
 The mine's steam engine was housed in the building with a stack and
 powered the winding and ventilation machinery. Reproduced from Hair
-(1844).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_003.jpg)
+(1844).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_003.jpg)
 
 All early rivergoing ships were propelled by paddle wheels (astern or
 amidship), as were still fully rigged ships for sea travel. The first
@@ -9123,7 +9123,7 @@ cylinders on each side that moved the wheels by short connecting rods,
 and an efficient multitube boiler. Standard American designs have
 dominated U.S. railways since the mid-1850s. The streamlined German
 Borsig design reached 191.7 km/h in 1935. Based on Byrn (1900) and Ellis
-(1983).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_004.jpg)
+(1983).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_004.jpg)
 
 Starting with the first 56 km intercity link, between Liverpool and
 Manchester, in 1830, British railroads reached about 30,000 km by 1900,
@@ -9170,7 +9170,7 @@ pressures, from 14 kPa to 1.4 MPa.
 5.5](#c10752_005.xhtml#fig_005a)]{.figureLabel} Rising power and
 improving efficiency of the best steam engines, 1700--1930. Plotted from
 data in Dickinson (1939) and von Tunzelmann
-(1978).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_005.jpg)
+(1978).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_005.jpg)
 
 These advances---combined with the engine's suitability for many
 manufacturing, construction, and transportation uses, owing to its
@@ -9368,7 +9368,7 @@ Maracaibo's coast began deliveries in 1914.
 ![[]{#c10752_005.xhtml#fig_006}[[Figure
 5.6](#c10752_005.xhtml#fig_006a)]{.figureLabel} Oil gushing from the
 Spindletop well near Beaumont, Texas, in January 1901
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_006.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_006.jpg)
 
 Most of these discoveries were hydrocarbon fields containing both crude
 oil and associated natural gas, but gas was rarely used during the early
@@ -9468,7 +9468,7 @@ marquee that has lost little of its appeal 125 years later.
 5.7](#c10752_005.xhtml#fig_007a)]{.figureLabel} The Mercedes 35,
 designed by Wilhelm Maybach and Paul Daimler in 1901. Photograph from
 the Daimler
-website.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_007.jpg)
+website.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_007.jpg)
 
 DMG may have embodied the highest car quality, but at the beginning of
 the twentieth century it was typical in its focus on affluent market.
@@ -9544,7 +9544,7 @@ inform Press home Christmas" (World Digital Library 2014).
 self-propelled machine heavier than air at Kitty Hawk, North Carolina,
 at 10:35 a.m. on December 17, 1903, with Orville Wright at the controls.
 Library of Congress
-photograph.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_008.jpg)
+photograph.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_008.jpg)
 
 The patent (U.S. 821,393) was granted only in May 1906, and it was
 widely infringed as designers in many countries began to build their
@@ -9691,7 +9691,7 @@ the answer he discovered (box 5.9).
 ![[]{#c10752_005.xhtml#fig_009}[[Figure
 5.9](#c10752_005.xhtml#fig_009a)]{.figureLabel} Michael Faraday.
 Wellcome Library, London,
-photograph.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_009.jpg)
+photograph.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_009.jpg)
 
 ## Box 5.9 Faraday's discovery of electromagnetic induction {.featuretitle}
 
@@ -9855,7 +9855,7 @@ outcome of a purposeful systems approach."
 5.10](#c10752_005.xhtml#fig_010a)]{.figureLabel} Thomas A. Edison in
 1882, the year his first coal-fired electricity-generating station began
 operating in lower Manhattan. Library of Congress
-photograph.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_010.jpg)
+photograph.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_010.jpg)
 
 This remains undeniable: Edison was an exceptionally inventive and
 hard-driving man (his mental commitment was surpassed only by his
@@ -10077,7 +10077,7 @@ engines.
 ![[]{#c10752_005.xhtml#fig_011}[[Figure
 5.11](#c10752_005.xhtml#fig_011a)]{.figureLabel} Nikola Tesla in 1890.
 Photograph by Napoleon
-Sarony.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_011.jpg)
+Sarony.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_011.jpg)
 
 The first commercially successful small DC electric motor (thousands
 were sold) was also powered by a bulky battery and patented by Edison in
@@ -10266,7 +10266,7 @@ fuels rose from just 534 Mt C in 1900 to 1.63 Gt in 1950, 6.77 Gt in
 ![[]{#c10752_005.xhtml#fig_012}[[Figure
 5.12](#c10752_005.xhtml#fig_012a)]{.figureLabel} Decarbonization of the
 world's primary energy supply, 1900--2010. Plotted from data in Smil
-(2014b).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_012.jpg)
+(2014b).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_012.jpg)
 
 The generation of electricity has combined technical improvements with
 large-scale spatial expansion, with the latter process surprisingly
@@ -10349,7 +10349,7 @@ the country's coal dependence by 1980.
 5.13](#c10752_005.xhtml#fig_013a)]{.figureLabel} British coal
 production, 1700--2015. Plotted from data in Nef (1932) and Department
 of Energy & Climate Change
-(2015).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_013.jpg)
+(2015).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_013.jpg)
 
 During a long coal miners' strike of 1984 the total output fell to 51
 Mt, and then recovered only brief before resuming its fall which
@@ -10599,7 +10599,7 @@ conflicts and chronic political instability (BP 2016).
 5.14](#c10752_005.xhtml#fig_014a)]{.figureLabel} Wells of al-Burqan
 oilfield (on the right, eastern, side of the image) were set on fire by
 the retreating Iraqi army in 1991. Image produced on April 7,1991 by
-earthobservatory.nasa.gov.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_014.jpg)
+earthobservatory.nasa.gov.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_014.jpg)
 
 For decades, natural gas remained a minor contributor to global energy
 supply: in 1900 it supplied merely 1% of all fossil energies and by 1950
@@ -10696,7 +10696,7 @@ deliver uninterrupted power during emergencies.
 steam turbogenerators and the efficiencies of the best thermal power
 plants, 1900--2000. Plotted from data in Dalby (1920), Termuehlen
 (2001), and Smil
-(2008a).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_015.jpg)
+(2008a).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_015.jpg)
 
 The expansion of utilities from urban to national systems began slowly
 after World War I and accelerated after World War II; it has included
@@ -10961,7 +10961,7 @@ installations (total capacity of less than 5 GW) were operating by 2015.
 ![[]{#c10752_005.xhtml#fig_016}[[Figure
 5.16](#c10752_005.xhtml#fig_016a)]{.figureLabel} Lucaneina de las Torres
 photovoltaic power plant in Spanish Andalusia
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_016.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_016.jpg)
 
 Compared to the big four, biofuels, hydro, wind, and PV electricity,
 other renewable conversions remain negligible on the global scale,
@@ -11073,7 +11073,7 @@ powering large Boeing and Airbus planes now weigh less than 0.1 g/W, a
 100-fold improvement compared to the Wrights' pioneering piston design.
 Engines in military jets are lighter still. Plotted from data in
 Constant (1981, Gunston (1986), Taylor (1989), and Smil
-(2010b).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_017.jpg)
+(2010b).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_017.jpg)
 
 Rapid development of the new prime mover followed after 1945. The speed
 of sound was surpassed for the first time on October 14, 1947, with the
@@ -11126,7 +11126,7 @@ oddity. The Boeing 747 (in service since 1969) was the first wide-body
 long-haul aircraft. For comparison with these scaled drawings the Wright
 brothers' plane and its total flight path on December 7, 1903, are
 shown. Based on Boeing and Aerospatiale/BAe publications and on Jakab
-(1990).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_018.jpg)
+(1990).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_018.jpg)
 
 The only prime movers that can deliver more power per unit of weight
 than gas turbines are the rocket engines launching missiles and space
@@ -11246,7 +11246,7 @@ century (Smil 2000a, 2003, 2010a; BP 2015;
 principal fossil fuels: global totals and annual outputs for the largest
 producers. Plotted from data in United Nations Organization (1956), Smil
 (2010a), and BP
-(2015).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_001.jpg)
+(2015).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_001.jpg)
 
 Coal mining grew 100-fold, from 10 Mt to 1 Gt, between 1810 and 1910; it
 reached 1.53 Gt in 1950, 4.7 Gt in the year 2000, and 8.25 Gt in 2015
@@ -11347,7 +11347,7 @@ just before the end of the nineteenth century (left). Increase of useful
 energy was more than twice as high as the increase of the total primary
 supply (right). Plotted from data in United Nations Organization (1956)
 and Smil (1983,
-2010a).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_002.jpg)
+2010a).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_002.jpg)
 
 Surges in energy use raised average per capita consumption levels to
 unprecedented heights ([]{#c10752_006.xhtml#fig_003a}[fig.
@@ -11372,7 +11372,7 @@ by growing shares of energy used by households, industries, and
 transportation. Pre-nineteenth-century values are only approximations
 based on Smil (1994, 2010c) and Malanima (2013a); later figures are
 taken from specific national statistical
-sources.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_003.jpg)
+sources.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_003.jpg)
 
 Afterward came a pronounced differentiation among the industrializing
 nations and countries and those whose economies remained largely
@@ -11424,7 +11424,7 @@ late-nineteenth-century steam locomotive (top) and piloting a Boeing
 jetliner (bottom). The two pilots control two orders of magnitude more
 power than did the stoker and the engineer in their locomotive.
 Locomotive from VS archive; Boeing cockpit from
-<http://wallpapersdesk.net/wp-content/uploads/2015/08/2931_boeing_747.jpg>.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_004.jpg)
+<http://wallpapersdesk.net/wp-content/uploads/2015/08/2931_boeing_747.jpg>.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_004.jpg)
 
 This concentration of power also demands much greater safety precautions
 because of the inevitable consequences of errors in control. Drivers
@@ -11480,7 +11480,7 @@ Hydroelectricity and nuclear generation remain, respectively, in the
 second and third places, while wind and solar electricity have seen
 rapid post-2000 gains (right). Plotted from data in United Nations
 Organization (1956), Palgrave Macmillan (2013), and BP
-(2015).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_005.jpg)
+(2015).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_005.jpg)
 
 No gain enabled by this new power has been more fundamental than the
 substantial rise in global food production, which has made it possible
@@ -11640,7 +11640,7 @@ of the global energy supply (Smil 2014b).
 in the global production of nitrogenous fertilizers (left) has been
 accompanied by an impressive decline in the energy costs of ammonia
 synthesis (right). Plotted from data in Smil (2001, 2015b) and FAO
-(2015a).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_006.jpg)
+(2015a).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_006.jpg)
 
 No other energy use offers such a payback as higher crops yields
 resulting from the use of synthetic nitrogen: by spending roughly 1% of
@@ -11704,7 +11704,7 @@ Or, skipping the numbers, we could simply say, with Howard Odum (1971,
 indirect) energy subsidies in modern farming (top), total harvests and
 rising wheat yields (bottom). Plotted from data in Smil (2008b),
 Palgrave Macmillan (2013), and FAO
-(2015a).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_007.jpg)
+(2015a).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_007.jpg)
 
 > A whole generation of citizens thought that the carrying capacity of
 > the earth was proportional to the amount of land under cultivation and
@@ -11979,7 +11979,7 @@ Cumbria, showing the typical arrangement of overhead belts transmitting
 power from a large steam engine to individual machines. The mill
 produced wooden bobbins used by Lancashire's spinning and weaving
 industries
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_008.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_008.jpg)
 
 The first electric motors powered shorter shafts for smaller groups of
 machines. After 1900 unit drives rapidly became the norm. Between 1899
@@ -12102,7 +12102,7 @@ blast furnaces, 1830--2004. The principal trends have included taller
 and wider stacks, larger hearths, and lower and steeper boshes. The
 largest furnaces now produce more than 15,000 t of hot metal a day.
 Reproduced from Smil
-(2016).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_009.jpg)
+(2016).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_009.jpg)
 
 Similarly, steelmaking techniques have become more efficient, not only
 because of reduced energy use but also because of the rising product
@@ -12305,7 +12305,7 @@ not even qualify as a modern high-speed train.
 6.10](#c10752_006.xhtml#fig_010a)]{.figureLabel} Shinkansen N700 Series
 at Kyoto Station in 2014, the 50th year of accident-free operation of
 Japan's rapid trains on the Tokaido line. Photograph by V.
-Smil.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_010.jpg)
+Smil.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_010.jpg)
 
 If the count starts from the introduction of the first practical
 gasoline engines in the late 1880s, then the second transportation
@@ -12330,7 +12330,7 @@ during the late 1980s, but the country still has the highest rate of
 ownership, about 1.25 people per vehicle in 2010 (right). Plotted from
 data in annual reports of the Motor Vehicle Manufacturers Association
 and World Bank
-(2015b).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_011.jpg)
+(2015b).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_011.jpg)
 
 The economic, social, and environmental changes brought by cars rank
 among the most profound transformations of the modern era (Ling 1990;
@@ -12462,7 +12462,7 @@ Europe and North America grew in size (left) and became equipped with
 more powerful engines, the time needed to cross the Atlantic was cut
 from more than two weeks to just over three days (right). Plotted from
 data in Fry (1896), Croil (1898), and Stopford
-(2009).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_012.jpg)
+(2009).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_012.jpg)
 
 The opulence of these great liners contrasted with the crowding, smells,
 and tedium of steerage passages. By 1890 steamships carried more than
@@ -12512,7 +12512,7 @@ km (right). The Concorde, flying at over twice the speed of sound, was a
 costly exception, not a precursor to a new generation of fast planes.
 Plotted from data in Taylor (1989) and Gunston (2002) and from technical
 specifications on the Boeing corporate
-website.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_013.jpg)
+website.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_013.jpg)
 
 ## Box 6.7 Boeing and Airbus {.featuretitle}
 
@@ -12665,7 +12665,7 @@ formulation of the theory of electromagnetism opened the way to the
 still unfolding exploits of modern wireless electronics that have
 brought inexpensive instant communication and global connectivity: the
 e-world of the twenty-first century rests on Maxwell's
-insights.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_014.jpg)
+insights.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_014.jpg)
 
 Regular radio broadcasts started in 1920. BBC offered the first
 scheduled television service in 1936, and RCA followed suit in 1939
@@ -12786,7 +12786,7 @@ operation. The first commercially available microchip (Intel 4004) had
 2,250 metal-oxide semiconductor transistors, while the latest designs
 have more than ten billion components, an increase of six orders of
 magnitude. Plotted from data in Smil (2006) and Intel
-(2015).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_015.jpg)
+(2015).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_015.jpg)
 
 The universal deployment of these increasingly powerful microprocessors
 in conjunction with increasingly capacious memory devices has affected
@@ -12827,7 +12827,7 @@ only during the late 1990s, and Apple's iPad was introduced in 2010.
 revolutionary: the Xerox Alto desk computer, released in 1973, was the
 first nearly complete embodiment of the basic features characteristic of
 all later PCs (Wikimedia
-photograph).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_016.jpg)
+photograph).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_016.jpg)
 
 Communication using computers was first proposed in 1962 by J.C.R.
 Licklider, the first director of the Pentagon's Advanced Research
@@ -13115,7 +13115,7 @@ than from technical advances.
 6.17](#c10752_006.xhtml#fig_017a)]{.figureLabel} A declining energy
 intensity of the GDP has been a universal feature of maturing economies.
 Based on data in Smil 2003 and USEIA
-2015d.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_017.jpg)
+2015d.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_017.jpg)
 
 The most important lesson to be drawn from looking at long-term trends
 of per capita energy use and economic growth is that respectable rates
@@ -13405,7 +13405,7 @@ less than 5% of all commercial energies
 Nairobi's largest slums (Corbis). Kenya's per capita use of modern
 energies averages about 20 GJ/year, but slum dwellers in Africa and Asia
 consume as little as 5 GJ/year, or less than 2% of the U.S.
-mean.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_018.jpg)
+mean.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_018.jpg)
 
 By 2015, thanks to China's rapid economic growth, the share of the
 global population consuming more than 2 t of oil equivalents jumped to
@@ -13603,7 +13603,7 @@ single-room wall units ([]{#c10752_006.xhtml#fig_019a}[fig.
 ![[]{#c10752_006.xhtml#fig_019}[[Figure
 6.19](#c10752_006.xhtml#fig_019a)]{.figureLabel} A Shanghai high-rise
 apartment building with air conditioners for virtually every room
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_019.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_019.jpg)
 
 Modern societies have elevated economic growth, and hence rising energy
 use, to the level of unquestioned desiderata, implicitly assuming that
@@ -13665,7 +13665,7 @@ ownership of multiple expensive vehicles, and frequent flying.
 6.20](#c10752_006.xhtml#fig_020a)]{.figureLabel} Average per capita
 energy consumption and the human development index in 2010. Plotted from
 data in UNDP (2015) and World Bank
-(2015a).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_020.jpg)
+(2015a).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_020.jpg)
 
 More remarkably, America's high energy use has been accompanied by
 quality-of-life indicators that are inferior not only when compared with
@@ -14095,7 +14095,7 @@ died. For comparison, the totally destroyed area in Hiroshima was about
 ![[]{#c10752_006.xhtml#fig_021}[[Figure
 6.21](#c10752_006.xhtml#fig_021a)]{.figureLabel} Aftermath of Tokyo
 bombing of March 1945
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_021.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_021.jpg)
 
 The Hiroshima bomb released 63 TJ of energy, about half of it as the
 blast and 35% as thermal radiation (Malik 1985). These two effects
@@ -14551,7 +14551,7 @@ forcing (box 6.18).
 ![[]{#c10752_006.xhtml#fig_022}[[Figure
 6.22](#c10752_006.xhtml#fig_022a)]{.figureLabel} Atmospheric CO~2~
 measured at Mauna Loa Observatory in Hawaii (NOAA
-2015).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_022.jpg)
+2015).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_022.jpg)
 
 ## Box 6.18 Greenhouse gases and rising tropospheric temperature {.featuretitle}
 
@@ -14824,7 +14824,7 @@ and the rapid post-1800 adoption of engines and turbines are the three
 most remarkable features in the history of prime movers. Approximate
 ratios are estimated and calculated from a wide variety of sources cited
 in this
-book.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_001.jpg)
+book.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_001.jpg)
 
 A remarkable dichotomy characterized the use of human labor in all
 ancient civilizations. In contrast to its massed deployment to
@@ -14877,7 +14877,7 @@ of traditional prime movers remained limited even after the adoption of
 larger waterwheels at the beginning of the early modern era. The change
 came only with steam engines of the nineteenth century. Maximum
 capacities are plotted from prime mover--specific sources cited in this
-book.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_002.jpg)
+book.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_002.jpg)
 
 ## Box 7.1 Persistence of animate power {.featuretitle}
 
@@ -15042,7 +15042,7 @@ energy supply during the past 3,000 years (top). Reasonably accurate
 statistics reveal successive waves of slow energy transitions (bottom):
 by 2010 crude oil was the leading fossil fuel, but coal and natural gas
 were not far behind. Plotted from data in UNO (1956) and Smil
-(2010a).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_003.jpg)
+(2010a).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_003.jpg)
 
 My reconstruction of global energy transitions shows coal (replacing
 wood) reaching 5% of the global market around 1840, 10% by 1855, 15% by
@@ -15109,7 +15109,7 @@ most powerful prime movers, and steam turbines have been the most
 powerful prime movers ever since the second decade of the twentieth
 century. Plotted from data cited in the sections concerning specific
 prime
-movers.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_004.jpg)
+movers.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_004.jpg)
 
 A different perspective is gained by looking at total prime mover
 capacities. After 1700 the basic global pattern can be reasonably
@@ -15140,7 +15140,7 @@ with greater detail and accuracy. The global rates were estimated and
 plotted from data in UNO (1956), Smil (2010a), and Palgrave Macmillan
 (2013); the bottom graph was plotted from data in USBC (1975) and from
 subsequent issues of *The Statistical Abstract of the United
-States*.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_005.jpg)
+States*.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_005.jpg)
 
 Two important general trends have accompanied the growth of unit power
 of inanimate prime movers and the accumulation of their total capacity:
@@ -15163,7 +15163,7 @@ steady decline in the weight/power ratio of leading prime movers means
 that the best internal combustion engines now weigh less than 1/1,000 of
 what the equally powerful draft animals or early steam engines weighed.
 Plotted from data cited throughout this
-book.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_006.jpg)
+book.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_006.jpg)
 
 The mass/power ratio of internal combustion engines (first gasoline
 engines, then diesels) declined by two orders of magnitude in less than
@@ -15239,7 +15239,7 @@ pre-railway era to well over 100 km/h after just a few decades of better
 locomotive designs. Modern rapid trains commonly travel at 200--300 km/h
 and jetliners cruise at speeds just above 900 km/h. Plotted from data in
 numerous references cited in the book's sections dealing with
-transportation.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_007.jpg)
+transportation.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_007.jpg)
 
 On land, this mechanical evolution has recently peaked with multi-axle
 trucks, unit trains (carrying up to 10,000 t of bulk materials), and
@@ -15624,7 +15624,7 @@ of major energy eras (identified by principal fuels and prime movers)
 with innovation clusters according to Mensch (1979) and with
 Schumpeter's (1939) long waves of Western business cycles. I have
 extended both waves to the year
-2000.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_008.jpg)
+2000.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_008.jpg)
 
 Subsequent extensions of these long cycles work quite well. The postwar
 economic upswing was associated with the global substitution of
@@ -15743,7 +15743,7 @@ throwing, or hitting assorted balls?
 ![[]{#c10752_007.xhtml#fig_009}[[Figure
 7.9](#c10752_007.xhtml#fig_009a)]{.figureLabel} Saint Peter's Basilica
 completed in 1626
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_009.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_009.jpg)
 
 More important, modern societies have carried this quest for variety,
 leisure pastimes, ostentatious consumption, and differentiation through
@@ -16048,7 +16048,7 @@ skyscraper-dominated downtowns, an extensive suburbia.
 megalopolis, São Paulo, photographed in 2013. Megacities are the
 foremost examples of global uniformity imposed by high levels of fuel
 and electricity use
-(Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_010.jpg)
+(Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_010.jpg)
 
 As they perform the same functions, their outward physical appearance
 must be identical or very similar, and the construction and management
@@ -16523,7 +16523,7 @@ buildings, or the drive and melancholy of Rachmaninov's music.
 7.11](#c10752_007.xhtml#fig_011a)]{.figureLabel} Camille Pissarro, *Le
 Boulevard de Montmartre, Matinée de Printemps*. Oil on canvas, painted
 in 1897 (Google Art
-Project).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_011.jpg)
+Project).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_011.jpg)
 
 And during the twentieth century, level of energy use had little to do
 with the enjoyment of political and personal freedoms: they were
@@ -17677,4 +17677,4 @@ Year Prime movers Power (W)
 
 ## Average annual consumption (GJ/capita) of primary energy
 
-![[]{#c10752_008.xhtml#Tj}](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_008_T8.1.png)
+![[]{#c10752_008.xhtml#Tj}](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_008_T8.1.png)
