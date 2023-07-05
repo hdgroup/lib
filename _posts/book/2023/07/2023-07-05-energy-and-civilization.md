@@ -2,20 +2,8 @@
 layout: post
 title: Energy and Civilization
 categories: Energy
+description: Energy
 keywords: Energy
-
-author: Vaclav Smil
-date: 2017-06-16
-description: "\\<p\\>Energy is the only universal currency; it is necessary for getting anything done. The conversion of energy on Earth ranges from terra-forming forces of plate tectonics to cumulative erosive effects of raindrops. Life on Earth depends on the photosynthetic conversion of solar energy into plant biomass. Humans have come to rely on many more energy flows &#8212; ranging from fossil fuels to photovoltaic generation of electricity &#8212; for their civilized existence. In this monumental history, Vaclav Smil provides a comprehensive account of how energy has shaped society, from pre-agricultural foraging societies through today\\'s fossil fuel&#8212;driven civilization. Humans are the only species that can systematically harness energies outside their bodies, using the power of their intellect and an enormous variety of artifacts &#8212; from the simplest tools to internal combustion engines and nuclear reactors. The epochal transition to fossil fuels affected everything: agriculture,\\..."
-identifier:
-  - 9780262338301
-  - 9780262338318
-  - 9780262338295
-language: en-US
-publisher: The MIT Press
-rights: MIT Press
-source: 9780262035774
-subject: power; resources; technology and civilization; energy consumption
 ---
 
 [豆瓣书评](https://book.douban.com/subject/35418848/)
