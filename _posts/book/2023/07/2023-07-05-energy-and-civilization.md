@@ -32,20 +32,6 @@ Vaclav Smil
 :::
 :::
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The MIT Press
 
 Cambridge, Massachusetts
@@ -682,8 +668,6 @@ Corbis in Seattle by Ian Saunders and Anu Horsman. As is always the case
 with interdisciplinary studies of this kind, this book would not have
 been possible without the work of hundreds of historians, scientists,
 engineers, and economists.
-
-
 
 _Winnipeg, August 2016_
 
@@ -2519,8 +2503,8 @@ approximate dates for the first appearance are about 11,500--10,000
 years before the present for the plant species emmer (_Triticum
 dicoccum_) and einkorn wheat (_Triticum monococcum_) and barley
 (_Hordeum vulgare_) in the Middle East
-([]{#c10752_002.xhtml#fig_004a}[fig. 2.4](#c10752_002.xhtml#fig_004)),
-10,000 years for China's millets (_Setaria italica_), 7,000 years for
+([]{#c10752*002.xhtml#fig_004a}[fig. 2.4](#c10752_002.xhtml#fig_004)),
+10,000 years for China's millets (\_Setaria italica*), 7,000 years for
 rice (_Oryza sativa_), 10,000 years for Mexican squash (_Cucurbita_
 species), and 9,000 years for corn (_Zea mays_) and 7,000 years for
 Andean potatoes, _Solanum tuberosum_ (Price and Bar-Yosef 2011). The
@@ -6141,8 +6125,8 @@ advantage, and its use can result in accidental load falls. Ratchet and
 pawl take care of the last problem and multiple pulleys address the
 first deficiency, as the force required to lift an object is nearly
 inversely proportional to the number of deployed pulleys
-([]{#c10752_004.xhtml#fig_003a}[fig. 4.3](#c10752_004.xhtml#fig_003)).
-_Mechanica_, attributed to but not written by Aristotle (Winter 2007),
+([]{#c10752*004.xhtml#fig_003a}[fig. 4.3](#c10752_004.xhtml#fig_003)).
+\_Mechanica*, attributed to but not written by Aristotle (Winter 2007),
 shows a clear understanding of the mechanical advantage afforded by such
 devices.
 
@@ -8903,8 +8887,8 @@ achievements are certainly the best-known examples of bold engineering
 solutions to an urban water supply. Virtually every sizable Roman town
 had a well-planned water supply. This accomplishment was surpassed only
 by industrializing Europe. Roman aqueducts were especially impressive
-([]{#c10752_004.xhtml#fig_024a}[fig. 4.24](#c10752_004.xhtml#fig_024)).
-Pliny in his _Historia Naturalis_ called them "the most remarkable
+([]{#c10752*004.xhtml#fig_024a}[fig. 4.24](#c10752_004.xhtml#fig_024)).
+Pliny in his \_Historia Naturalis* called them "the most remarkable
 achievement anywhere in the world."
 
 ![[]{#c10752_004.xhtml#fig_024}[[Figure
@@ -10461,7 +10445,7 @@ A score of basic engine types gave rise to a large variety of
 specialized designs (Watkins 1967).
 
 The engine's original uses for pumping and winding in mines
-([]{#c10752_005.xhtml#fig_003a}[fig. 5.3](#c10752_005.xhtml#fig_003))
+([]{#c10752*005.xhtml#fig_003a}[fig. 5.3](#c10752_005.xhtml#fig_003))
 were soon extended to a large variety of stationary and mobile
 applications. By far the most notable uses were for belt drives in
 countless factories, and in revolutionizing nineteenth-century
@@ -10469,7 +10453,7 @@ transportation on land and on water. The development of steamships and
 steam locomotives proceeded concurrently. The first steamboats were
 built during the 1780s in France, the United States, and Scotland, but
 the first commercially successful ships came only in 1802 in England
-(Patrick Miller's _Charlotte Dundas_) and in 1807, with Robert Fulton's
+(Patrick Miller's \_Charlotte Dundas*) and in 1807, with Robert Fulton's
 _Clermont_, in the United States.
 
 ![[]{#c10752_005.xhtml#fig_003}[[Figure
@@ -13857,8 +13841,8 @@ track added between 1950 and 1990. But the most successful innovation of
 the post--World War II period has been fast long-distance electrical
 train. The Japanese _shinkansen_, first run in 1964 between Tokyo and
 Osaka, reached a maximum of 250 km/h, and its latest trains (_nozomi_)
-go 300 km/h (Smil 2014a; []{#c10752_006.xhtml#fig_010a}[fig.
-6.10](#c10752_006.xhtml#fig_010)). French _trains a grand vitesse_ (TGV)
+go 300 km/h (Smil 2014a; []{#c10752*006.xhtml#fig_010a}[fig.
+6.10](#c10752_006.xhtml#fig_010)). French \_trains a grand vitesse* (TGV)
 have been operating since 1983; the fastest scheduled trip is at nearly
 280 km/h. Similarly rapid links now also exist in Spain (AVE), Italy
 (_Frecciarossa_) and Germany (Intercity), but China has become the new
@@ -19648,293 +19632,293 @@ modern contributions.
 
 ::: {.section .biblioDiv}
 
-1.  []{#c10752_444.xhtml#R1}Abbate, J. 1999. _Inventing the Internet_.
+1.  []{#c10752*444.xhtml#R1}Abbate, J. 1999. \_Inventing the Internet*.
     Cambridge, MA: MIT Press.
-2.  []{#c10752_444.xhtml#R2}Abbott, C. G. 1932. _Great Inventions_.
+2.  []{#c10752*444.xhtml#R2}Abbott, C. G. 1932. \_Great Inventions*.
     Washington, DC: Smithsonian Institution.
-3.  []{#c10752_444.xhtml#R3}Abel, W. 1962. _Geschichte der deutschen
-    Landwirtschaft von frühen Mittelalter bis zum 19 Jahrhundert_.
+3.  []{#c10752*444.xhtml#R3}Abel, W. 1962. \_Geschichte der deutschen
+    Landwirtschaft von frühen Mittelalter bis zum 19 Jahrhundert*.
     Stuttgart: Ulmer.
-4.  []{#c10752_444.xhtml#R4}Adam, J.-P. 1994. _Roman Building: Materials
-    and Techniques_. London: Routledge.
-5.  []{#c10752_444.xhtml#R5}Adams, R. N. 1975. _Energy and Structure: A
-    Theory of Social Power_. Austin: University of Texas Press.
-6.  []{#c10752_444.xhtml#R6}Adams, R. N. 1982. _Paradoxical Harvest:
-    Energy and Explanation in British History, 1870--1914_. Cambridge:
+4.  []{#c10752*444.xhtml#R4}Adam, J.-P. 1994. \_Roman Building: Materials
+    and Techniques*. London: Routledge.
+5.  []{#c10752*444.xhtml#R5}Adams, R. N. 1975. \_Energy and Structure: A
+    Theory of Social Power*. Austin: University of Texas Press.
+6.  []{#c10752*444.xhtml#R6}Adams, R. N. 1982. \_Paradoxical Harvest:
+    Energy and Explanation in British History, 1870--1914*. Cambridge:
     Cambridge University Press.
-7.  []{#c10752_444.xhtml#R7}Adler, D. 2006. _Daimler & Benz: The
-    Complete History: The Birth and Evolution of the Mercedes-Benz_. New
+7.  []{#c10752*444.xhtml#R7}Adler, D. 2006. \_Daimler & Benz: The
+    Complete History: The Birth and Evolution of the Mercedes-Benz*. New
     York: Harper.
-8.  []{#c10752_444.xhtml#R8}Adshead, S. A. M. 1992. _Salt and
-    Civilization_. New York: St. Martin's Press.
-9.  []{#c10752_444.xhtml#R9}Agricola, G. 1912 (1556). _De re metallica_.
+8.  []{#c10752*444.xhtml#R8}Adshead, S. A. M. 1992. \_Salt and
+    Civilization*. New York: St. Martin's Press.
+9.  []{#c10752*444.xhtml#R9}Agricola, G. 1912 (1556). \_De re metallica*.
     Trans. H. C. Hoover and L. H. Hoover. London: The Mining Magazine.
-10. []{#c10752_444.xhtml#R10}Aiello, L. C. 1996. Terrestriality,
-    bipedalism and the origin of language. _Proceedings of the British
-    Academy_ 88:269--289.
-11. []{#c10752_444.xhtml#R11}Aiello, L. C., and J. C. K. Wells. 2002.
-    Energetics and the evolution of the genus _Homo._ _Annual Review of
+10. []{#c10752*444.xhtml#R10}Aiello, L. C. 1996. Terrestriality,
+    bipedalism and the origin of language. \_Proceedings of the British
+    Academy* 88:269--289.
+11. []{#c10752*444.xhtml#R11}Aiello, L. C., and J. C. K. Wells. 2002.
+    Energetics and the evolution of the genus \_Homo.* _Annual Review of
     Anthropology_ 31:323--338.
-12. []{#c10752_444.xhtml#R12}Aiello, L. C., and P. Wheeler. 1995. The
-    expensive-tissue hypothesis. _Current Anthropology_ 36:199--221.
-13. []{#c10752_444.xhtml#R13}Alberici, S., et al. 2014. _Subsidies and
-    Costs of EU Energy_. Brussels: EU Commission.
+12. []{#c10752*444.xhtml#R12}Aiello, L. C., and P. Wheeler. 1995. The
+    expensive-tissue hypothesis. \_Current Anthropology* 36:199--221.
+13. []{#c10752*444.xhtml#R13}Alberici, S., et al. 2014. \_Subsidies and
+    Costs of EU Energy*. Brussels: EU Commission.
     <https://ec.europa.eu/energy/sites/ener/files/documents/ECOFYS%202014%20Subsidies%20and%20costs%20of%20EU%20energy_11_Nov.pdf>.
-14. []{#c10752_444.xhtml#R14}Aldrich, L. J. 2002. _Cyrus McCormick and
-    the Mechanical Reaper_. Greensboro, NC: Morgan Reynolds.
-15. []{#c10752_444.xhtml#R15}Allan, W. 1965. _The African Husbandman_.
+14. []{#c10752*444.xhtml#R14}Aldrich, L. J. 2002. \_Cyrus McCormick and
+    the Mechanical Reaper*. Greensboro, NC: Morgan Reynolds.
+15. []{#c10752*444.xhtml#R15}Allan, W. 1965. \_The African Husbandman*.
     Edinburgh: Oliver & Boyd.
-16. []{#c10752_444.xhtml#R16}Allen, R. 2003. _Farm to Factory: A
-    Reinterpretation of the Soviet Industrial Revolution_. Princeton,
+16. []{#c10752*444.xhtml#R16}Allen, R. 2003. \_Farm to Factory: A
+    Reinterpretation of the Soviet Industrial Revolution*. Princeton,
     NJ: Princeton University Press.
-17. []{#c10752_444.xhtml#R17}Allen, R. C. 2007. _How Prosperous Were the
-    Romans? Evidence from Diocletian's Price Edict (301 AD)_. Oxford:
+17. []{#c10752*444.xhtml#R17}Allen, R. C. 2007. \_How Prosperous Were the
+    Romans? Evidence from Diocletian's Price Edict (301 AD)*. Oxford:
     Oxford University, Department of Economics.
-18. []{#c10752_444.xhtml#R18}Allen, R. C., et al. 2011. Wages, prices,
+18. []{#c10752*444.xhtml#R18}Allen, R. C., et al. 2011. Wages, prices,
     and living standards in China, 1738--1925: In comparison with
-    Europe, Japan, and India. _Economic History Review_ 64 (S1): 8--38.
-19. []{#c10752_444.xhtml#R19}Allianz. 2010. _The Sixth Kondratieff: Long
-    Waves of Prosperity_. Frankfurt am Main: Allianz.
+    Europe, Japan, and India. \_Economic History Review* 64 (S1): 8--38.
+19. []{#c10752*444.xhtml#R19}Allianz. 2010. \_The Sixth Kondratieff: Long
+    Waves of Prosperity*. Frankfurt am Main: Allianz.
     <https://www.allianz.com/v_1339501901000/media/press/document/other/kondratieff_en.pdf>.
-20. []{#c10752_444.xhtml#R20}Alvard, M. S., and L. Kuznar. 2001.
+20. []{#c10752*444.xhtml#R20}Alvard, M. S., and L. Kuznar. 2001.
     Deferred harvests: The transition from hunting to animal husbandry.
-    _American Anthropologist_ 103:295--311.
-21. []{#c10752_444.xhtml#R21}Amitai, R., and M. Biran, eds. 2005.
-    _Mongols, Turks, and Others: Eurasian Nomads and the Sedentary
-    World_. Leiden: Brill.
-22. []{#c10752_444.xhtml#R22}Amontons, G. 1699. Moyen de substituer
+    \_American Anthropologist* 103:295--311.
+21. []{#c10752*444.xhtml#R21}Amitai, R., and M. Biran, eds. 2005.
+    \_Mongols, Turks, and Others: Eurasian Nomads and the Sedentary
+    World*. Leiden: Brill.
+22. []{#c10752*444.xhtml#R22}Amontons, G. 1699. Moyen de substituer
     commodement l'action du feu, à la force des hommes et des chevaux
-    pour mouvoir les machines. _Mémoires de l'Académie Royale_
+    pour mouvoir les machines. \_Mémoires de l'Académie Royale*
     1699:112--126.
-23. []{#c10752_444.xhtml#R23}Andersen, S. O., and K. M. Sarma. 2002.
-    _Protecting the Ozone Layer_. London: Earthscan.
-24. []{#c10752_444.xhtml#R24}Anderson, B. D. 2003. _The Physics of
-    Sailing Explained_. Dobbs Ferry, NY: Sheridan House.
-25. []{#c10752_444.xhtml#R25}Anderson, E. N. 1988. _The Food of China_.
+23. []{#c10752*444.xhtml#R23}Andersen, S. O., and K. M. Sarma. 2002.
+    \_Protecting the Ozone Layer*. London: Earthscan.
+24. []{#c10752*444.xhtml#R24}Anderson, B. D. 2003. \_The Physics of
+    Sailing Explained*. Dobbs Ferry, NY: Sheridan House.
+25. []{#c10752*444.xhtml#R25}Anderson, E. N. 1988. \_The Food of China*.
     New Haven, CT: Yale University Press.
-26. []{#c10752_444.xhtml#R26}Anderson, M. S. 1988. _War and Society in
-    Europe of the Old regime, 1618--1789_. New York: St. Martin's Press.
-27. []{#c10752_444.xhtml#R27}Anderson, R. 1926. _The Sailing Ship: Six
-    Thousands Years of History_. London: George Harrap.
-28. []{#c10752_444.xhtml#R28}Anderson, R. C. 1962. _Oared Fighting
-    Ships: From Classical Times to the Coming of Steam_. London:
+26. []{#c10752*444.xhtml#R26}Anderson, M. S. 1988. \_War and Society in
+    Europe of the Old regime, 1618--1789*. New York: St. Martin's Press.
+27. []{#c10752*444.xhtml#R27}Anderson, R. 1926. \_The Sailing Ship: Six
+    Thousands Years of History*. London: George Harrap.
+28. []{#c10752*444.xhtml#R28}Anderson, R. C. 1962. \_Oared Fighting
+    Ships: From Classical Times to the Coming of Steam*. London:
     Percival Marshall.
-29. []{#c10752_444.xhtml#R29}Angelo, J. E. 2003. _Space Technology_.
+29. []{#c10752*444.xhtml#R29}Angelo, J. E. 2003. \_Space Technology*.
     Westport, CT: Greenwood Press.
-30. []{#c10752_444.xhtml#R30}Anthony, D. W. 2007. _The Horse, the Wheel,
+30. []{#c10752*444.xhtml#R30}Anthony, D. W. 2007. \_The Horse, the Wheel,
     and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped
-    the Modern World_. Princeton, NJ: Princeton University Press.
-31. []{#c10752_444.xhtml#R31}Anthony, D., D. Y. Telegin, and D.
-    Brown. 1991. The origin of horseback riding. _Scientific American_
+    the Modern World*. Princeton, NJ: Princeton University Press.
+31. []{#c10752*444.xhtml#R31}Anthony, D., D. Y. Telegin, and D.
+    Brown. 1991. The origin of horseback riding. \_Scientific American*
     265 (6): 94--100.
-32. []{#c10752_444.xhtml#R32}Apt, J., and P. Jaramillo. 2014. _Variable
-    Renewable Energy and the Electricity Grid_. Washington, DC:
+32. []{#c10752*444.xhtml#R32}Apt, J., and P. Jaramillo. 2014. \_Variable
+    Renewable Energy and the Electricity Grid*. Washington, DC:
     Resources for the Future.
-33. []{#c10752_444.xhtml#R33}Archer, C. I., et al. 2008. _World History
-    of Warfare_. Lincoln: University of Nebraska Press.
-34. []{#c10752_444.xhtml#R34}Ardrey, L. R. 1894. _American Agricultural
-    Implements_. Chicago: L. R. Ardrey.
-35. []{#c10752_444.xhtml#R35}Arellano, C. J., and R. Kram. 2014.
+33. []{#c10752*444.xhtml#R33}Archer, C. I., et al. 2008. \_World History
+    of Warfare*. Lincoln: University of Nebraska Press.
+34. []{#c10752*444.xhtml#R34}Ardrey, L. R. 1894. \_American Agricultural
+    Implements*. Chicago: L. R. Ardrey.
+35. []{#c10752*444.xhtml#R35}Arellano, C. J., and R. Kram. 2014.
     Partitioning the metabolic cost of human running: A task-by-task
-    approach. _Integrative and Comparative Biology_ 54:1084--1098.
-36. []{#c10752_444.xhtml#R36}Armelagos, G. J., and K. N. Harper. 2005.
-    Genomics at the origins of agriculture, part one. _Evolutionary
-    Anthropology_ 14:68--77.
-37. []{#c10752_444.xhtml#R37}Armstrong, R. 1969. _The Merchantmen_.
+    approach. \_Integrative and Comparative Biology* 54:1084--1098.
+36. []{#c10752*444.xhtml#R36}Armelagos, G. J., and K. N. Harper. 2005.
+    Genomics at the origins of agriculture, part one. \_Evolutionary
+    Anthropology* 14:68--77.
+37. []{#c10752*444.xhtml#R37}Armstrong, R. 1969. \_The Merchantmen*.
     London: Ernest Benn.
-38. []{#c10752_444.xhtml#R38}Army Air Forces. 1945. _Army Air Forces
-    Statistical Digest, World War II_.
+38. []{#c10752*444.xhtml#R38}Army Air Forces. 1945. \_Army Air Forces
+    Statistical Digest, World War II*.
     <http://www.afhra.af.mil/shared/media/document/AFD-090608-039.pdf>.
 39. []{#c10752_444.xhtml#R39}Army Technology. 2015. M1A1/2 Abrams Main
     Battle Tank, United States of America.
     <http://www.army-technology.com/projects/abrams>.
-40. []{#c10752_444.xhtml#R40}Ashby, T. 1935. _The Aqueducts of Ancient
-    Rome_. Oxford: Oxford University Press.
-41. []{#c10752_444.xhtml#R41}Ashton, Thomas S. 1948. _The Industrial
-    Revolution, 1760--1830_. Oxford: Oxford University Press.
-42. []{#c10752_444.xhtml#R42}Astill, G., and J. Langdon, eds. 1997.
-    _Medieval Farming and Technology: The Impact of Agricultural Change
-    in Northwest Europe_. Leiden: Brill.
-43. []{#c10752_444.xhtml#R43}Åström, K. J., and R. M. Murray. 2009.
-    _Feedback Systems: An Introduction for Scientists and Engineers_.
+40. []{#c10752*444.xhtml#R40}Ashby, T. 1935. \_The Aqueducts of Ancient
+    Rome*. Oxford: Oxford University Press.
+41. []{#c10752*444.xhtml#R41}Ashton, Thomas S. 1948. \_The Industrial
+    Revolution, 1760--1830*. Oxford: Oxford University Press.
+42. []{#c10752*444.xhtml#R42}Astill, G., and J. Langdon, eds. 1997.
+    \_Medieval Farming and Technology: The Impact of Agricultural Change
+    in Northwest Europe*. Leiden: Brill.
+43. []{#c10752*444.xhtml#R43}Åström, K. J., and R. M. Murray. 2009.
+    \_Feedback Systems: An Introduction for Scientists and Engineers*.
     Princeton, NJ: Princeton University Press;
     <http://www.cds.caltech.edu/~murray/books/AM05/pdf/am08-complete_22Feb09.pdf>.
-44. []{#c10752_444.xhtml#R44}Atalay, S., and C. A. Hastorf. 2006. Food,
-    meals, and daily activities: Food _habitus_ at Neolithic Çatalhöyük.
+44. []{#c10752*444.xhtml#R44}Atalay, S., and C. A. Hastorf. 2006. Food,
+    meals, and daily activities: Food \_habitus* at Neolithic Çatalhöyük.
     _American Antiquity_ 71:283--319.
-45. []{#c10752_444.xhtml#R45}Atkins, S. E. 2000. _Historical
-    Encyclopedia of Atomic Energy_. Westport, CT: Greenwood Press.
-46. []{#c10752_444.xhtml#R46}Atsmon, Y., and V. Dixit. 2009.
-    Understanding China's wealthy. _McKinsey Quarterly_ _._
+45. []{#c10752*444.xhtml#R45}Atkins, S. E. 2000. \_Historical
+    Encyclopedia of Atomic Energy*. Westport, CT: Greenwood Press.
+46. []{#c10752*444.xhtml#R46}Atsmon, Y., and V. Dixit. 2009.
+    Understanding China's wealthy. \_McKinsey Quarterly* _._
     <http://www.mckinsey.com/insights/marketing_sales/understanding_chinas_wealthy>.
-47. []{#c10752_444.xhtml#R47}Atwater, W. O., and C. F. Langworthy. 1897.
-    _A Digest of Metabolism Experiments in Which the Balance of Income
-    and Outgo Was Determined_. Washington, DC: U.S. GPO.
-48. []{#c10752_444.xhtml#R48}Atwood, C. P. 2004. _Encyclopedia of
-    Mongolia and the Mongol Empire_. New York: Facts on File.
-49. []{#c10752_444.xhtml#R49}Atwood, R. 2009. Maya roots. _Archaeology_
+47. []{#c10752*444.xhtml#R47}Atwater, W. O., and C. F. Langworthy. 1897.
+    \_A Digest of Metabolism Experiments in Which the Balance of Income
+    and Outgo Was Determined*. Washington, DC: U.S. GPO.
+48. []{#c10752*444.xhtml#R48}Atwood, C. P. 2004. \_Encyclopedia of
+    Mongolia and the Mongol Empire*. New York: Facts on File.
+49. []{#c10752*444.xhtml#R49}Atwood, R. 2009. Maya roots. \_Archaeology*
     62:18--66.
-50. []{#c10752_444.xhtml#R50}Augarten, S. 1984. _Bit by Bit_. Boston:
+50. []{#c10752*444.xhtml#R50}Augarten, S. 1984. \_Bit by Bit*. Boston:
     Ticknor & Fields.
-51. []{#c10752_444.xhtml#R51}Axelsson, E., et al. 2013. The genomic
+51. []{#c10752*444.xhtml#R51}Axelsson, E., et al. 2013. The genomic
     signature of dog domestication reveals adaptation to a starch-rich
-    diet. _Nature_ 495:360--364.
-52. []{#c10752_444.xhtml#R52}Ayres, R. U. 2014. _The Bubble Economy: Is
-    Sustainable Growth Possible?_ Cambridge, MA: MIT Press.
-53. []{#c10752_444.xhtml#R53}Ayres, R. U., L. W. Ayres, and B.
+    diet. \_Nature* 495:360--364.
+52. []{#c10752*444.xhtml#R52}Ayres, R. U. 2014. \_The Bubble Economy: Is
+    Sustainable Growth Possible?* Cambridge, MA: MIT Press.
+53. []{#c10752*444.xhtml#R53}Ayres, R. U., L. W. Ayres, and B.
     Warr. 2003. Exergy, power and work in the UA economy, 1900--1998.
-    _Energy_ 28:219--273.
-54. []{#c10752_444.xhtml#R54}Baars, C. 1973. _De Geschiedenis van de
-    Landbouw in de Bayerlanden_. Wageningen: PUDOC (Centrum voor
+    \_Energy* 28:219--273.
+54. []{#c10752*444.xhtml#R54}Baars, C. 1973. \_De Geschiedenis van de
+    Landbouw in de Bayerlanden*. Wageningen: PUDOC (Centrum voor
     Landbouwpublicaties en Landbouwdocumentatie).
-55. []{#c10752_444.xhtml#R55}Bailey, L. H., ed. 1908. _Cyclopedia of
-    American Agriculture_. New York: Macmillan.
-56. []{#c10752_444.xhtml#R56}Bailey, R. C., G. Head, M. Jenike, et
+55. []{#c10752*444.xhtml#R55}Bailey, L. H., ed. 1908. \_Cyclopedia of
+    American Agriculture*. New York: Macmillan.
+56. []{#c10752*444.xhtml#R56}Bailey, R. C., G. Head, M. Jenike, et
     al. 1989. Hunting and gathering in tropical rain forest: Is it
-    possible? _American Anthropologist_ 91:59--82.
-57. []{#c10752_444.xhtml#R57}Bailey, R. C., and T. N. Headland. 1991.
+    possible? \_American Anthropologist* 91:59--82.
+57. []{#c10752*444.xhtml#R57}Bailey, R. C., and T. N. Headland. 1991.
     The tropical rain forest: Is it a productive environment for human
-    foragers? _Human Ecology_ 19:261285.
-58. []{#c10752_444.xhtml#R58}Baines, D. 1991. _Emigration from Europe
-    1815--1930_. London: Macmillan.
-59. []{#c10752_444.xhtml#R59}Bairoch, P. 1988. _Cities and Economic
-    Development: From the Dawn of History to the Present_. Chicago:
+    foragers? \_Human Ecology* 19:261285.
+58. []{#c10752*444.xhtml#R58}Baines, D. 1991. \_Emigration from Europe
+    1815--1930*. London: Macmillan.
+59. []{#c10752*444.xhtml#R59}Bairoch, P. 1988. \_Cities and Economic
+    Development: From the Dawn of History to the Present*. Chicago:
     University of Chicago Press.
-60. []{#c10752_444.xhtml#R60}Baker, T. L. 2006. _A Field Guide to
-    America Windmills_. Tempe, AZ: ACMRS (Arizona Center for Medieval
+60. []{#c10752*444.xhtml#R60}Baker, T. L. 2006. \_A Field Guide to
+    America Windmills*. Tempe, AZ: ACMRS (Arizona Center for Medieval
     and Renaissance Studies), University of Arizona.
-61. []{#c10752_444.xhtml#R61}Bald, R. 1812. _A General View of the Coal
+61. []{#c10752*444.xhtml#R61}Bald, R. 1812. \_A General View of the Coal
     Trade of Scotland, Chiefly that of the River Forth and Mid-Lothian.
     To Which is Added An Inquiry Into the Condition of the Women Who
-    Carry Coals Under Ground in Scotland. Known by the Name of Bearers_.
+    Carry Coals Under Ground in Scotland. Known by the Name of Bearers*.
     Edinburgh: Oliphant, Waugh and Innes.
-62. []{#c10752_444.xhtml#R62}Baldwin, G. C. 1977. _Pyramids of the New
-    World_. New York: G. P. Putnam's Sons.
-63. []{#c10752_444.xhtml#R63}Bamford, P. W. 1974. _Fighting Ships and
+62. []{#c10752*444.xhtml#R62}Baldwin, G. C. 1977. \_Pyramids of the New
+    World*. New York: G. P. Putnam's Sons.
+63. []{#c10752*444.xhtml#R63}Bamford, P. W. 1974. \_Fighting Ships and
     Prisons: The Mediterranean Galleys of France in the Age of Louis
-    XIV_. Cambridge: Cambridge University Press.
-64. []{#c10752_444.xhtml#R64}Bandaranayke, S. 1974. _Sinhalese Monastic
-    Architecture_. Leiden: E. J. Brill.
+    XIV*. Cambridge: Cambridge University Press.
+64. []{#c10752*444.xhtml#R64}Bandaranayke, S. 1974. \_Sinhalese Monastic
+    Architecture*. Leiden: E. J. Brill.
 65. []{#c10752_444.xhtml#R65}Bank of Nova Scotia. 2015. Global Auto
     Report.
     <http://www.gbm.scotiabank.com/English/bns_econ/bns_auto.pdf>.
 66. []{#c10752_444.xhtml#R66}Bapat, N. 2012. How Indians defied gravity
     and achieved success in Silicon Valley.
     <http://www.forbes.com/sites/singularity/2012/10/15/how-indians-defied-gravity-and-achieved-success-in-silicon-valley>.
-67. []{#c10752_444.xhtml#R67}Bar-Yosef, O. 2002. The Upper Paleolithic
-    revolution. _Annual Review of Anthropology_ 31:363--393.
-68. []{#c10752_444.xhtml#R68}Bardeen, J., and W. H. Brattain. 1950.
-    _Three-electron Circuit Element Utilizing Semiconductive Materials_.
+67. []{#c10752*444.xhtml#R67}Bar-Yosef, O. 2002. The Upper Paleolithic
+    revolution. \_Annual Review of Anthropology* 31:363--393.
+68. []{#c10752*444.xhtml#R68}Bardeen, J., and W. H. Brattain. 1950.
+    \_Three-electron Circuit Element Utilizing Semiconductive Materials*.
     US Patent 2,524,035, October 3. Washington, DC: USPTO.
     <http://www.uspto.gov>.
-69. []{#c10752_444.xhtml#R69}Barjot, D. 1991. _L'énergie aux XIXe et XXe
-    siècles._ Paris: Presses de l'E.N.S.
-70. []{#c10752_444.xhtml#R70}Barker, A. V., and D. J. Pilbeam. 2007.
-    _Handbook of Plant Nutrition_. Boca Raton, FL: CRC Press.
-71. []{#c10752_444.xhtml#R71}Barles, S. 2007. Feeding the city: Food
-    consumption and flow of nitrogen, Paris, 1801--1914. _Science of the
-    Total Environment_ 375:48--58.
-72. []{#c10752_444.xhtml#R72}Barles, S., and L. Lestel. 2007. The
+69. []{#c10752*444.xhtml#R69}Barjot, D. 1991. \_L'énergie aux XIXe et XXe
+    siècles.* Paris: Presses de l'E.N.S.
+70. []{#c10752*444.xhtml#R70}Barker, A. V., and D. J. Pilbeam. 2007.
+    \_Handbook of Plant Nutrition*. Boca Raton, FL: CRC Press.
+71. []{#c10752*444.xhtml#R71}Barles, S. 2007. Feeding the city: Food
+    consumption and flow of nitrogen, Paris, 1801--1914. \_Science of the
+    Total Environment* 375:48--58.
+72. []{#c10752*444.xhtml#R72}Barles, S., and L. Lestel. 2007. The
     nitrogen question: Urbanization, industrialization, and river
-    quality in Paris 1830--1939. _Journal of Urban History_ 33:794--812.
-73. []{#c10752_444.xhtml#R73}Barnes, B. R. 2014. Behavioural change,
+    quality in Paris 1830--1939. \_Journal of Urban History* 33:794--812.
+73. []{#c10752*444.xhtml#R73}Barnes, B. R. 2014. Behavioural change,
     indoor air pollution and child respiratory health in developing
-    countries: A review. _International Journal of Environmental
-    Research and Public Health_ 11:4607--4618.
-74. []{#c10752_444.xhtml#R74}Barro, R. J. 1997. _Determinants of
-    Economic Growth: A Cross-Country Empirical Study_. Cambridge, MA:
+    countries: A review. \_International Journal of Environmental
+    Research and Public Health* 11:4607--4618.
+74. []{#c10752*444.xhtml#R74}Barro, R. J. 1997. \_Determinants of
+    Economic Growth: A Cross-Country Empirical Study*. Cambridge, MA:
     MIT Press.
-75. []{#c10752_444.xhtml#R75}Bartosiewicz, L. et al. 1997. _Draught
-    Cattle: Their Osteological Identification and History_. Tervuren:
+75. []{#c10752*444.xhtml#R75}Bartosiewicz, L. et al. 1997. \_Draught
+    Cattle: Their Osteological Identification and History*. Tervuren:
     Musée royal de l'Afrique central.
-76. []{#c10752_444.xhtml#R76}Basalla, G. 1980. Energy and civilization.
-    In _Science, Technology and the Human Prospect_, ed. C. Starr
+76. []{#c10752*444.xhtml#R76}Basalla, G. 1980. Energy and civilization.
+    In \_Science, Technology and the Human Prospect*, ed. C. Starr
     and P. C. Ritterbusch, 39--52. Oxford: Pergamon Press.
-77. []{#c10752_444.xhtml#R77}Basalla, G. 1982. Some persistent energy
-    myths. In _Energy and Transport_, ed. G. H. Daniels and M. H. Rose,
+77. []{#c10752*444.xhtml#R77}Basalla, G. 1982. Some persistent energy
+    myths. In \_Energy and Transport*, ed. G. H. Daniels and M. H. Rose,
     27--38. Beverley Hills, CA: Sage.
-78. []{#c10752_444.xhtml#R78}Basalla, G. 1988. _The Evolution of
-    Technology_. Cambridge: Cambridge University Press.
-79. []{#c10752_444.xhtml#R79}Basile, S. 2014. _Cool: How Air
-    Conditioning Changed Everything_. New York: Fordham University
+78. []{#c10752*444.xhtml#R78}Basalla, G. 1988. \_The Evolution of
+    Technology*. Cambridge: Cambridge University Press.
+79. []{#c10752*444.xhtml#R79}Basile, S. 2014. \_Cool: How Air
+    Conditioning Changed Everything*. New York: Fordham University
     Press.
-80. []{#c10752_444.xhtml#R80}Basso, L. C., T. O. Basso, and S. N.
-    Rocha. 2011. _Ethanol Production in Brazil: The Industrial Process
+80. []{#c10752*444.xhtml#R80}Basso, L. C., T. O. Basso, and S. N.
+    Rocha. 2011. \_Ethanol Production in Brazil: The Industrial Process
     and Its Impact on Yeast Fermentation, Biofuel Production: Recent
-    Developments and Prospects_.
+    Developments and Prospects*.
     <http://cdn.intechopen.com/pdfs/20058/InTech-Ethanol_production_in_brazil_the_industrial_process_and_its_impact_on_yeast_fermentation.pdf>.
-81. []{#c10752_444.xhtml#R81}Bayley, J., D. Dungworth, and S.
-    Paynter. 2001. _Archaeometallurgy_. London: English Heritage.
-82. []{#c10752_444.xhtml#R82}Beauchamp, K. G. 1997. _Exhibiting
-    Electricity_. London: Institution of Electrical Engineers.
-83. []{#c10752_444.xhtml#R83}Beaumont, W. W. 1902. _Motor Vehicles and
+81. []{#c10752*444.xhtml#R81}Bayley, J., D. Dungworth, and S.
+    Paynter. 2001. \_Archaeometallurgy*. London: English Heritage.
+82. []{#c10752*444.xhtml#R82}Beauchamp, K. G. 1997. \_Exhibiting
+    Electricity*. London: Institution of Electrical Engineers.
+83. []{#c10752*444.xhtml#R83}Beaumont, W. W. 1902. \_Motor Vehicles and
     Motors: Their Design, Construction and Working by Steam, Oil and
-    Electricity_. Westminster: Archibald Constable and Company.
-84. []{#c10752_444.xhtml#R84}Beaumont, W. W. 1906. _Motor Vehicles and
+    Electricity*. Westminster: Archibald Constable and Company.
+84. []{#c10752*444.xhtml#R84}Beaumont, W. W. 1906. \_Motor Vehicles and
     Motors: Their Design, Construction and Working by Steam, Oil and
-    Electricity_. Westminster: Archibald Constable and Co.
-85. []{#c10752_444.xhtml#R85}Beevor, A. 1998. _Stalingrad_. London:
+    Electricity*. Westminster: Archibald Constable and Co.
+85. []{#c10752*444.xhtml#R85}Beevor, A. 1998. \_Stalingrad*. London:
     Viking.
-86. []{#c10752_444.xhtml#R86}Behera, B., et al. 2015. Household
-    collection and use of biomass energy sources in South Asia. _Energy_
+86. []{#c10752*444.xhtml#R86}Behera, B., et al. 2015. Household
+    collection and use of biomass energy sources in South Asia. \_Energy*
     85:468--480.
-87. []{#c10752_444.xhtml#R87}Bell, L. 1884. _Principles of the
-    Manufacture of Iron and Steel_. London: George Routledge & Sons.
+87. []{#c10752*444.xhtml#R87}Bell, L. 1884. \_Principles of the
+    Manufacture of Iron and Steel*. London: George Routledge & Sons.
 88. []{#c10752_444.xhtml#R88}Bell System Memorial. 2011. Who really
     invented the transistor?
     <http://www.porticus.org/bell/belllabs_transistor1.html>.
-89. []{#c10752_444.xhtml#R89}Bennett, M. K. 1935. British wheat yield
-    per acre for seven centuries. _Economy and History_ 3:12--29.
+89. []{#c10752*444.xhtml#R89}Bennett, M. K. 1935. British wheat yield
+    per acre for seven centuries. \_Economy and History* 3:12--29.
 90. []{#c10752_444.xhtml#R90}Benoît, C. 1996. Le Canon de 75: Une gloire
     centenaire. Vincennes, France: Service Historique de l'Armée de
     Terre.
-91. []{#c10752_444.xhtml#R91}Benoit, F. 1940. L'usine de meunerie
-    hydraulique de Barbegal (Arles). _Review of Archaeology_ 15:19--80.
-92. []{#c10752_444.xhtml#R92}Beresford, M. W., and J. G. Hurst. 1971.
-    _Deserted Medieval Villages_. London: Littleworth.
-93. []{#c10752_444.xhtml#R93}Berklian, Y. U., ed. 2008. _Crop Rotation_.
+91. []{#c10752*444.xhtml#R91}Benoit, F. 1940. L'usine de meunerie
+    hydraulique de Barbegal (Arles). \_Review of Archaeology* 15:19--80.
+92. []{#c10752*444.xhtml#R92}Beresford, M. W., and J. G. Hurst. 1971.
+    \_Deserted Medieval Villages*. London: Littleworth.
+93. []{#c10752*444.xhtml#R93}Berklian, Y. U., ed. 2008. \_Crop Rotation*.
     New York: Nova Science Publishers.
 94. []{#c10752_444.xhtml#R94}Bernard, L., A. V. Gevorkyan, T. Palley,
     and W. Semmler. 2013. Time scales and mechanisms of economic cycles:
     A review of theories of long waves. Political Economy Research
     Institute Working Paper, no.337, 1--21. Amherst, MA: University of
     Massachusetts.
-95. []{#c10752_444.xhtml#R95}Bessemer, H. 1905. _Sir Henry Bessemer,
-    F.R.S.: An Autobiography_ _._ London: Offices of Engineering.
-96. []{#c10752_444.xhtml#R96}Bettencourt, L., and G. West. 2010. A
-    unified theory of urban living. _Nature_ 467:912--913.
-97. []{#c10752_444.xhtml#R97}Bettinger, R. L. 1991. _Hunter-Gatherers:
-    Archaeological and Evolutionary Theory_. New York: Plenum Press.
-98. []{#c10752_444.xhtml#R98}Betz, A. 1926. _Wind-Energie und ihre
-    Ausnutzung durch Windmühlen_. Göttingen: Bandenhoeck & Ruprecht.
-99. []{#c10752_444.xhtml#R99}Billington, D. P., and D. P. Billington,
-    Jr. 2006. _Power, Speed, and Form: Engineers and the Making of the
-    Twentieth Century_. Princeton, NJ: Princeton University Press.
+95. []{#c10752*444.xhtml#R95}Bessemer, H. 1905. \_Sir Henry Bessemer,
+    F.R.S.: An Autobiography* _._ London: Offices of Engineering.
+96. []{#c10752*444.xhtml#R96}Bettencourt, L., and G. West. 2010. A
+    unified theory of urban living. \_Nature* 467:912--913.
+97. []{#c10752*444.xhtml#R97}Bettinger, R. L. 1991. \_Hunter-Gatherers:
+    Archaeological and Evolutionary Theory*. New York: Plenum Press.
+98. []{#c10752*444.xhtml#R98}Betz, A. 1926. \_Wind-Energie und ihre
+    Ausnutzung durch Windmühlen*. Göttingen: Bandenhoeck & Ruprecht.
+99. []{#c10752*444.xhtml#R99}Billington, D. P., and D. P. Billington,
+    Jr. 2006. \_Power, Speed, and Form: Engineers and the Making of the
+    Twentieth Century*. Princeton, NJ: Princeton University Press.
 100.  []{#c10752_444.xhtml#R100}bin Laden, U. 2004. Message to the
       American people.
       <http://english.aljazeera.net/NR/exeres/79C6AF22-98FB-4A1C-B21F-2BC36E87F61F.htm>.
-101.  []{#c10752_444.xhtml#R101}Bird-David, N. 1992. Beyond "The Original
-      Affluent Society." _Current Anthropology_ 33:25--47.
-102.  []{#c10752_444.xhtml#R102}Biringuccio, V. 1959 (1540). _De la
-      pirotechnia \[The pirotechnia\]_. Trans. C. S. Smith and M. T.
+101.  []{#c10752*444.xhtml#R101}Bird-David, N. 1992. Beyond "The Original
+      Affluent Society." \_Current Anthropology* 33:25--47.
+102.  []{#c10752*444.xhtml#R102}Biringuccio, V. 1959 (1540). \_De la
+      pirotechnia \[The pirotechnia\]*. Trans. C. S. Smith and M. T.
       Gnudi. New York: Basic Books.
-103.  []{#c10752_444.xhtml#R103}Bishop, C. 2014. _The Illustrated
+103.  []{#c10752*444.xhtml#R103}Bishop, C. 2014. \_The Illustrated
       Encyclopedia of Weapons of World War I: The Comprehensive Guide to
       Weapons Systems, Including Tanks, Small Arms, Warplanes,
-      Artillery_. London: Amber.
-104.  []{#c10752_444.xhtml#R104}Blériot, L. 2015. _Blériot: Flight into
-      the XXth Century_. London: Austin Macauley.
-105.  []{#c10752_444.xhtml#R105}Blumenschine, R. J., and J. A.
-      Cavallo. 1992. Scavenging and human evolution. _Scientific
-      American_ 267 (4): 90--95.
-106.  []{#c10752_444.xhtml#R106}Blumer, H. 1990. _Industrialization as an
-      Agent of Social Change_. New York: Aldine de Gruyter.
-107.  []{#c10752_444.xhtml#R107}Blyth, R. J., A. Lambert, and J. Ruger,
-      eds. 2011. _The Dreadnought and the Edwardian Age_. Farnham:
+      Artillery*. London: Amber.
+104.  []{#c10752*444.xhtml#R104}Blériot, L. 2015. \_Blériot: Flight into
+      the XXth Century*. London: Austin Macauley.
+105.  []{#c10752*444.xhtml#R105}Blumenschine, R. J., and J. A.
+      Cavallo. 1992. Scavenging and human evolution. \_Scientific
+      American* 267 (4): 90--95.
+106.  []{#c10752*444.xhtml#R106}Blumer, H. 1990. \_Industrialization as an
+      Agent of Social Change*. New York: Aldine de Gruyter.
+107.  []{#c10752*444.xhtml#R107}Blyth, R. J., A. Lambert, and J. Ruger,
+      eds. 2011. \_The Dreadnought and the Edwardian Age*. Farnham:
       Ashgate.
-108.  []{#c10752_444.xhtml#R108}Boden, T., and B. Andres. 2015. _Global
+108.  []{#c10752*444.xhtml#R108}Boden, T., and B. Andres. 2015. \_Global
       CO~2~ Emissions from Fossil-Fuel Burning, Cement Manufacture, and
-      Gas Flaring: 1751--2011_. Oak Ridge, TN: CDIAC (Carbon Dioxide
+      Gas Flaring: 1751--2011*. Oak Ridge, TN: CDIAC (Carbon Dioxide
       Information Analysis Center), Oak Ridge National Laboratory.
       <http://cdiac.ornl.gov/trends/emis/tre_glob_2011.html>.
 109.  []{#c10752_444.xhtml#R109}Boden. T., B. Andres, and G.
@@ -19943,1136 +19927,1136 @@ modern contributions.
       <http://cdiac.ornl.gov/ftp/ndp030/global.1751_2013.ems>.
 110.  []{#c10752_444.xhtml#R110}Boeing. 2015. Boeing history.
       <http://www.boeing.com/history>.
-111.  []{#c10752_444.xhtml#R111}Bogin, B. 2011. Kung nutritional status
+111.  []{#c10752*444.xhtml#R111}Bogin, B. 2011. Kung nutritional status
       and the original "affluent society": A new analysis.
-      _Anthropologischer Anzeiger_ 68:349--366.
-112.  []{#c10752_444.xhtml#R112}Bono, P., and C. Boni. 1996. Water supply
-      of Rome in antiquity and today. _Environmental Geology_
+      \_Anthropologischer Anzeiger* 68:349--366.
+112.  []{#c10752*444.xhtml#R112}Bono, P., and C. Boni. 1996. Water supply
+      of Rome in antiquity and today. \_Environmental Geology*
       27:126--134.
-113.  []{#c10752_444.xhtml#R113}Boonenburg, K. 1952. _Windmills in
-      Holland_. The Hague: Netherlands Government Information Service.
-114.  []{#c10752_444.xhtml#R114}Borghese, A., ed. 2005. _Buffalo
-      Production and Research_. Rome: FAO.
-115.  []{#c10752_444.xhtml#R115}Bos, M. G. 2009. _Water Requirements for
-      Irrigation and the Environment_. Dordrecht: Springer.
-116.  []{#c10752_444.xhtml#R116}Bose, S., ed. 1991. _Shifting Agriculture
-      in India_. Calcutta: Anthropological Survey of India.
-117.  []{#c10752_444.xhtml#R117}Boserup, E. 1965. _The Conditions of
+113.  []{#c10752*444.xhtml#R113}Boonenburg, K. 1952. \_Windmills in
+      Holland*. The Hague: Netherlands Government Information Service.
+114.  []{#c10752*444.xhtml#R114}Borghese, A., ed. 2005. \_Buffalo
+      Production and Research*. Rome: FAO.
+115.  []{#c10752*444.xhtml#R115}Bos, M. G. 2009. \_Water Requirements for
+      Irrigation and the Environment*. Dordrecht: Springer.
+116.  []{#c10752*444.xhtml#R116}Bose, S., ed. 1991. \_Shifting Agriculture
+      in India*. Calcutta: Anthropological Survey of India.
+117.  []{#c10752*444.xhtml#R117}Boserup, E. 1965. \_The Conditions of
       Agricultural Growth: The Economics of Agrarian Change under
-      Population Pressure_. Chicago: Aldine.
-118.  []{#c10752_444.xhtml#R118}Boserup, E. 1976. Environment,
-      population, and technology in primitive societies. _Population and
-      Development Review_ 2:21--36.
-119.  []{#c10752_444.xhtml#R119}Bott, R. D. 2004. _Evolution of Canada's
-      Oil and Gas Industry_. Calgary, AB: Canadian Centre for Energy
+      Population Pressure*. Chicago: Aldine.
+118.  []{#c10752*444.xhtml#R118}Boserup, E. 1976. Environment,
+      population, and technology in primitive societies. \_Population and
+      Development Review* 2:21--36.
+119.  []{#c10752*444.xhtml#R119}Bott, R. D. 2004. \_Evolution of Canada's
+      Oil and Gas Industry*. Calgary, AB: Canadian Centre for Energy
       Information.
-120.  []{#c10752_444.xhtml#R120}Boulding, K. E. 1974. The social system
-      and the energy crisis. _Science_ 184:255--257.
-121.  []{#c10752_444.xhtml#R121}Bowers, B. 1998. _Lengthening the Day: A
-      History of Lighting Technology_. Oxford: Oxford University Press.
-122.  []{#c10752_444.xhtml#R122}Bowers, B. 2001. _Sir Charles Wheatstone:
-      1802--1875_, 2nd ed. London: Institution of Engineering and
+120.  []{#c10752*444.xhtml#R120}Boulding, K. E. 1974. The social system
+      and the energy crisis. \_Science* 184:255--257.
+121.  []{#c10752*444.xhtml#R121}Bowers, B. 1998. \_Lengthening the Day: A
+      History of Lighting Technology*. Oxford: Oxford University Press.
+122.  []{#c10752*444.xhtml#R122}Bowers, B. 2001. \_Sir Charles Wheatstone:
+      1802--1875*, 2nd ed. London: Institution of Engineering and
       Technology.
-123.  []{#c10752_444.xhtml#R123}Boxer, C. R. 1969. _The Portuguese
-      Seaborne Empire 1415--1825_. London: Hutchinson.
-124.  []{#c10752_444.xhtml#R124}BP (British Petroleum). 2016.
-      _Statistical Review of World Energy 2016_.
+123.  []{#c10752*444.xhtml#R123}Boxer, C. R. 1969. \_The Portuguese
+      Seaborne Empire 1415--1825*. London: Hutchinson.
+124.  []{#c10752*444.xhtml#R124}BP (British Petroleum). 2016.
+      \_Statistical Review of World Energy 2016*.
       <https://www.bp.com/content/dam/bp/pdf/energy-economics/statistical-review-2015/bp-statistical-review-of-world-energy-2015-full-report.pdf>.
-125.  []{#c10752_444.xhtml#R125}Bramanti, B., et al. 2009. Genetic
+125.  []{#c10752*444.xhtml#R125}Bramanti, B., et al. 2009. Genetic
       discontinuity between local hunter-gatherers and Central Europe's
-      first farmers. _Science_ 326:137--140.
-126.  []{#c10752_444.xhtml#R126}Bramble, D. M., and D. E.
-      Lieberman. 2004. Endurance running and the evolution of _Homo._
+      first farmers. \_Science* 326:137--140.
+126.  []{#c10752*444.xhtml#R126}Bramble, D. M., and D. E.
+      Lieberman. 2004. Endurance running and the evolution of \_Homo.*
       _Nature_ 432:345--352.
-127.  []{#c10752_444.xhtml#R127}Brandstetter, T. 2005. "The most
+127.  []{#c10752*444.xhtml#R127}Brandstetter, T. 2005. "The most
       wonderful piece of machinery the world can boast of": The
-      water-works at Marly, 1680--1830. _History and Technology_
+      water-works at Marly, 1680--1830. \_History and Technology*
       21:205--220.
-128.  []{#c10752_444.xhtml#R128}Brantly, J. E. 1971. _History of Oil Well
-      Drilling_. Houston, TX: Gulf Publishing.
-129.  []{#c10752_444.xhtml#R129}Braudel, F. 1982. _On History_. Chicago:
+128.  []{#c10752*444.xhtml#R128}Brantly, J. E. 1971. \_History of Oil Well
+      Drilling*. Houston, TX: Gulf Publishing.
+129.  []{#c10752*444.xhtml#R129}Braudel, F. 1982. \_On History*. Chicago:
       University of Chicago Press.
-130.  []{#c10752_444.xhtml#R130}Braun, D. R., et al. 2010. Early hominin
+130.  []{#c10752*444.xhtml#R130}Braun, D. R., et al. 2010. Early hominin
       diet included diverse terrestrial and aquatic animals 1.95 Ma in
-      East Turkana, Kenya. _Proceedings of the National Academy of
-      Sciences of the United States of America_ 107:10002--10007.
-131.  []{#c10752_444.xhtml#R131}Braun, G. W., and D. R. Smith. 1992.
+      East Turkana, Kenya. \_Proceedings of the National Academy of
+      Sciences of the United States of America* 107:10002--10007.
+131.  []{#c10752*444.xhtml#R131}Braun, G. W., and D. R. Smith. 1992.
       Commercial wind power: Recent experience in the United States.
-      _Annual Review of Energy and the Environment_ 17:97--121.
-132.  []{#c10752_444.xhtml#R132}Bray, F. 1984. _Science and Civilisation
-      in China_. Vol. 6, Part II. _Agriculture_. Cambridge: Cambridge
+      \_Annual Review of Energy and the Environment* 17:97--121.
+132.  []{#c10752*444.xhtml#R132}Bray, F. 1984. \_Science and Civilisation
+      in China*. Vol. 6, Part II. _Agriculture_. Cambridge: Cambridge
       University Press.
-133.  []{#c10752_444.xhtml#R133}Bresse, M. 1876. _Water-Wheels or
-      Hydraulic Motors_. New York: John Wiley.
-134.  []{#c10752_444.xhtml#R134}Brodhead, M. J. 2012. _The Panama Canal:
+133.  []{#c10752*444.xhtml#R133}Bresse, M. 1876. \_Water-Wheels or
+      Hydraulic Motors*. New York: John Wiley.
+134.  []{#c10752*444.xhtml#R134}Brodhead, M. J. 2012. \_The Panama Canal:
       Writings of the U. S. Army Corps of Engineers Officers Who
-      Conceived and Built It_. Alexandria, VA: U.S. Army Corps of
+      Conceived and Built It*. Alexandria, VA: U.S. Army Corps of
       Engineers History Office.
-135.  []{#c10752_444.xhtml#R135}Brody, S. 1945. _Bioenergetics and
-      Growth_. New York: Reinhold.
-136.  []{#c10752_444.xhtml#R136}Bronson, B. 1977. The earliest farming:
-      Demography as cause and consequence. In _Origins of Agriculture_
+135.  []{#c10752*444.xhtml#R135}Brody, S. 1945. \_Bioenergetics and
+      Growth*. New York: Reinhold.
+136.  []{#c10752*444.xhtml#R136}Bronson, B. 1977. The earliest farming:
+      Demography as cause and consequence. In \_Origins of Agriculture*
       _,_ ed. C. Reed, 23--48. The Hague: Mouton.
-137.  []{#c10752_444.xhtml#R137}Brooks, D. R., and E. O. Wiley. 1986.
-      _Evolution as Entropy_. Chicago: University of Chicago Press.
-138.  []{#c10752_444.xhtml#R138}Brown, G. I. 1999. _Count Rumford: The
-      Extraordinary Life of a Scientific Genius_. Stroud: Sutton
+137.  []{#c10752*444.xhtml#R137}Brooks, D. R., and E. O. Wiley. 1986.
+      \_Evolution as Entropy*. Chicago: University of Chicago Press.
+138.  []{#c10752*444.xhtml#R138}Brown, G. I. 1999. \_Count Rumford: The
+      Extraordinary Life of a Scientific Genius*. Stroud: Sutton
       Publishing.
-139.  []{#c10752_444.xhtml#R139}Brown, K. S., et al. 2009. Fire as an
-      engineering tool of early modern humans. _Science_ 325:859--862.
-140.  []{#c10752_444.xhtml#R140}Brown, K. S., et al. 2012. An early and
+139.  []{#c10752*444.xhtml#R139}Brown, K. S., et al. 2009. Fire as an
+      engineering tool of early modern humans. \_Science* 325:859--862.
+140.  []{#c10752*444.xhtml#R140}Brown, K. S., et al. 2012. An early and
       enduring advanced technology originating 71,000 years ago in South
-      Africa. _Nature_ 491:590--593.
-141.  []{#c10752_444.xhtml#R141}Brown, S., P. Schroeder, and R.
+      Africa. \_Nature* 491:590--593.
+141.  []{#c10752*444.xhtml#R141}Brown, S., P. Schroeder, and R.
       Birdsey. 1997. Aboveground biomass distribution of US eastern
       hardwood forests and the use of large trees as an indicator of
-      forest development. _Forest Ecology and Management_ 96:31--47.
-142.  []{#c10752_444.xhtml#R142}Bruce, A. W. 1952. _The Steam Locomotive
-      in America_. New York: Norton.
-143.  []{#c10752_444.xhtml#R143}Brunck, R. F. P. 1776. _Analecta Veterum
-      Poetarum Graecorum_. Strasbourg: I. G. Bauer & Socium.
-144.  []{#c10752_444.xhtml#R144}Bruni, L., and P. L. Porta. 2006.
-      _Economics and Happiness_. New York: Oxford University Press.
-145.  []{#c10752_444.xhtml#R145}Brunner, K. 1995. Continuity and
+      forest development. \_Forest Ecology and Management* 96:31--47.
+142.  []{#c10752*444.xhtml#R142}Bruce, A. W. 1952. \_The Steam Locomotive
+      in America*. New York: Norton.
+143.  []{#c10752*444.xhtml#R143}Brunck, R. F. P. 1776. \_Analecta Veterum
+      Poetarum Graecorum*. Strasbourg: I. G. Bauer & Socium.
+144.  []{#c10752*444.xhtml#R144}Bruni, L., and P. L. Porta. 2006.
+      \_Economics and Happiness*. New York: Oxford University Press.
+145.  []{#c10752*444.xhtml#R145}Brunner, K. 1995. Continuity and
       discontinuity of Roman agricultural knowledge in the early Middle
-      Ages. In _Agriculture in the Middle Ages_, ed. D. Sweeney, 21--39.
+      Ages. In \_Agriculture in the Middle Ages*, ed. D. Sweeney, 21--39.
       Philadelphia: University of Pennsylvania Press.
-146.  []{#c10752_444.xhtml#R146}Brunt, L. 1999. _Estimating English Wheat
-      Production in the Industrial Revolution_. Oxford: University of
+146.  []{#c10752*444.xhtml#R146}Brunt, L. 1999. \_Estimating English Wheat
+      Production in the Industrial Revolution*. Oxford: University of
       Oxford.
       <http://www.nuffield.ox.ac.uk/economics/history/paper35/dp35a4.pdf>.
-147.  []{#c10752_444.xhtml#R147}Buchanan, B. J., ed. 2006. _Gunpowder,
-      Explosives and the State: A Technological History_. Aldershot:
+147.  []{#c10752*444.xhtml#R147}Buchanan, B. J., ed. 2006. \_Gunpowder,
+      Explosives and the State: A Technological History*. Aldershot:
       Ashgate.
-148.  []{#c10752_444.xhtml#R148}Buck, J. L. 1930. _Chinese Farm Economy_.
+148.  []{#c10752*444.xhtml#R148}Buck, J. L. 1930. \_Chinese Farm Economy*.
       Nanking: University of Nanking.
-149.  []{#c10752_444.xhtml#R149}Buck, J. L. 1937. _Land Utilization in
-      China_. Nanking: University of Nanking.
-150.  []{#c10752_444.xhtml#R150}Buckley, T. A. 1855. _The Works of
-      Horace_. New York: Harper & Brothers.
-151.  []{#c10752_444.xhtml#R151}Budge, E. A. W. 1920. _An Egyptian
-      Hieroglyphic Dictionary_. London: John Murray.
-152.  []{#c10752_444.xhtml#R152}Bulliet, R. W. 1975. _The Camel and the
-      Wheel_. Cambridge, MA: Harvard University Press.
-153.  []{#c10752_444.xhtml#R153}Bulliet, R. W. 2016. _The Wheel:
-      Inventions and Reinventions_. New York: Columbia University Press.
-154.  []{#c10752_444.xhtml#R154}Bunch, B. H., and A. Hellemans. 1993.
-      _The Timetables of Technology: A Chronology of the Most Important
-      People and Events in the History of Technology_. New York: Simon &
+149.  []{#c10752*444.xhtml#R149}Buck, J. L. 1937. \_Land Utilization in
+      China*. Nanking: University of Nanking.
+150.  []{#c10752*444.xhtml#R150}Buckley, T. A. 1855. \_The Works of
+      Horace*. New York: Harper & Brothers.
+151.  []{#c10752*444.xhtml#R151}Budge, E. A. W. 1920. \_An Egyptian
+      Hieroglyphic Dictionary*. London: John Murray.
+152.  []{#c10752*444.xhtml#R152}Bulliet, R. W. 1975. \_The Camel and the
+      Wheel*. Cambridge, MA: Harvard University Press.
+153.  []{#c10752*444.xhtml#R153}Bulliet, R. W. 2016. \_The Wheel:
+      Inventions and Reinventions*. New York: Columbia University Press.
+154.  []{#c10752*444.xhtml#R154}Bunch, B. H., and A. Hellemans. 1993.
+      \_The Timetables of Technology: A Chronology of the Most Important
+      People and Events in the History of Technology*. New York: Simon &
       Schuster.
-155.  []{#c10752_444.xhtml#R155}Burke, E., III. 2009. Human history,
-      energy regimes and the environment. In _The Environment and World
-      History_, ed. E. Burke III and K. Pomeranz, 33--53. Berkeley:
+155.  []{#c10752*444.xhtml#R155}Burke, E., III. 2009. Human history,
+      energy regimes and the environment. In \_The Environment and World
+      History*, ed. E. Burke III and K. Pomeranz, 33--53. Berkeley:
       University of California Press.
-156.  []{#c10752_444.xhtml#R156}Burstall, A. F. 1968. _Simple Working
-      Models of Historic Machines_. Cambridge, MA: MIT Press.
-157.  []{#c10752_444.xhtml#R157}Burton, R. F. 1880. _The Lusiads_.
+156.  []{#c10752*444.xhtml#R156}Burstall, A. F. 1968. \_Simple Working
+      Models of Historic Machines*. Cambridge, MA: MIT Press.
+157.  []{#c10752*444.xhtml#R157}Burton, R. F. 1880. \_The Lusiads*.
       London: Tinsley Brothers.
 158.  []{#c10752_444.xhtml#R158}Butler, J. H., and S. A. Montzka. 2015.
       The NOAA Annual Greenhouse Gas Index. Boulder, CO: NOAA.
       <http://www.esrl.noaa.gov/gmd/aggi/aggi.html>.
-159.  []{#c10752_444.xhtml#R159}Butzer, K. W. 1976. _Early Hydraulic
-      Civilization in Egypt_. Chicago: University of Chicago Press.
-160.  []{#c10752_444.xhtml#R160}Butzer, K. W. 1984. Long-term Nile flood
+159.  []{#c10752*444.xhtml#R159}Butzer, K. W. 1976. \_Early Hydraulic
+      Civilization in Egypt*. Chicago: University of Chicago Press.
+160.  []{#c10752*444.xhtml#R160}Butzer, K. W. 1984. Long-term Nile flood
       variation and political discontinuities in Pharaonic Egypt. In
-      _From Hunters to Farmers_, ed. J. D. Clark and S. A. Brandt,
+      \_From Hunters to Farmers*, ed. J. D. Clark and S. A. Brandt,
       102--112. Berkeley: University of California Press.
-161.  []{#c10752_444.xhtml#R161}Byrn, E. W. 1900. _The Progress of
-      Invention in the Nineteenth Century_. New York: Munn & Co.
-162.  []{#c10752_444.xhtml#R162}Caidin, M. 1960. _A Torch to the Enemy:
-      The Fire Raid on Tokyo_. New York: Balantine Books.
-163.  []{#c10752_444.xhtml#R163}Cairns, M. F., ed. 2015. _Shifting
+161.  []{#c10752*444.xhtml#R161}Byrn, E. W. 1900. \_The Progress of
+      Invention in the Nineteenth Century*. New York: Munn & Co.
+162.  []{#c10752*444.xhtml#R162}Caidin, M. 1960. \_A Torch to the Enemy:
+      The Fire Raid on Tokyo*. New York: Balantine Books.
+163.  []{#c10752*444.xhtml#R163}Cairns, M. F., ed. 2015. \_Shifting
       Cultivation and Environmental Change: Indigenous People,
-      Agriculture and Forest Conservation_. London: Earthscan Routledge.
-164.  []{#c10752_444.xhtml#R164}Cameron, R. 1982. The Industrial
-      Revolution: A misnomer. _History Teacher_ 15 (3): 377--384.
-165.  []{#c10752_444.xhtml#R165}Cameron, R. 1985. A new view of European
-      industrialization. _Economic History Review_ 3:1--23.
-166.  []{#c10752_444.xhtml#R166}Campbell, B. M. S., and M. Overton. 1993.
+      Agriculture and Forest Conservation*. London: Earthscan Routledge.
+164.  []{#c10752*444.xhtml#R164}Cameron, R. 1982. The Industrial
+      Revolution: A misnomer. \_History Teacher* 15 (3): 377--384.
+165.  []{#c10752*444.xhtml#R165}Cameron, R. 1985. A new view of European
+      industrialization. \_Economic History Review* 3:1--23.
+166.  []{#c10752*444.xhtml#R166}Campbell, B. M. S., and M. Overton. 1993.
       A new perspective on medieval and early modern agriculture: Six
-      centuries of Norfolk farming, _c._ 1250-_c_. 1850. _Past & Present_
+      centuries of Norfolk farming, \_c.* 1250-_c_. 1850. _Past & Present_
       141 (1): 38--105.
-167.  []{#c10752_444.xhtml#R167}Campbell, H. R. 1907. _The Manufacture
-      and Properties of Iron and Steel_. New York: Hill Publishing.
-168.  []{#c10752_444.xhtml#R168}Cantelon, P. L., R. G. Hewlett, and R. C.
-      Williams, eds. 1991. _The American Atom: A Documentary History of
-      Nuclear Policies from the Discovery of Fission to the Present_.
+167.  []{#c10752*444.xhtml#R167}Campbell, H. R. 1907. \_The Manufacture
+      and Properties of Iron and Steel*. New York: Hill Publishing.
+168.  []{#c10752*444.xhtml#R168}Cantelon, P. L., R. G. Hewlett, and R. C.
+      Williams, eds. 1991. \_The American Atom: A Documentary History of
+      Nuclear Policies from the Discovery of Fission to the Present*.
       Philadelphia: University of Pennsylvania Press.
-169.  []{#c10752_444.xhtml#R169}Capulli, M. 2003. _Le Navi della
-      Serenissima: La Galea Veneziana di Lazise_. Venezia: Marsilio
+169.  []{#c10752*444.xhtml#R169}Capulli, M. 2003. \_Le Navi della
+      Serenissima: La Galea Veneziana di Lazise*. Venezia: Marsilio
       Editore.
-170.  []{#c10752_444.xhtml#R170}Cardwell, D. S. L. 1971. _From Watt to
-      Clausius: The Rise of Thermodynamics in the Early Industrial Age_.
+170.  []{#c10752*444.xhtml#R170}Cardwell, D. S. L. 1971. \_From Watt to
+      Clausius: The Rise of Thermodynamics in the Early Industrial Age*.
       Ithaca, NY: Cornell University Press.
-171.  []{#c10752_444.xhtml#R171}Caro, R. A. 1982. _The Years of Lyndon
-      Johnson: The Path to Power_. New York: Knopf.
-172.  []{#c10752_444.xhtml#R172}Caron, F. 2013. _Dynamics of Innovation:
-      The Expansion of Technology in Modern Times_. New York: Berghahn.
-173.  []{#c10752_444.xhtml#R173}Carrier, D. R. 1984. The energetic
-      paradox of human running and hominid evolution. _Current
-      Anthropology_ 25:483--495.
-174.  []{#c10752_444.xhtml#R174}Carter, R. A. 2000. _Buffalo Bill Cody:
-      The Man behind the Legend_. New York: John Wiley.
-175.  []{#c10752_444.xhtml#R175}Carter, W. E. 1969. _New Lands and Old
-      Traditions: Kekchi Cultivators in the Guatemala Lowlands_.
+171.  []{#c10752*444.xhtml#R171}Caro, R. A. 1982. \_The Years of Lyndon
+      Johnson: The Path to Power*. New York: Knopf.
+172.  []{#c10752*444.xhtml#R172}Caron, F. 2013. \_Dynamics of Innovation:
+      The Expansion of Technology in Modern Times*. New York: Berghahn.
+173.  []{#c10752*444.xhtml#R173}Carrier, D. R. 1984. The energetic
+      paradox of human running and hominid evolution. \_Current
+      Anthropology* 25:483--495.
+174.  []{#c10752*444.xhtml#R174}Carter, R. A. 2000. \_Buffalo Bill Cody:
+      The Man behind the Legend*. New York: John Wiley.
+175.  []{#c10752*444.xhtml#R175}Carter, W. E. 1969. \_New Lands and Old
+      Traditions: Kekchi Cultivators in the Guatemala Lowlands*.
       Gainesville: University of Florida Press.
-176.  []{#c10752_444.xhtml#R176}Casson, L. 1994. _Ships and Seafaring in
-      Ancient Times_. Austin: University of Texas Press.
+176.  []{#c10752*444.xhtml#R176}Casson, L. 1994. \_Ships and Seafaring in
+      Ancient Times*. Austin: University of Texas Press.
 177.  []{#c10752_444.xhtml#R177}CDC (Centers for Disease Control and
       Prevention). 2015. Overweight & Obesity.
       <http://www.cdc.gov/nchs/fastats/obesity-overweight.htm>.
 178.  []{#c10752_444.xhtml#R178}CDFA (Clean Diesel Fuel Alliance). 2015.
       Ultra Low Sulfur Diesel (ULSD).
       <http://www.clean-diesel.org/index.htm>.
-179.  []{#c10752_444.xhtml#R179}Centre des Recherches Historiques. 1965.
-      _Villages Desertes et Histoire Economique_. Paris: SEVPEN.
-180.  []{#c10752_444.xhtml#R180}Ceruzzi, P. E. 2003. _A History of Modern
-      Computing_. Cambridge, MA: MIT Press.
+179.  []{#c10752*444.xhtml#R179}Centre des Recherches Historiques. 1965.
+      \_Villages Desertes et Histoire Economique*. Paris: SEVPEN.
+180.  []{#c10752*444.xhtml#R180}Ceruzzi, P. E. 2003. \_A History of Modern
+      Computing*. Cambridge, MA: MIT Press.
 181.  []{#c10752_444.xhtml#R181}CFM International. 2015. Discover CFM.
       <http://www.cfmaeroengines.com/files/brochures/Brochure_CFM_2015.pdf>.
-182.  []{#c10752_444.xhtml#R182}Chandler, T. 1987. _Four Thousand Years
-      of Urban Growth: An Historical Census_. Lewiston, NY: Edwin Mellen
+182.  []{#c10752*444.xhtml#R182}Chandler, T. 1987. \_Four Thousand Years
+      of Urban Growth: An Historical Census*. Lewiston, NY: Edwin Mellen
       Press.
-183.  []{#c10752_444.xhtml#R183}Chapelle, H. I. 1988. _The History of
-      American Sailing Ships_. Modesto, CA: Bonanza Books.
-184.  []{#c10752_444.xhtml#R184}Charette, R. N. 2009. This car runs on
-      code. _IEEE Spectrum 2009_ (February).
+183.  []{#c10752*444.xhtml#R183}Chapelle, H. I. 1988. \_The History of
+      American Sailing Ships*. Modesto, CA: Bonanza Books.
+184.  []{#c10752*444.xhtml#R184}Charette, R. N. 2009. This car runs on
+      code. \_IEEE Spectrum 2009* (February).
       <http://spectrum.ieee.org/green-tech/advanced-cars/this-car-runs-on-code/0>.
-185.  []{#c10752_444.xhtml#R185}Charles, C., and P. Wooders. 2011.
-      _Subsidies to Liquid Transport Fuels: A comparative review of
-      estimates_. Geneva: IISD.
-186.  []{#c10752_444.xhtml#R186}Chartrand, R. 2003. _Napoleon's Guns
-      1792--1815. Botley_. Osprey Publishing.
-187.  []{#c10752_444.xhtml#R187}Chase, K. 2003. _Firearms: A Global
-      History to 1700_. Cambridge: Cambridge University Press.
-188.  []{#c10752_444.xhtml#R188}Chatterton, E. K. 1914. _Sailing Ships:
+185.  []{#c10752*444.xhtml#R185}Charles, C., and P. Wooders. 2011.
+      \_Subsidies to Liquid Transport Fuels: A comparative review of
+      estimates*. Geneva: IISD.
+186.  []{#c10752*444.xhtml#R186}Chartrand, R. 2003. \_Napoleon's Guns
+      1792--1815. Botley*. Osprey Publishing.
+187.  []{#c10752*444.xhtml#R187}Chase, K. 2003. \_Firearms: A Global
+      History to 1700*. Cambridge: Cambridge University Press.
+188.  []{#c10752*444.xhtml#R188}Chatterton, E. K. 1914. \_Sailing Ships:
       The Story of Their Development from the Earliest Times to the
-      Present Day_. London: Sidgwick & Jackson.
-189.  []{#c10752_444.xhtml#R189}Chatterton, E. K. 1926. _The Ship Under
-      Sail_. London: Fisher Unwin.
-190.  []{#c10752_444.xhtml#R190}Chauvois, L. 1967. _Histoire merveilleuse
-      de Zénobe Gramme_. Paris: Albert Blanchard.
-191.  []{#c10752_444.xhtml#R191}Cheney, Margaret. 1981. _Tesla: Man out
-      of Time_. New York: Dorset Press.
-192.  []{#c10752_444.xhtml#R192}Chevedden, P. E., et al. 1995. The
-      trebuchet. _Scientific American_ 273 (1): 66--71.
-193.  []{#c10752_444.xhtml#R193}China Energy Group. 2014. _Key China
-      Energy Statistics 2014_. Berkeley, CA: Lawrence Berkeley National
+      Present Day*. London: Sidgwick & Jackson.
+189.  []{#c10752*444.xhtml#R189}Chatterton, E. K. 1926. \_The Ship Under
+      Sail*. London: Fisher Unwin.
+190.  []{#c10752*444.xhtml#R190}Chauvois, L. 1967. \_Histoire merveilleuse
+      de Zénobe Gramme*. Paris: Albert Blanchard.
+191.  []{#c10752*444.xhtml#R191}Cheney, Margaret. 1981. \_Tesla: Man out
+      of Time*. New York: Dorset Press.
+192.  []{#c10752*444.xhtml#R192}Chevedden, P. E., et al. 1995. The
+      trebuchet. \_Scientific American* 273 (1): 66--71.
+193.  []{#c10752*444.xhtml#R193}China Energy Group. 2014. \_Key China
+      Energy Statistics 2014*. Berkeley, CA: Lawrence Berkeley National
       Laboratory.
 194.  []{#c10752_444.xhtml#R194}Chincold. 2015. Three Gorges Project.
       <http://www.chincold.org.cn/dams/rootfiles/2010/07/20/1279253974143251-1279253974145520.pdf>.
-195.  []{#c10752_444.xhtml#R195}Ching, F. D. K., M. Jarzombek, and V.
-      Prakash. 2011. _A Global History of Architecture_. Hoboken, NJ:
+195.  []{#c10752*444.xhtml#R195}Ching, F. D. K., M. Jarzombek, and V.
+      Prakash. 2011. \_A Global History of Architecture*. Hoboken, NJ:
       John Wiley & Sons.
-196.  []{#c10752_444.xhtml#R196}Chorley, G. P. H. 1981. The agricultural
+196.  []{#c10752*444.xhtml#R196}Chorley, G. P. H. 1981. The agricultural
       revolution in Northern Europe, 1750--1880: Nitrogen, legumes, and
-      crop productivity. _Economic History Review_ 34 (1):71--93.
-197.  []{#c10752_444.xhtml#R197}Choudhury, P. C. 1976. _Hastividyarnava_.
+      crop productivity. \_Economic History Review* 34 (1):71--93.
+197.  []{#c10752*444.xhtml#R197}Choudhury, P. C. 1976. \_Hastividyarnava*.
       Gauhati: Publication Board of Assam.
-198.  []{#c10752_444.xhtml#R198}Christ, K. 1984. _The Romans_. Berkeley:
+198.  []{#c10752*444.xhtml#R198}Christ, K. 1984. \_The Romans*. Berkeley:
       University of California Press.
-199.  []{#c10752_444.xhtml#R199}Church, R., Hall, A. and J.
-      Kanefsky. 1986. _History of the British Coal Industry_. Vol. 3,
+199.  []{#c10752*444.xhtml#R199}Church, R., Hall, A. and J.
+      Kanefsky. 1986. \_History of the British Coal Industry*. Vol. 3,
       _Victorian Pre-Eminence_. Oxford: Oxford University Press.
-200.  []{#c10752_444.xhtml#R200}Cipolla, C. M. 1965. _Guns, Sails and
+200.  []{#c10752*444.xhtml#R200}Cipolla, C. M. 1965. \_Guns, Sails and
       Empires: Technological Innovation and the Early Phases of European
-      Expansion, 1400--1700_. New York: Pantheon Books.
+      Expansion, 1400--1700*. New York: Pantheon Books.
 201.  []{#c10752_444.xhtml#R201}City Population. 2015. Major
       agglomerations of the world.
       <http://www.citypopulation.de/world/Agglomerations.html>.
-202.  []{#c10752_444.xhtml#R202}Clapham, J. H. 1926. _An Economic History
-      of Modern Britain_. Cambridge: Cambridge University Press.
-203.  []{#c10752_444.xhtml#R203}Clark, C., and M. Haswell. 1970. _The
-      Economics of Subsistence Agriculture_. London: Macmillan.
-204.  []{#c10752_444.xhtml#R204}Clark, G. 1987. Productivity growth
+202.  []{#c10752*444.xhtml#R202}Clapham, J. H. 1926. \_An Economic History
+      of Modern Britain*. Cambridge: Cambridge University Press.
+203.  []{#c10752*444.xhtml#R203}Clark, C., and M. Haswell. 1970. \_The
+      Economics of Subsistence Agriculture*. London: Macmillan.
+204.  []{#c10752*444.xhtml#R204}Clark, G. 1987. Productivity growth
       without technical change in European agriculture before 1850.
-      _Journal of Economic History_ 47:419--432.
-205.  []{#c10752_444.xhtml#R205}Clark, G. 1991. Yields per acre in
+      \_Journal of Economic History* 47:419--432.
+205.  []{#c10752*444.xhtml#R205}Clark, G. 1991. Yields per acre in
       English agriculture, 1250--1850: Evidence from labour inputs.
-      _Economic History Review_ 44:445--460.
-206.  []{#c10752_444.xhtml#R206}Clark, G., M. Huberman, and P. H.
-      Lindert. 1995. A British food puzzle, 1770--1850. _Economic History
-      Review_ 48:215--237.
-207.  []{#c10752_444.xhtml#R207}Clarke, R., and M. Dubravko. 1983.
-      _Soviet Economic Facts, 1917--1981_. London: Palgrave Macmillan.
-208.  []{#c10752_444.xhtml#R208}Clarkson, L. A. 1985.
-      _Proto-Industrialization: The First Phase of Industrialization?_
+      \_Economic History Review* 44:445--460.
+206.  []{#c10752*444.xhtml#R206}Clark, G., M. Huberman, and P. H.
+      Lindert. 1995. A British food puzzle, 1770--1850. \_Economic History
+      Review* 48:215--237.
+207.  []{#c10752*444.xhtml#R207}Clarke, R., and M. Dubravko. 1983.
+      \_Soviet Economic Facts, 1917--1981*. London: Palgrave Macmillan.
+208.  []{#c10752*444.xhtml#R208}Clarkson, L. A. 1985.
+      \_Proto-Industrialization: The First Phase of Industrialization?*
       London: Macmillan.
-209.  []{#c10752_444.xhtml#R209}Clavering, E. 1995. The coal mills of
+209.  []{#c10752*444.xhtml#R209}Clavering, E. 1995. The coal mills of
       Northeast England: The use of waterwheels for draining coal mines,
-      1600--1750. _Technology and Culture_ 36:211--241.
-210.  []{#c10752_444.xhtml#R210}Clerk, D. 1909. _The Gas, Petrol, and Oil
-      Engine_. London: Longmans, Green and Co.
-211.  []{#c10752_444.xhtml#R211}Cleveland, C. J., ed. 2004. _Encyclopedia
-      of Energy,_ 6 vols. Amsterdam: Elsevier.
-212.  []{#c10752_444.xhtml#R212}Cleveland, C. J., and C. Morris. 2014.
-      _Handbook of Energy_. Vol. 2, _Chronologies, Top Ten Lists, and
+      1600--1750. \_Technology and Culture* 36:211--241.
+210.  []{#c10752*444.xhtml#R210}Clerk, D. 1909. \_The Gas, Petrol, and Oil
+      Engine*. London: Longmans, Green and Co.
+211.  []{#c10752*444.xhtml#R211}Cleveland, C. J., ed. 2004. \_Encyclopedia
+      of Energy,* 6 vols. Amsterdam: Elsevier.
+212.  []{#c10752*444.xhtml#R212}Cleveland, C. J., and C. Morris. 2014.
+      \_Handbook of Energy*. Vol. 2, _Chronologies, Top Ten Lists, and
       World Clouds_. Amsterdam: Elsevier.
-213.  []{#c10752_444.xhtml#R213}CMI (Center for Military History). 2010.
-      _War in the Persian Gulf: Operations Desert Shield and Desert
-      Storm_, August 1990--March 1991.
+213.  []{#c10752*444.xhtml#R213}CMI (Center for Military History). 2010.
+      \_War in the Persian Gulf: Operations Desert Shield and Desert
+      Storm*, August 1990--March 1991.
       <http://www.history.army.mil/html/books/070/70-117-1/cmh_70-117-1.pdf>.
-214.  []{#c10752_444.xhtml#R214}Coates, J. F. 1989. The trireme sails
-      again. _Scientific American_ 261 (4): 68--75.
-215.  []{#c10752_444.xhtml#R215}Cobbett, J. P. 1824. _A Ride of Eight
-      Hundred Miles in France_. London: Charles Clement.
-216.  []{#c10752_444.xhtml#R216}Cochrane, W. W. 1993. _The Development of
-      American Agriculture: A Historical Analysis_. Minneapolis:
+214.  []{#c10752*444.xhtml#R214}Coates, J. F. 1989. The trireme sails
+      again. \_Scientific American* 261 (4): 68--75.
+215.  []{#c10752*444.xhtml#R215}Cobbett, J. P. 1824. \_A Ride of Eight
+      Hundred Miles in France*. London: Charles Clement.
+216.  []{#c10752*444.xhtml#R216}Cochrane, W. W. 1993. \_The Development of
+      American Agriculture: A Historical Analysis*. Minneapolis:
       University of Minnesota Press.
-217.  []{#c10752_444.xhtml#R217}Cockrill, W. R., ed. 1974. _The Husbandry
-      and Health of the Domestic Buffalo_. Rome: FAO.
-218.  []{#c10752_444.xhtml#R218}Cohen, B. 1990. _Benjamin Franklin's
-      Science_. Cambridge, MA: Harvard University Press.
-219.  []{#c10752_444.xhtml#R219}Cohen, N. M. 1977. _The Food Crisis in
-      Prehistory_. New Haven, CT: Yale University Press.
-220.  []{#c10752_444.xhtml#R220}Collier, B. 1962. _The Battle of
-      Britain_. London: Batsford.
-221.  []{#c10752_444.xhtml#R221}Collins, E. V., and A. B. Caine. 1926.
-      _Testing Draft Horses_. _Iowa Experimental Station Bulletin_ 240.
-222.  []{#c10752_444.xhtml#R222}Coltman, J. W. 1988. The transformer.
-      _Scientific American_ 258 (1): 86--95.
-223.  []{#c10752_444.xhtml#R223}Committee for the Compilation of
+217.  []{#c10752*444.xhtml#R217}Cockrill, W. R., ed. 1974. \_The Husbandry
+      and Health of the Domestic Buffalo*. Rome: FAO.
+218.  []{#c10752*444.xhtml#R218}Cohen, B. 1990. \_Benjamin Franklin's
+      Science*. Cambridge, MA: Harvard University Press.
+219.  []{#c10752*444.xhtml#R219}Cohen, N. M. 1977. \_The Food Crisis in
+      Prehistory*. New Haven, CT: Yale University Press.
+220.  []{#c10752*444.xhtml#R220}Collier, B. 1962. \_The Battle of
+      Britain*. London: Batsford.
+221.  []{#c10752*444.xhtml#R221}Collins, E. V., and A. B. Caine. 1926.
+      \_Testing Draft Horses*. _Iowa Experimental Station Bulletin_ 240.
+222.  []{#c10752*444.xhtml#R222}Coltman, J. W. 1988. The transformer.
+      \_Scientific American* 258 (1): 86--95.
+223.  []{#c10752*444.xhtml#R223}Committee for the Compilation of
       Materials on Damage Caused by the Atomic bombs in Hiroshima and
-      Nagasaki. 1991. _Hiroshima and Nagasaki: The Physical, Medical and
-      Social Effects of the Atomic Bombing_. New York: Basic Books.
-224.  []{#c10752_444.xhtml#R224}Conklin, H. C. 1957. _Hanunoo
-      Agriculture_. Rome: FAO.
-225.  []{#c10752_444.xhtml#R225}Conquest, Robert. 2007. _The Great
-      Terror: A Reassessment_. 40th Anniversary Edition. Oxford: Oxford
+      Nagasaki. 1991. \_Hiroshima and Nagasaki: The Physical, Medical and
+      Social Effects of the Atomic Bombing*. New York: Basic Books.
+224.  []{#c10752*444.xhtml#R224}Conklin, H. C. 1957. \_Hanunoo
+      Agriculture*. Rome: FAO.
+225.  []{#c10752*444.xhtml#R225}Conquest, Robert. 2007. \_The Great
+      Terror: A Reassessment*. 40th Anniversary Edition. Oxford: Oxford
       University Press.
-226.  []{#c10752_444.xhtml#R226}Constable, G., and B. Somerville. 2003.
-      _A Century of Innovation_. Washington, DC: Joseph Henry Press.
-227.  []{#c10752_444.xhtml#R227}Constant, E. W. 1981. _The Origins of
-      Turbojet Revolution_. Baltimore, MD: Johns Hopkins University
+226.  []{#c10752*444.xhtml#R226}Constable, G., and B. Somerville. 2003.
+      \_A Century of Innovation*. Washington, DC: Joseph Henry Press.
+227.  []{#c10752*444.xhtml#R227}Constant, E. W. 1981. \_The Origins of
+      Turbojet Revolution*. Baltimore, MD: Johns Hopkins University
       Press.
-228.  []{#c10752_444.xhtml#R228}Coomes, O. T., F. Grimard, and G. J.
+228.  []{#c10752*444.xhtml#R228}Coomes, O. T., F. Grimard, and G. J.
       Burt. 2000. Tropical forests and shifting cultivation: Secondary
       forest fallow dynamics among traditional farmers of the Peruvian
-      Amazon. _Ecological Economics_ 32:109--124.
-229.  []{#c10752_444.xhtml#R229}Coopersmith, J. 2010. _Energy, the Subtle
+      Amazon. \_Ecological Economics* 32:109--124.
+229.  []{#c10752*444.xhtml#R229}Coopersmith, J. 2010. \_Energy, the Subtle
       Concept: The Discovery of Feynman's Blocks from Leibniz to
-      Einstein_. Oxford: Oxford University Press.
-230.  []{#c10752_444.xhtml#R230}Copley, Frank B. 1923. _Frederick W.
-      Taylor: Father of Scientific Management_. New York: Harper &
+      Einstein*. Oxford: Oxford University Press.
+230.  []{#c10752*444.xhtml#R230}Copley, Frank B. 1923. \_Frederick W.
+      Taylor: Father of Scientific Management*. New York: Harper &
       Brothers.
 231.  []{#c10752_444.xhtml#R231}Cornways. 2015. Combine.
       <http://www.cornways.de/hi_combine.html>.
-232.  []{#c10752_444.xhtml#R232}Cotterell, B., and J. Kamminga. 1990.
-      _Machines of Pre-industrial Technology_. Cambridge: Cambridge
+232.  []{#c10752*444.xhtml#R232}Cotterell, B., and J. Kamminga. 1990.
+      \_Machines of Pre-industrial Technology*. Cambridge: Cambridge
       University Press.
-233.  []{#c10752_444.xhtml#R233}Coulomb, C. A. 1799. Résultat de
+233.  []{#c10752*444.xhtml#R233}Coulomb, C. A. 1799. Résultat de
       plusieurs expériences destinées à déterminer la quantité d'action
       que les hommes peuvent fournir par leur travail journalier. ...
-      _Mémoires de l'Institut national des sciences et arts---Sciences
-      mathématiques et physique_ 2:380--428.
-234.  []{#c10752_444.xhtml#R234}Coulton, J. J. 1977. _Ancient Greek
-      Architects at Work_. Ithaca, NY: Cornell University Press.
-235.  []{#c10752_444.xhtml#R235}Cowan, R. 1990. Nuclear power reactors: A
-      study in technological lock-in. _Journal of Economic History_
+      \_Mémoires de l'Institut national des sciences et arts---Sciences
+      mathématiques et physique* 2:380--428.
+234.  []{#c10752*444.xhtml#R234}Coulton, J. J. 1977. \_Ancient Greek
+      Architects at Work*. Ithaca, NY: Cornell University Press.
+235.  []{#c10752*444.xhtml#R235}Cowan, R. 1990. Nuclear power reactors: A
+      study in technological lock-in. \_Journal of Economic History*
       50:541--567.
-236.  []{#c10752_444.xhtml#R236}Craddock, P. T. 1995. _Early Metal Mining
-      and Production_. Edinburgh: Edinburgh University Press.
-237.  []{#c10752_444.xhtml#R237}Crafts, N. F. R., and C. K. Harley. 1992.
-      Output growth and the British Industrial Revolution. _Economic
-      History Review_ 45:703--730.
-238.  []{#c10752_444.xhtml#R238}Crafts, N., and T. Mills. 2004. Was 19th
+236.  []{#c10752*444.xhtml#R236}Craddock, P. T. 1995. \_Early Metal Mining
+      and Production*. Edinburgh: Edinburgh University Press.
+237.  []{#c10752*444.xhtml#R237}Crafts, N. F. R., and C. K. Harley. 1992.
+      Output growth and the British Industrial Revolution. \_Economic
+      History Review* 45:703--730.
+238.  []{#c10752*444.xhtml#R238}Crafts, N., and T. Mills. 2004. Was 19th
       century British growth steam-powered? The climacteric revisited.
-      _Explorations in Economic History_ 41:156--171.
-239.  []{#c10752_444.xhtml#R239}Croil, J. 1898. _Steam Navigation_.
+      \_Explorations in Economic History* 41:156--171.
+239.  []{#c10752*444.xhtml#R239}Croil, J. 1898. \_Steam Navigation*.
       Toronto: William Briggs.
-240.  []{#c10752_444.xhtml#R240}Crossley, D. 1990. _Post-medieval
-      Archaeology in Britain_. Leicester: Leicester University Press.
-241.  []{#c10752_444.xhtml#R241}Cummins, C. L. 1989. _Internal Fire_.
+240.  []{#c10752*444.xhtml#R240}Crossley, D. 1990. \_Post-medieval
+      Archaeology in Britain*. Leicester: Leicester University Press.
+241.  []{#c10752*444.xhtml#R241}Cummins, C. L. 1989. \_Internal Fire*.
       Warrendale, PA: Society of Automotive Engineers.
-242.  []{#c10752_444.xhtml#R242}Cumpsty, N. 2006. _Jet Propulsion_.
+242.  []{#c10752*444.xhtml#R242}Cumpsty, N. 2006. \_Jet Propulsion*.
       Cambridge: Cambridge University Press.
-243.  []{#c10752_444.xhtml#R243}Cuomo, S. 2004. The sinews of war:
-      Ancient catapults. _Science_ 303:771--772.
-244.  []{#c10752_444.xhtml#R244}Curtis, W. H. 1919. _Wood Ship
-      Construction_. New York: McGraw-Hill.
-245.  []{#c10752_444.xhtml#R245}Daggett, S. 2010. _Costs of Major U.S.
-      Wars_. Washington, DC: Congressional Research Service.
+243.  []{#c10752*444.xhtml#R243}Cuomo, S. 2004. The sinews of war:
+      Ancient catapults. \_Science* 303:771--772.
+244.  []{#c10752*444.xhtml#R244}Curtis, W. H. 1919. \_Wood Ship
+      Construction*. New York: McGraw-Hill.
+245.  []{#c10752*444.xhtml#R245}Daggett, S. 2010. \_Costs of Major U.S.
+      Wars*. Washington, DC: Congressional Research Service.
       <http://cironline.org/sites/default/files/legacy/files/June2010CRScostofuswars.pdf>.
-246.  []{#c10752_444.xhtml#R246}Dalby, W. E. 1920. _Steam Power_. London:
+246.  []{#c10752*444.xhtml#R246}Dalby, W. E. 1920. \_Steam Power*. London:
       Edward Arnold.
-247.  []{#c10752_444.xhtml#R247}Darby, H. C. 1956. The clearing of the
-      woodland of Europe. In _Man's Role in Changing the Face of the
-      Earth_, ed. W. L. Thomas, 183--216. Chicago: University of Chicago
+247.  []{#c10752*444.xhtml#R247}Darby, H. C. 1956. The clearing of the
+      woodland of Europe. In \_Man's Role in Changing the Face of the
+      Earth*, ed. W. L. Thomas, 183--216. Chicago: University of Chicago
       Press.
-248.  []{#c10752_444.xhtml#R248}Darling, K. 2004. _Concorde_.
+248.  []{#c10752*444.xhtml#R248}Darling, K. 2004. \_Concorde*.
       Marlborough: Crowood Press.
-249.  []{#c10752_444.xhtml#R249}Daugherty, C. R. 1927. The development of
-      horse-power equipment in the United States. In _Power Capacity and
-      Production in the United States_, ed. C. R. Daugherty, A. H. Horton
+249.  []{#c10752*444.xhtml#R249}Daugherty, C. R. 1927. The development of
+      horse-power equipment in the United States. In \_Power Capacity and
+      Production in the United States*, ed. C. R. Daugherty, A. H. Horton
       and R. W. Davenport, 5--112. Washington, DC: U.S. Geological
       Survey.
-250.  []{#c10752_444.xhtml#R250}Daumas, M., ed. 1969. _A History of
-      Technology and Invention_. New York: Crown Publishers.
-251.  []{#c10752_444.xhtml#R251}David, P. 1985. Clio and the economics of
-      QWERTY. _American Economic Review_ 75:332--337.
-252.  []{#c10752_444.xhtml#R252}David, P. A. 1991. The hero and the herd
+250.  []{#c10752*444.xhtml#R250}Daumas, M., ed. 1969. \_A History of
+      Technology and Invention*. New York: Crown Publishers.
+251.  []{#c10752*444.xhtml#R251}David, P. 1985. Clio and the economics of
+      QWERTY. \_American Economic Review* 75:332--337.
+252.  []{#c10752*444.xhtml#R252}David, P. A. 1991. The hero and the herd
       in technological history: Reflections on Thomas Edison and the
-      Battle of the Systems. In _Favorites of Fortune: Technology, Growth
-      and Economic Development since the Industrial Revolution_, ed. P.
+      Battle of the Systems. In \_Favorites of Fortune: Technology, Growth
+      and Economic Development since the Industrial Revolution*, ed. P.
       Higonett, D. S. Landes and H. Rosovsky, 72--119. Cambridge, MA:
       Harvard University Press.
-253.  []{#c10752_444.xhtml#R253}Davids, K. 2006. River control and the
+253.  []{#c10752*444.xhtml#R253}Davids, K. 2006. River control and the
       evolution of knowledge: A comparison between regions in China and
-      Europe, c. 1400--1850. _Journal of Global History_ 1:59--79.
-254.  []{#c10752_444.xhtml#R254}Davies, N. 1987. _The Aztec Empire: The
-      Toltec Resurgence_. Norman: University of Oklahoma Press.
-255.  []{#c10752_444.xhtml#R255}Davis, M. 2001. _Late Victorian
-      Holocausts_. New York: Verso.
-256.  []{#c10752_444.xhtml#R256}de Beaune, S. A., and R. White. 1993. Ice
-      age lamps. _Scientific American_ 266 (3): 108--113.
-257.  []{#c10752_444.xhtml#R257}de la Torre, I. 2011. The origins of
+      Europe, c. 1400--1850. \_Journal of Global History* 1:59--79.
+254.  []{#c10752*444.xhtml#R254}Davies, N. 1987. \_The Aztec Empire: The
+      Toltec Resurgence*. Norman: University of Oklahoma Press.
+255.  []{#c10752*444.xhtml#R255}Davis, M. 2001. \_Late Victorian
+      Holocausts*. New York: Verso.
+256.  []{#c10752*444.xhtml#R256}de Beaune, S. A., and R. White. 1993. Ice
+      age lamps. \_Scientific American* 266 (3): 108--113.
+257.  []{#c10752*444.xhtml#R257}de la Torre, I. 2011. The origins of
       stone tool technology in Africa: A historical perspective.
-      _Philosophical Transactions of the Royal Society of London. Series
-      B, Biological Sciences_ 366 (1567): 1028--1037.
-258.  []{#c10752_444.xhtml#R258}De Zeeuw, J. W. 1978. Peat and the Dutch
-      Golden Age: The historical meaning of energy-attainability. _A.A.G.
-      Bijdragen_ 21:3--31.
-259.  []{#c10752_444.xhtml#R259}Deffeyes, K. S. 2001. _Hubbert's Peak:
-      The Impending World Oil Shortage_. Princeton, NJ: Princeton
+      \_Philosophical Transactions of the Royal Society of London. Series
+      B, Biological Sciences* 366 (1567): 1028--1037.
+258.  []{#c10752*444.xhtml#R258}De Zeeuw, J. W. 1978. Peat and the Dutch
+      Golden Age: The historical meaning of energy-attainability. \_A.A.G.
+      Bijdragen* 21:3--31.
+259.  []{#c10752*444.xhtml#R259}Deffeyes, K. S. 2001. \_Hubbert's Peak:
+      The Impending World Oil Shortage*. Princeton, NJ: Princeton
       University Press.
-260.  []{#c10752_444.xhtml#R260}Demarest, A. 2004. _Ancient Maya: The
-      Rise and Fall of a Rainforest Civilization_. Cambridge: Cambridge
+260.  []{#c10752*444.xhtml#R260}Demarest, A. 2004. \_Ancient Maya: The
+      Rise and Fall of a Rainforest Civilization*. Cambridge: Cambridge
       University Press.
 261.  []{#c10752_444.xhtml#R261}Dempsey, P. 2015. Notes on the Liberty
       aircraft engine.
       <http://www.enginehistory.org/Before1925/Liberty/LibertyNotes.shtml>.
-262.  []{#c10752_444.xhtml#R262}Denevan, W. H. 1982. Hydraulic
+262.  []{#c10752*444.xhtml#R262}Denevan, W. H. 1982. Hydraulic
       agriculture in the American tropics: Forms, measures, and recent
-      research. In _Maya Subsistence_, ed. K. V. Flannery, 181--203. New
+      research. In \_Maya Subsistence*, ed. K. V. Flannery, 181--203. New
       York: Academic Press.
-263.  []{#c10752_444.xhtml#R263}Denny, M. 2004. The efficiency of
-      overshot and undershot waterwheels. _European Journal of Physics_
+263.  []{#c10752*444.xhtml#R263}Denny, M. 2004. The efficiency of
+      overshot and undershot waterwheels. \_European Journal of Physics*
       25:193--202.
-264.  []{#c10752_444.xhtml#R264}Denny, M. 2007. _Ingenium: Five Machines
-      That Changed the World_. Baltimore, MD: Johns Hopkins University
+264.  []{#c10752*444.xhtml#R264}Denny, M. 2007. \_Ingenium: Five Machines
+      That Changed the World*. Baltimore, MD: Johns Hopkins University
       Press.
-265.  []{#c10752_444.xhtml#R265}Dent, A. 1974. _The Horse_. New York:
+265.  []{#c10752*444.xhtml#R265}Dent, A. 1974. \_The Horse*. New York:
       Holt, Rinehart and Winston.
 266.  []{#c10752_444.xhtml#R266}Department of Energy & Climate Change, UK
       Government. 2015. Historical coal data: Coal production,
       availability and consumption 1853 to 2014.
       <https://www.gov.uk/government/statistical-data-sets/historical-coal-data-coal-production-availability-and-consumption-1853-to-2011>.
-267.  []{#c10752_444.xhtml#R267}Derry, T. K., and T. I. Williams. 1960.
-      _A Short History of Technology_. Oxford: Oxford University Press.
-268.  []{#c10752_444.xhtml#R268}Diamond, J. 2011. _Collapse: How
-      Societies Choose to Fail or Succeed_. New York: Penguin Books.
-269.  []{#c10752_444.xhtml#R269}Dickens, C. 1854. _Hard Times_. London:
+267.  []{#c10752*444.xhtml#R267}Derry, T. K., and T. I. Williams. 1960.
+      \_A Short History of Technology*. Oxford: Oxford University Press.
+268.  []{#c10752*444.xhtml#R268}Diamond, J. 2011. \_Collapse: How
+      Societies Choose to Fail or Succeed*. New York: Penguin Books.
+269.  []{#c10752*444.xhtml#R269}Dickens, C. 1854. \_Hard Times*. London:
       Bradbury & Evans.
-270.  []{#c10752_444.xhtml#R270}Dickey, P. A. 1959. The first oil well.
-      _Journal of Petroleum Technology_ 59:14--25.
-271.  []{#c10752_444.xhtml#R271}Dickinson, H. W. 1939. _A Short History
-      of the Steam Engine_. Cambridge: Cambridge University Press.
-272.  []{#c10752_444.xhtml#R272}Dickinson, H. W., and R. Jenkins. 1927.
-      _James Watt and the Steam Engine_. Oxford: Oxford University Press.
-273.  []{#c10752_444.xhtml#R273}Diderot, D., and J.L.R. D'Alembert.
-      1769--1772. _L'Encyclopedie ou dictionnaire raisonne des sciences
-      des arts et des métiers_. Paris: Avec approbation et privilege du
+270.  []{#c10752*444.xhtml#R270}Dickey, P. A. 1959. The first oil well.
+      \_Journal of Petroleum Technology* 59:14--25.
+271.  []{#c10752*444.xhtml#R271}Dickinson, H. W. 1939. \_A Short History
+      of the Steam Engine*. Cambridge: Cambridge University Press.
+272.  []{#c10752*444.xhtml#R272}Dickinson, H. W., and R. Jenkins. 1927.
+      \_James Watt and the Steam Engine*. Oxford: Oxford University Press.
+273.  []{#c10752*444.xhtml#R273}Diderot, D., and J.L.R. D'Alembert.
+      1769--1772. \_L'Encyclopedie ou dictionnaire raisonne des sciences
+      des arts et des métiers*. Paris: Avec approbation et privilege du
       roy.
-274.  []{#c10752_444.xhtml#R274}Dieffenbach, E. M., and R. B. Gray. 1960.
-      The development of the tractor. In _Power to Produce: 1960 Yearbook
-      of Agriculture_ _,_ 24--45. Washington, DC: U.S. Department of
+274.  []{#c10752*444.xhtml#R274}Dieffenbach, E. M., and R. B. Gray. 1960.
+      The development of the tractor. In \_Power to Produce: 1960 Yearbook
+      of Agriculture* _,_ 24--45. Washington, DC: U.S. Department of
       Agriculture.
 275.  []{#c10752_444.xhtml#R275}Dien, A. 2000. The stirrup and its effect
       on Chinese military history.
       <http://www.silk-road.com/artl/stirrup.shtml>.
-276.  []{#c10752_444.xhtml#R276}Diener, E., E. Suh, and S. Oishi. 1997.
-      Recent findings on subjective well-being. _Indian Journal of
-      Clinical Psychology_ 24:25--41.
-277.  []{#c10752_444.xhtml#R277}Diesel, E. 1937. _Diesel: Der Mensch, das
-      Werk, das Schicksal_. Hamburg: Hanseatische Verlagsanstalt.
+276.  []{#c10752*444.xhtml#R276}Diener, E., E. Suh, and S. Oishi. 1997.
+      Recent findings on subjective well-being. \_Indian Journal of
+      Clinical Psychology* 24:25--41.
+277.  []{#c10752*444.xhtml#R277}Diesel, E. 1937. \_Diesel: Der Mensch, das
+      Werk, das Schicksal*. Hamburg: Hanseatische Verlagsanstalt.
 278.  []{#c10752_444.xhtml#R278}Diesel, R. 1893a. Arbeitsverfahren und
       Ausführungsart für Verbrennungskraftmaschinen.
       <https://www.dhm.de/lemo/bestand/objekt/patentschrift-von-rudolf-diesel-1893.html>.
-279.  []{#c10752_444.xhtml#R279}Diesel, R. 1893b. _Theorie und
+279.  []{#c10752*444.xhtml#R279}Diesel, R. 1893b. \_Theorie und
       Konstruktion eines rationellen Wärmemotors zum Ersatz der
-      Dampfmaschinen und der heute bekannten Verbrennungsmotoren_.
+      Dampfmaschinen und der heute bekannten Verbrennungsmotoren*.
       Berlin: Julius Springer.
-280.  []{#c10752_444.xhtml#R280}Diesel, R. 1903. _Solidarismus:
-      Natürliche wirtschaftliche Erlösung des Menschen_. Munich (repr.,
+280.  []{#c10752*444.xhtml#R280}Diesel, R. 1903. \_Solidarismus:
+      Natürliche wirtschaftliche Erlösung des Menschen*. Munich (repr.,
       Augsburg: Maro Verlag, 2007).
-281.  []{#c10752_444.xhtml#R281}Diesel, R. 1913. _Die Entstehung des
-      Dieselmotors_. Berlin: Julius Springer.
-282.  []{#c10752_444.xhtml#R282}Dikötter, F. 2010. _Mao's Great Famine:
-      The History of China's Most Devastating Catastrophe, 1958--1962_.
+281.  []{#c10752*444.xhtml#R281}Diesel, R. 1913. \_Die Entstehung des
+      Dieselmotors*. Berlin: Julius Springer.
+282.  []{#c10752*444.xhtml#R282}Dikötter, F. 2010. \_Mao's Great Famine:
+      The History of China's Most Devastating Catastrophe, 1958--1962*.
       London: Walker Books.
-283.  []{#c10752_444.xhtml#R283}DK Publishing. 2012. _Military History:
-      The Definitive Visual Guide to the Objects of Warfare_. New York:
+283.  []{#c10752*444.xhtml#R283}DK Publishing. 2012. \_Military History:
+      The Definitive Visual Guide to the Objects of Warfare*. New York:
       DK Publishing.
-284.  []{#c10752_444.xhtml#R284}Domínguez-Rodrigo, M. 2002. Hunting and
-      scavenging by early humans: The state of the debate. _Journal of
-      World Prehistory_ 16:1--54.
-285.  []{#c10752_444.xhtml#R285}Donnelly, J. S. 2005. _The Great Irish
-      Potato Famine_. Stroud: Sutton Publishing.
-286.  []{#c10752_444.xhtml#R286}Doorenbos, J., et al. 1979. _Yield
-      Response to Water_. Rome: FAO.
-287.  []{#c10752_444.xhtml#R287}Dowson, D. 1973. Tribology before
-      Columbus. _Mechanical Engineering_ 95 (4): 12--20.
-288.  []{#c10752_444.xhtml#R288}Doyle, J., B. Francis, and A.
-      Tannenbaum. 1990. _Feedback Control Theory_. London: Macmillan.
-289.  []{#c10752_444.xhtml#R289}Drews, R. 2004. _Early Riders: The
-      Beginnings of Mounted Warfare in Asia and Europe_. New York:
+284.  []{#c10752*444.xhtml#R284}Domínguez-Rodrigo, M. 2002. Hunting and
+      scavenging by early humans: The state of the debate. \_Journal of
+      World Prehistory* 16:1--54.
+285.  []{#c10752*444.xhtml#R285}Donnelly, J. S. 2005. \_The Great Irish
+      Potato Famine*. Stroud: Sutton Publishing.
+286.  []{#c10752*444.xhtml#R286}Doorenbos, J., et al. 1979. \_Yield
+      Response to Water*. Rome: FAO.
+287.  []{#c10752*444.xhtml#R287}Dowson, D. 1973. Tribology before
+      Columbus. \_Mechanical Engineering* 95 (4): 12--20.
+288.  []{#c10752*444.xhtml#R288}Doyle, J., B. Francis, and A.
+      Tannenbaum. 1990. \_Feedback Control Theory*. London: Macmillan.
+289.  []{#c10752*444.xhtml#R289}Drews, R. 2004. \_Early Riders: The
+      Beginnings of Mounted Warfare in Asia and Europe*. New York:
       Routledge.
-290.  []{#c10752_444.xhtml#R290}Duby, G. 1968. _Rural Economy and Country
-      Life in the Medieval West_. London: Edward Arnold.
-291.  []{#c10752_444.xhtml#R291}Duby, G. 1998. _Rural Economy and Country
-      Life in the Medieval West_. Philadelphia: University of
+290.  []{#c10752*444.xhtml#R290}Duby, G. 1968. \_Rural Economy and Country
+      Life in the Medieval West*. London: Edward Arnold.
+291.  []{#c10752*444.xhtml#R291}Duby, G. 1998. \_Rural Economy and Country
+      Life in the Medieval West*. Philadelphia: University of
       Pennsylvania Press.
-292.  []{#c10752_444.xhtml#R292}Dukes, J. S. 2003. Burning buried
-      sunshine: Human consumption of ancient solar energy. _Climatic
-      Change_ 61:31--44.
-293.  []{#c10752_444.xhtml#R293}Duncan-Jones, R. 1990. _Structure and
-      Scale in the Roman Economy_. Cambridge: Cambridge University Press.
-294.  []{#c10752_444.xhtml#R294}Dunsheath, P. 1962. _A History of
-      Electrical Industry_. London: Faber and Faber.
+292.  []{#c10752*444.xhtml#R292}Dukes, J. S. 2003. Burning buried
+      sunshine: Human consumption of ancient solar energy. \_Climatic
+      Change* 61:31--44.
+293.  []{#c10752*444.xhtml#R293}Duncan-Jones, R. 1990. \_Structure and
+      Scale in the Roman Economy*. Cambridge: Cambridge University Press.
+294.  []{#c10752*444.xhtml#R294}Dunsheath, P. 1962. \_A History of
+      Electrical Industry*. London: Faber and Faber.
 295.  []{#c10752_444.xhtml#R295}Dupont, B., D. Keeling, and T.
       Weiss. 2012. Passenger fares for overseas travel in the 19th and
       20th centuries. Paper presented at the Annual Meeting of the
       Economic History Association, Vancouver, BC, September 21--23.
       <http://eh.net/eha/wp-content/uploads/2013/11/Weissetal.pdf>.
-296.  []{#c10752_444.xhtml#R296}Dyer, Frank L., and Thomas C.
-      Martin. 1929. _Edison: His Life and Inventions_. New York: Harper &
+296.  []{#c10752*444.xhtml#R296}Dyer, Frank L., and Thomas C.
+      Martin. 1929. \_Edison: His Life and Inventions*. New York: Harper &
       Brothers.
-297.  []{#c10752_444.xhtml#R297}Eagar, T. W., and C. Musso. 2001. Why did
+297.  []{#c10752*444.xhtml#R297}Eagar, T. W., and C. Musso. 2001. Why did
       the World Trade Center collapse? Science, engineering, and
-      speculation. _JOM_ 53:8--11.
+      speculation. \_JOM* 53:8--11.
       <http://www.tms.org/pubs/journals/JOM/0112/Eagar/Eagar-0112.html>.
-298.  []{#c10752_444.xhtml#R298}Earl, D. 1973. _Charcoal and Forest
-      Management_. Oxford: Oxford University Press.
-299.  []{#c10752_444.xhtml#R299}Eavenson, H. N. 1942. _The First Century
-      and a Quarter of American Coal Industry._ Pittsburgh, PA: Privately
+298.  []{#c10752*444.xhtml#R298}Earl, D. 1973. \_Charcoal and Forest
+      Management*. Oxford: Oxford University Press.
+299.  []{#c10752*444.xhtml#R299}Eavenson, H. N. 1942. \_The First Century
+      and a Quarter of American Coal Industry.* Pittsburgh, PA: Privately
       printed.
-300.  []{#c10752_444.xhtml#R300}Eckermann, E. 2001. _World History of the
-      Automobile_. Warrendale, PA: SAE Press.
+300.  []{#c10752*444.xhtml#R300}Eckermann, E. 2001. \_World History of the
+      Automobile*. Warrendale, PA: SAE Press.
 301.  []{#c10752_444.xhtml#R301}ECRI (Economic Cycle Research
       Institute). 2015. Economic cycles. <https://www.businesscycle.com>.
-302.  []{#c10752_444.xhtml#R302}Eden, F. M. 1797. _The State of the
-      Poor_. London: J. Davis.
+302.  []{#c10752*444.xhtml#R302}Eden, F. M. 1797. \_The State of the
+      Poor*. London: J. Davis.
 303.  []{#c10752_444.xhtml#R303}Edison, T. A. 1880. Electric Light.
       Specification forming part of Letters Patent No. 227,229, dated May
       4, 1880. Washington, DC: U.S. Patent Office.
       <http://www.uspto.gov>.
-304.  []{#c10752_444.xhtml#R304}Edison, T. A. 1889. The dangers of
-      electric lighting. _North American Review_ 149:625--634.
-305.  []{#c10752_444.xhtml#R305}Edgerton, D. 2007. _The Shock of the Old:
-      Technology and Global History since 1900_. Oxford: Oxford
+304.  []{#c10752*444.xhtml#R304}Edison, T. A. 1889. The dangers of
+      electric lighting. \_North American Review* 149:625--634.
+305.  []{#c10752*444.xhtml#R305}Edgerton, D. 2007. \_The Shock of the Old:
+      Technology and Global History since 1900*. Oxford: Oxford
       University Press.
-306.  []{#c10752_444.xhtml#R306}Edgerton, S. Y. 1961. Heat and style:
-      Eighteenth-century house warming by stoves. _The Journal of the
-      Society of Architectural Historians_ 20:20--26.
-307.  []{#c10752_444.xhtml#R307}Edwards, J. F. 2003. Building the Great
+306.  []{#c10752*444.xhtml#R306}Edgerton, S. Y. 1961. Heat and style:
+      Eighteenth-century house warming by stoves. \_The Journal of the
+      Society of Architectural Historians* 20:20--26.
+307.  []{#c10752*444.xhtml#R307}Edwards, J. F. 2003. Building the Great
       Pyramid: Probable construction methods employed at Giza.
-      _Technology and Culture_ 44:340--354.
-308.  []{#c10752_444.xhtml#R308}Egerton, W. 1896. _Indian and Oriental
-      Armour_. London: W. H. Allen.
-309.  []{#c10752_444.xhtml#R309}Egg, E., et al. 1971. _Guns_. Greenwich,
+      \_Technology and Culture* 44:340--354.
+308.  []{#c10752*444.xhtml#R308}Egerton, W. 1896. \_Indian and Oriental
+      Armour*. London: W. H. Allen.
+309.  []{#c10752*444.xhtml#R309}Egg, E., et al. 1971. \_Guns*. Greenwich,
       CT: New York Graphic Society.
-310.  []{#c10752_444.xhtml#R310}Electricity Council. 1973. _Electricity
+310.  []{#c10752*444.xhtml#R310}Electricity Council. 1973. \_Electricity
       Supply in Great Britain: A Chronology---From the Beginnings of the
-      Industry to 31 December 1972_. London: Electricity Council.
-311.  []{#c10752_444.xhtml#R311}Elliott, D. 2013. _Fukushima: Impacts and
-      Implications_. Houndmills: Palgrave Macmillan.
-312.  []{#c10752_444.xhtml#R312}Ellis, C. H. 1983. _The Lore of the
-      Train_. New York: Crescent Books.
-313.  []{#c10752_444.xhtml#R313}Ellison, R. 1981. Diet in Mesopotamia:
-      The evidence of the barley ration texts. _Iraq_ 45:35--45.
-314.  []{#c10752_444.xhtml#R314}Ellul, J. 1954. _La Technique ou l'enjeu
-      du siècle_. Paris: Armand Colin.
-315.  []{#c10752_444.xhtml#R315}Elphick, P. 2001. _Liberty: The Ships
-      That Won the War_. Annapolis, MD: Naval Institute Press.
-316.  []{#c10752_444.xhtml#R316}Elton, A. 1958. Gas for light and heat.
-      In _A History of Technology_, vol. 4, ed. C. Singer et al.,
+      Industry to 31 December 1972*. London: Electricity Council.
+311.  []{#c10752*444.xhtml#R311}Elliott, D. 2013. \_Fukushima: Impacts and
+      Implications*. Houndmills: Palgrave Macmillan.
+312.  []{#c10752*444.xhtml#R312}Ellis, C. H. 1983. \_The Lore of the
+      Train*. New York: Crescent Books.
+313.  []{#c10752*444.xhtml#R313}Ellison, R. 1981. Diet in Mesopotamia:
+      The evidence of the barley ration texts. \_Iraq* 45:35--45.
+314.  []{#c10752*444.xhtml#R314}Ellul, J. 1954. \_La Technique ou l'enjeu
+      du siècle*. Paris: Armand Colin.
+315.  []{#c10752*444.xhtml#R315}Elphick, P. 2001. \_Liberty: The Ships
+      That Won the War*. Annapolis, MD: Naval Institute Press.
+316.  []{#c10752*444.xhtml#R316}Elton, A. 1958. Gas for light and heat.
+      In \_A History of Technology*, vol. 4, ed. C. Singer et al.,
       258--275. Oxford: Oxford University Press.
-317.  []{#c10752_444.xhtml#R317}Engels, F. 1845. _Die Lage der
-      arbeitenden Klasse in England_. Leipzig: Otto Wigand.
-318.  []{#c10752_444.xhtml#R318}Erdkamp, P. 2005. _The Grain Market in
-      the Roman Empire: A Social, Political and Economic Study_.
+317.  []{#c10752*444.xhtml#R317}Engels, F. 1845. \_Die Lage der
+      arbeitenden Klasse in England*. Leipzig: Otto Wigand.
+318.  []{#c10752*444.xhtml#R318}Erdkamp, P. 2005. \_The Grain Market in
+      the Roman Empire: A Social, Political and Economic Study*.
       Cambridge: Cambridge University Press.
-319.  []{#c10752_444.xhtml#R319}Erickson, C. L. 1988. Raised field
-      agriculture in the Lake Titicaca Basin. _Expedition_ 30 (1): 8--16.
-320.  []{#c10752_444.xhtml#R320}Erlande-Brandenburg, A. 1994. _The
-      Cathedral: The Social and Architectural Dynamics of Construction_.
+319.  []{#c10752*444.xhtml#R319}Erickson, C. L. 1988. Raised field
+      agriculture in the Lake Titicaca Basin. \_Expedition* 30 (1): 8--16.
+320.  []{#c10752*444.xhtml#R320}Erlande-Brandenburg, A. 1994. \_The
+      Cathedral: The Social and Architectural Dynamics of Construction*.
       Cambridge: Cambridge University Press.
-321.  []{#c10752_444.xhtml#R321}Esmay, M. L., and C. W. Hall, eds. 1968.
-      _Agricultural Mechanization in Developing Countries_. Tokyo:
+321.  []{#c10752*444.xhtml#R321}Esmay, M. L., and C. W. Hall, eds. 1968.
+      \_Agricultural Mechanization in Developing Countries*. Tokyo:
       Shin-Norinsha.
-322.  []{#c10752_444.xhtml#R322}Evangelou, P. 1984. _Livestock
-      Development in Kenya's Maasailand_. Boulder, CO: Westview Press.
-323.  []{#c10752_444.xhtml#R323}Evans, O. 1795. _The Young Millwright and
-      Miller's Guide_. Philadelphia: O. Evans.
-324.  []{#c10752_444.xhtml#R324}Evelyn, J. 1607. _Silva_. London: R.
+322.  []{#c10752*444.xhtml#R322}Evangelou, P. 1984. \_Livestock
+      Development in Kenya's Maasailand*. Boulder, CO: Westview Press.
+323.  []{#c10752*444.xhtml#R323}Evans, O. 1795. \_The Young Millwright and
+      Miller's Guide*. Philadelphia: O. Evans.
+324.  []{#c10752*444.xhtml#R324}Evelyn, J. 1607. \_Silva*. London: R.
       Scott.
-325.  []{#c10752_444.xhtml#R325}Ewbank, T. 1870. _A Descriptive and
+325.  []{#c10752*444.xhtml#R325}Ewbank, T. 1870. \_A Descriptive and
       Historical Account of Hydraulic and Other Machines for Raising
-      Water_. New York: Scribner.
-326.  []{#c10752_444.xhtml#R326}Executive Office of the President. 2013.
-      _Economic Benefits of Increasing Electric Grid Resilience to
-      Weather Outages_. Washington, DC: The White House.
+      Water*. New York: Scribner.
+326.  []{#c10752*444.xhtml#R326}Executive Office of the President. 2013.
+      \_Economic Benefits of Increasing Electric Grid Resilience to
+      Weather Outages*. Washington, DC: The White House.
 327.  []{#c10752_444.xhtml#R327}Fairlie, S. 2011. Notes on the history of
       the scythe and its manufacture.
       <http://scytheassociation.org/history>.
-328.  []{#c10752_444.xhtml#R328}Faith, J. T. 2007. Eland, buffalo, and
+328.  []{#c10752*444.xhtml#R328}Faith, J. T. 2007. Eland, buffalo, and
       wild pigs: Were Middle Stone Age humans ineffective hunters?
-      _Journal of Human Evolution_ 55:24--36.
-329.  []{#c10752_444.xhtml#R329}Falkenstein, A. 1939. _Zehnter
+      \_Journal of Human Evolution* 55:24--36.
+329.  []{#c10752*444.xhtml#R329}Falkenstein, A. 1939. \_Zehnter
       vorläufiger Bericht über die von der Notgemeinschaft der deutschen
-      Wissenschaft in Uruk-Warka unternommen Ausgrabungen_. Berlin:
+      Wissenschaft in Uruk-Warka unternommen Ausgrabungen*. Berlin:
       Verlag Akademie der Wissenschaften.
-330.  []{#c10752_444.xhtml#R330}Falkus, M. E. 1972. _The
-      Industrialization of Russia, 1700--1914_. London: Macmillan.
-331.  []{#c10752_444.xhtml#R331}Fant, K. 2014. _Alfred Nobel: A
-      Biography_. New York: Arcade Publishing.
-332.  []{#c10752_444.xhtml#R332}FAO (Food and Agriculture
-      Organization). 2004. _Human Energy Requirements. Report of a Joint
-      FAO/WHO/UNU Consultation_. Rome: FAO.
+330.  []{#c10752*444.xhtml#R330}Falkus, M. E. 1972. \_The
+      Industrialization of Russia, 1700--1914*. London: Macmillan.
+331.  []{#c10752*444.xhtml#R331}Fant, K. 2014. \_Alfred Nobel: A
+      Biography*. New York: Arcade Publishing.
+332.  []{#c10752*444.xhtml#R332}FAO (Food and Agriculture
+      Organization). 2004. \_Human Energy Requirements. Report of a Joint
+      FAO/WHO/UNU Consultation*. Rome: FAO.
 333.  []{#c10752_444.xhtml#R333}FAO. 2015a. FAOSTAT.
       <http://faostat3.fao.org/home/E>.
 334.  []{#c10752_444.xhtml#R334}FAO. 2015b. The state of food insecurity
       in the world 2015. <http://www.fao.org/hunger/key-messages/en>.
-335.  []{#c10752_444.xhtml#R335}Faraday, M. 1832. Experimental researches
-      in electricity. _Philosophical Transactions of the Royal Society of
-      London_ 122:125--162.
-336.  []{#c10752_444.xhtml#R336}Farey, J. 1827. _A Treatise on the Steam
-      Engine_. London: Longman, Rees, Orme, Brown and Green.
-337.  []{#c10752_444.xhtml#R337}Faulseit, R. K., ed. 2015. _Beyond
+335.  []{#c10752*444.xhtml#R335}Faraday, M. 1832. Experimental researches
+      in electricity. \_Philosophical Transactions of the Royal Society of
+      London* 122:125--162.
+336.  []{#c10752*444.xhtml#R336}Farey, J. 1827. \_A Treatise on the Steam
+      Engine*. London: Longman, Rees, Orme, Brown and Green.
+337.  []{#c10752*444.xhtml#R337}Faulseit, R. K., ed. 2015. \_Beyond
       Collapse: Archaeological Perspectives on Resilience,
-      Revitalization, and Transformation in Complex Societies_.
+      Revitalization, and Transformation in Complex Societies*.
       Carbondale, IL: Southern Illinois University Press.
-338.  []{#c10752_444.xhtml#R338}Federico, G. 2008. _Feeding the World: An
-      Economic History of Agriculture, 1800--2000_. Princeton, NJ:
+338.  []{#c10752*444.xhtml#R338}Federico, G. 2008. \_Feeding the World: An
+      Economic History of Agriculture, 1800--2000*. Princeton, NJ:
       Princeton University Press.
-339.  []{#c10752_444.xhtml#R339}Ferguson, E. F. 1971. The measurement of
-      the "man-day." _Scientific American_ 225 (4): 96--103.
-340.  []{#c10752_444.xhtml#R340}Fernández-Armesto, F. 1988. _The Spanish
-      Armada: The Experience of War in 1588_. New York: Oxford University
+339.  []{#c10752*444.xhtml#R339}Ferguson, E. F. 1971. The measurement of
+      the "man-day." \_Scientific American* 225 (4): 96--103.
+340.  []{#c10752*444.xhtml#R340}Fernández-Armesto, F. 1988. \_The Spanish
+      Armada: The Experience of War in 1588*. New York: Oxford University
       Press.
-341.  []{#c10752_444.xhtml#R341}Feuerbach, A. 2006. Crucible Damascus
-      steel: A fascination for almost 2,000 years. _Journal of Metals_
+341.  []{#c10752*444.xhtml#R341}Feuerbach, A. 2006. Crucible Damascus
+      steel: A fascination for almost 2,000 years. \_Journal of Metals*
       (May): 48--50.
-342.  []{#c10752_444.xhtml#R342}Feugang, J. M., P. Konarski, D.
+342.  []{#c10752*444.xhtml#R342}Feugang, J. M., P. Konarski, D.
       Zou, F. C. Stintzing, and C. Zou. 2006. Nutritional and medicinal
-      use of cactus pear (_Opuntia_ spp.) cladodes and fruits. _Frontiers
+      use of cactus pear (\_Opuntia* spp.) cladodes and fruits. _Frontiers
       in Bioscience_ 11:2574--2589.
-343.  []{#c10752_444.xhtml#R343}Feynman, R. 1988. _The Feynman Lectures
-      on Physics_. Redwood City, CA: Addison-Wesley.
-344.  []{#c10752_444.xhtml#R344}Fiedel, S., and G. Haynes. 2004. A
+343.  []{#c10752*444.xhtml#R343}Feynman, R. 1988. \_The Feynman Lectures
+      on Physics*. Redwood City, CA: Addison-Wesley.
+344.  []{#c10752*444.xhtml#R344}Fiedel, S., and G. Haynes. 2004. A
       premature burial: Comments on Grayson and Meltzer's "Requiem for
-      overkill." _Journal of Archaeological Science_ 31:121--131.
-345.  []{#c10752_444.xhtml#R345}Figuier, L. 1888. _Les nouvelles
-      conquêtes de la science: L'électricité_. Paris: Manpir Flammarion.
-346.  []{#c10752_444.xhtml#R346}Finley, M. I. 1959. Was Greek
-      civilization based on slave labour? _Historia. Einzelschriften_
+      overkill." \_Journal of Archaeological Science* 31:121--131.
+345.  []{#c10752*444.xhtml#R345}Figuier, L. 1888. \_Les nouvelles
+      conquêtes de la science: L'électricité*. Paris: Manpir Flammarion.
+346.  []{#c10752*444.xhtml#R346}Finley, M. I. 1959. Was Greek
+      civilization based on slave labour? \_Historia. Einzelschriften*
       1959:145--164.
-347.  []{#c10752_444.xhtml#R347}Finley, M. I. 1965. Technical innovation
-      and economic progress in the ancient world. _Economic History
-      Review_ 18:29--45.
-348.  []{#c10752_444.xhtml#R348}Finniston, M. et al. 1992. _Oxford
-      Illustrated Encyclopedia of Invention and Technology_. Oxford:
+347.  []{#c10752*444.xhtml#R347}Finley, M. I. 1965. Technical innovation
+      and economic progress in the ancient world. \_Economic History
+      Review* 18:29--45.
+348.  []{#c10752*444.xhtml#R348}Finniston, M. et al. 1992. \_Oxford
+      Illustrated Encyclopedia of Invention and Technology*. Oxford:
       Oxford University Press.
-349.  []{#c10752_444.xhtml#R349}Fish, J. L., and C. A. Lockwood. 2003.
-      Dietary constraints on encephalization in primates. _American
-      Journal of Physical Anthropology_ 120:171--181.
-350.  []{#c10752_444.xhtml#R350}Fitchen, J. 1961. _The Construction of
-      Gothic Cathedrals: A Study of Medieval Vault Erection_. Chicago:
+349.  []{#c10752*444.xhtml#R349}Fish, J. L., and C. A. Lockwood. 2003.
+      Dietary constraints on encephalization in primates. \_American
+      Journal of Physical Anthropology* 120:171--181.
+350.  []{#c10752*444.xhtml#R350}Fitchen, J. 1961. \_The Construction of
+      Gothic Cathedrals: A Study of Medieval Vault Erection*. Chicago:
       University of Chicago Press.
-351.  []{#c10752_444.xhtml#R351}Fitzhugh, B., and J. Habu, eds. 2002.
-      _Beyond Foraging and Collecting: Evolutionary Change in
-      Hunter-Gatherer Settlement Systems_. Berlin: Springer.
-352.  []{#c10752_444.xhtml#R352}Flannery. K.V., ed. 1982. _Maya
-      Subsistence_. New York: Academic Press.
-353.  []{#c10752_444.xhtml#R353}Flink, J. J. 1988. _The Automobile Age_.
+351.  []{#c10752*444.xhtml#R351}Fitzhugh, B., and J. Habu, eds. 2002.
+      \_Beyond Foraging and Collecting: Evolutionary Change in
+      Hunter-Gatherer Settlement Systems*. Berlin: Springer.
+352.  []{#c10752*444.xhtml#R352}Flannery. K.V., ed. 1982. \_Maya
+      Subsistence*. New York: Academic Press.
+353.  []{#c10752*444.xhtml#R353}Flink, J. J. 1988. \_The Automobile Age*.
       Cambridge, MA: MIT Press.
-354.  []{#c10752_444.xhtml#R354}Flinn, M. W. et al. 1984--1993. _History
-      of the British Coal Industry_, 5 vols. Oxford: Oxford University
+354.  []{#c10752*444.xhtml#R354}Flinn, M. W. et al. 1984--1993. \_History
+      of the British Coal Industry*, 5 vols. Oxford: Oxford University
       Press.
-355.  []{#c10752_444.xhtml#R355}Flower, R., and M. W. Jones. 1981. _100
-      Years of Motoring: An RAC Social History of Car_. Maidenhead:
+355.  []{#c10752*444.xhtml#R355}Flower, R., and M. W. Jones. 1981. \_100
+      Years of Motoring: An RAC Social History of Car*. Maidenhead:
       McGraw-Hill.
-356.  []{#c10752_444.xhtml#R356}Fluck, R. C., ed. 1992. _Energy in Farm
-      Production_. Amsterdam: Elsevier.
-357.  []{#c10752_444.xhtml#R357}Fogel, R. W. 1991. The conquest of high
+356.  []{#c10752*444.xhtml#R356}Fluck, R. C., ed. 1992. \_Energy in Farm
+      Production*. Amsterdam: Elsevier.
+357.  []{#c10752*444.xhtml#R357}Fogel, R. W. 1991. The conquest of high
       mortality and hunger in Europe and America: Timing and mechanisms.
-      In _Favorites of Fortune_, ed. P. Higgonet et al., 33--71.
+      In \_Favorites of Fortune*, ed. P. Higgonet et al., 33--71.
       Cambridge, MA: Harvard University Press.
-358.  []{#c10752_444.xhtml#R358}Foley, R. A., and P. C. Lee. 1991.
+358.  []{#c10752*444.xhtml#R358}Foley, R. A., and P. C. Lee. 1991.
       Ecology and energetics of encephalization in hominid evolution.
-      _Philosophical Transactions of the Royal Society of London_
+      \_Philosophical Transactions of the Royal Society of London*
       334:223--232.
 359.  []{#c10752_444.xhtml#R359}Fontana, D. 1590. Della trasportatione
       dell'obelisco Vaticano et delle fabriche di nostro signore Papa
       Sisto V*.* Roma: Domenico Basa.
       <http://www.rarebookroom.org/Control/ftaobc/index.html>.
-360.  []{#c10752_444.xhtml#R360}Forbes, R. J. 1958. Power to 1850. In _A
-      History of Technology_, vol. 4, ed. C. Singer et al., 148--167.
+360.  []{#c10752*444.xhtml#R360}Forbes, R. J. 1958. Power to 1850. In \_A
+      History of Technology*, vol. 4, ed. C. Singer et al., 148--167.
       Oxford: Oxford University Press.
-361.  []{#c10752_444.xhtml#R361}Forbes, R. J. 1964--1972. _Studies in
-      Ancient Technology_. 9 volumes. Leiden: E. J. Brill.
-362.  []{#c10752_444.xhtml#R362}Forbes, R. J. 1964. Bitumen and petroleum
-      in antiquity. In _Studies in Ancient Technology_. vol. 1, 1--124.
+361.  []{#c10752*444.xhtml#R361}Forbes, R. J. 1964--1972. \_Studies in
+      Ancient Technology*. 9 volumes. Leiden: E. J. Brill.
+362.  []{#c10752*444.xhtml#R362}Forbes, R. J. 1964. Bitumen and petroleum
+      in antiquity. In \_Studies in Ancient Technology*. vol. 1, 1--124.
       Leiden: E. J. Brill.
-363.  []{#c10752_444.xhtml#R363}Forbes, R. J. 1965. _Studies in Ancient
-      Technology_, vol. 2. Leiden: E. J. Brill.
-364.  []{#c10752_444.xhtml#R364}Forbes, R. J. 1966. Heat and heating. In
-      _Studies in Ancient Technology_, vol. 6, 1--103. Leiden: E. J.
+363.  []{#c10752*444.xhtml#R363}Forbes, R. J. 1965. \_Studies in Ancient
+      Technology*, vol. 2. Leiden: E. J. Brill.
+364.  []{#c10752*444.xhtml#R364}Forbes, R. J. 1966. Heat and heating. In
+      \_Studies in Ancient Technology*, vol. 6, 1--103. Leiden: E. J.
       Brill.
-365.  []{#c10752_444.xhtml#R365}Forbes, R. 1972. Copper. In _Studies in
-      Ancient Technology_, vol. 6, 1--133. Leiden: E. J. Brill.
+365.  []{#c10752*444.xhtml#R365}Forbes, R. 1972. Copper. In \_Studies in
+      Ancient Technology*, vol. 6, 1--133. Leiden: E. J. Brill.
 366.  []{#c10752_444.xhtml#R366}Forbes. 2015. The world's biggest public
       companies. <http://www.forbes.com/global2000/list/#tab:overall>.
-367.  []{#c10752_444.xhtml#R367}Fores, M. 1981. The Myth of a British
-      Industrial Revolution. _History_ 66:181--198.
-368.  []{#c10752_444.xhtml#R368}Foster, D. R., and J. D. Aber. 2004.
-      _Forests in Time: The Environmental Consequences of 1,000 Years of
-      Change in New England_. New Haven, CT: Yale University Press.
-369.  []{#c10752_444.xhtml#R369}Foster, N., and L. D. Cordell. 1992.
-      _Chilies to Chocolate: Food the Americas Gave the World_. Tucson:
+367.  []{#c10752*444.xhtml#R367}Fores, M. 1981. The Myth of a British
+      Industrial Revolution. \_History* 66:181--198.
+368.  []{#c10752*444.xhtml#R368}Foster, D. R., and J. D. Aber. 2004.
+      \_Forests in Time: The Environmental Consequences of 1,000 Years of
+      Change in New England*. New Haven, CT: Yale University Press.
+369.  []{#c10752*444.xhtml#R369}Foster, N., and L. D. Cordell. 1992.
+      \_Chilies to Chocolate: Food the Americas Gave the World*. Tucson:
       University of Arizona Press.
-370.  []{#c10752_444.xhtml#R370}Fouquet, R. 2008. _Heat, Power and Light:
-      Revolutions in Energy Services_. London: Edward Elgar.
-371.  []{#c10752_444.xhtml#R371}Fouquet, R. 2010. The slow search for
+370.  []{#c10752*444.xhtml#R370}Fouquet, R. 2008. \_Heat, Power and Light:
+      Revolutions in Energy Services*. London: Edward Elgar.
+371.  []{#c10752*444.xhtml#R371}Fouquet, R. 2010. The slow search for
       solutions: Lessons from historical energy transitions by sector and
-      service. _Energy Policy_ 38:6586--6596.
-372.  []{#c10752_444.xhtml#R372}Fouquet, R., and P. J. G. Pearson. 2006.
+      service. \_Energy Policy* 38:6586--6596.
+372.  []{#c10752*444.xhtml#R372}Fouquet, R., and P. J. G. Pearson. 2006.
       Seven centuries of energy services: The price and use of light in
-      the United Kingdom (1300--2000). _Energy Journal_ 27:139--177.
-373.  []{#c10752_444.xhtml#R373}Fox, R. F. 1988. _Energy and the
-      Evolution of Life_. San Francisco: W. H. Freeman.
-374.  []{#c10752_444.xhtml#R374}Francis, D. 1990. _The Great Chase: A
-      History of World Whaling_. Toronto: Penguin Books.
-375.  []{#c10752_444.xhtml#R375}Frankenfield, D. C., E. R. Muth,
+      the United Kingdom (1300--2000). \_Energy Journal* 27:139--177.
+373.  []{#c10752*444.xhtml#R373}Fox, R. F. 1988. \_Energy and the
+      Evolution of Life*. San Francisco: W. H. Freeman.
+374.  []{#c10752*444.xhtml#R374}Francis, D. 1990. \_The Great Chase: A
+      History of World Whaling*. Toronto: Penguin Books.
+375.  []{#c10752*444.xhtml#R375}Frankenfield, D. C., E. R. Muth,
       and W. A. Rowe. 1998. The Harris-Benedict studies of human basal
-      metabolism: History and limitations. _Journal of the American
-      Dietetic Association_ 98:439--445.
+      metabolism: History and limitations. \_Journal of the American
+      Dietetic Association* 98:439--445.
 376.  []{#c10752_444.xhtml#R376}FRED (Federal Reserve Economic
       Data). 2015. Real gross domestic product per capita.
       <https://research.stlouisfed.org/fred2/series/A939RX0Q048SBEA>.
-377.  []{#c10752_444.xhtml#R377}Freedman, B. 2014. _Global Environmental
-      Change_. Amsterdam: Springer Netherlands.
+377.  []{#c10752*444.xhtml#R377}Freedman, B. 2014. \_Global Environmental
+      Change*. Amsterdam: Springer Netherlands.
 378.  []{#c10752_444.xhtml#R378}Freedom House. 2015. Freedom in the
       world 2015.
       <https://freedomhouse.org/report/freedom-world/freedom-world-2015#.Vfcs74dRGM8>.
-379.  []{#c10752_444.xhtml#R379}Freese, S. 1957. _Windmills and
-      Millwrighting_. Cambridge: Cambridge University Press.
-380.  []{#c10752_444.xhtml#R380}French, J. C., and C. Collins. 2015.
+379.  []{#c10752*444.xhtml#R379}Freese, S. 1957. \_Windmills and
+      Millwrighting*. Cambridge: Cambridge University Press.
+380.  []{#c10752*444.xhtml#R380}French, J. C., and C. Collins. 2015.
       Upper Palaeolithic population histories of southwestern France: A
       comparison of the demographic signatures of ^14^C date
-      distributions and archaeological site counts. _Journal of
-      Archaeological Science_ 55:122--134.
-381.  []{#c10752_444.xhtml#R381}Friedel, R., and P. Israel. 1986.
-      _Edison's Electric Light_. New Brunswick, NJ: Rutgers University
+      distributions and archaeological site counts. \_Journal of
+      Archaeological Science* 55:122--134.
+381.  []{#c10752*444.xhtml#R381}Friedel, R., and P. Israel. 1986.
+      \_Edison's Electric Light*. New Brunswick, NJ: Rutgers University
       Press.
-382.  []{#c10752_444.xhtml#R382}Friedman, H. B. 1992. DDT
-      (dichlorodiphenyltrichloroethane): A chemist's tale. _Journal of
-      Chemical Education_ 69:362--365.
-383.  []{#c10752_444.xhtml#R383}Frison, G. C. 1987. Prehistoric hunting
-      strategies. In _The Evolution of Human Hunting_, ed. M. H. Nitecki
+382.  []{#c10752*444.xhtml#R382}Friedman, H. B. 1992. DDT
+      (dichlorodiphenyltrichloroethane): A chemist's tale. \_Journal of
+      Chemical Education* 69:362--365.
+383.  []{#c10752*444.xhtml#R383}Frison, G. C. 1987. Prehistoric hunting
+      strategies. In \_The Evolution of Human Hunting*, ed. M. H. Nitecki
       and D. V. Nitecki, 177--223. New York: Plenum Press.
-384.  []{#c10752_444.xhtml#R384}Froment, A. 2001. Evolutionary biology
-      and health of hunter-gatherer populations. In _Hunter-gatherers: An
-      Interdisciplinary Perspective_, ed. C. Panter-Brick, R. Layton
+384.  []{#c10752*444.xhtml#R384}Froment, A. 2001. Evolutionary biology
+      and health of hunter-gatherer populations. In \_Hunter-gatherers: An
+      Interdisciplinary Perspective*, ed. C. Panter-Brick, R. Layton
       and P. Rowley-Conwy, 239--266. Cambridge: Cambridge University
       Press.
-385.  []{#c10752_444.xhtml#R385}Fry, H. 1896. _History of North Atlantic
-      Steam Navigation_. London: Sampson, Low, Marston & Company.
-386.  []{#c10752_444.xhtml#R386}Fujimoto, T. 1999. _The Evolution of a
-      Manufacturing System at Toyota_. New York: Oxford University Press.
-387.  []{#c10752_444.xhtml#R387}Fussell, G. E. 1952. _The Farmer's Tools,
-      1500--1900_. London: A. Melrose.
-388.  []{#c10752_444.xhtml#R388}Fussell, G. E. 1972. _The Classical
-      Tradition in West European Farming_. Rutherford: Fairleigh
+385.  []{#c10752*444.xhtml#R385}Fry, H. 1896. \_History of North Atlantic
+      Steam Navigation*. London: Sampson, Low, Marston & Company.
+386.  []{#c10752*444.xhtml#R386}Fujimoto, T. 1999. \_The Evolution of a
+      Manufacturing System at Toyota*. New York: Oxford University Press.
+387.  []{#c10752*444.xhtml#R387}Fussell, G. E. 1952. \_The Farmer's Tools,
+      1500--1900*. London: A. Melrose.
+388.  []{#c10752*444.xhtml#R388}Fussell, G. E. 1972. \_The Classical
+      Tradition in West European Farming*. Rutherford: Fairleigh
       Dickinson University Press.
-389.  []{#c10752_444.xhtml#R389}Gaastra, F. S. 2007. _The Dutch East
-      India Company_. Zutpen: Walburg Press.
-390.  []{#c10752_444.xhtml#R390}Gaier, C. 1967. The origin of Mons Meg.
-      _Journal of the Arms and Armour Society London_ 5:425--431.
-391.  []{#c10752_444.xhtml#R391}Galaty, J. G., and P. C. Salzman,
-      eds. 1981. _Change and Development in Nomadic and Pastoral
-      Societies_. Leiden: E. J. Brill.
-392.  []{#c10752_444.xhtml#R392}Gales, B., et al. 2007. North versus
+389.  []{#c10752*444.xhtml#R389}Gaastra, F. S. 2007. \_The Dutch East
+      India Company*. Zutpen: Walburg Press.
+390.  []{#c10752*444.xhtml#R390}Gaier, C. 1967. The origin of Mons Meg.
+      \_Journal of the Arms and Armour Society London* 5:425--431.
+391.  []{#c10752*444.xhtml#R391}Galaty, J. G., and P. C. Salzman,
+      eds. 1981. \_Change and Development in Nomadic and Pastoral
+      Societies*. Leiden: E. J. Brill.
+392.  []{#c10752*444.xhtml#R392}Gales, B., et al. 2007. North versus
       South: Energy transition and energy intensity in Europe over 200
-      years. _European Review of Economic History_ 2:219--253.
-393.  []{#c10752_444.xhtml#R393}Galloway, J. A., D. Keene, and M.
+      years. \_European Review of Economic History* 2:219--253.
+393.  []{#c10752*444.xhtml#R393}Galloway, J. A., D. Keene, and M.
       Murphy. 1996. Fuelling the city: Production and distribution of
-      firewood and fuel in London's region, 1290--1400. _Economic History
-      Review_ 49:447--472.
-394.  []{#c10752_444.xhtml#R394}Galor, O. 2005. _From Stagnation to
-      Growth: Unified Growth Theory_. Amsterdam: Elsevier.
-395.  []{#c10752_444.xhtml#R395}Gamarra, N. T. 1969. _Erroneous
-      Predictions and Negative Comments_. Washington, DC: Library of
+      firewood and fuel in London's region, 1290--1400. \_Economic History
+      Review* 49:447--472.
+394.  []{#c10752*444.xhtml#R394}Galor, O. 2005. \_From Stagnation to
+      Growth: Unified Growth Theory*. Amsterdam: Elsevier.
+395.  []{#c10752*444.xhtml#R395}Gamarra, N. T. 1969. \_Erroneous
+      Predictions and Negative Comments*. Washington, DC: Library of
       Congress.
-396.  []{#c10752_444.xhtml#R396}Gans, P. J. 2004. The medieval horse
+396.  []{#c10752*444.xhtml#R396}Gans, P. J. 2004. The medieval horse
       harness: Revolution or evolution? A case study in technological
-      change. In _Villard's Legacy: Studies in Medieval Technology,
-      Science and Art in Memory of Jean Gimpel_, ed. M.-T. Zenner,
+      change. In \_Villard's Legacy: Studies in Medieval Technology,
+      Science and Art in Memory of Jean Gimpel*, ed. M.-T. Zenner,
       175--187. London: Routledge.
-397.  []{#c10752_444.xhtml#R397}Garcke, E. 1911. Electric lighting. In
-      _Encyclopaedia Britannica_, 11th ed., vol. 9., 651--673. Cambridge:
+397.  []{#c10752*444.xhtml#R397}Garcke, E. 1911. Electric lighting. In
+      \_Encyclopaedia Britannica*, 11th ed., vol. 9., 651--673. Cambridge:
       Cambridge University Press.
-398.  []{#c10752_444.xhtml#R398}Gardiner, R. 2000. _The Heyday of Sail:
-      The Merchant Sailing Ship 1650--1830_. New York: Chartwell Books.
-399.  []{#c10752_444.xhtml#R399}Gardner, J., ed. 2011. _Gilgamesh_. New
+398.  []{#c10752*444.xhtml#R398}Gardiner, R. 2000. \_The Heyday of Sail:
+      The Merchant Sailing Ship 1650--1830*. New York: Chartwell Books.
+399.  []{#c10752*444.xhtml#R399}Gardner, J., ed. 2011. \_Gilgamesh*. New
       York: Knopf Doubleday.
-400.  []{#c10752_444.xhtml#R400}Garrett, C., and M. Wade-Matthews. 2015.
-      _The Ultimate Encyclopedia of Steam and Rail_. London: Southwater
+400.  []{#c10752*444.xhtml#R400}Garrett, C., and M. Wade-Matthews. 2015.
+      \_The Ultimate Encyclopedia of Steam and Rail*. London: Southwater
       Publishing.
 401.  []{#c10752_444.xhtml#R401}Gartner. 2015. Gartner says Smartphone
       sales surpassed one billion units in 2014.
       <http://www.gartner.com/newsroom/id/2996817>.
-402.  []{#c10752_444.xhtml#R402}Gaskell, E. 1855. _North and South_.
+402.  []{#c10752*444.xhtml#R402}Gaskell, E. 1855. \_North and South*.
       London: Chapman & Hall.
-403.  []{#c10752_444.xhtml#R403}Gates, D. 2011. _The Napoleonic Wars
-      1803--1815_. New York: Random House.
-404.  []{#c10752_444.xhtml#R404}Geerdes, M., H. Toxopeus, and C. van der
-      Vliet. 2009. _Modern Blast Furnace Ironmaking_. Amsterdam: IOS
+403.  []{#c10752*444.xhtml#R403}Gates, D. 2011. \_The Napoleonic Wars
+      1803--1815*. New York: Random House.
+404.  []{#c10752*444.xhtml#R404}Geerdes, M., H. Toxopeus, and C. van der
+      Vliet. 2009. \_Modern Blast Furnace Ironmaking*. Amsterdam: IOS
       Press.
-405.  []{#c10752_444.xhtml#R405}Geertz, C. 1963. _Agricultural
-      Involution_. Berkeley: University of California Press.
-406.  []{#c10752_444.xhtml#R406}Gehlsen, D. 2009. _Social Complexity and
-      the Origins of Agriculture_. Saarbrücken: VDM Verlag.
-407.  []{#c10752_444.xhtml#R407}Georgescu-Roegen, N. 1975. Energy and
-      economic myths. _Ecologist_ 5:164--174, 242--252.
-408.  []{#c10752_444.xhtml#R408}Georgescu-Roegen, N. 1980. Afterword. In
-      _Entropy: A New World View,_ ed. J. Rifkin, 261--269. New York:
+405.  []{#c10752*444.xhtml#R405}Geertz, C. 1963. \_Agricultural
+      Involution*. Berkeley: University of California Press.
+406.  []{#c10752*444.xhtml#R406}Gehlsen, D. 2009. \_Social Complexity and
+      the Origins of Agriculture*. Saarbrücken: VDM Verlag.
+407.  []{#c10752*444.xhtml#R407}Georgescu-Roegen, N. 1975. Energy and
+      economic myths. \_Ecologist* 5:164--174, 242--252.
+408.  []{#c10752*444.xhtml#R408}Georgescu-Roegen, N. 1980. Afterword. In
+      \_Entropy: A New World View,* ed. J. Rifkin, 261--269. New York:
       Viking Press.
-409.  []{#c10752_444.xhtml#R409}Geothermal Energy Association. 2014.
-      _2014 Annual U.S. & Global Geothermal Power Production Report._
+409.  []{#c10752*444.xhtml#R409}Geothermal Energy Association. 2014.
+      \_2014 Annual U.S. & Global Geothermal Power Production Report.*
       <http://geo-energy.org/events/2014%20Annual%20US%20&%20Global%20Geothermal%20Power%20Production%20Report%20Final.pdf>.
-410.  []{#c10752_444.xhtml#R410}Gerhold, D. 1993. _Road Transport before
-      the Railways_. Cambridge: Cambridge University Press.
-411.  []{#c10752_444.xhtml#R411}Gesner, J. M., ed. 1735*.* _Scriptores
-      rei rusticae_. Leipzig: Fritsch.
-412.  []{#c10752_444.xhtml#R412}Giampietro, M., and K. Mayumi. 2009. _The
-      Biofuel Delusion_. London: Earthscan.
-413.  []{#c10752_444.xhtml#R413}Gies, F., and J. Gies. 1995. _Cathedral
-      Forge and Waterwheel: Technology and Invention in the Middle Ages_.
+410.  []{#c10752*444.xhtml#R410}Gerhold, D. 1993. \_Road Transport before
+      the Railways*. Cambridge: Cambridge University Press.
+411.  []{#c10752*444.xhtml#R411}Gesner, J. M., ed. 1735*.* \_Scriptores
+      rei rusticae*. Leipzig: Fritsch.
+412.  []{#c10752*444.xhtml#R412}Giampietro, M., and K. Mayumi. 2009. \_The
+      Biofuel Delusion*. London: Earthscan.
+413.  []{#c10752*444.xhtml#R413}Gies, F., and J. Gies. 1995. \_Cathedral
+      Forge and Waterwheel: Technology and Invention in the Middle Ages*.
       New York: Harper.
-414.  []{#c10752_444.xhtml#R414}Gill, R. B. 2000. _The Great Maya
-      Droughts: Water, Life, and Death_. Albuquerque: University of New
+414.  []{#c10752*444.xhtml#R414}Gill, R. B. 2000. \_The Great Maya
+      Droughts: Water, Life, and Death*. Albuquerque: University of New
       Mexico Press.
-415.  []{#c10752_444.xhtml#R415}Gille, B. 1978. _Histoire des
-      techniques_. Paris: Gallimard.
-416.  []{#c10752_444.xhtml#R416}Gimpel, J. 1997. _The Medieval Machine_.
+415.  []{#c10752*444.xhtml#R415}Gille, B. 1978. \_Histoire des
+      techniques*. Paris: Gallimard.
+416.  []{#c10752*444.xhtml#R416}Gimpel, J. 1997. \_The Medieval Machine*.
       New York: Penguin Books.
-417.  []{#c10752_444.xhtml#R417}Ginouvès, R. 1962. _Balaneutikè:
-      Recherches sur le bain dans l'antiquité grecque_. Paris: de
+417.  []{#c10752*444.xhtml#R417}Ginouvès, R. 1962. \_Balaneutikè:
+      Recherches sur le bain dans l'antiquité grecque*. Paris: de
       Boccard.
-418.  []{#c10752_444.xhtml#R418}Glaser, B. 2007. Prehistorically modified
+418.  []{#c10752*444.xhtml#R418}Glaser, B. 2007. Prehistorically modified
       soils of central Amazonia: A model for sustainable agriculture in
-      the twenty-first century. _Philosophical Transactions of the Royal
-      Society of London. Series B, Biological Sciences_ 362:187--196.
+      the twenty-first century. \_Philosophical Transactions of the Royal
+      Society of London. Series B, Biological Sciences* 362:187--196.
 419.  []{#c10752_444.xhtml#R419}Global Wind Energy Council. 2015. Global
       wind statistics 2014.
       <http://www.gwec.net/wp-content/uploads/2015/02/GWEC_GlobalWindStats2014_FINAL_10.2.2015.pdf>.
-420.  []{#c10752_444.xhtml#R420}Godfrey, F. P. 1982. _An International
-      History of the Sewing Machine_. London: R. Hale.
-421.  []{#c10752_444.xhtml#R421}Goe, M. R., and R. E. Dowell. 1980.
-      _Animal Traction: Guidelines for Utilization_. Ithaca, NY: Cornell
+420.  []{#c10752*444.xhtml#R420}Godfrey, F. P. 1982. \_An International
+      History of the Sewing Machine*. London: R. Hale.
+421.  []{#c10752*444.xhtml#R421}Goe, M. R., and R. E. Dowell. 1980.
+      \_Animal Traction: Guidelines for Utilization*. Ithaca, NY: Cornell
       University, Department of Animal Science.
-422.  []{#c10752_444.xhtml#R422}Gold, B., et al. 1984. _Technological
+422.  []{#c10752*444.xhtml#R422}Gold, B., et al. 1984. \_Technological
       Progress and Industrial Leadership: The Growth of the U.S. Steel
-      Industry, 1900--1970_. Lexington, MA: D. C. Heath and Co.
-423.  []{#c10752_444.xhtml#R423}Goldsmith. R. W. 1946. The power of
-      Victory: Munitions output in World War II. _Military Affairs_
+      Industry, 1900--1970*. Lexington, MA: D. C. Heath and Co.
+423.  []{#c10752*444.xhtml#R423}Goldsmith. R. W. 1946. The power of
+      Victory: Munitions output in World War II. \_Military Affairs*
       10:69--80.
-424.  []{#c10752_444.xhtml#R424}Goldstein, D. B., S. Martinez, and R.
+424.  []{#c10752*444.xhtml#R424}Goldstein, D. B., S. Martinez, and R.
       Roy. 2011. Are there rebound effects from energy efficiency? An
       analysis of empirical data, internal consistency, and solutions.
-      _Electricity Policy_ 2011:1--18.
-425.  []{#c10752_444.xhtml#R425}Gómez, J. J. H., V. Marquina, and R. W.
+      \_Electricity Policy* 2011:1--18.
+425.  []{#c10752*444.xhtml#R425}Gómez, J. J. H., V. Marquina, and R. W.
       Gómez. 2013. On the performance of Usain Bolt in the 100 m sprint.
-      _European Journal of Phycology_ 34:1227--1233.
-426.  []{#c10752_444.xhtml#R426}Goren-Inbar, N., et al. 2004. Evidence of
-      hominin control of fire at Gesher Benot Ya'aqov, Israel. _Science_
+      \_European Journal of Phycology* 34:1227--1233.
+426.  []{#c10752*444.xhtml#R426}Goren-Inbar, N., et al. 2004. Evidence of
+      hominin control of fire at Gesher Benot Ya'aqov, Israel. \_Science*
       304:725--727.
-427.  []{#c10752_444.xhtml#R427}Goudsblom, J. 1992. _Fire and
-      Civilization_. London: Allen Lane.
-428.  []{#c10752_444.xhtml#R428}Grayson, D. K., and F. Delpech. 2002.
+427.  []{#c10752*444.xhtml#R427}Goudsblom, J. 1992. \_Fire and
+      Civilization*. London: Allen Lane.
+428.  []{#c10752*444.xhtml#R428}Grayson, D. K., and F. Delpech. 2002.
       Specialized early Upper Paleolithic hunters in southwestern France?
-      _Journal of Archaeological Science_ 29:1439--1449.
-429.  []{#c10752_444.xhtml#R429}Greene, A. N. 2008. _Horses at Work_.
+      \_Journal of Archaeological Science* 29:1439--1449.
+429.  []{#c10752*444.xhtml#R429}Greene, A. N. 2008. \_Horses at Work*.
       Cambridge, MA: Harvard University Press.
-430.  []{#c10752_444.xhtml#R430}Greene, K. 2000. Technological innovation
+430.  []{#c10752*444.xhtml#R430}Greene, K. 2000. Technological innovation
       and economic progress in the ancient world: M. I. Finley
-      re-considered. _Economic History Review_ 53:29--59.
-431.  []{#c10752_444.xhtml#R431}Greeno, F. L., ed. 1912. _Obed Hussey
-      Who, of All Inventors, Made Bread Cheap_. Rochester, NY: Rochester
+      re-considered. \_Economic History Review* 53:29--59.
+431.  []{#c10752*444.xhtml#R431}Greeno, F. L., ed. 1912. \_Obed Hussey
+      Who, of All Inventors, Made Bread Cheap*. Rochester, NY: Rochester
       Herald Publishing Co.
-432.  []{#c10752_444.xhtml#R432}Greenwood, W. H. 1907. _Iron_. London:
+432.  []{#c10752*444.xhtml#R432}Greenwood, W. H. 1907. \_Iron*. London:
       Cassell.
-433.  []{#c10752_444.xhtml#R433}Griffiths, J. 1992. _The Third Man: The
-      Life and Times of William Murdoch 1754--1839_. London: Andre
+433.  []{#c10752*444.xhtml#R433}Griffiths, J. 1992. \_The Third Man: The
+      Life and Times of William Murdoch 1754--1839*. London: Andre
       Deutsch.
-434.  []{#c10752_444.xhtml#R434}Grigg, D. B. 1974. _The Agricultural
-      Systems of the World_. Cambridge: Cambridge University Press.
-435.  []{#c10752_444.xhtml#R435}Grigg, D. B. 1992. _The Transformation of
-      Agriculture in the West_. Oxford: Blackwell.
-436.  []{#c10752_444.xhtml#R436}Grimal, N. 1992. _A History of Ancient
-      Egypt_. Oxford: Blackwell.
-437.  []{#c10752_444.xhtml#R437}Gronow, P., and I. Saunio. 1999.
-      _International History of the Recording Industry_. London:
+434.  []{#c10752*444.xhtml#R434}Grigg, D. B. 1974. \_The Agricultural
+      Systems of the World*. Cambridge: Cambridge University Press.
+435.  []{#c10752*444.xhtml#R435}Grigg, D. B. 1992. \_The Transformation of
+      Agriculture in the West*. Oxford: Blackwell.
+436.  []{#c10752*444.xhtml#R436}Grimal, N. 1992. \_A History of Ancient
+      Egypt*. Oxford: Blackwell.
+437.  []{#c10752*444.xhtml#R437}Gronow, P., and I. Saunio. 1999.
+      \_International History of the Recording Industry*. London:
       Bloomsbury Academic.
-438.  []{#c10752_444.xhtml#R438}Grousset, R. 1938. _L'empire des
-      steppes_. Paris: Payot.
-439.  []{#c10752_444.xhtml#R439}Grousset, R. 1970. _The Epic of the
-      Crusades_. New York: Orion Press.
+438.  []{#c10752*444.xhtml#R438}Grousset, R. 1938. \_L'empire des
+      steppes*. Paris: Payot.
+439.  []{#c10752*444.xhtml#R439}Grousset, R. 1970. \_The Epic of the
+      Crusades*. New York: Orion Press.
 440.  []{#c10752_444.xhtml#R440}GSI (Global Subsidies Initiative). 2015.
       Global Subsidies Initiative.
       <https://www.iisd.org/gsi/fossil-fuel-subsidies>.
 441.  []{#c10752_444.xhtml#R441}Gulflink. 1991. Fast facts about
       operations Desert Shield/Desert Storm.
       <http://www.gulflink.osd.mil/timeline/fast_facts.htm>.
-442.  []{#c10752_444.xhtml#R442}Gunston, B. 1986. _World Encyclopedia of
-      Aero Engines_. Wellingborough: Patrick Stephens.
-443.  []{#c10752_444.xhtml#R443}Gunston, B. 1999. _The Development of
-      Piston Aero Engines._ Yeovil: Patrick Stephens.
-444.  []{#c10752_444.xhtml#R444}Gunston, B. 2002. _Aviation: The First
-      100 Years_. Hauppauge, NY: Barron's Educational Series.
-445.  []{#c10752_444.xhtml#R445}Haaland, R., and P. Shinnie, eds. 1985.
-      _African Iron Working: Ancient and Traditional_. Oslo: Norwegian
+442.  []{#c10752*444.xhtml#R442}Gunston, B. 1986. \_World Encyclopedia of
+      Aero Engines*. Wellingborough: Patrick Stephens.
+443.  []{#c10752*444.xhtml#R443}Gunston, B. 1999. \_The Development of
+      Piston Aero Engines.* Yeovil: Patrick Stephens.
+444.  []{#c10752*444.xhtml#R444}Gunston, B. 2002. \_Aviation: The First
+      100 Years*. Hauppauge, NY: Barron's Educational Series.
+445.  []{#c10752*444.xhtml#R445}Haaland, R., and P. Shinnie, eds. 1985.
+      \_African Iron Working: Ancient and Traditional*. Oslo: Norwegian
       University Press.
-446.  []{#c10752_444.xhtml#R446}Hadfield, C. 1969. _The Canal Age_. New
+446.  []{#c10752*444.xhtml#R446}Hadfield, C. 1969. \_The Canal Age*. New
       York: Praeger.
-447.  []{#c10752_444.xhtml#R447}Hadland, T., and H.-E. Lessing. 2014.
-      _Bicycle Design: An Illustrated History_. Cambridge, MA: MIT Press.
-448.  []{#c10752_444.xhtml#R448}Haile-Selassie, Y., et al. 2015. New
+447.  []{#c10752*444.xhtml#R447}Hadland, T., and H.-E. Lessing. 2014.
+      \_Bicycle Design: An Illustrated History*. Cambridge, MA: MIT Press.
+448.  []{#c10752*444.xhtml#R448}Haile-Selassie, Y., et al. 2015. New
       species from Ethiopia further expands Middle Pliocene hominin
-      diversity. _Nature_ 521:483--488.
-449.  []{#c10752_444.xhtml#R449}Hair, T. H. 1844. _Sketches of the Coal
-      Mines in Northumberland and Durham_. London: J. Madden & Co.
-450.  []{#c10752_444.xhtml#R450}Hammel, E. M. 1985. _The Root: The
-      Marines in Beirut, August 1982--February 1984_. New York: Harcourt
+      diversity. \_Nature* 521:483--488.
+449.  []{#c10752*444.xhtml#R449}Hair, T. H. 1844. \_Sketches of the Coal
+      Mines in Northumberland and Durham*. London: J. Madden & Co.
+450.  []{#c10752*444.xhtml#R450}Hammel, E. M. 1985. \_The Root: The
+      Marines in Beirut, August 1982--February 1984*. New York: Harcourt
       Brace Jovanovich.
-451.  []{#c10752_444.xhtml#R451}Hansell, M. H. 2005. _Animal
-      Architecture_. Oxford: Oxford University Press.
-452.  []{#c10752_444.xhtml#R452}Hansen, P. V. 1992. Experimental
-      reconstruction of the medieval trebuchet. _Acta Archaeologica_
+451.  []{#c10752*444.xhtml#R451}Hansell, M. H. 2005. \_Animal
+      Architecture*. Oxford: Oxford University Press.
+452.  []{#c10752*444.xhtml#R452}Hansen, P. V. 1992. Experimental
+      reconstruction of the medieval trebuchet. \_Acta Archaeologica*
       63:189--208.
-453.  []{#c10752_444.xhtml#R453}Hanson, N. 2011. _The Confident Hope of a
-      Miracle: The True History of the Spanish Armada_. New York: Random
+453.  []{#c10752*444.xhtml#R453}Hanson, N. 2011. \_The Confident Hope of a
+      Miracle: The True History of the Spanish Armada*. New York: Random
       House.
-454.  []{#c10752_444.xhtml#R454}Harlan, J. R. 1975. _Crops and Man_.
+454.  []{#c10752*444.xhtml#R454}Harlan, J. R. 1975. \_Crops and Man*.
       Madison, WI: American Society of Agronomy.
-455.  []{#c10752_444.xhtml#R455}Harlow, J. H. 2012. _Electric Power
-      Transformer Engineering_. Boca Raton, FL: CRC Press.
-456.  []{#c10752_444.xhtml#R456}Harmand, S., et al. 2015.
+455.  []{#c10752*444.xhtml#R455}Harlow, J. H. 2012. \_Electric Power
+      Transformer Engineering*. Boca Raton, FL: CRC Press.
+456.  []{#c10752*444.xhtml#R456}Harmand, S., et al. 2015.
       3.3-Million-year-old stone tools from Lomekwi 3, West Turkana,
-      Kenya. _Nature_ 521:310--315.
-457.  []{#c10752_444.xhtml#R457}Harris, J. R. 1988. _The British Iron
-      Industry 1700--1850_. London: Macmillan.
-458.  []{#c10752_444.xhtml#R458}Harris, M. 1966. The cultural ecology of
-      India's sacred cattle. _Current Anthropology_ 7:51--66.
-459.  []{#c10752_444.xhtml#R459}Harrison, P. D., and B. L. Turner,
-      eds. 1978. _Pre-Hispanic Maya Agriculture_. Albuquerque: University
+      Kenya. \_Nature* 521:310--315.
+457.  []{#c10752*444.xhtml#R457}Harris, J. R. 1988. \_The British Iron
+      Industry 1700--1850*. London: Macmillan.
+458.  []{#c10752*444.xhtml#R458}Harris, M. 1966. The cultural ecology of
+      India's sacred cattle. \_Current Anthropology* 7:51--66.
+459.  []{#c10752*444.xhtml#R459}Harrison, P. D., and B. L. Turner,
+      eds. 1978. \_Pre-Hispanic Maya Agriculture*. Albuquerque: University
       of New Mexico Press.
-460.  []{#c10752_444.xhtml#R460}Harris, J. A., and F. G. Benedict. 1919.
-      _A Biometric Study of Basal Metabolism in Man_. Washington, DC:
+460.  []{#c10752*444.xhtml#R460}Harris, J. A., and F. G. Benedict. 1919.
+      \_A Biometric Study of Basal Metabolism in Man*. Washington, DC:
       Carnegie Institution.
-461.  []{#c10752_444.xhtml#R461}Hart, J. F. 2004. _The Changing Scale of
-      American Agriculture_. Charlottesville: University of Virginia
+461.  []{#c10752*444.xhtml#R461}Hart, J. F. 2004. \_The Changing Scale of
+      American Agriculture*. Charlottesville: University of Virginia
       Press.
-462.  []{#c10752_444.xhtml#R462}Hartmann, F. 1923. _L'agriculture dans
-      l'ancienne Egypte_. Paris: Libraire-Imprimerie Réunies.
-463.  []{#c10752_444.xhtml#R463}Harverson, M. 1991. _Persian Windmills_.
+462.  []{#c10752*444.xhtml#R462}Hartmann, F. 1923. \_L'agriculture dans
+      l'ancienne Egypte*. Paris: Libraire-Imprimerie Réunies.
+463.  []{#c10752*444.xhtml#R463}Harverson, M. 1991. \_Persian Windmills*.
       The Hague: International Molinological Society.
-464.  []{#c10752_444.xhtml#R464}Hashimoto, T., et al. 2013. Hand before
+464.  []{#c10752*444.xhtml#R464}Hashimoto, T., et al. 2013. Hand before
       foot? Cortical somatotopy suggests manual dexterity is primitive
-      and evolved independently of bipedalism. _Philosophical
-      Transactions B_ 368 (1630): 1--12.
-465.  []{#c10752_444.xhtml#R465}Hassan, F. A. 1984. Environment and
-      subsistence in Predynastic Egypt. In _From Hunters to Farmers_,
+      and evolved independently of bipedalism. \_Philosophical
+      Transactions B* 368 (1630): 1--12.
+465.  []{#c10752*444.xhtml#R465}Hassan, F. A. 1984. Environment and
+      subsistence in Predynastic Egypt. In \_From Hunters to Farmers*,
       ed. J. D. Clark and S. A. Brandt, 57--64. Berkeley: University of
       California Press.
-466.  []{#c10752_444.xhtml#R466}Haudricourt, A. G., and M. J. B.
-      Delamarre. 1955. _L'Homme et la Charrue à travers le Monde_. Paris:
+466.  []{#c10752*444.xhtml#R466}Haudricourt, A. G., and M. J. B.
+      Delamarre. 1955. \_L'Homme et la Charrue à travers le Monde*. Paris:
       Gallimard.
-467.  []{#c10752_444.xhtml#R467}Haug, G. H., et al. 2003. Climate and
-      collapse of Maya civilization. _Science_ 299:1731--1735.
-468.  []{#c10752_444.xhtml#R468}Haugaasen, J. M. T., et al. 2010. Seed
-      dispersal of the Brazil nut tree (_Bertholletia excelsa_) by
+467.  []{#c10752*444.xhtml#R467}Haug, G. H., et al. 2003. Climate and
+      collapse of Maya civilization. \_Science* 299:1731--1735.
+468.  []{#c10752*444.xhtml#R468}Haugaasen, J. M. T., et al. 2010. Seed
+      dispersal of the Brazil nut tree (\_Bertholletia excelsa*) by
       scatter-hoarding rodents in a central Amazonian forest. _Journal of
       Tropical Ecology_ 26:251--262.
-469.  []{#c10752_444.xhtml#R469}Hausman, W. J., P. Hertner, and M.
-      Wilkins. 2008. _Global Electrification: Multinational Enterprise
+469.  []{#c10752*444.xhtml#R469}Hausman, W. J., P. Hertner, and M.
+      Wilkins. 2008. \_Global Electrification: Multinational Enterprise
       and International Finance in the History of Light and Power,
-      1878--2007_. Cambridge: Cambridge University Press.
-470.  []{#c10752_444.xhtml#R470}Hawkes, K., J. F. O'Connell, and N. G.
-      Blurton Jones. 2001. Hadza meat sharing. _Evolution and Human
-      Behavior_ 22:113--142.
-471.  []{#c10752_444.xhtml#R471}Hayden, B. 1981. Subsistence and
-      ecological adaptations of modern hunter/gatherers. In _Omnivorous
-      Primates_, ed. R. S. O. Harding and G. Teleki, 344--421. New York:
+      1878--2007*. Cambridge: Cambridge University Press.
+470.  []{#c10752*444.xhtml#R470}Hawkes, K., J. F. O'Connell, and N. G.
+      Blurton Jones. 2001. Hadza meat sharing. \_Evolution and Human
+      Behavior* 22:113--142.
+471.  []{#c10752*444.xhtml#R471}Hayden, B. 1981. Subsistence and
+      ecological adaptations of modern hunter/gatherers. In \_Omnivorous
+      Primates*, ed. R. S. O. Harding and G. Teleki, 344--421. New York:
       Columbia University Press.
-472.  []{#c10752_444.xhtml#R472}Haynie, D. 2001. _Biological
-      Thermodynamics_. Cambridge: Cambridge University Press.
-473.  []{#c10752_444.xhtml#R473}Headland, T. N., and L. A. Reid. 1989.
+472.  []{#c10752*444.xhtml#R472}Haynie, D. 2001. \_Biological
+      Thermodynamics*. Cambridge: Cambridge University Press.
+473.  []{#c10752*444.xhtml#R473}Headland, T. N., and L. A. Reid. 1989.
       Hunter-gatherers and their neighbors from prehistory to the
-      present. _Current Anthropology_ 30:43--66.
-474.  []{#c10752_444.xhtml#R474}Heidenreich, C. 1971. _Huronia: A History
-      and Geography of the Huron Indians_. Toronto: McClelland and
+      present. \_Current Anthropology* 30:43--66.
+474.  []{#c10752*444.xhtml#R474}Heidenreich, C. 1971. \_Huronia: A History
+      and Geography of the Huron Indians*. Toronto: McClelland and
       Stewart.
-475.  []{#c10752_444.xhtml#R475}Heinrich, B. 2001. _Racing the Antelope:
-      What Animals Can Teach Us about Running and Life_. New York:
+475.  []{#c10752*444.xhtml#R475}Heinrich, B. 2001. \_Racing the Antelope:
+      What Animals Can Teach Us about Running and Life*. New York:
       HarperCollins.
-476.  []{#c10752_444.xhtml#R476}Heizer, R. F. 1966. Ancient heavy
-      transport, methods and achievements. _Science_ 153:821--830.
-477.  []{#c10752_444.xhtml#R477}Helland, J. 1980. _Five Essays on the
-      Study of Pastoralists and the Development of Pastoralism_. Bergen:
+476.  []{#c10752*444.xhtml#R476}Heizer, R. F. 1966. Ancient heavy
+      transport, methods and achievements. \_Science* 153:821--830.
+477.  []{#c10752*444.xhtml#R477}Helland, J. 1980. \_Five Essays on the
+      Study of Pastoralists and the Development of Pastoralism*. Bergen:
       Universitet i Bergen.
-478.  []{#c10752_444.xhtml#R478}Helliwell, J. F., R. Layard, and J. Sachs
-      eds. 2015. _World Happiness Report 2015_.
+478.  []{#c10752*444.xhtml#R478}Helliwell, J. F., R. Layard, and J. Sachs
+      eds. 2015. \_World Happiness Report 2015*.
       <http://worldhappiness.report/wp-content/uploads/sites/2/2015/04/WHR15-Apr29-update.pdf>.
-479.  []{#c10752_444.xhtml#R479}Hemphill, R. 1990. Le transport de
-      l'obélisque du Vatican. _Etudes Francaises_ 26 (3): 111--116.
-480.  []{#c10752_444.xhtml#R480}Henry, A. G., A. S. Brooks, and D. R.
+479.  []{#c10752*444.xhtml#R479}Hemphill, R. 1990. Le transport de
+      l'obélisque du Vatican. \_Etudes Francaises* 26 (3): 111--116.
+480.  []{#c10752*444.xhtml#R480}Henry, A. G., A. S. Brooks, and D. R.
       Piperno. 2014. Plant foods and the dietary ecology of Neanderthals
-      and early modern humans. _Journal of Human Evolution_ 69:44--54.
-481.  []{#c10752_444.xhtml#R481}Heppenheimer, T. A. 1995. _Turbulent
-      Skies: The History of Commercial Aviation_. New York: John Wiley.
-482.  []{#c10752_444.xhtml#R482}Herlihy, D. V. 2004. _Bicycle: The
-      History_. New Haven, CT: Yale University Press.
-483.  []{#c10752_444.xhtml#R483}Herodotus. n.d. _Book of Histories_.
+      and early modern humans. \_Journal of Human Evolution* 69:44--54.
+481.  []{#c10752*444.xhtml#R481}Heppenheimer, T. A. 1995. \_Turbulent
+      Skies: The History of Commercial Aviation*. New York: John Wiley.
+482.  []{#c10752*444.xhtml#R482}Herlihy, D. V. 2004. \_Bicycle: The
+      History*. New Haven, CT: Yale University Press.
+483.  []{#c10752*444.xhtml#R483}Herodotus. n.d. \_Book of Histories*.
       Excerpt at
       <http://www.cheops-pyramide.ch/khufu-pyramid/herodotus.html>.
-484.  []{#c10752_444.xhtml#R484}Herring, H. 2004. Rebound effect in
-      energy conservation. In _Encyclopedia of Energy_, ed. C. Cleveland
+484.  []{#c10752*444.xhtml#R484}Herring, H. 2004. Rebound effect in
+      energy conservation. In \_Encyclopedia of Energy*, ed. C. Cleveland
       et al., vol. 5, pp. 411--423. Amsterdam: Elsevier.
-485.  []{#c10752_444.xhtml#R485}Herring, H. 2006. Energy efficiency: A
-      critical view. _Energy_ 31:10--20.
-486.  []{#c10752_444.xhtml#R486}Heston, A. 1971. An approach to the
-      sacred cow of India. _Current Anthropology_ 12:191--209.
-487.  []{#c10752_444.xhtml#R487}Heyne, E. G., ed. 1987. _Wheat and Wheat
-      Improvement_. Madison, WI: American Society of Agronomy.
-488.  []{#c10752_444.xhtml#R488}Hildinger, E. 1997. _Warriors of the
-      Steppe: A Military History of Central Asia, 500 B.C. to A.D. 1700_.
+485.  []{#c10752*444.xhtml#R485}Herring, H. 2006. Energy efficiency: A
+      critical view. \_Energy* 31:10--20.
+486.  []{#c10752*444.xhtml#R486}Heston, A. 1971. An approach to the
+      sacred cow of India. \_Current Anthropology* 12:191--209.
+487.  []{#c10752*444.xhtml#R487}Heyne, E. G., ed. 1987. \_Wheat and Wheat
+      Improvement*. Madison, WI: American Society of Agronomy.
+488.  []{#c10752*444.xhtml#R488}Hildinger, E. 1997. \_Warriors of the
+      Steppe: A Military History of Central Asia, 500 B.C. to A.D. 1700*.
       New York: Sarpedon Publishers.
-489.  []{#c10752_444.xhtml#R489}Hill, A. V. 1922. The maximum work and
+489.  []{#c10752*444.xhtml#R489}Hill, A. V. 1922. The maximum work and
       mechanical efficiency of human muscles and their most economical
-      speed. _Journal of Physiology_ 56:19--41.
-490.  []{#c10752_444.xhtml#R490}Hill, D. 1984. _A History of Engineering
-      in Classical and Medieval Times_. La Salle, IL: Open Court
+      speed. \_Journal of Physiology* 56:19--41.
+490.  []{#c10752*444.xhtml#R490}Hill, D. 1984. \_A History of Engineering
+      in Classical and Medieval Times*. La Salle, IL: Open Court
       Publishing.
-491.  []{#c10752_444.xhtml#R491}Hills, R. 1989. _Power from Steam: A
-      History of the Stationary Steam Engine_. Cambridge: Cambridge
+491.  []{#c10752*444.xhtml#R491}Hills, R. 1989. \_Power from Steam: A
+      History of the Stationary Steam Engine*. Cambridge: Cambridge
       University Press.
-492.  []{#c10752_444.xhtml#R492}Hindle, B., ed. 1975. _America's Wooden
-      Age: Aspects of Its Early Technology_. Tarrytown, NY: Sleepy Hollow
+492.  []{#c10752*444.xhtml#R492}Hindle, B., ed. 1975. \_America's Wooden
+      Age: Aspects of Its Early Technology*. Tarrytown, NY: Sleepy Hollow
       Restorations.
-493.  []{#c10752_444.xhtml#R493}Hippisley, J. C. 1823. _Prison
-      Treadmills_. London: W Nicol.
-494.  []{#c10752_444.xhtml#R494}Hitchcock, R. K., and J. I. Ebert. 1984.
+493.  []{#c10752*444.xhtml#R493}Hippisley, J. C. 1823. \_Prison
+      Treadmills*. London: W Nicol.
+494.  []{#c10752*444.xhtml#R494}Hitchcock, R. K., and J. I. Ebert. 1984.
       Foraging and food production among Kalahari hunter/gatherers. In
-      _From Hunters to Farmers_, ed. J. D. Clark and S. A. Brandt,
+      \_From Hunters to Farmers*, ed. J. D. Clark and S. A. Brandt,
       328--348. Berkeley: University of California Press.
-495.  []{#c10752_444.xhtml#R495}Ho, P. 1975. _The Cradle of the East_.
+495.  []{#c10752*444.xhtml#R495}Ho, P. 1975. \_The Cradle of the East*.
       Hong Kong: Chinese University of Hong Kong Press.
-496.  []{#c10752_444.xhtml#R496}Hodge, A. T. 1990. A Roman factory.
-      _Scientific American_ 263 (5): 106--111.
-497.  []{#c10752_444.xhtml#R497}Hodge, A. T. 2001. _Roman Aqueducts &
-      Water Supply_. London: Duckworth.
-498.  []{#c10752_444.xhtml#R498}Hodges, P. 1989. _How the Pyramids Were
-      Built_. Longmead: Element Books.
-499.  []{#c10752_444.xhtml#R499}Hoffmann, H. 1953. _Die chemische
-      Veredlung der Steinkohle durch Verkokung_.
+496.  []{#c10752*444.xhtml#R496}Hodge, A. T. 1990. A Roman factory.
+      \_Scientific American* 263 (5): 106--111.
+497.  []{#c10752*444.xhtml#R497}Hodge, A. T. 2001. \_Roman Aqueducts &
+      Water Supply*. London: Duckworth.
+498.  []{#c10752*444.xhtml#R498}Hodges, P. 1989. \_How the Pyramids Were
+      Built*. Longmead: Element Books.
+499.  []{#c10752*444.xhtml#R499}Hoffmann, H. 1953. \_Die chemische
+      Veredlung der Steinkohle durch Verkokung*.
       <http://epic.awi.de/23532/1/Hof1953a.pdf>.
-500.  []{#c10752_444.xhtml#R500}Hogan, W. T. 1971. _Economic History of
-      the Iron and Steel Industry in the United States_. 5 vols.
+500.  []{#c10752*444.xhtml#R500}Hogan, W. T. 1971. \_Economic History of
+      the Iron and Steel Industry in the United States*. 5 vols.
       Lexington, MA: Lexington Books.
-501.  []{#c10752_444.xhtml#R501}Hogg, I. V. 1997. _German Artillery of
-      World War Two_. Mechanicsville, PA: Stackpole Books.
-502.  []{#c10752_444.xhtml#R502}Holley, I. B. 1964. _Buying Aircraft:
-      Matérial Procurement for the Army Air Forces_. Washington, DC:
+501.  []{#c10752*444.xhtml#R501}Hogg, I. V. 1997. \_German Artillery of
+      World War Two*. Mechanicsville, PA: Stackpole Books.
+502.  []{#c10752*444.xhtml#R502}Holley, I. B. 1964. \_Buying Aircraft:
+      Matérial Procurement for the Army Air Forces*. Washington, DC:
       Department of the Army.
-503.  []{#c10752_444.xhtml#R503}Holliday, M. A. 1986. Body composition
-      and energy needs during growth. In _Human Growth: A Comprehensive
-      Treatise_, ed. F. Falkner and J. M. Tanner, vol. 2, 101--117. New
+503.  []{#c10752*444.xhtml#R503}Holliday, M. A. 1986. Body composition
+      and energy needs during growth. In \_Human Growth: A Comprehensive
+      Treatise*, ed. F. Falkner and J. M. Tanner, vol. 2, 101--117. New
       York: Plenum Press.
-504.  []{#c10752_444.xhtml#R504}Holt, P. M. 2014. _The Age of the
-      Crusades: The Near East from the Eleventh Century to 1517_. London:
+504.  []{#c10752*444.xhtml#R504}Holt, P. M. 2014. \_The Age of the
+      Crusades: The Near East from the Eleventh Century to 1517*. London:
       Routledge.
-505.  []{#c10752_444.xhtml#R505}Holt, R. 1988. _The Mills of Medieval
-      England_. Oxford: Oxford University Press.
-506.  []{#c10752_444.xhtml#R506}Homewood, K. 2008. _Ecology of African
-      Pastoralist Societies_. Oxford: James Curry.
-507.  []{#c10752_444.xhtml#R507}Hommel, R. P. 1937. _China at Work_.
+505.  []{#c10752*444.xhtml#R505}Holt, R. 1988. \_The Mills of Medieval
+      England*. Oxford: Oxford University Press.
+506.  []{#c10752*444.xhtml#R506}Homewood, K. 2008. \_Ecology of African
+      Pastoralist Societies*. Oxford: James Curry.
+507.  []{#c10752*444.xhtml#R507}Hommel, R. P. 1937. \_China at Work*.
       Doylestown, PA: Bucks County Historical Society.
-508.  []{#c10752_444.xhtml#R508}Hong, S. 2001. _Wireless: From Marconi's
-      Black-Box to the Audio_. Cambridge, MA: MIT Press.
-509.  []{#c10752_444.xhtml#R509}Hopfen, H. J. 1969. _Farm Implements for
-      Arid and Tropical Regions_. Rome: FAO.
-510.  []{#c10752_444.xhtml#R510}Hough, R. and D. Richards. 2007. _Battle
-      of Britain_. Barnsley: Pen & Sword Aviation.
-511.  []{#c10752_444.xhtml#R511}Hounshell, D. A. 1981. Two paths to the
-      telephone. _Scientific American_ 244 (1): 157--163.
-512.  []{#c10752_444.xhtml#R512}Howell, J. M. 1987. Early farming in
-      Northwestern Europe. _Scientific American_ 257 (5): 118--126.
-513.  []{#c10752_444.xhtml#R513}Howell, J. W., and H. Schroeder. 1927.
-      _The History of the Incandescent Lamp_. Schenectady, NY: Maqua Co.
-514.  []{#c10752_444.xhtml#R514}Hoyt, E. P. 2000. _Inferno: The Fire
-      Bombing of Japan, March 9--August 15, 1945_. New York: Madison
+508.  []{#c10752*444.xhtml#R508}Hong, S. 2001. \_Wireless: From Marconi's
+      Black-Box to the Audio*. Cambridge, MA: MIT Press.
+509.  []{#c10752*444.xhtml#R509}Hopfen, H. J. 1969. \_Farm Implements for
+      Arid and Tropical Regions*. Rome: FAO.
+510.  []{#c10752*444.xhtml#R510}Hough, R. and D. Richards. 2007. \_Battle
+      of Britain*. Barnsley: Pen & Sword Aviation.
+511.  []{#c10752*444.xhtml#R511}Hounshell, D. A. 1981. Two paths to the
+      telephone. \_Scientific American* 244 (1): 157--163.
+512.  []{#c10752*444.xhtml#R512}Howell, J. M. 1987. Early farming in
+      Northwestern Europe. \_Scientific American* 257 (5): 118--126.
+513.  []{#c10752*444.xhtml#R513}Howell, J. W., and H. Schroeder. 1927.
+      \_The History of the Incandescent Lamp*. Schenectady, NY: Maqua Co.
+514.  []{#c10752*444.xhtml#R514}Hoyt, E. P. 2000. \_Inferno: The Fire
+      Bombing of Japan, March 9--August 15, 1945*. New York: Madison
       Books.
-515.  []{#c10752_444.xhtml#R515}Hua, J. 1983. The mass production of iron
-      castings in ancient China. _Scientific American_ 248:120--128.
-516.  []{#c10752_444.xhtml#R516}Huang, N. 1958. _China Will Overtake
-      Britain_. Beijing: Foreign Languages Press.
-517.  []{#c10752_444.xhtml#R517}Hubbard, F. H. 1981. _Encyclopedia of
+515.  []{#c10752*444.xhtml#R515}Hua, J. 1983. The mass production of iron
+      castings in ancient China. \_Scientific American* 248:120--128.
+516.  []{#c10752*444.xhtml#R516}Huang, N. 1958. \_China Will Overtake
+      Britain*. Beijing: Foreign Languages Press.
+517.  []{#c10752*444.xhtml#R517}Hubbard, F. H. 1981. \_Encyclopedia of
       North American railroading: 150 years of railroading in the United
-      States and Canada_. New York: McGraw-Hill.
-518.  []{#c10752_444.xhtml#R518}Hublin, J.-J., and M. P. Richards,
-      eds. 2009. _The Evolution of Hominin Diets: Integrating Approaches
-      to the Study of Palaeolithic Subsistence_. Berlin: Springer.
-519.  []{#c10752_444.xhtml#R519}Hudson, P. 1990. Proto-industrialisation.
-      _Recent Findings of Research in Economics and Social History_
+      States and Canada*. New York: McGraw-Hill.
+518.  []{#c10752*444.xhtml#R518}Hublin, J.-J., and M. P. Richards,
+      eds. 2009. \_The Evolution of Hominin Diets: Integrating Approaches
+      to the Study of Palaeolithic Subsistence*. Berlin: Springer.
+519.  []{#c10752*444.xhtml#R519}Hudson, P. 1990. Proto-industrialisation.
+      \_Recent Findings of Research in Economics and Social History*
       10:1--4.
-520.  []{#c10752_444.xhtml#R520}Hughes, Thomas P. 1983. _Networks of
-      Power_. Baltimore, MD: Johns Hopkins University Press.
-521.  []{#c10752_444.xhtml#R521}Hugill, P. J. 1993. _World Trade Since
-      1431_. Baltimore, MD: Johns Hopkins University Press.
-522.  []{#c10752_444.xhtml#R522}Humphrey, W. S., and J. Stanislaw. 1979.
+520.  []{#c10752*444.xhtml#R520}Hughes, Thomas P. 1983. \_Networks of
+      Power*. Baltimore, MD: Johns Hopkins University Press.
+521.  []{#c10752*444.xhtml#R521}Hugill, P. J. 1993. \_World Trade Since
+      1431*. Baltimore, MD: Johns Hopkins University Press.
+522.  []{#c10752*444.xhtml#R522}Humphrey, W. S., and J. Stanislaw. 1979.
       Economic growth and energy consumption in the UK, 1700--1975.
-      _Energy Policy_ 7:29--42.
-523.  []{#c10752_444.xhtml#R523}Hunley, J. D. 1995. The Enigma of
-      Robert H. Goddard. _Technology and Culture_ 36:327--350.
-524.  []{#c10752_444.xhtml#R524}Hunter, L. C. 1975. Water power in the
-      century of steam. In _America's Wooden Age: Aspects of Its Early
-      Technology_, ed. B. Hindle, 160--192. Tarrytown, PA: Sleepy Hollow
+      \_Energy Policy* 7:29--42.
+523.  []{#c10752*444.xhtml#R523}Hunley, J. D. 1995. The Enigma of
+      Robert H. Goddard. \_Technology and Culture* 36:327--350.
+524.  []{#c10752*444.xhtml#R524}Hunter, L. C. 1975. Water power in the
+      century of steam. In \_America's Wooden Age: Aspects of Its Early
+      Technology*, ed. B. Hindle, 160--192. Tarrytown, PA: Sleepy Hollow
       Restorations.
-525.  []{#c10752_444.xhtml#R525}Hunter, L. 1979. _A History of Industrial
-      Power in the US, 1780--1930_, vol. 1. Charlottesville: University
+525.  []{#c10752*444.xhtml#R525}Hunter, L. 1979. \_A History of Industrial
+      Power in the US, 1780--1930*, vol. 1. Charlottesville: University
       of Virginia Press.
-526.  []{#c10752_444.xhtml#R526}Hunter, L. C., and L. Bryant. 1991. _A
-      History of Industrial Power in the United States, 1780--1930_. Vol.
+526.  []{#c10752*444.xhtml#R526}Hunter, L. C., and L. Bryant. 1991. \_A
+      History of Industrial Power in the United States, 1780--1930*. Vol.
       3, _The Transmission of Power_. Cambridge, MA: MIT Press.
-527.  []{#c10752_444.xhtml#R527}Husslage, G. 1965. _Windmolens: Een
-      overzicht van de verschillende molensoorten en hun werkwijze_.
+527.  []{#c10752*444.xhtml#R527}Husslage, G. 1965. \_Windmolens: Een
+      overzicht van de verschillende molensoorten en hun werkwijze*.
       Amsterdam: Heijnis.
-528.  []{#c10752_444.xhtml#R528}Huurdeman, A. A. 2003. _The Worldwide
-      History of Telecommunications_. New York: John Wiley & Sons.
-529.  []{#c10752_444.xhtml#R529}Hyde, C. K. 1977. _Technological Change
-      and the British Iron Industry 1700--1870_. Princeton, NJ: Princeton
+528.  []{#c10752*444.xhtml#R528}Huurdeman, A. A. 2003. \_The Worldwide
+      History of Telecommunications*. New York: John Wiley & Sons.
+529.  []{#c10752*444.xhtml#R529}Hyde, C. K. 1977. \_Technological Change
+      and the British Iron Industry 1700--1870*. Princeton, NJ: Princeton
       University Press.
-530.  []{#c10752_444.xhtml#R530}Hyland, A. 1990. _Equus: The Horse in the
-      Roman World_. New Haven, CT: Yale University Press.
+530.  []{#c10752*444.xhtml#R530}Hyland, A. 1990. \_Equus: The Horse in the
+      Roman World*. New Haven, CT: Yale University Press.
 531.  []{#c10752_444.xhtml#R531}IBIS World. 2015. Bicycle manufacturing
       in China.
       <http://www.ibisworld.com/industry/china/bicycle-manufacturing.html>.
-532.  []{#c10752_444.xhtml#R532}IEA (International Energy Agency). 2015a.
-      _Energy Balances of Non-OECD Countries_. Paris: IEA.
+532.  []{#c10752*444.xhtml#R532}IEA (International Energy Agency). 2015a.
+      \_Energy Balances of Non-OECD Countries*. Paris: IEA.
 533.  []{#c10752_444.xhtml#R533}IEA. 2015b. World balance.
       <http://www.iea.org/sankey>.
-534.  []{#c10752_444.xhtml#R534}Ienaga, S. 1978. _The Pacific War,
-      1931--1945_. New York: Pantheon Books.
-535.  []{#c10752_444.xhtml#R535}ICCT (International Council on Clean
-      Transportation). 2014. _European Vehicle Market Statistics.
-      Pocketbook 2014_.
+534.  []{#c10752*444.xhtml#R534}Ienaga, S. 1978. \_The Pacific War,
+      1931--1945*. New York: Pantheon Books.
+535.  []{#c10752*444.xhtml#R535}ICCT (International Council on Clean
+      Transportation). 2014. \_European Vehicle Market Statistics.
+      Pocketbook 2014*.
       <http://www.theicct.org/sites/default/files/publications/EU_pocketbook_2014.pdf>.
 536.  []{#c10752_444.xhtml#R536}IFIA (International Fertilizer Industry
       Association). 2015. Market outlook reports.
       <http://www.fertilizer.org/MarketOutlooks>.
-537.  []{#c10752_444.xhtml#R537}Illich, I. 1974. _Energy and Equity_. New
+537.  []{#c10752*444.xhtml#R537}Illich, I. 1974. \_Energy and Equity*. New
       York: Harper and Row.
 538.  []{#c10752_444.xhtml#R538}IMF (International Monetary Fund). 2015.
       Counting the cost of energy subsidies.
@@ -21083,672 +21067,672 @@ modern contributions.
 540.  []{#c10752_444.xhtml#R540}International Labour Organization. 2015.
       Forced labour, human trafficking and slavery.
       <http://www.ilo.org/global/topics/forced-labour/lang--en/index.htm>.
-541.  []{#c10752_444.xhtml#R541}IPCC (Intergovernmental Panel on Climate
-      Change). 2015. \[_Synthesis Report Summary for Policymakers_.
+541.  []{#c10752*444.xhtml#R541}IPCC (Intergovernmental Panel on Climate
+      Change). 2015. \[\_Synthesis Report Summary for Policymakers*.
       Geneva: IPCC.\] _Climatic Change_:2014.
-542.  []{#c10752_444.xhtml#R542}Irons, W., and N. Dyson-Hudson,
-      eds. 1972. _Perspective on Nomadism_. Leiden: E. J. Brill.
+542.  []{#c10752*444.xhtml#R542}Irons, W., and N. Dyson-Hudson,
+      eds. 1972. \_Perspective on Nomadism*. Leiden: E. J. Brill.
 543.  []{#c10752*444.xhtml#R543}IRRI (International Rice Research
       Institute). 2015. Rice milling.
       <http://www.knowledgebank.irri.org/ericeproduction/PDF*&\_Docs/Teaching_Manual_Rice_Milling.pdf>.
-544.  []{#c10752_444.xhtml#R544}Jakab, P. L. 1990. _Visions of a Flying
-      Machine: The Wright Brothers and the Process of Invention_.
+544.  []{#c10752*444.xhtml#R544}Jakab, P. L. 1990. \_Visions of a Flying
+      Machine: The Wright Brothers and the Process of Invention*.
       Washington, DC: Smithsonian Institution Press.
 545.  []{#c10752_444.xhtml#R545}Jamasmie, C. 2015. End of an era for UK
       coal mining: Last mines close up shop.
       <http://www.mining.com/end-of-an-era-for-uk-coal-mining-last-mines-close-up-shop>.
-546.  []{#c10752_444.xhtml#R546}James, A. 2015. _Global PV Demand Outlook
-      2015--2020: Exploring Risk in Downstream Solar Markets_. GTM
+546.  []{#c10752*444.xhtml#R546}James, A. 2015. \_Global PV Demand Outlook
+      2015--2020: Exploring Risk in Downstream Solar Markets*. GTM
       Research, June.
       <http://www.greentechmedia.com/research/report/global-pv-demand-outlook-2015-2020>.
-547.  []{#c10752_444.xhtml#R547}Janick, J. 2002. Ancient Egyptian
-      agriculture and the origins of horticulture. _Acta Horticulturae_
+547.  []{#c10752*444.xhtml#R547}Janick, J. 2002. Ancient Egyptian
+      agriculture and the origins of horticulture. \_Acta Horticulturae*
       582:23--39.
-548.  []{#c10752_444.xhtml#R548}Jansen, M. B. 2000. _The Making of Modern
-      Japan_. Cambridge, MA: Belknap Press of Harvard University Press.
-549.  []{#c10752_444.xhtml#R549}Jehl, F. 1937. _Menlo Park
-      Reminiscences_. Dearborn, MI: Edison Institute.
-550.  []{#c10752_444.xhtml#R550}Jenkins, B. 1993. _Properties of Biomass,
-      Appendix to Biomass Energy Fundamentals_. Palo Alto, CA: EPRI.
-551.  []{#c10752_444.xhtml#R551}Jenkins, R. 1936. _Links in the History
-      of Engineering and Technology from Tudor Times_. Cambridge:
+548.  []{#c10752*444.xhtml#R548}Jansen, M. B. 2000. \_The Making of Modern
+      Japan*. Cambridge, MA: Belknap Press of Harvard University Press.
+549.  []{#c10752*444.xhtml#R549}Jehl, F. 1937. \_Menlo Park
+      Reminiscences*. Dearborn, MI: Edison Institute.
+550.  []{#c10752*444.xhtml#R550}Jenkins, B. 1993. \_Properties of Biomass,
+      Appendix to Biomass Energy Fundamentals*. Palo Alto, CA: EPRI.
+551.  []{#c10752*444.xhtml#R551}Jenkins, R. 1936. \_Links in the History
+      of Engineering and Technology from Tudor Times*. Cambridge:
       Cambridge University Press.
-552.  []{#c10752_444.xhtml#R552}Jensen, H. 1969. _Sign, Symbol and
-      Script_. New York: G. P. Putnam's Sons.
-553.  []{#c10752_444.xhtml#R553}Jevons, W. S. 1865. _The Coal Question:
+552.  []{#c10752*444.xhtml#R552}Jensen, H. 1969. \_Sign, Symbol and
+      Script*. New York: G. P. Putnam's Sons.
+553.  []{#c10752*444.xhtml#R553}Jevons, W. S. 1865. \_The Coal Question:
       An Inquiry Concerning the Progress of the Nation, and the Probable
-      Exhaustion of our Coal Mines_. London: Macmillan.
-554.  []{#c10752_444.xhtml#R554}Jing, Y., and R. K. Flad. 2002. Pig
-      domestication in ancient China. _Antiquity_ 76:724--732.
-555.  []{#c10752_444.xhtml#R555}Johannsen, O. 1953. _Geschichte des
-      Eisens_. Dusseldorf: Verlag Stahleisen.
-556.  []{#c10752_444.xhtml#R556}Johanson, D. 2006. How bipedalism arose.
-      PBS, _Nova_, October 1.
+      Exhaustion of our Coal Mines*. London: Macmillan.
+554.  []{#c10752*444.xhtml#R554}Jing, Y., and R. K. Flad. 2002. Pig
+      domestication in ancient China. \_Antiquity* 76:724--732.
+555.  []{#c10752*444.xhtml#R555}Johannsen, O. 1953. \_Geschichte des
+      Eisens*. Dusseldorf: Verlag Stahleisen.
+556.  []{#c10752*444.xhtml#R556}Johanson, D. 2006. How bipedalism arose.
+      PBS, \_Nova*, October 1.
       <http://www.pbs.org/wgbh/nova/evolution/what-evidence-suggests.html>.
-557.  []{#c10752_444.xhtml#R557}Johnson, E. D. 1973. _Communication: An
+557.  []{#c10752*444.xhtml#R557}Johnson, E. D. 1973. \_Communication: An
       Introduction to the History of the Alphabet, Writing, Printing,
-      Books, and Libraries_. Metuchen, NJ: Scarecrow Press.
-558.  []{#c10752_444.xhtml#R558}Jones, C. F. 2014. _Routes of Power_.
+      Books, and Libraries*. Metuchen, NJ: Scarecrow Press.
+558.  []{#c10752*444.xhtml#R558}Jones, C. F. 2014. \_Routes of Power*.
       Cambridge, MA: Harvard University Press.
-559.  []{#c10752_444.xhtml#R559}Jones, H. M. 1971. _The Age of Energy_.
+559.  []{#c10752*444.xhtml#R559}Jones, H. M. 1971. \_The Age of Energy*.
       New York: Viking Press.
-560.  []{#c10752_444.xhtml#R560}Jones, H. 1973. _Steam Engines_. London:
+560.  []{#c10752*444.xhtml#R560}Jones, H. 1973. \_Steam Engines*. London:
       Ernest Benn.
-561.  []{#c10752_444.xhtml#R561}Josephson, M. 1959. _Edison: A
-      Biography_. New York: McGraw-Hill.
-562.  []{#c10752_444.xhtml#R562}J.P. Morgan. 2015. _A Brave New World:
-      Deep Decarbonization of Electricity Grids_. New York: J. P. Morgan.
-563.  []{#c10752_444.xhtml#R563}Juleff, G. 2009. Technology and
+561.  []{#c10752*444.xhtml#R561}Josephson, M. 1959. \_Edison: A
+      Biography*. New York: McGraw-Hill.
+562.  []{#c10752*444.xhtml#R562}J.P. Morgan. 2015. \_A Brave New World:
+      Deep Decarbonization of Electricity Grids*. New York: J. P. Morgan.
+563.  []{#c10752*444.xhtml#R563}Juleff, G. 2009. Technology and
       evolution: A root and branch view of Asian iron from
-      first-millennium BC Sri Lanka to Japanese steel. _World
-      Archaeology_ 41:557--577.
-564.  []{#c10752_444.xhtml#R564}Junqueira, A. B, G. H. Shepard, and C. R.
+      first-millennium BC Sri Lanka to Japanese steel. \_World
+      Archaeology* 41:557--577.
+564.  []{#c10752*444.xhtml#R564}Junqueira, A. B, G. H. Shepard, and C. R.
       Clement. 2010. Secondary forests on anthropogenic soils in
-      Brazilian Amazonia conserve agrobiodiversity. _Biodiversity and
-      Conservation_ 19:1933--1961.
-565.  []{#c10752_444.xhtml#R565}Kander, A. 2013. The second and third
-      industrial revolutions. In _Power to the People: Energy in Europe
-      Over the Last Five Centuries_, by A. Kander, P. Malanima, and P.
+      Brazilian Amazonia conserve agrobiodiversity. \_Biodiversity and
+      Conservation* 19:1933--1961.
+565.  []{#c10752*444.xhtml#R565}Kander, A. 2013. The second and third
+      industrial revolutions. In \_Power to the People: Energy in Europe
+      Over the Last Five Centuries*, by A. Kander, P. Malanima, and P.
       Warde, 249--386. Princeton, NJ: Princeton University Press.
-566.  []{#c10752_444.xhtml#R566}Kander, A., P. Malanima, and P.
-      Warde. 2013. _Power to the People: Energy in Europe over the Last
-      Five Centuries_. Princeton, NJ: Princeton University Press.
-567.  []{#c10752_444.xhtml#R567}Kander, A., and P. Warde. 2011. Energy
+566.  []{#c10752*444.xhtml#R566}Kander, A., P. Malanima, and P.
+      Warde. 2013. \_Power to the People: Energy in Europe over the Last
+      Five Centuries*. Princeton, NJ: Princeton University Press.
+567.  []{#c10752*444.xhtml#R567}Kander, A., and P. Warde. 2011. Energy
       availability from livestock and agricultural productivity in
-      Europe, 1815--1913: A new comparison. _The Economic History Review_
+      Europe, 1815--1913: A new comparison. \_The Economic History Review*
       64:1--29.
-568.  []{#c10752_444.xhtml#R568}Kanigel, R. 1997. _The One Best Way:
-      Frederick Winslow Taylor and the Enigma of Efficiency_. New York:
+568.  []{#c10752*444.xhtml#R568}Kanigel, R. 1997. \_The One Best Way:
+      Frederick Winslow Taylor and the Enigma of Efficiency*. New York:
       Viking.
-569.  []{#c10752_444.xhtml#R569}Kaplan, D. 2000. The darker side of the
-      "Original Affluent Society." _Journal of Anthropological Research_
+569.  []{#c10752*444.xhtml#R569}Kaplan, D. 2000. The darker side of the
+      "Original Affluent Society." \_Journal of Anthropological Research*
       56:301--324.
-570.  []{#c10752_444.xhtml#R570}Karim, M. R., and M. S. H. Fatt. 2005.
+570.  []{#c10752*444.xhtml#R570}Karim, M. R., and M. S. H. Fatt. 2005.
       Impact of the Boeing 767 aircraft into the World Trade Center.
-      _Journal of Engineering Mechanics_ 131:1066--1072.
-571.  []{#c10752_444.xhtml#R571}Karkanas, P., et al. 2007. Evidence for
+      \_Journal of Engineering Mechanics* 131:1066--1072.
+571.  []{#c10752*444.xhtml#R571}Karkanas, P., et al. 2007. Evidence for
       habitual use of fire at the end of the Lower Paleolithic:
-      Site-formation processes at Qesem Cave, Israel. _Journal of Human
-      Evolution_ 53:197--212.
-572.  []{#c10752_444.xhtml#R572}Kaufer, D. S., and K. M. Carley. 1993.
-      _Communication at a Distance: The Influence of Print on
-      Sociocultural Organization and Change_. Hillsdale, NJ: Lawrence
+      Site-formation processes at Qesem Cave, Israel. \_Journal of Human
+      Evolution* 53:197--212.
+572.  []{#c10752*444.xhtml#R572}Kaufer, D. S., and K. M. Carley. 1993.
+      \_Communication at a Distance: The Influence of Print on
+      Sociocultural Organization and Change*. Hillsdale, NJ: Lawrence
       Erlbaum Associates.
-573.  []{#c10752_444.xhtml#R573}Kaufmann, R. K. 1992. A biophysical
+573.  []{#c10752*444.xhtml#R573}Kaufmann, R. K. 1992. A biophysical
       analysis of the energy/real GDP ratio: Implications for
-      substitution and technical change. _Ecological Economics_ 6:35--56.
-574.  []{#c10752_444.xhtml#R574}Kay, J. P. 1832. _The Moral and Physical
+      substitution and technical change. \_Ecological Economics* 6:35--56.
+574.  []{#c10752*444.xhtml#R574}Kay, J. P. 1832. \_The Moral and Physical
       Condition of the Working Classes Employed in the Cotton Manufacture
-      in Manchester_. London: Ridgway.
-575.  []{#c10752_444.xhtml#R575}Keay, J. 2010. _The Honourable Company: A
-      History of the English East India Company_. London: HarperCollins
+      in Manchester*. London: Ridgway.
+575.  []{#c10752*444.xhtml#R575}Keay, J. 2010. \_The Honourable Company: A
+      History of the English East India Company*. London: HarperCollins
       UK.
-576.  []{#c10752_444.xhtml#R576}Keegan, J. 1994. _A History of Warfare_.
+576.  []{#c10752*444.xhtml#R576}Keegan, J. 1994. \_A History of Warfare*.
       New York: Vintage.
-577.  []{#c10752_444.xhtml#R577}Keeling, C. D. 1998. Rewards and
-      penalties of monitoring the Earth. _Annual Review of Energy and the
-      Environment_ 23: 25--82.
-578.  []{#c10752_444.xhtml#R578}Kelly, R. L. 1983. Hunter-gatherer
-      mobility strategies. _Journal of Anthropological Research_
+577.  []{#c10752*444.xhtml#R577}Keeling, C. D. 1998. Rewards and
+      penalties of monitoring the Earth. \_Annual Review of Energy and the
+      Environment* 23: 25--82.
+578.  []{#c10752*444.xhtml#R578}Kelly, R. L. 1983. Hunter-gatherer
+      mobility strategies. \_Journal of Anthropological Research*
       39:277--306.
-579.  []{#c10752_444.xhtml#R579}Kendall, A. 1973. _Everyday Life of
-      Incas_. London: B. T. Batsford.
-580.  []{#c10752_444.xhtml#R580}Kennedy, C. A., et al. 2015. Energy and
-      material flows of megacities. _Proceedings of the National Academy
-      of Sciences of the United States of America_ 112:5985--5990.
-581.  []{#c10752_444.xhtml#R581}Kennedy, E. 1941. _The Automobile
-      Industry: The Coming of Age of Capitalism's Favorite Child_. New
+579.  []{#c10752*444.xhtml#R579}Kendall, A. 1973. \_Everyday Life of
+      Incas*. London: B. T. Batsford.
+580.  []{#c10752*444.xhtml#R580}Kennedy, C. A., et al. 2015. Energy and
+      material flows of megacities. \_Proceedings of the National Academy
+      of Sciences of the United States of America* 112:5985--5990.
+581.  []{#c10752*444.xhtml#R581}Kennedy, E. 1941. \_The Automobile
+      Industry: The Coming of Age of Capitalism's Favorite Child*. New
       York: Reynal & Hitchcock.
-582.  []{#c10752_444.xhtml#R582}Kesaris, P. 1977. _Manhattan Project:
-      Official History and Documents_. Washington, DC: University
+582.  []{#c10752*444.xhtml#R582}Kesaris, P. 1977. \_Manhattan Project:
+      Official History and Documents*. Washington, DC: University
       Publications of America.
 583.  []{#c10752_444.xhtml#R583}Khaira, G. 2009. Coal transportation
       logistics. Annual Community Coal Forum, Tumbler Ridge, BC.
-584.  []{#c10752_444.xhtml#R584}Khalturin, V. I., et al. 2005. A review
+584.  []{#c10752*444.xhtml#R584}Khalturin, V. I., et al. 2005. A review
       of nuclear testing by the Soviet Union at Novaya Zemlya,
-      1955--1990. _Science & Global Security_ 13 (1): 1--42.
-585.  []{#c10752_444.xhtml#R585}Khazanov, A. M. 1984. _Nomads and the
-      Outside World_. Cambridge: Cambridge University Press.
-586.  []{#c10752_444.xhtml#R586}Khazanov, A. M. 2001. _Nomads in the
-      Sedentary World_. London: Curzon.
-587.  []{#c10752_444.xhtml#R587}Kilby, Jack S. 1964. _Miniaturized
-      Electronic Circuits_. U.S. Patent 3,138,743, June 23, 1964.
+      1955--1990. \_Science & Global Security* 13 (1): 1--42.
+585.  []{#c10752*444.xhtml#R585}Khazanov, A. M. 1984. \_Nomads and the
+      Outside World*. Cambridge: Cambridge University Press.
+586.  []{#c10752*444.xhtml#R586}Khazanov, A. M. 2001. \_Nomads in the
+      Sedentary World*. London: Curzon.
+587.  []{#c10752*444.xhtml#R587}Kilby, Jack S. 1964. \_Miniaturized
+      Electronic Circuits*. U.S. Patent 3,138,743, June 23, 1964.
       Washington, DC: USPTO.
-588.  []{#c10752_444.xhtml#R588}King, C. D. 1948. _Seventy-five Years of
-      Progress in Iron and Steel_. New York: American Institute of Mining
+588.  []{#c10752*444.xhtml#R588}King, C. D. 1948. \_Seventy-five Years of
+      Progress in Iron and Steel*. New York: American Institute of Mining
       and Metallurgical Engineers.
-589.  []{#c10752_444.xhtml#R589}King, F. H. 1927. _Farmers of Forty
-      Centuries_. New York: Harcourt, Brace & Co.
-590.  []{#c10752_444.xhtml#R590}King, P. 2011. The choice of fuel in the
+589.  []{#c10752*444.xhtml#R589}King, F. H. 1927. \_Farmers of Forty
+      Centuries*. New York: Harcourt, Brace & Co.
+590.  []{#c10752*444.xhtml#R590}King, P. 2011. The choice of fuel in the
       eighteenth century iron industry: The Coalbrookdale accounts
-      reconsidered. _Economic History Review_ 64:132--156.
-591.  []{#c10752_444.xhtml#R591}King, R. 2000. _Brunelleschi's Dome: How
-      a Renaissance Genius Reinvented Architecture_. London: Chatto &
+      reconsidered. \_Economic History Review* 64:132--156.
+591.  []{#c10752*444.xhtml#R591}King, R. 2000. \_Brunelleschi's Dome: How
+      a Renaissance Genius Reinvented Architecture*. London: Chatto &
       Windus.
-592.  []{#c10752_444.xhtml#R592}King, P. 2005. The production and
+592.  []{#c10752*444.xhtml#R592}King, P. 2005. The production and
       consumption of bar iron in early modern England and Wales.
-      _Economic History Review_ 58:1--33.
-593.  []{#c10752_444.xhtml#R593}Kingdon, J. 2003. _Lowly Origin: Where,
-      When, and Why Our Ancestors First Stood Up_. Princeton, NJ:
+      \_Economic History Review* 58:1--33.
+593.  []{#c10752*444.xhtml#R593}Kingdon, J. 2003. \_Lowly Origin: Where,
+      When, and Why Our Ancestors First Stood Up*. Princeton, NJ:
       Princeton University Press.
-594.  []{#c10752_444.xhtml#R594}Klein, H. A. 1978. Pieter Bruegel the
-      Elder as a guide to 16th-century technology. _Scientific American_
+594.  []{#c10752*444.xhtml#R594}Klein, H. A. 1978. Pieter Bruegel the
+      Elder as a guide to 16th-century technology. \_Scientific American*
       238 (3): 134--140.
-595.  []{#c10752_444.xhtml#R595}Klima, B. 1954. Paleolithic huts at Dolni
-      Vestonice, Czechoslovakia. _Antiquity_ 28:4--14.
-596.  []{#c10752_444.xhtml#R596}Kloss, E. 1963. _Der Luftkrieg über
-      Deutschland, 1939--1945_. Munich: DTV.
-597.  []{#c10752_444.xhtml#R597}Komlos, J. 1988. Agricultural
-      productivity in America and Eastern Europe: A comment. _Journal of
-      Economic History_ 48:664--665.
-598.  []{#c10752_444.xhtml#R598}Konrad, T. 2010. MV Mont, Knock Nevis,
-      Jahre Viking---World's largest supertanker. _gCaptain_ July
+595.  []{#c10752*444.xhtml#R595}Klima, B. 1954. Paleolithic huts at Dolni
+      Vestonice, Czechoslovakia. \_Antiquity* 28:4--14.
+596.  []{#c10752*444.xhtml#R596}Kloss, E. 1963. \_Der Luftkrieg über
+      Deutschland, 1939--1945*. Munich: DTV.
+597.  []{#c10752*444.xhtml#R597}Komlos, J. 1988. Agricultural
+      productivity in America and Eastern Europe: A comment. \_Journal of
+      Economic History* 48:664--665.
+598.  []{#c10752*444.xhtml#R598}Konrad, T. 2010. MV Mont, Knock Nevis,
+      Jahre Viking---World's largest supertanker. \_gCaptain* July
       18,2020.
       <http://gcaptain.com/mont-knock-nevis-jahre-viking-worlds-largest-tanker-ship/#.Vc3zB4dRGM8>.
-599.  []{#c10752_444.xhtml#R599}Kongshaug, G. 1998. _Energy Consumption
-      and Greenhouse Gas Emissions in Fertilizer Production_. Paris:
+599.  []{#c10752*444.xhtml#R599}Kongshaug, G. 1998. \_Energy Consumption
+      and Greenhouse Gas Emissions in Fertilizer Production*. Paris:
       International Fertilizer Association.
-600.  []{#c10752_444.xhtml#R600}Kopparapu, R. K., et al. 2014. Habitable
+600.  []{#c10752*444.xhtml#R600}Kopparapu, R. K., et al. 2014. Habitable
       zones around main sequence stars: Dependence on planetary mass.
-      _Astrophysical Journal. Letters_ 787:L29.
-601.  []{#c10752_444.xhtml#R601}Kranzberg, M., and C. W. Pursell,
-      eds. 1967. _Technology in Western Civilization_, vol. 1. New York:
+      \_Astrophysical Journal. Letters* 787:L29.
+601.  []{#c10752*444.xhtml#R601}Kranzberg, M., and C. W. Pursell,
+      eds. 1967. \_Technology in Western Civilization*, vol. 1. New York:
       Oxford University Press.
-602.  []{#c10752_444.xhtml#R602}Krausmann, F., and H. Haberl. 2002. The
+602.  []{#c10752*444.xhtml#R602}Krausmann, F., and H. Haberl. 2002. The
       process of Industrialization from an energetic metabolism point of
       view: Socio-economic energy flows in Austria 1830--1995.
-      _Ecological Economics_ 41:177--201.
-603.  []{#c10752_444.xhtml#R603}Kumar, S. N. 2004. Tanker transportation.
-      In _Encyclopedia of Energy_, vol. 6, ed. C. Cleveland et al.,
+      \_Ecological Economics* 41:177--201.
+603.  []{#c10752*444.xhtml#R603}Kumar, S. N. 2004. Tanker transportation.
+      In \_Encyclopedia of Energy*, vol. 6, ed. C. Cleveland et al.,
       1--12. Amsterdam: Elsevier.
 604.  []{#c10752_444.xhtml#R604}Kushnirs, I. 2015. Gross Domestic Product
       (GDP) in USSR.
       <http://kushnirs.org/macroeconomics/gdp/gdp_ussr.html#leader1>.
-605.  []{#c10752_444.xhtml#R605}Kuthan, J. and J. Royt. 2011. _Katedrála
-      sv. Víta, Václava a Vojtěcha: Svatyně českých patronů a králů._
+605.  []{#c10752*444.xhtml#R605}Kuthan, J. and J. Royt. 2011. \_Katedrála
+      sv. Víta, Václava a Vojtěcha: Svatyně českých patronů a králů.*
       Praha: Nakladatelství Lidové noviny.
-606.  []{#c10752_444.xhtml#R606}Kuthan, M., et al. 2003. Domestication of
-      wild _Saccharomyces cerevisiae_ is accompanied by changes in gene
+606.  []{#c10752*444.xhtml#R606}Kuthan, M., et al. 2003. Domestication of
+      wild \_Saccharomyces cerevisiae* is accompanied by changes in gene
       expression and colony morphology. _Molecular Microbiology_
       47:745--754.
-607.  []{#c10752_444.xhtml#R607}Kuznets, S. S. 1971. _Economic Growth of
-      Nations: Total Output and Production Structure_. Cambridge, MA:
+607.  []{#c10752*444.xhtml#R607}Kuznets, S. S. 1971. \_Economic Growth of
+      Nations: Total Output and Production Structure*. Cambridge, MA:
       Belknap Press of Harvard University Press.
-608.  []{#c10752_444.xhtml#R608}Lacey, J. M. 1935. _A Comprehensive
-      Treatise on Practical Mechanics_. London: Technical Press.
-609.  []{#c10752_444.xhtml#R609}Laloux, R., et al. 1980. Nutrition and
-      fertilization of wheat. In _Wheat_, 19--24. Basel: CIBA-Geigy.
-610.  []{#c10752_444.xhtml#R610}Lancaster, L. C. 2005. _Concrete Vaulted
-      Construction in Imperial Rome: Innovations in Context_. Cambridge:
+608.  []{#c10752*444.xhtml#R608}Lacey, J. M. 1935. \_A Comprehensive
+      Treatise on Practical Mechanics*. London: Technical Press.
+609.  []{#c10752*444.xhtml#R609}Laloux, R., et al. 1980. Nutrition and
+      fertilization of wheat. In \_Wheat*, 19--24. Basel: CIBA-Geigy.
+610.  []{#c10752*444.xhtml#R610}Lancaster, L. C. 2005. \_Concrete Vaulted
+      Construction in Imperial Rome: Innovations in Context*. Cambridge:
       Cambridge University Press.
-611.  []{#c10752_444.xhtml#R611}Landels, J. G. 1980. _Engineering in the
-      Ancient World_. London: Chatto & Windus.
-612.  []{#c10752_444.xhtml#R612}Landes, David. 1969. _The Unbound
+611.  []{#c10752*444.xhtml#R611}Landels, J. G. 1980. \_Engineering in the
+      Ancient World*. London: Chatto & Windus.
+612.  []{#c10752*444.xhtml#R612}Landes, David. 1969. \_The Unbound
       Prometheus: Technological Change and Industrial Development in
-      Western Europe from 1750 to the Present_. Cambridge: Cambridge
+      Western Europe from 1750 to the Present*. Cambridge: Cambridge
       University Press.
-613.  []{#c10752_444.xhtml#R613}Langdon, J. 1986. _Horses, Oxen, and
-      Technological Innovation_. Cambridge: Cambridge University Press.
+613.  []{#c10752*444.xhtml#R613}Langdon, J. 1986. \_Horses, Oxen, and
+      Technological Innovation*. Cambridge: Cambridge University Press.
 614.  []{#c10752_444.xhtml#R614}Lannoo, B. 2013. Energy consumption of
       ICT networks. Brussels: TREND Final Workshop.
       <http://www.fp7-trend.eu/.../energyconsumptionincentives-energy-efficient-net>.
-615.  []{#c10752_444.xhtml#R615}Lardy, N. 1983. _Agriculture in China's
-      Modern Economic Development_. Cambridge: Cambridge University
+615.  []{#c10752*444.xhtml#R615}Lardy, N. 1983. \_Agriculture in China's
+      Modern Economic Development*. Cambridge: Cambridge University
       Press.
-616.  []{#c10752_444.xhtml#R616}Latimer, B. 2005. The perils of being
-      bipedal. _Annals of Biomedical Engineering_ 33:3--6.
-617.  []{#c10752_444.xhtml#R617}Lawler, A. 2016. Megaproject asks: What
-      drove the Vikings? _Science_ 352:280--281.
-618.  []{#c10752_444.xhtml#R618}Layard, A. H. 1853. _Discoveries among
-      the Ruins of Nineveh and Babylon_. New York: G.P. Putnam & Company.
-619.  []{#c10752_444.xhtml#R619}Layard, R. 2005. _Happiness: Lessons from
-      a New Science_. New York: Penguin Press.
-620.  []{#c10752_444.xhtml#R620}Layton, E. T. 1979. Scientific
+616.  []{#c10752*444.xhtml#R616}Latimer, B. 2005. The perils of being
+      bipedal. \_Annals of Biomedical Engineering* 33:3--6.
+617.  []{#c10752*444.xhtml#R617}Lawler, A. 2016. Megaproject asks: What
+      drove the Vikings? \_Science* 352:280--281.
+618.  []{#c10752*444.xhtml#R618}Layard, A. H. 1853. \_Discoveries among
+      the Ruins of Nineveh and Babylon*. New York: G.P. Putnam & Company.
+619.  []{#c10752*444.xhtml#R619}Layard, R. 2005. \_Happiness: Lessons from
+      a New Science*. New York: Penguin Press.
+620.  []{#c10752*444.xhtml#R620}Layton, E. T. 1979. Scientific
       technology, 1845--1900: The hydraulic turbine and the origins of
-      American industrial research. _Technology and Culture_ 20:64--89.
-621.  []{#c10752_444.xhtml#R621}Leach, E. R. 1959. Hydraulic society in
-      Ceylon. _Past & Present_ 15:2--26.
-622.  []{#c10752_444.xhtml#R622}Lécuyer, C., and D. C. Brock. 2010.
-      _Makers of the Microchip_. Cambridge, MA: MIT Press.
-623.  []{#c10752_444.xhtml#R623}Lee, R. B., and R. Daly, eds. 1999. _The
-      Cambridge Encyclopaedia of Hunters and Gatherers_. Cambridge:
+      American industrial research. \_Technology and Culture* 20:64--89.
+621.  []{#c10752*444.xhtml#R621}Leach, E. R. 1959. Hydraulic society in
+      Ceylon. \_Past & Present* 15:2--26.
+622.  []{#c10752*444.xhtml#R622}Lécuyer, C., and D. C. Brock. 2010.
+      \_Makers of the Microchip*. Cambridge, MA: MIT Press.
+623.  []{#c10752*444.xhtml#R623}Lee, R. B., and R. Daly, eds. 1999. \_The
+      Cambridge Encyclopaedia of Hunters and Gatherers*. Cambridge:
       Cambridge University Press.
-624.  []{#c10752_444.xhtml#R624}Lee, R. B., and I. DeVore, eds. 1968.
-      _Man the Hunter_. New York: Aldine de Gruyter.
-625.  []{#c10752_444.xhtml#R625}Lefebvre des Noëttes, R. 1924. _La Force
-      Motrice animale à travers les Âges_. Paris: Berger-Levrault.
-626.  []{#c10752_444.xhtml#R626}Legge, A. J., and P. A.
-      Rowley-Conwy. 1987. Gazelle killing in Stone Age Syria. _Scientific
-      American_ 257 (2): 88--95.
-627.  []{#c10752_444.xhtml#R627}Lehner, M. 1997. _The Complete Pyramids_.
+624.  []{#c10752*444.xhtml#R624}Lee, R. B., and I. DeVore, eds. 1968.
+      \_Man the Hunter*. New York: Aldine de Gruyter.
+625.  []{#c10752*444.xhtml#R625}Lefebvre des Noëttes, R. 1924. \_La Force
+      Motrice animale à travers les Âges*. Paris: Berger-Levrault.
+626.  []{#c10752*444.xhtml#R626}Legge, A. J., and P. A.
+      Rowley-Conwy. 1987. Gazelle killing in Stone Age Syria. \_Scientific
+      American* 257 (2): 88--95.
+627.  []{#c10752*444.xhtml#R627}Lehner, M. 1997. \_The Complete Pyramids*.
       London: Thames and Hudson.
 628.  []{#c10752_444.xhtml#R628}Lenin, V. I. 1920. Speech delivered to
       the Moscow Gubernia Conference of the R.C.P. (B.), November
       21, 1920.
       <https://www.marxists.org/archive/lenin/works/1920/nov/21.htm>.
-629.  []{#c10752_444.xhtml#R629}Lenstra, J. A., and D. G. Bradley. 1999.
-      Systematics and phylogeny of cattle. In _The Genetics of Cattle_,
+629.  []{#c10752*444.xhtml#R629}Lenstra, J. A., and D. G. Bradley. 1999.
+      Systematics and phylogeny of cattle. In \_The Genetics of Cattle*,
       ed. R. Fries and A. Ruvinsky, 1--14. Wallingford: CABI.
-630.  []{#c10752_444.xhtml#R630}Leon, P. 1998. _The Discovery and
-      Conquest of Peru, Chronicles of the New World Encounter_, ed. and
+630.  []{#c10752*444.xhtml#R630}Leon, P. 1998. \_The Discovery and
+      Conquest of Peru, Chronicles of the New World Encounter*, ed. and
       trans. A. P. Cook and N. D. Cook. Durham, NC: Duke University
       Press.
-631.  []{#c10752_444.xhtml#R631}Leonard, W. R., J. J. Snodgrass,
+631.  []{#c10752*444.xhtml#R631}Leonard, W. R., J. J. Snodgrass,
       and M. L. Robertson. 2007. Effects of brain evolution on human
-      nutrition and metabolism. _Annual Review of Nutrition_ 27:311--327.
-632.  []{#c10752_444.xhtml#R632}Leonard, W. R., et al. 2003. Metabolic
-      correlates of hominid brain evolution. _Comparative Biochemistry
-      and Physiology Part A_ 136:5--15.
-633.  []{#c10752_444.xhtml#R633}Lepre, J. P. 1990. _The Egyptian
-      Pyramids_. Jefferson, NC: McFarland & Co.
-634.  []{#c10752_444.xhtml#R634}Lerche, G. 1994. _Ploughing Implements
+      nutrition and metabolism. \_Annual Review of Nutrition* 27:311--327.
+632.  []{#c10752*444.xhtml#R632}Leonard, W. R., et al. 2003. Metabolic
+      correlates of hominid brain evolution. \_Comparative Biochemistry
+      and Physiology Part A* 136:5--15.
+633.  []{#c10752*444.xhtml#R633}Lepre, J. P. 1990. \_The Egyptian
+      Pyramids*. Jefferson, NC: McFarland & Co.
+634.  []{#c10752*444.xhtml#R634}Lerche, G. 1994. \_Ploughing Implements
       and Tillage Practices in Denmark from the Viking Period to about
-      1800: Experimentally Substantiated_. Herning: P. Kristensen.
-635.  []{#c10752_444.xhtml#R635}Leser, P. 1931. _Entstehung und
-      Verbreitung des Pfluges_. Münster: Aschendorff.
-636.  []{#c10752_444.xhtml#R636}Lesser, I. O. 1991. _Oil, the Persian
-      Gulf, and Grand Strategy_. Santa Monica, CA: Rand Corp.
-637.  []{#c10752_444.xhtml#R637}Leveau, P. 2006. _Les moulins de Barbegal
-      (1986--2006)_ _._ <http://traianus.rediris.es>.
-638.  []{#c10752_444.xhtml#R638}Levine, A. J. 1992. _The Strategic
-      Bombing of Germany, 1940--1945_. London: Greenwood.
-639.  []{#c10752_444.xhtml#R639}Levinson, M. 2006. _The Box: How the
+      1800: Experimentally Substantiated*. Herning: P. Kristensen.
+635.  []{#c10752*444.xhtml#R635}Leser, P. 1931. \_Entstehung und
+      Verbreitung des Pfluges*. Münster: Aschendorff.
+636.  []{#c10752*444.xhtml#R636}Lesser, I. O. 1991. \_Oil, the Persian
+      Gulf, and Grand Strategy*. Santa Monica, CA: Rand Corp.
+637.  []{#c10752*444.xhtml#R637}Leveau, P. 2006. \_Les moulins de Barbegal
+      (1986--2006)* _._ <http://traianus.rediris.es>.
+638.  []{#c10752*444.xhtml#R638}Levine, A. J. 1992. \_The Strategic
+      Bombing of Germany, 1940--1945*. London: Greenwood.
+639.  []{#c10752*444.xhtml#R639}Levinson, M. 2006. \_The Box: How the
       Shipping Container Made the World Smaller and the World Economy
-      Bigger_. Princeton, NJ: Princeton University Press.
-640.  []{#c10752_444.xhtml#R640}Levinson, M. 2012. _U.S. Manufacturing in
-      International Perspective_. Washington, DC: Congressional Research
+      Bigger*. Princeton, NJ: Princeton University Press.
+640.  []{#c10752*444.xhtml#R640}Levinson, M. 2012. \_U.S. Manufacturing in
+      International Perspective*. Washington, DC: Congressional Research
       Service; <http://www.fas.org/sgp/crs/misc/R42135.pdf>.
-641.  []{#c10752_444.xhtml#R641}Lewin, R. 2004. _Human Evolution: An
-      Illustrated Introduction_. Oxford: Wiley.
-642.  []{#c10752_444.xhtml#R642}Lewis, M. J. T. 1993. The Greeks and the
-      early windmill. _History and Technology_ 15:141--189.
-643.  []{#c10752_444.xhtml#R643}Lewis, M. J. T. 1994. The origins of the
-      wheelbarrow. _Technology and Culture_ 35:453--475.
-644.  []{#c10752_444.xhtml#R644}Lewis, M. J. T. 1997. _Millstone and
-      Hammer: The Origins of Water-Power_. Hull: University of Hull
+641.  []{#c10752*444.xhtml#R641}Lewin, R. 2004. \_Human Evolution: An
+      Illustrated Introduction*. Oxford: Wiley.
+642.  []{#c10752*444.xhtml#R642}Lewis, M. J. T. 1993. The Greeks and the
+      early windmill. \_History and Technology* 15:141--189.
+643.  []{#c10752*444.xhtml#R643}Lewis, M. J. T. 1994. The origins of the
+      wheelbarrow. \_Technology and Culture* 35:453--475.
+644.  []{#c10752*444.xhtml#R644}Lewis, M. J. T. 1997. \_Millstone and
+      Hammer: The Origins of Water-Power*. Hull: University of Hull
       Press.
-645.  []{#c10752_444.xhtml#R645}Li, L. 2007. _Fighting Famine in North
-      China: State, Market, and Environmental Decline, 1690s-1990s_.
+645.  []{#c10752*444.xhtml#R645}Li, L. 2007. \_Fighting Famine in North
+      China: State, Market, and Environmental Decline, 1690s-1990s*.
       Stanford, CA: Stanford University Press.
-646.  []{#c10752_444.xhtml#R646}Liebenberg, L. 2006. Persistence hunting
-      by modern hunter-gatherers. _Current Anthropology_ 47:1017--1025.
+646.  []{#c10752*444.xhtml#R646}Liebenberg, L. 2006. Persistence hunting
+      by modern hunter-gatherers. \_Current Anthropology* 47:1017--1025.
 647.  []{#c10752_444.xhtml#R647}Lighting Industry Association. 2009. Lamp
       history.
       <http://www.thelia.org.uk/lighting-guides/lamp-guide/lamp-history>.
-648.  []{#c10752_444.xhtml#R648}Lilienfeld, E. J. 1930. _Method and
-      apparatus for controlling electric currents_. US Patent 1,745,175,
+648.  []{#c10752*444.xhtml#R648}Lilienfeld, E. J. 1930. \_Method and
+      apparatus for controlling electric currents*. US Patent 1,745,175,
       January 28, 1930. Washington, DC: USPTO.
-649.  []{#c10752_444.xhtml#R649}Lilienthal, D. E. 1944. _TVA: Democracy
-      on the March_. New York: Harper and Brothers.
-650.  []{#c10752_444.xhtml#R650}Lindgren, M. 1990. _Glory and Failure_.
+649.  []{#c10752*444.xhtml#R649}Lilienthal, D. E. 1944. \_TVA: Democracy
+      on the March*. New York: Harper and Brothers.
+650.  []{#c10752*444.xhtml#R650}Lindgren, M. 1990. \_Glory and Failure*.
       Cambridge, MA: MIT Press.
-651.  []{#c10752_444.xhtml#R651}Lindsay, R. B. 1975. _Energy: Historical
-      Development of the Concept_. Stroudsburg, PA: Dowden, Hutchinson &
+651.  []{#c10752*444.xhtml#R651}Lindsay, R. B. 1975. \_Energy: Historical
+      Development of the Concept*. Stroudsburg, PA: Dowden, Hutchinson &
       Ross.
-652.  []{#c10752_444.xhtml#R652}Ling, P. J. 1990. _America and the
-      Automobile: Technology, Reform and Social Change_. Manchester:
+652.  []{#c10752*444.xhtml#R652}Ling, P. J. 1990. \_America and the
+      Automobile: Technology, Reform and Social Change*. Manchester:
       Manchester University Press.
-653.  []{#c10752_444.xhtml#R653}Linsley, J. W., E. W. Rienstra, and J. A.
-      Stiles. 2002. _Giant under the Hill: History of the Spindletop Oil
-      Discovery at Beaumont, Texas, in 1901_. Austin: Texas State
+653.  []{#c10752*444.xhtml#R653}Linsley, J. W., E. W. Rienstra, and J. A.
+      Stiles. 2002. \_Giant under the Hill: History of the Spindletop Oil
+      Discovery at Beaumont, Texas, in 1901*. Austin: Texas State
       Historical Association.
-654.  []{#c10752_444.xhtml#R654}Livi-Bacci, M. 1991. _Population and
-      Nutrition_. Cambridge: Cambridge University Press.
-655.  []{#c10752_444.xhtml#R655}Livi-Bacci, M. 2000. _The Population of
-      Europe_. Oxford: Blackwell.
-656.  []{#c10752_444.xhtml#R656}Livi-Bacci, M. 2012. _A Concise History
-      of World Population_. Oxford: Wiley-Blackwell.
-657.  []{#c10752_444.xhtml#R657}Lizerand, G. 1942. _Le régime rural de
-      l'ancienne France_. Paris: Presses Universitaires.
-658.  []{#c10752_444.xhtml#R658}Lizot, J. 1977. Population, resources and
-      warfare among the Yanomami. _Man_ 12:497--517.
-659.  []{#c10752_444.xhtml#R659}Lockwood, A. H. 2012. _The Silent
-      Epidemic: Coal and the Hidden Threat to Health_. Cambridge, MA: MIT
+654.  []{#c10752*444.xhtml#R654}Livi-Bacci, M. 1991. \_Population and
+      Nutrition*. Cambridge: Cambridge University Press.
+655.  []{#c10752*444.xhtml#R655}Livi-Bacci, M. 2000. \_The Population of
+      Europe*. Oxford: Blackwell.
+656.  []{#c10752*444.xhtml#R656}Livi-Bacci, M. 2012. \_A Concise History
+      of World Population*. Oxford: Wiley-Blackwell.
+657.  []{#c10752*444.xhtml#R657}Lizerand, G. 1942. \_Le régime rural de
+      l'ancienne France*. Paris: Presses Universitaires.
+658.  []{#c10752*444.xhtml#R658}Lizot, J. 1977. Population, resources and
+      warfare among the Yanomami. \_Man* 12:497--517.
+659.  []{#c10752*444.xhtml#R659}Lockwood, A. H. 2012. \_The Silent
+      Epidemic: Coal and the Hidden Threat to Health*. Cambridge, MA: MIT
       Press.
-660.  []{#c10752_444.xhtml#R660}Looney, R. 2002. _Economic Costs to the
-      United States Stemming from the 9/11 Attacks_. Monterey, CA: Center
+660.  []{#c10752*444.xhtml#R660}Looney, R. 2002. \_Economic Costs to the
+      United States Stemming from the 9/11 Attacks*. Monterey, CA: Center
       for Contemporary Conflict.
-661.  []{#c10752_444.xhtml#R661}López, A. E. 2014. _La conquista de
-      América_. Barcelona: RBA Libros.
-662.  []{#c10752_444.xhtml#R662}Lotka, A. J. 1922. Contribution to the
-      energetics of evolution. _Proceedings of the National Academy of
-      Sciences of the United States of America_ 8:147--151.
-663.  []{#c10752_444.xhtml#R663}Lotka, A. 1925. _Elements of Physical
-      Biology_. Baltimore, MD: Williams and Wilkins.
-664.  []{#c10752_444.xhtml#R664}Lovejoy, C. O. 1988. Evolution of human
-      walking. _Scientific American_ 259 (5): 82--89.
-665.  []{#c10752_444.xhtml#R665}Lowrance, R., et al., eds. 1984.
-      _Agricultural Ecosystems_. New York: John Wiley.
-666.  []{#c10752_444.xhtml#R666}Lubar, S. 1992. "Do not fold, spindle or
-      mutilate": A cultural history of the punch card. _Journal of
-      American Culture_ 15 (4): 43--55.
-667.  []{#c10752_444.xhtml#R667}Lucas, A. R. 2005. Industrial milling in
+661.  []{#c10752*444.xhtml#R661}López, A. E. 2014. \_La conquista de
+      América*. Barcelona: RBA Libros.
+662.  []{#c10752*444.xhtml#R662}Lotka, A. J. 1922. Contribution to the
+      energetics of evolution. \_Proceedings of the National Academy of
+      Sciences of the United States of America* 8:147--151.
+663.  []{#c10752*444.xhtml#R663}Lotka, A. 1925. \_Elements of Physical
+      Biology*. Baltimore, MD: Williams and Wilkins.
+664.  []{#c10752*444.xhtml#R664}Lovejoy, C. O. 1988. Evolution of human
+      walking. \_Scientific American* 259 (5): 82--89.
+665.  []{#c10752*444.xhtml#R665}Lowrance, R., et al., eds. 1984.
+      \_Agricultural Ecosystems*. New York: John Wiley.
+666.  []{#c10752*444.xhtml#R666}Lubar, S. 1992. "Do not fold, spindle or
+      mutilate": A cultural history of the punch card. \_Journal of
+      American Culture* 15 (4): 43--55.
+667.  []{#c10752*444.xhtml#R667}Lucas, A. R. 2005. Industrial milling in
       the ancient and medieval Worlds. A survey of the evidence for an
-      industrial revolution in medieval Europe. _Technology and Culture_
+      industrial revolution in medieval Europe. \_Technology and Culture*
       4: 1--30.
-668.  []{#c10752_444.xhtml#R668}Lucassen, J., and R. W. Unger. 2011.
-      Shipping, productivity and economic growth. In _Shipping Efficiency
-      and Economic Growth 1350--1850_, ed. R. W. Unger, 3--44. Leiden:
+668.  []{#c10752*444.xhtml#R668}Lucassen, J., and R. W. Unger. 2011.
+      Shipping, productivity and economic growth. In \_Shipping Efficiency
+      and Economic Growth 1350--1850*, ed. R. W. Unger, 3--44. Leiden:
       Brill.
-669.  []{#c10752_444.xhtml#R669}Lucchini, F. 1996. _Pantheon_. Roma: Nova
+669.  []{#c10752*444.xhtml#R669}Lucchini, F. 1996. \_Pantheon*. Roma: Nova
       Italia Scientifica.
-670.  []{#c10752_444.xhtml#R670}Luknatskii, N.N. 1936. Podnyatie
-      Aleksandrovskoi kolonny v 1832. _Stroitel'naya Promyshlennost'_
+670.  []{#c10752*444.xhtml#R670}Luknatskii, N.N. 1936. Podnyatie
+      Aleksandrovskoi kolonny v 1832. \_Stroitel'naya Promyshlennost'*
       1936 (13) :31--34.
 671.  []{#c10752*444.xhtml#R671}Lüngen, H. B. 2013. Trends for reducing
       agents in blast furnace operation.
       <http://www.dkg.de/akk-vortraege/2013-*-2rd_polnisch_deutsches_symposium/abstract-luengen_reducing-agents.pdf>.
-672.  []{#c10752_444.xhtml#R672}MacDonald, W. L. 1976. _The Pantheon
-      Design, Meaning, and Progeny_. Cambridge, MA: Harvard University
+672.  []{#c10752*444.xhtml#R672}MacDonald, W. L. 1976. \_The Pantheon
+      Design, Meaning, and Progeny*. Cambridge, MA: Harvard University
       Press.
-673.  []{#c10752_444.xhtml#R673}Macedo, I. C., M. R. L. V. Leal,
-      and J. E. A. R. da Silva. 2004. _Assessment of Greenhouse Gas
-      Emissions in the Production and Use of Fuel Ethanol in Brazil_. São
+673.  []{#c10752*444.xhtml#R673}Macedo, I. C., M. R. L. V. Leal,
+      and J. E. A. R. da Silva. 2004. \_Assessment of Greenhouse Gas
+      Emissions in the Production and Use of Fuel Ethanol in Brazil*. São
       Paulo: Government of the State of São Paulo;
       <http://unica.com.br/i_pages/files/pdf_ingles.pdf>.
-674.  []{#c10752_444.xhtml#R674}Machiavello, C. M. 1991. _La construcción
-      del sistema agrario en la civilización andina_. Lima: Editorial
+674.  []{#c10752*444.xhtml#R674}Machiavello, C. M. 1991. \_La construcción
+      del sistema agrario en la civilización andina*. Lima: Editorial
       Econgraf.
-675.  []{#c10752_444.xhtml#R675}MacLaren, M. 1943. _The Rise of the
-      Electrical Industry During the Nineteenth Century_. Princeton, NJ:
+675.  []{#c10752*444.xhtml#R675}MacLaren, M. 1943. \_The Rise of the
+      Electrical Industry During the Nineteenth Century*. Princeton, NJ:
       Princeton University Press.
 676.  []{#c10752_444.xhtml#R676}Madden, J. 2015. How much software is in
       your car? From the 1977 Toronado to the Tesla P85D.
       <http://www.qsm.com/blog/2015/how-much-software-your-car-1977-toronado-tesla-p85d>.
 677.  []{#c10752_444.xhtml#R677}Maddison Project. 2013. Maddison Project.
       <http://www.ggdc.net/maddison/maddison-project/home.htm>.
-678.  []{#c10752_444.xhtml#R678}Madureira, N. L. 2012. The iron industry
-      energy transition. _Energy Policy_ 50:24--34.
-679.  []{#c10752_444.xhtml#R679}Magee, D. 2005. _The John Deere Way:
-      Performance That Endures_. New York: Wiley.
-680.  []{#c10752_444.xhtml#R680}Mak, S. 2010. _Rice Cultivation---The
-      Traditional Way_. Solo, Java: CRBOM (Center for River Basin
+678.  []{#c10752*444.xhtml#R678}Madureira, N. L. 2012. The iron industry
+      energy transition. \_Energy Policy* 50:24--34.
+679.  []{#c10752*444.xhtml#R679}Magee, D. 2005. \_The John Deere Way:
+      Performance That Endures*. New York: Wiley.
+680.  []{#c10752*444.xhtml#R680}Mak, S. 2010. \_Rice Cultivation---The
+      Traditional Way*. Solo, Java: CRBOM (Center for River Basin
       Organizations and Management).
-681.  []{#c10752_444.xhtml#R681}Malanima, P. 2006. Energy crisis and
+681.  []{#c10752*444.xhtml#R681}Malanima, P. 2006. Energy crisis and
       growth 1650--1850: The European deviation in a comparative
-      perspective. _Journal of Global History_ 1:101--121.
-682.  []{#c10752_444.xhtml#R682}Malanima, P. 2013a. Energy consumption in
-      the Roman world. In _The Ancient Mediterranean Environment between
-      Science and History_, ed. W. V. Harris, 13--36. Leiden: Brill.
-683.  []{#c10752_444.xhtml#R683}Malanima, P. 2013b. Pre-industrial
-      economies. In _Power to the People: Energy in Europe Over the Last
-      Five Centuries_, ed. A. Kander, P. Malanima, and P. Warde, 35--127.
+      perspective. \_Journal of Global History* 1:101--121.
+682.  []{#c10752*444.xhtml#R682}Malanima, P. 2013a. Energy consumption in
+      the Roman world. In \_The Ancient Mediterranean Environment between
+      Science and History*, ed. W. V. Harris, 13--36. Leiden: Brill.
+683.  []{#c10752*444.xhtml#R683}Malanima, P. 2013b. Pre-industrial
+      economies. In \_Power to the People: Energy in Europe Over the Last
+      Five Centuries*, ed. A. Kander, P. Malanima, and P. Warde, 35--127.
       Princeton, NJ: Princeton University Press.
-684.  []{#c10752_444.xhtml#R684}Malik. J. 1985. _The Yields of Hiroshima
-      and Nagasaki Explosions_. Los Alamos, NM: Los Alamos National
+684.  []{#c10752*444.xhtml#R684}Malik. J. 1985. \_The Yields of Hiroshima
+      and Nagasaki Explosions*. Los Alamos, NM: Los Alamos National
       Laboratory. <http://atomicarchive.com/Docs/pdfs/00313791.pdf>.
-685.  []{#c10752_444.xhtml#R685}Malone, P. M. 2009. _Waterpower in
-      Lowell: Engineering and Industry in Nineteenth-Century America_.
+685.  []{#c10752*444.xhtml#R685}Malone, P. M. 2009. \_Waterpower in
+      Lowell: Engineering and Industry in Nineteenth-Century America*.
       Baltimore, MD: Johns Hopkins University Press.
 686.  []{#c10752_444.xhtml#R686}Manx National Heritage. 2015. The Great
       Laxey Wheel.
       <http://www.manxnationalheritage.im/attractions/laxey-wheel>.
-687.  []{#c10752_444.xhtml#R687}Marchetti, C. 1986. Fifty-year pulsation
-      in human affairs. _Futures_ 18:376--388.
-688.  []{#c10752_444.xhtml#R688}Marder, T. A., and M. W. Jones. 2015.
-      _The Pantheon: From Antiquity to the Present_. Cambridge: Cambridge
+687.  []{#c10752*444.xhtml#R687}Marchetti, C. 1986. Fifty-year pulsation
+      in human affairs. \_Futures* 18:376--388.
+688.  []{#c10752*444.xhtml#R688}Marder, T. A., and M. W. Jones. 2015.
+      \_The Pantheon: From Antiquity to the Present*. Cambridge: Cambridge
       University Press.
-689.  []{#c10752_444.xhtml#R689}Mark, J. 1985. Changes in the British
-      brewing industry in the twentieth century. In _Diet and Health in
-      Modern Britain_, ed. D. J. Oddy and D. P. Miller, 81--101. London:
+689.  []{#c10752*444.xhtml#R689}Mark, J. 1985. Changes in the British
+      brewing industry in the twentieth century. In \_Diet and Health in
+      Modern Britain*, ed. D. J. Oddy and D. P. Miller, 81--101. London:
       Croom Helm.
-690.  []{#c10752_444.xhtml#R690}Marlowe, F. W. 2005. Hunter-gatherers and
-      human evolution. _Evolutionary Anthropology_ 14:54--67.
-691.  []{#c10752_444.xhtml#R691}Marshall, R. 1993. _Storm from the East:
-      From Genghis Khan to Khublai Khan_. Berkeley: University of
+690.  []{#c10752*444.xhtml#R690}Marlowe, F. W. 2005. Hunter-gatherers and
+      human evolution. \_Evolutionary Anthropology* 14:54--67.
+691.  []{#c10752*444.xhtml#R691}Marshall, R. 1993. \_Storm from the East:
+      From Genghis Khan to Khublai Khan*. Berkeley: University of
       California Press.
-692.  []{#c10752_444.xhtml#R692}Martin, C., and G. Parker. 1988. _The
-      Spanish Armada_. London: Hamish Hamilton.
-693.  []{#c10752_444.xhtml#R693}Martin, P. S. 1958. Pleistocene ecology
-      and biogeography of North America. _Zoogeography_ 151:375--420.
-694.  []{#c10752_444.xhtml#R694}Martin, P. S. 2005. _Twilight of the
-      Mammoths_. Berkeley: University of California Press.
-695.  []{#c10752_444.xhtml#R695}Martin, T. C. 1922. _Forty Years of
+692.  []{#c10752*444.xhtml#R692}Martin, C., and G. Parker. 1988. \_The
+      Spanish Armada*. London: Hamish Hamilton.
+693.  []{#c10752*444.xhtml#R693}Martin, P. S. 1958. Pleistocene ecology
+      and biogeography of North America. \_Zoogeography* 151:375--420.
+694.  []{#c10752*444.xhtml#R694}Martin, P. S. 2005. \_Twilight of the
+      Mammoths*. Berkeley: University of California Press.
+695.  []{#c10752*444.xhtml#R695}Martin, T. C. 1922. \_Forty Years of
       Edison Service, 1882--1922: Outlining the Growth and Development of
-      the Edison System in New York City_. New York: New York Edison
+      the Edison System in New York City*. New York: New York Edison
       Company.
-696.  []{#c10752_444.xhtml#R696}Mason, S. L. R. 2000. Fire and Mesolithic
+696.  []{#c10752*444.xhtml#R696}Mason, S. L. R. 2000. Fire and Mesolithic
       subsistence: Managing oaks for acorns in northwest Europe?
-      _Palaeogeography, Palaeoclimatology, Palaeoecology_ 164:139--150.
-697.  []{#c10752_444.xhtml#R697}Mauthner, F., and W. Weiss. 2014. _Solar
-      Heat Worldwide 2012_. Paris: IEA.
-698.  []{#c10752_444.xhtml#R698}Maxton, G. P., and J. Wormald. 2004.
-      _Time for a Model Change: Re-engineering the Global Automotive
-      Industry_. Cambridge: Cambridge University Press.
-699.  []{#c10752_444.xhtml#R699}Maxwell, J. C. 1865. A dynamical theory
-      of the electromagnetic field. _Philosophical Transactions of the
-      Royal Society of London_ 155:459--512.
-700.  []{#c10752_444.xhtml#R700}May, G. S. 1975. _A Most Unique Machine:
-      The Michigan Origins of the American Automobile Industry_. Grand
+      \_Palaeogeography, Palaeoclimatology, Palaeoecology* 164:139--150.
+697.  []{#c10752*444.xhtml#R697}Mauthner, F., and W. Weiss. 2014. \_Solar
+      Heat Worldwide 2012*. Paris: IEA.
+698.  []{#c10752*444.xhtml#R698}Maxton, G. P., and J. Wormald. 2004.
+      \_Time for a Model Change: Re-engineering the Global Automotive
+      Industry*. Cambridge: Cambridge University Press.
+699.  []{#c10752*444.xhtml#R699}Maxwell, J. C. 1865. A dynamical theory
+      of the electromagnetic field. \_Philosophical Transactions of the
+      Royal Society of London* 155:459--512.
+700.  []{#c10752*444.xhtml#R700}May, G. S. 1975. \_A Most Unique Machine:
+      The Michigan Origins of the American Automobile Industry*. Grand
       Rapids, MI: William B. Eerdmans Publishing.
-701.  []{#c10752_444.xhtml#R701}May, T. 2013. _The Mongol Conquests in
-      World History_. London: Reaktion Books.
-702.  []{#c10752_444.xhtml#R702}Mayhew, H., and J. Binny. 1862. _The
-      Criminal Prisons of London: And Scenes of Prison Life_. London:
+701.  []{#c10752*444.xhtml#R701}May, T. 2013. \_The Mongol Conquests in
+      World History*. London: Reaktion Books.
+702.  []{#c10752*444.xhtml#R702}Mayhew, H., and J. Binny. 1862. \_The
+      Criminal Prisons of London: And Scenes of Prison Life*. London:
       Griffin, Bohn, and Co.
-703.  []{#c10752_444.xhtml#R703}Mays, L. W., ed. 2010. _Ancient Water
-      Technologies_. Berlin: Springer.
-704.  []{#c10752_444.xhtml#R704}Mays, L. W., and Y. Gorokhovich. 2010.
-      Water technology in the ancient American Societies. In _Ancient
-      Water Technologies_, ed. L. W. Mays, 171--200. Berlin: Springer.
-705.  []{#c10752_444.xhtml#R705}Mazoyer, M., and L. Roudart. 2006. _A
+703.  []{#c10752*444.xhtml#R703}Mays, L. W., ed. 2010. \_Ancient Water
+      Technologies*. Berlin: Springer.
+704.  []{#c10752*444.xhtml#R704}Mays, L. W., and Y. Gorokhovich. 2010.
+      Water technology in the ancient American Societies. In \_Ancient
+      Water Technologies*, ed. L. W. Mays, 171--200. Berlin: Springer.
+705.  []{#c10752*444.xhtml#R705}Mazoyer, M., and L. Roudart. 2006. \_A
       History of World Agriculture: From the Neolithic Age to the Current
-      Crisis_. New York: Monthly Review Press.
-706.  []{#c10752_444.xhtml#R706}McCalley, B. 1994. _Model T Ford: The Car
-      That Changed the World_. Iola, WI: Krause Publications.
-707.  []{#c10752_444.xhtml#R707}McCartney, A. P., ed. 1995. _Hunting the
+      Crisis*. New York: Monthly Review Press.
+706.  []{#c10752*444.xhtml#R706}McCalley, B. 1994. \_Model T Ford: The Car
+      That Changed the World*. Iola, WI: Krause Publications.
+707.  []{#c10752*444.xhtml#R707}McCartney, A. P., ed. 1995. \_Hunting the
       Largest Animals: Native Whaling in the Western Arctic and
-      Subarctic_. Studies in Whaling 3. Edmonton, AB: Canadian
+      Subarctic*. Studies in Whaling 3. Edmonton, AB: Canadian
       Circumpolar Institute.
-708.  []{#c10752_444.xhtml#R708}McCloy, S. T. 1952. _French Inventions of
-      the Eighteenth Century_. Lexington: University of Kentucky Press.
-709.  []{#c10752_444.xhtml#R709}McCullough, D. 2015. _The Wright
-      Brothers_. New York: Simon & Schuster.
-710.  []{#c10752_444.xhtml#R710}McDougall, I., F. H. Brown, and J. G.
+708.  []{#c10752*444.xhtml#R708}McCloy, S. T. 1952. \_French Inventions of
+      the Eighteenth Century*. Lexington: University of Kentucky Press.
+709.  []{#c10752*444.xhtml#R709}McCullough, D. 2015. \_The Wright
+      Brothers*. New York: Simon & Schuster.
+710.  []{#c10752*444.xhtml#R710}McDougall, I., F. H. Brown, and J. G.
       Fleagle. 2005. Stratigraphic placement and age of modern humans
-      from Kibish, Ethiopia. _Nature_ 433:733--736.
-711.  []{#c10752_444.xhtml#R711}McGranahan, G., and F. Murray, eds. 2003.
-      _Air Pollution and Health in Rapidly Developing Countries_. London:
+      from Kibish, Ethiopia. \_Nature* 433:733--736.
+711.  []{#c10752*444.xhtml#R711}McGranahan, G., and F. Murray, eds. 2003.
+      \_Air Pollution and Health in Rapidly Developing Countries*. London:
       Routledge.
-712.  []{#c10752_444.xhtml#R712}McHenry, H. M., and K. Coffing. 2000.
-      _Australopithecus_ to _Homo_: Transformations in body and mind.
+712.  []{#c10752*444.xhtml#R712}McHenry, H. M., and K. Coffing. 2000.
+      \_Australopithecus* to _Homo_: Transformations in body and mind.
       _Annual Review of Anthropology_ 29:125--146.
-713.  []{#c10752_444.xhtml#R713}McKeown, T. 1976. _The Modern Rise of
-      Population_. London: Arnold.
-714.  []{#c10752_444.xhtml#R714}McNeill, J. R. 2001. _Something New Under
-      the Sun: An Environmental History of the Twentieth-Century_. New
+713.  []{#c10752*444.xhtml#R713}McKeown, T. 1976. \_The Modern Rise of
+      Population*. London: Arnold.
+714.  []{#c10752*444.xhtml#R714}McNeill, J. R. 2001. \_Something New Under
+      the Sun: An Environmental History of the Twentieth-Century*. New
       York: W. W. Norton.
-715.  []{#c10752_444.xhtml#R715}McNeill, W. H. 1980. _The Human
-      Condition_. Princeton, NJ: Princeton University Press.
-716.  []{#c10752_444.xhtml#R716}McNeill, W. H. 1989. _The Age of
-      Gunpowder Empires, 1450--1800_. Washington, DC: American Historical
+715.  []{#c10752*444.xhtml#R715}McNeill, W. H. 1980. \_The Human
+      Condition*. Princeton, NJ: Princeton University Press.
+716.  []{#c10752*444.xhtml#R716}McNeill, W. H. 1989. \_The Age of
+      Gunpowder Empires, 1450--1800*. Washington, DC: American Historical
       Association.
-717.  []{#c10752_444.xhtml#R717}McNeill, W. H. 2005. _Berkshire
-      Encyclopedia of World History 5 Volumes_. Great Barrington, MA:
+717.  []{#c10752*444.xhtml#R717}McNeill, W. H. 2005. \_Berkshire
+      Encyclopedia of World History 5 Volumes*. Great Barrington, MA:
       Berkshire Publishing.
-718.  []{#c10752_444.xhtml#R718}McShane, C., and J. A. Tarr. 2007. _The
-      Horse in the City_. Baltimore, MD: Johns Hopkins University Press.
-719.  []{#c10752_444.xhtml#R719}Medeiros, L. C., et al. 2001.
-      _Nutritional Content of Game Meat_. Laramie: University of Wyoming.
+718.  []{#c10752*444.xhtml#R718}McShane, C., and J. A. Tarr. 2007. \_The
+      Horse in the City*. Baltimore, MD: Johns Hopkins University Press.
+719.  []{#c10752*444.xhtml#R719}Medeiros, L. C., et al. 2001.
+      \_Nutritional Content of Game Meat*. Laramie: University of Wyoming.
       <http://www.wyomingextension.org/agpubs/pubs/B920R.pdf>.
-720.  []{#c10752_444.xhtml#R720}Meldrum, R. A., and C. E. Hilton,
-      eds. 2004. _From Biped to Strider: The Emergence of Modern Human
-      Walking, Running, and Resource Transport_. Berlin: Springer.
-721.  []{#c10752_444.xhtml#R721}Mellars, P. A. 1985. The ecological basis
+720.  []{#c10752*444.xhtml#R720}Meldrum, R. A., and C. E. Hilton,
+      eds. 2004. \_From Biped to Strider: The Emergence of Modern Human
+      Walking, Running, and Resource Transport*. Berlin: Springer.
+721.  []{#c10752*444.xhtml#R721}Mellars, P. A. 1985. The ecological basis
       of social complexity in the Upper Paleolithic of Southwestern
-      France. In _Prehistoric Hunter-Gatherers_, ed. T. D. Price
+      France. In \_Prehistoric Hunter-Gatherers*, ed. T. D. Price
       and J. A. Brown, 271--297. Orlando, FL: Academic Press.
-722.  []{#c10752_444.xhtml#R722}Mellars, P. 2006. Why did modern human
+722.  []{#c10752*444.xhtml#R722}Mellars, P. 2006. Why did modern human
       populations disperse from Africa ca. 60000 years ago? A new model.
-      _Proceedings of the National Academy of Sciences of the United
-      States of America_ 103:9381--9386.
-723.  []{#c10752_444.xhtml#R723}Melosi, M. V. 1982. Energy transition in
-      the nineteenth-century economy. In _Energy and Transport_,
+      \_Proceedings of the National Academy of Sciences of the United
+      States of America* 103:9381--9386.
+723.  []{#c10752*444.xhtml#R723}Melosi, M. V. 1982. Energy transition in
+      the nineteenth-century economy. In \_Energy and Transport*,
       ed. G. H. Daniels and M. H. Rose, 55--67. Beverly Hills, CA: Sage
       Publications.
-724.  []{#c10752_444.xhtml#R724}Melville, H. 1851. _Moby-Dick or the
-      Whale_. New York: Harper & Brothers.
-725.  []{#c10752_444.xhtml#R725}Mendels, F. F. 1972.
+724.  []{#c10752*444.xhtml#R724}Melville, H. 1851. \_Moby-Dick or the
+      Whale*. New York: Harper & Brothers.
+725.  []{#c10752*444.xhtml#R725}Mendels, F. F. 1972.
       Proto-industrialization: The first phase of the industrialization
-      process. _Journal of Economic History_ 32:241--261.
-726.  []{#c10752_444.xhtml#R726}Mendelssohn, K. 1974. _The Riddle of the
-      Pyramids_. London: Thames and Hudson.
-727.  []{#c10752_444.xhtml#R727}Mensch, Gerhard. 1979. _Stalemate in
-      Technology_. Cambridge, MA: Ballinger.
-728.  []{#c10752_444.xhtml#R728}Mercer, D. 2006. _The Telephone: The Life
-      Story of a Technology_. New York: Greenwood Publishing Group.
-729.  []{#c10752_444.xhtml#R729}Merrill, A. L., and B. K. Watt. 1973.
-      _Energy Value of Foods: Basis and Derivation_. Washington, DC:
+      process. \_Journal of Economic History* 32:241--261.
+726.  []{#c10752*444.xhtml#R726}Mendelssohn, K. 1974. \_The Riddle of the
+      Pyramids*. London: Thames and Hudson.
+727.  []{#c10752*444.xhtml#R727}Mensch, Gerhard. 1979. \_Stalemate in
+      Technology*. Cambridge, MA: Ballinger.
+728.  []{#c10752*444.xhtml#R728}Mercer, D. 2006. \_The Telephone: The Life
+      Story of a Technology*. New York: Greenwood Publishing Group.
+729.  []{#c10752*444.xhtml#R729}Merrill, A. L., and B. K. Watt. 1973.
+      \_Energy Value of Foods: Basis and Derivation*. Washington, DC:
       United States Department of Agriculture.
-730.  []{#c10752_444.xhtml#R730}Meyer, J. H. 1975. _Kraft aus Wasser: Vom
-      Wasserrad zur Pumpturbine_. Innertkirchen: Kraftwerke Oberhasli.
-731.  []{#c10752_444.xhtml#R731}Mill, J. S. 1913. _The Panama Canal. A
-      History and Description of the Enterprise_. New York: Sully &
+730.  []{#c10752*444.xhtml#R730}Meyer, J. H. 1975. \_Kraft aus Wasser: Vom
+      Wasserrad zur Pumpturbine*. Innertkirchen: Kraftwerke Oberhasli.
+731.  []{#c10752*444.xhtml#R731}Mill, J. S. 1913. \_The Panama Canal. A
+      History and Description of the Enterprise*. New York: Sully &
       Kleinteich.
-732.  []{#c10752_444.xhtml#R732}Minchinton, W. 1980. Wind power. _History
-      Today_ 30 (3): 31--36.
-733.  []{#c10752_444.xhtml#R733}Minchinton, W., and P. Meigs. 1980. Power
-      from the sea. _History Today_ 30 (3): 42--46.
-734.  []{#c10752_444.xhtml#R734}Minetti, A. E. 2003. Efficiency of equine
-      express postal systems. _Nature_ 426:785--786.
-735.  []{#c10752_444.xhtml#R735}Minetti, A. E., et al. 2002. Energy cost
+732.  []{#c10752*444.xhtml#R732}Minchinton, W. 1980. Wind power. \_History
+      Today* 30 (3): 31--36.
+733.  []{#c10752*444.xhtml#R733}Minchinton, W., and P. Meigs. 1980. Power
+      from the sea. \_History Today* 30 (3): 42--46.
+734.  []{#c10752*444.xhtml#R734}Minetti, A. E. 2003. Efficiency of equine
+      express postal systems. \_Nature* 426:785--786.
+735.  []{#c10752*444.xhtml#R735}Minetti, A. E., et al. 2002. Energy cost
       of walking and running at extreme uphill and downhill slopes.
-      _Journal of Applied Physiology_ 93:1039--1046.
-736.  []{#c10752_444.xhtml#R736}Mir-Babaev, M. F. 2004. _Kratkaia
-      khronologiia istorii azerbaidzhanskogo neftiianogo dela_. Baku:
+      \_Journal of Applied Physiology* 93:1039--1046.
+736.  []{#c10752*444.xhtml#R736}Mir-Babaev, M. F. 2004. \_Kratkaia
+      khronologiia istorii azerbaidzhanskogo neftiianogo dela*. Baku:
       Sabakh.
-737.  []{#c10752_444.xhtml#R737}Mitchell, W. A. 1931. _Outlines of the
-      World's Military History_. Harrisburg, PA: Military Service
+737.  []{#c10752*444.xhtml#R737}Mitchell, W. A. 1931. \_Outlines of the
+      World's Military History*. Harrisburg, PA: Military Service
       Publishing.
 738.  []{#c10752_444.xhtml#R738}mobiForge. 2015. Global mobile
       statistics 2014.
       <https://mobiforge.com/research-analysis/global-mobile-statistics-2014-part-a-mobile-subscribers-handset-market-share-mobile-operators>.
-739.  []{#c10752_444.xhtml#R739}Mokyr, J. 1976. _Industrialization in the
-      Low Countries, 1795--1850_. New Haven, CT: Yale University Press.
-740.  []{#c10752_444.xhtml#R740}Mokyr, J. 2002. _The Gifts of Athena:
-      Historical Origins of the Knowledge Economy_. Princeton, NJ:
+739.  []{#c10752*444.xhtml#R739}Mokyr, J. 1976. \_Industrialization in the
+      Low Countries, 1795--1850*. New Haven, CT: Yale University Press.
+740.  []{#c10752*444.xhtml#R740}Mokyr, J. 2002. \_The Gifts of Athena:
+      Historical Origins of the Knowledge Economy*. Princeton, NJ:
       Princeton University Prss.
-741.  []{#c10752_444.xhtml#R741}Mokyr, J. 2009. _The Enlightened Economy:
-      An Economic History of Britain 1700--1850_. New Haven, CT: Yale
+741.  []{#c10752*444.xhtml#R741}Mokyr, J. 2009. \_The Enlightened Economy:
+      An Economic History of Britain 1700--1850*. New Haven, CT: Yale
       University Press.
-742.  []{#c10752_444.xhtml#R742}Molenaar, A. 1956. _Water Lifting Devices
-      for Irrigation_. Rome: FAO.
-743.  []{#c10752_444.xhtml#R743}Moore, G. 1965. Cramming more components
-      onto integrated circuits. _Electronics_ 38 (8): 114--117.
-744.  []{#c10752_444.xhtml#R744}Moore, G. E. 1975. Progress in digital
-      integrated electronics. _Technical Digest, IEEE International
-      Electron Devices Meeting_, 11--13.
-745.  []{#c10752_444.xhtml#R745}Morgan, R. 1984. _Farm Tools, Implements,
-      and Machines in Britain: Pre-history to 1945_. Reading: University
+742.  []{#c10752*444.xhtml#R742}Molenaar, A. 1956. \_Water Lifting Devices
+      for Irrigation*. Rome: FAO.
+743.  []{#c10752*444.xhtml#R743}Moore, G. 1965. Cramming more components
+      onto integrated circuits. \_Electronics* 38 (8): 114--117.
+744.  []{#c10752*444.xhtml#R744}Moore, G. E. 1975. Progress in digital
+      integrated electronics. \_Technical Digest, IEEE International
+      Electron Devices Meeting*, 11--13.
+745.  []{#c10752*444.xhtml#R745}Morgan, R. 1984. \_Farm Tools, Implements,
+      and Machines in Britain: Pre-history to 1945*. Reading: University
       of Reading and the British Agricultural History Society.
-746.  []{#c10752_444.xhtml#R746}Moritz, L. A. 1958. _Grain-Mills and
-      Flour in Classical Antiquity_. Oxford: Clarendon Press.
-747.  []{#c10752_444.xhtml#R747}Moritz, M. 1984. _The Little Kingdom: The
-      Private Story of Apple Computer_. New York: W. Morrow.
-748.  []{#c10752_444.xhtml#R748}Morrison, J. S., and J. F. Coates. 1986.
-      _The Athenian Trireme_. Cambridge: Cambridge University Press.
-749.  []{#c10752_444.xhtml#R749}Morrison, J. S., J. F. Coates, and B.
-      Rankov. 2000. _The Athenian Trireme: The History and Reconstruction
-      of an Ancient Greek Warship_. Cambridge: Cambridge University
+746.  []{#c10752*444.xhtml#R746}Moritz, L. A. 1958. \_Grain-Mills and
+      Flour in Classical Antiquity*. Oxford: Clarendon Press.
+747.  []{#c10752*444.xhtml#R747}Moritz, M. 1984. \_The Little Kingdom: The
+      Private Story of Apple Computer*. New York: W. Morrow.
+748.  []{#c10752*444.xhtml#R748}Morrison, J. S., and J. F. Coates. 1986.
+      \_The Athenian Trireme*. Cambridge: Cambridge University Press.
+749.  []{#c10752*444.xhtml#R749}Morrison, J. S., J. F. Coates, and B.
+      Rankov. 2000. \_The Athenian Trireme: The History and Reconstruction
+      of an Ancient Greek Warship*. Cambridge: Cambridge University
       Press.
-750.  []{#c10752_444.xhtml#R750}Morrison, J. S., and R. Gardiner,
-      eds. 1995. _The Age of the Galley: Mediterranean Oared Vessels
-      since Pre-Classical Times_. London: Conway Maritime.
-751.  []{#c10752_444.xhtml#R751}Morton, H. 1975. _The Wind Commands:
-      Sailors and Sailing Ships in the Pacific_. Vancouver: University of
+750.  []{#c10752*444.xhtml#R750}Morrison, J. S., and R. Gardiner,
+      eds. 1995. \_The Age of the Galley: Mediterranean Oared Vessels
+      since Pre-Classical Times*. London: Conway Maritime.
+751.  []{#c10752*444.xhtml#R751}Morton, H. 1975. \_The Wind Commands:
+      Sailors and Sailing Ships in the Pacific*. Vancouver: University of
       British Columbia Press.
-752.  []{#c10752_444.xhtml#R752}Mozley, J. H. 1928. _Statius. Silvae:
-      Thebaid I--IV_. London: William Heinemann.
-753.  []{#c10752_444.xhtml#R753}Mukerji, C. 1981. _From Graven Images:
-      Patterns of Modern Materialism_. New York: Columbia University
+752.  []{#c10752*444.xhtml#R752}Mozley, J. H. 1928. \_Statius. Silvae:
+      Thebaid I--IV*. London: William Heinemann.
+753.  []{#c10752*444.xhtml#R753}Mukerji, C. 1981. \_From Graven Images:
+      Patterns of Modern Materialism*. New York: Columbia University
       Press.
-754.  []{#c10752_444.xhtml#R754}Muldrew, C. 2011. _Food, Energy and the
+754.  []{#c10752*444.xhtml#R754}Muldrew, C. 2011. \_Food, Energy and the
       Creation of Industriousness: Work and Material Culture in Agrarian
-      England, 1550--1780_. Cambridge: Cambridge University Press.
-755.  []{#c10752_444.xhtml#R755}Muller, G., and K. Kauppert. 2004.
-      Performance characteristics of water wheels. _Journal of Hydraulic
-      Research_ 42:451--460.
-756.  []{#c10752_444.xhtml#R756}Müller, I. 2007. _A History of
-      Thermodynamics: The Doctrine of Energy and Entropy_. Berlin:
+      England, 1550--1780*. Cambridge: Cambridge University Press.
+755.  []{#c10752*444.xhtml#R755}Muller, G., and K. Kauppert. 2004.
+      Performance characteristics of water wheels. \_Journal of Hydraulic
+      Research* 42:451--460.
+756.  []{#c10752*444.xhtml#R756}Müller, I. 2007. \_A History of
+      Thermodynamics: The Doctrine of Energy and Entropy*. Berlin:
       Springer.
-757.  []{#c10752_444.xhtml#R757}Müller, W. 1939. _Die Wasserräder_.
+757.  []{#c10752*444.xhtml#R757}Müller, W. 1939. \_Die Wasserräder*.
       Detmold: Moritz Schäfer.
-758.  []{#c10752_444.xhtml#R758}Mumford, L. 1934. _Technics and
-      Civilization_. New York: Harcourt, Brace & Company.
-759.  []{#c10752_444.xhtml#R759}Mumford, L. 1961. _The City in History:
-      Its Origins, Its Transformations, and Its Prospects_. New York:
+758.  []{#c10752*444.xhtml#R758}Mumford, L. 1934. \_Technics and
+      Civilization*. New York: Harcourt, Brace & Company.
+759.  []{#c10752*444.xhtml#R759}Mumford, L. 1961. \_The City in History:
+      Its Origins, Its Transformations, and Its Prospects*. New York:
       Harcourt, Brace & World.
-760.  []{#c10752_444.xhtml#R760}Mumford, L. 1967. _Technics and Human
-      Development_. New York: Harcourt, Brace & World.
-761.  []{#c10752_444.xhtml#R761}Mundlak, Y. 2005. Economic growth:
-      Lessons from two centuries of American agriculture. _Journal of
-      Economic Literature_ 43:989--1024.
-762.  []{#c10752_444.xhtml#R762}Murdock, G. P. 1967. Ethnographic atlas.
-      _Ethnology_ 6:109--236.
-763.  []{#c10752_444.xhtml#R763}Murphy, D. J. 2007. _People, Plants, and
-      Genes: The Story of Crops and Humanity_. Oxford: Oxford University
+760.  []{#c10752*444.xhtml#R760}Mumford, L. 1967. \_Technics and Human
+      Development*. New York: Harcourt, Brace & World.
+761.  []{#c10752*444.xhtml#R761}Mundlak, Y. 2005. Economic growth:
+      Lessons from two centuries of American agriculture. \_Journal of
+      Economic Literature* 43:989--1024.
+762.  []{#c10752*444.xhtml#R762}Murdock, G. P. 1967. Ethnographic atlas.
+      \_Ethnology* 6:109--236.
+763.  []{#c10752*444.xhtml#R763}Murphy, D. J. 2007. \_People, Plants, and
+      Genes: The Story of Crops and Humanity*. Oxford: Oxford University
       Press.
-764.  []{#c10752_444.xhtml#R764}Murphy, D. J., and C. A. S. Hall. 2010.
-      EROI or energy return on (energy) invested. _Annals of the New York
-      Academy of Sciences_ 1185:102--118.
-765.  []{#c10752_444.xhtml#R765}Murra, J. V. 1980. _The Economic
-      Organization of the Inka State_. Greenwood, CT: JAO Press.
-766.  []{#c10752_444.xhtml#R766}Mushet, D. 1804. Experiments on wootz or
-      Indian steel. _Philosophical Transactions of the Royal Society of
-      London. Series A, Mathematical and Physical Sciences_ 95:175.
-767.  []{#c10752_444.xhtml#R767}Mushrush, G. W., et al. 2000. Use of
-      surplus napalm as an energy source. _Energy Sources_ 22:147--155.
-768.  []{#c10752_444.xhtml#R768}Mussatti, D. C. 1998. _Coke Ovens:
-      Industry Profile_. Research Triangle Park, NC: U.S. Environmental
+764.  []{#c10752*444.xhtml#R764}Murphy, D. J., and C. A. S. Hall. 2010.
+      EROI or energy return on (energy) invested. \_Annals of the New York
+      Academy of Sciences* 1185:102--118.
+765.  []{#c10752*444.xhtml#R765}Murra, J. V. 1980. \_The Economic
+      Organization of the Inka State*. Greenwood, CT: JAO Press.
+766.  []{#c10752*444.xhtml#R766}Mushet, D. 1804. Experiments on wootz or
+      Indian steel. \_Philosophical Transactions of the Royal Society of
+      London. Series A, Mathematical and Physical Sciences* 95:175.
+767.  []{#c10752*444.xhtml#R767}Mushrush, G. W., et al. 2000. Use of
+      surplus napalm as an energy source. \_Energy Sources* 22:147--155.
+768.  []{#c10752*444.xhtml#R768}Mussatti, D. C. 1998. \_Coke Ovens:
+      Industry Profile*. Research Triangle Park, NC: U.S. Environmental
       Protection Agency.
-769.  []{#c10752_444.xhtml#R769}Musson, A. E. 1978. _The Growth of
-      British Industry_. New York: Holmes & Meier.
-770.  []{#c10752_444.xhtml#R770}Nagata, T. 2014. _Japan's Policy on
-      Energy Conservation_. Tokyo: Ministry of Economy, Trade and
+769.  []{#c10752*444.xhtml#R769}Musson, A. E. 1978. \_The Growth of
+      British Industry*. New York: Holmes & Meier.
+770.  []{#c10752*444.xhtml#R770}Nagata, T. 2014. \_Japan's Policy on
+      Energy Conservation*. Tokyo: Ministry of Economy, Trade and
       Industry.
       <http://www.meti.go.jp/english/policy/energy_environment/>.
-771.  []{#c10752_444.xhtml#R771}Napier, J. R. 1970. _The Roots of
-      Mankind_. Washington, DC: Smithsonian Institution Press.
-772.  []{#c10752_444.xhtml#R772}National Coal Mining Museum. 2015.
-      _National Coal Mining Museum for England_.
+771.  []{#c10752*444.xhtml#R771}Napier, J. R. 1970. \_The Roots of
+      Mankind*. Washington, DC: Smithsonian Institution Press.
+772.  []{#c10752*444.xhtml#R772}National Coal Mining Museum. 2015.
+      \_National Coal Mining Museum for England*.
       <https://www.ncm.org.uk>.
 773.  []{#c10752_444.xhtml#R773}National Geographic Society. 2001. Pearl
       Harbor ships and planes.
       <http://www.nationalgeographic.com/pearlharbor/history/pearlharbor_facts.html>.
-774.  []{#c10752_444.xhtml#R774}Naville, E. 1908. _The Temple of Deir el
-      Bahari. Part VI_. London: The Egyptian Exploration Fund.
-775.  []{#c10752_444.xhtml#R775}Needham, J. 1964. _The Development of
-      Iron and Steel in China_. London: The Newcomen Society.
-776.  []{#c10752_444.xhtml#R776}Needham, J. 1965. _Science and
-      Civilisation in China_. Vol. 4, Part II. _Physics and Physical
+774.  []{#c10752*444.xhtml#R774}Naville, E. 1908. \_The Temple of Deir el
+      Bahari. Part VI*. London: The Egyptian Exploration Fund.
+775.  []{#c10752*444.xhtml#R775}Needham, J. 1964. \_The Development of
+      Iron and Steel in China*. London: The Newcomen Society.
+776.  []{#c10752*444.xhtml#R776}Needham, J. 1965. \_Science and
+      Civilisation in China*. Vol. 4, Part II. _Physics and Physical
       Technology_. Cambridge: Cambridge University Press.
-777.  []{#c10752_444.xhtml#R777}Needham, J. et al. 1954--2015. _Science
-      and Civilisation in China_. 7 volumes. Cambridge: Cambridge
+777.  []{#c10752*444.xhtml#R777}Needham, J. et al. 1954--2015. \_Science
+      and Civilisation in China*. 7 volumes. Cambridge: Cambridge
       University Press.
-778.  []{#c10752_444.xhtml#R778}Needham, J., et al. 1971. _Science and
-      Civilisation in China_. Vol. 4, Part III. _Civil Engineering and
+778.  []{#c10752*444.xhtml#R778}Needham, J., et al. 1971. \_Science and
+      Civilisation in China*. Vol. 4, Part III. _Civil Engineering and
       Nautics_. Cambridge: Cambridge University Press.
-779.  []{#c10752_444.xhtml#R779}Needham, J., et al. 1986. _Science and
-      Civilisation in China_. Vol. 5, Part VII. _Military Technology: The
+779.  []{#c10752*444.xhtml#R779}Needham, J., et al. 1986. \_Science and
+      Civilisation in China*. Vol. 5, Part VII. _Military Technology: The
       Gunpowder Epic_. Cambridge: Cambridge University Press.
-780.  []{#c10752_444.xhtml#R780}Nef, J. U. 1932. _The Rise of the British
-      Coal Industry_. London: G. Routledge.
-781.  []{#c10752_444.xhtml#R781}Nelson, W. H. 1998. _Small Wonder: The
-      Amazing Story of the Volkswagen Beetle_. Cambridge, MA: Robert
+780.  []{#c10752*444.xhtml#R780}Nef, J. U. 1932. \_The Rise of the British
+      Coal Industry*. London: G. Routledge.
+781.  []{#c10752*444.xhtml#R781}Nelson, W. H. 1998. \_Small Wonder: The
+      Amazing Story of the Volkswagen Beetle*. Cambridge, MA: Robert
       Bentley.
-782.  []{#c10752_444.xhtml#R782}Nesbitt, M., and G. Prance. 2005. _The
-      Cultural History of Plants_. London: Taylor & Francis.
-783.  []{#c10752_444.xhtml#R783}Newhall, B. 1982. _The History of
-      Photography: From 1839 to the Present_. New York: Museum of Modern
+782.  []{#c10752*444.xhtml#R782}Nesbitt, M., and G. Prance. 2005. \_The
+      Cultural History of Plants*. London: Taylor & Francis.
+783.  []{#c10752*444.xhtml#R783}Newhall, B. 1982. \_The History of
+      Photography: From 1839 to the Present*. New York: Museum of Modern
       Art.
-784.  []{#c10752_444.xhtml#R784}Newitt, M. 2005. _A History of Portuguese
-      Overseas Expansion, 1400--1668_. London: Routledge.
-785.  []{#c10752_444.xhtml#R785}Nicholson, J. 1825. _Operative Mechanic,
-      and British Machinist_. London: Knight and Lacey.
-786.  []{#c10752_444.xhtml#R786}Niel, F. 1961. _Dolmens et menhirs_.
+784.  []{#c10752*444.xhtml#R784}Newitt, M. 2005. \_A History of Portuguese
+      Overseas Expansion, 1400--1668*. London: Routledge.
+785.  []{#c10752*444.xhtml#R785}Nicholson, J. 1825. \_Operative Mechanic,
+      and British Machinist*. London: Knight and Lacey.
+786.  []{#c10752*444.xhtml#R786}Niel, F. 1961. \_Dolmens et menhirs*.
       Paris: Presses Universitaires de France.
-787.  []{#c10752_444.xhtml#R787}Nishiyama, M., and G. Groemer. 1997. _Edo
-      Culture: Daily Life and Diversions in Urban Japan, 1600--1868_.
+787.  []{#c10752*444.xhtml#R787}Nishiyama, M., and G. Groemer. 1997. \_Edo
+      Culture: Daily Life and Diversions in Urban Japan, 1600--1868*.
       Honolulu: University of Hawaii Press.
 788.  []{#c10752_444.xhtml#R788}NOAA. 2015. Trends in atmospheric carbon
       dioxide.
@@ -21758,837 +21742,837 @@ modern contributions.
       options for energy optimization. Nitrogen + Syngas Conference 2011,
       Düsseldorf.
       <http://www.thyssenkrupp-industrial-solutions.com/fileadmin/documents/publications/Nitrogen-Syngas-2011/Low_Energy_Consumption_Ammonia_Production_2011_paper.pdf>.
-790.  []{#c10752_444.xhtml#R790}Noguchi, Tatsuo, and Toshishige
-      Fujii. 2000. Minimizing the effect of natural disasters. _Japan
-      Railway & Transport Review_ 23:52--59.
-791.  []{#c10752_444.xhtml#R791}Nordhaus, W. D. 1998. _Do Real-Output and
+790.  []{#c10752*444.xhtml#R790}Noguchi, Tatsuo, and Toshishige
+      Fujii. 2000. Minimizing the effect of natural disasters. \_Japan
+      Railway & Transport Review* 23:52--59.
+791.  []{#c10752*444.xhtml#R791}Nordhaus, W. D. 1998. \_Do Real-Output and
       Real-Wage Measures Capture Reality? The History of Lighting
-      Suggests Not_. New Haven, CT: Cowles Foundation for Research in
+      Suggests Not*. New Haven, CT: Cowles Foundation for Research in
       Economics at Yale University.
-792.  []{#c10752_444.xhtml#R792}Norenzayan, A. 2013. _Big Gods: How
-      Religion Transformed Cooperation and Conflict_. Princeton, NJ:
+792.  []{#c10752*444.xhtml#R792}Norenzayan, A. 2013. \_Big Gods: How
+      Religion Transformed Cooperation and Conflict*. Princeton, NJ:
       Princeton University Press.
-793.  []{#c10752_444.xhtml#R793}Norgan, N. G., et al. 1974. The energy
+793.  []{#c10752*444.xhtml#R793}Norgan, N. G., et al. 1974. The energy
       and nutrient intake and the energy expenditure of 204 New Guinean
-      adults. _Philosophical Transactions of the Royal Society of London.
-      Series B, Biological Sciences_ 268:309--348.
-794.  []{#c10752_444.xhtml#R794}Norris, J. 2003. _Early Gunpowder
-      Artillery: 1300--1600_. Marlborough: Crowood Press.
-795.  []{#c10752_444.xhtml#R795}North American Electric Reliability
-      Corporation. 2015. _State of Reliability 2015_.
+      adults. \_Philosophical Transactions of the Royal Society of London.
+      Series B, Biological Sciences* 268:309--348.
+794.  []{#c10752*444.xhtml#R794}Norris, J. 2003. \_Early Gunpowder
+      Artillery: 1300--1600*. Marlborough: Crowood Press.
+795.  []{#c10752*444.xhtml#R795}North American Electric Reliability
+      Corporation. 2015. \_State of Reliability 2015*.
       <http://www.nerc.com/pa/RAPA/PA/Performance%20Analysis%20DL/2015%20State%20of%20Reliability.pdf>.
-796.  []{#c10752_444.xhtml#R796}Noyce, Robert N. 1961. _Semiconductor
-      Device-and-Lead Structure_. U.S. Patent 2,981,877, April 25, 1961.
+796.  []{#c10752*444.xhtml#R796}Noyce, Robert N. 1961. \_Semiconductor
+      Device-and-Lead Structure*. U.S. Patent 2,981,877, April 25, 1961.
       Washington, DC: USPTO.
 797.  []{#c10752_444.xhtml#R797}Nutrition Value. 2015. Nutrition value.
       <http://www.nutritionvalue.org>.
-798.  []{#c10752_444.xhtml#R798}Nye, D. E. 1992. _Electrifying America:
-      Social Meaning of a New Technology_. Cambridge, MA: MIT Press.
-799.  []{#c10752_444.xhtml#R799}Nye, D. E. 2013. _America's Assembly
-      Line_. Cambridge, MA: MIT Press.
-800.  []{#c10752_444.xhtml#R800}Oberg, E., et al. 2012. _Machinery's
-      Handbook_, 29th ed. South Norwalk, CT: Industrial Press.
-801.  []{#c10752_444.xhtml#R801}O'Brien, P., ed. 1983. _Railways and the
-      Economic Development of Western Europe, 1830--1914_. New York: St.
+798.  []{#c10752*444.xhtml#R798}Nye, D. E. 1992. \_Electrifying America:
+      Social Meaning of a New Technology*. Cambridge, MA: MIT Press.
+799.  []{#c10752*444.xhtml#R799}Nye, D. E. 2013. \_America's Assembly
+      Line*. Cambridge, MA: MIT Press.
+800.  []{#c10752*444.xhtml#R800}Oberg, E., et al. 2012. \_Machinery's
+      Handbook*, 29th ed. South Norwalk, CT: Industrial Press.
+801.  []{#c10752*444.xhtml#R801}O'Brien, P., ed. 1983. \_Railways and the
+      Economic Development of Western Europe, 1830--1914*. New York: St.
       Martin's Press.
-802.  []{#c10752_444.xhtml#R802}Odend'hal, S. 1972. Energetics of Indian
-      cattle in their environment. _Human Ecology_ 1:3--22.
-803.  []{#c10752_444.xhtml#R803}Odum, H. T. 1971. _Environment, Power,
-      and Society_. New York: Wiley-Interscience.
-804.  []{#c10752_444.xhtml#R804}Okigbo, B. N. 1984. _Improved Production
-      Systems as an Alternative to Shifting Cultivation_. Rome: FAO.
+802.  []{#c10752*444.xhtml#R802}Odend'hal, S. 1972. Energetics of Indian
+      cattle in their environment. \_Human Ecology* 1:3--22.
+803.  []{#c10752*444.xhtml#R803}Odum, H. T. 1971. \_Environment, Power,
+      and Society*. New York: Wiley-Interscience.
+804.  []{#c10752*444.xhtml#R804}Okigbo, B. N. 1984. \_Improved Production
+      Systems as an Alternative to Shifting Cultivation*. Rome: FAO.
 805.  []{#c10752_444.xhtml#R805}Oklahoma State University. 2015. Horses.
       <http://www.ansi.okstate.edu/breeds/horses>.
-806.  []{#c10752_444.xhtml#R806}Oleson, J. P. 1984. _Greek and Roman
-      Mechanical Water-Lifting Devices: The History of a Technology_.
+806.  []{#c10752*444.xhtml#R806}Oleson, J. P. 1984. \_Greek and Roman
+      Mechanical Water-Lifting Devices: The History of a Technology*.
       Toronto: University of Toronto Press.
-807.  []{#c10752_444.xhtml#R807}Oleson, J. P., ed. 2008. _The Oxford
-      Handbook of Engineering and Technology in the Classical World_.
+807.  []{#c10752*444.xhtml#R807}Oleson, J. P., ed. 2008. \_The Oxford
+      Handbook of Engineering and Technology in the Classical World*.
       Oxford: Oxford University Press.
-808.  []{#c10752_444.xhtml#R808}Oliveira, A. R. E. 2014. _A History of
-      the Work Concept: From Physics to Economics_. Dordrecht: Springer.
-809.  []{#c10752_444.xhtml#R809}Olivier, J. G. J. 2014. _Trends in Global
-      CO~2~ Emissions: 2014 Report_. The Hague: Netherlands Environmental
+808.  []{#c10752*444.xhtml#R808}Oliveira, A. R. E. 2014. \_A History of
+      the Work Concept: From Physics to Economics*. Dordrecht: Springer.
+809.  []{#c10752*444.xhtml#R809}Olivier, J. G. J. 2014. \_Trends in Global
+      CO~2~ Emissions: 2014 Report*. The Hague: Netherlands Environmental
       Assessment Agency.
       <http://edgar.jrc.ec.europa.eu/news_docs/jrc-2014-trends-in-global-co2-emissions-2014-report-93171.pdf>.
-810.  []{#c10752_444.xhtml#R810}Olson, M. 1982. _The Rise and Fall of
-      Nations_. New Haven, CT: Yale University Press.
-811.  []{#c10752_444.xhtml#R811}Olsson, F. 2007. _Järnhanteringens
+810.  []{#c10752*444.xhtml#R810}Olson, M. 1982. \_The Rise and Fall of
+      Nations*. New Haven, CT: Yale University Press.
+811.  []{#c10752*444.xhtml#R811}Olsson, F. 2007. \_Järnhanteringens
       dynamic: Produktion, lokalisering och agglomerationer i Bergslagen
-      och Mellansverige 1368--1910_. Umeå: Umeå Studies in Economic
+      och Mellansverige 1368--1910*. Umeå: Umeå Studies in Economic
       History.
-812.  []{#c10752_444.xhtml#R812}Olsson, M., and P. Svensson, eds. 2011.
-      _Growth and Stagnation in European Historical Agriculture_.
+812.  []{#c10752*444.xhtml#R812}Olsson, M., and P. Svensson, eds. 2011.
+      \_Growth and Stagnation in European Historical Agriculture*.
       Turnhout: Brepols.
-813.  []{#c10752_444.xhtml#R813}Ohno, T. 1988. _Toyota Production System:
-      Beyond Large-Scale Production_. Cambridge, MA: Productivity Press.
+813.  []{#c10752*444.xhtml#R813}Ohno, T. 1988. \_Toyota Production System:
+      Beyond Large-Scale Production*. Cambridge, MA: Productivity Press.
 814.  []{#c10752_444.xhtml#R814}OPEC (Organization of Petroleum Exporting
       Countries). 2015. Who gets what from imported oil?
       <http://www.opec.org/opec_web/en/publications/341.htm>.
-815.  []{#c10752_444.xhtml#R815}Orme, B. 1977. The advantages of
-      agriculture. In _Hunters, Gatherers and First Farmers beyond
-      Europe_, ed. J. V. S. Megaw, 41--49. Leicester: Leicester
+815.  []{#c10752*444.xhtml#R815}Orme, B. 1977. The advantages of
+      agriculture. In \_Hunters, Gatherers and First Farmers beyond
+      Europe*, ed. J. V. S. Megaw, 41--49. Leicester: Leicester
       University Press.
-816.  []{#c10752_444.xhtml#R816}Orwell, G. 1937. _The Road to Wigan
-      Pier_. London: Victor Gollancz.
+816.  []{#c10752*444.xhtml#R816}Orwell, G. 1937. \_The Road to Wigan
+      Pier*. London: Victor Gollancz.
 817.  []{#c10752_444.xhtml#R817}Osirisnet. 2015. Djehutyhotep.
       <http://www.osirisnet.net/tombes/el_bersheh/djehoutyhotep/e_djehoutyhotep_02.htm>.
-818.  []{#c10752_444.xhtml#R818}Ostwald, W. 1912. _Der energetische
-      Imperativ_ _._ Leipzing: Akademische Verlagsgesselschaft.
-819.  []{#c10752_444.xhtml#R819}Outram, A. K., et al. 2009. The earliest
-      horse harnessing and milking. _Science_ 323:1332--1335.
-820.  []{#c10752_444.xhtml#R820}Ovitt, G. 1987. _The Restoration of
-      Perfection: Labor and Technology in Medieval Culture_. New
+818.  []{#c10752*444.xhtml#R818}Ostwald, W. 1912. \_Der energetische
+      Imperativ* _._ Leipzing: Akademische Verlagsgesselschaft.
+819.  []{#c10752*444.xhtml#R819}Outram, A. K., et al. 2009. The earliest
+      horse harnessing and milking. \_Science* 323:1332--1335.
+820.  []{#c10752*444.xhtml#R820}Ovitt, G. 1987. \_The Restoration of
+      Perfection: Labor and Technology in Medieval Culture*. New
       Brunswick, NJ: Rutgers University Press.
-821.  []{#c10752_444.xhtml#R821}Owen, D. 2004. _Copies in Seconds_. New
+821.  []{#c10752*444.xhtml#R821}Owen, D. 2004. \_Copies in Seconds*. New
       York: Simon and Schuster.
-822.  []{#c10752_444.xhtml#R822}Pacey, A. 1990. _Technology in World
-      Civilization_. Cambridge, MA: MIT Press.
-823.  []{#c10752_444.xhtml#R823}Palgrave Macmillan, ed. 2013.
-      _International Historical Statistics_. London: Palgrave Macmillan;
+822.  []{#c10752*444.xhtml#R822}Pacey, A. 1990. \_Technology in World
+      Civilization*. Cambridge, MA: MIT Press.
+823.  []{#c10752*444.xhtml#R823}Palgrave Macmillan, ed. 2013.
+      \_International Historical Statistics*. London: Palgrave Macmillan;
       <http://www.palgraveconnect.com/pc/connect/archives/ihs.html>.
-824.  []{#c10752_444.xhtml#R824}Pan, W., et al. 2013. Urban
+824.  []{#c10752*444.xhtml#R824}Pan, W., et al. 2013. Urban
       characteristics attributable to density-driven tie formation.
-      _Nature Communications_ _._ <http://hdl.handle.net/1721.1/92362>.
-825.  []{#c10752_444.xhtml#R825}Park, J., and T. Rehren. 2011.
+      \_Nature Communications* _._ <http://hdl.handle.net/1721.1/92362>.
+825.  []{#c10752*444.xhtml#R825}Park, J., and T. Rehren. 2011.
       Large-scale 2nd and 3rd century AD bloomery iron smelting in Korea.
-      _Journal of Archaeological Science_ 38:1180--1190.
-826.  []{#c10752_444.xhtml#R826}Parker, G. 1996. _The Military
+      \_Journal of Archaeological Science* 38:1180--1190.
+826.  []{#c10752*444.xhtml#R826}Parker, G. 1996. \_The Military
       Revolution: Military Innovation and the Rise of the West,
-      1500--1800_. Cambridge: Cambridge University Press.
-827.  []{#c10752_444.xhtml#R827}Parker, G., ed. 2005. _The Cambridge
-      History of Warfare_. Cambridge: Cambridge University Press.
-828.  []{#c10752_444.xhtml#R828}Parris, H. S., M.-C. Daunay, and J.
-      Janick. 2012. Occidental diffusion of cucumber (_Cucumis sativus_)
+      1500--1800*. Cambridge: Cambridge University Press.
+827.  []{#c10752*444.xhtml#R827}Parker, G., ed. 2005. \_The Cambridge
+      History of Warfare*. Cambridge: Cambridge University Press.
+828.  []{#c10752*444.xhtml#R828}Parris, H. S., M.-C. Daunay, and J.
+      Janick. 2012. Occidental diffusion of cucumber (\_Cucumis sativus*)
       500--1300 CE: Two routes to Europe. _Annals of Botany_
       109:117--126.
-829.  []{#c10752_444.xhtml#R829}Parrott, A. 1955. _The Tower of Babel_.
+829.  []{#c10752*444.xhtml#R829}Parrott, A. 1955. \_The Tower of Babel*.
       London: SCM Press.
-830.  []{#c10752_444.xhtml#R830}Parsons, J. T. 1976. The role of chinampa
-      agriculture in the food supply of Aztec Tenochtitlan. In _Cultural
-      Change and Continuity_, ed. C. Clelland, 233--257. New York:
+830.  []{#c10752*444.xhtml#R830}Parsons, J. T. 1976. The role of chinampa
+      agriculture in the food supply of Aztec Tenochtitlan. In \_Cultural
+      Change and Continuity*, ed. C. Clelland, 233--257. New York:
       Academic Press.
-831.  []{#c10752_444.xhtml#R831}Parsons, R. H. 1936. _The Development of
-      Parsons Steam Turbine_. London: Constable & Co.
-832.  []{#c10752_444.xhtml#R832}Patton, P. 2004. _Bug: The Strange
-      Mutations of the World's Most Famous Automobile_. Cambridge, MA: Da
+831.  []{#c10752*444.xhtml#R831}Parsons, R. H. 1936. \_The Development of
+      Parsons Steam Turbine*. London: Constable & Co.
+832.  []{#c10752*444.xhtml#R832}Patton, P. 2004. \_Bug: The Strange
+      Mutations of the World's Most Famous Automobile*. Cambridge, MA: Da
       Capo Press.
-833.  []{#c10752_444.xhtml#R833}Patwhardan, S. 1973. _Change among
-      India's Harijans_. New Delhi: Orient Longman.
-834.  []{#c10752_444.xhtml#R834}Pearson, P. J. G., and T. J. Foxon. 2012.
+833.  []{#c10752*444.xhtml#R833}Patwhardan, S. 1973. \_Change among
+      India's Harijans*. New Delhi: Orient Longman.
+834.  []{#c10752*444.xhtml#R834}Pearson, P. J. G., and T. J. Foxon. 2012.
       A low carbon industrial revolution? Insights and challenges from
-      past technological and economic transformations. _Energy Policy_
+      past technological and economic transformations. \_Energy Policy*
       50:117--127.
-835.  []{#c10752_444.xhtml#R835}Pentzer, W. T. 1966. The giant job of
-      refrigeration. In _USDA Yearbook_, 123--138. Washington, DC: USDA.
-836.  []{#c10752_444.xhtml#R836}Perdue, P. C. 1987. _Exhausting the
-      Earth: State and Peasant in Hunan, 1500--1850_. Cambridge, MA:
+835.  []{#c10752*444.xhtml#R835}Pentzer, W. T. 1966. The giant job of
+      refrigeration. In \_USDA Yearbook*, 123--138. Washington, DC: USDA.
+836.  []{#c10752*444.xhtml#R836}Perdue, P. C. 1987. \_Exhausting the
+      Earth: State and Peasant in Hunan, 1500--1850*. Cambridge, MA:
       Harvard University Press.
-837.  []{#c10752_444.xhtml#R837}Perdue, P. C. 2005. _China Marches West:
-      The Qing Conquest of Central Asia_. Cambridge, MA: Belknap Press of
+837.  []{#c10752*444.xhtml#R837}Perdue, P. C. 2005. \_China Marches West:
+      The Qing Conquest of Central Asia*. Cambridge, MA: Belknap Press of
       Harvard University Press.
-838.  []{#c10752_444.xhtml#R838}Perkins, D. S. 1969. _Agricultural
-      Development in China, 1368--1968_. Chicago: University of Chicago
+838.  []{#c10752*444.xhtml#R838}Perkins, D. S. 1969. \_Agricultural
+      Development in China, 1368--1968*. Chicago: University of Chicago
       Press.
-839.  []{#c10752_444.xhtml#R839}Perkins, S. 2013. Earth is only just
-      within the Sun's habitable zone. _Nature_.
+839.  []{#c10752*444.xhtml#R839}Perkins, S. 2013. Earth is only just
+      within the Sun's habitable zone. \_Nature*.
       doi:10.1038/nature.2013.14353.
-840.  []{#c10752_444.xhtml#R840}Perlin, J. 2005. _Forest Journey: The
-      Story of Wood and Civilization_. Woodstock, VT: Countryman Press.
-841.  []{#c10752_444.xhtml#R841}Perrodon, A. 1985. _Histoire des Grandes
-      Decouvertes Petrolieres_. Paris: Elf Aquitaine.
-842.  []{#c10752_444.xhtml#R842}Pessaroff, N. 2002. An electric idea. ...
-      Edison's electric pen. _Pen World International_ 15 (5): 1--4.
-843.  []{#c10752_444.xhtml#R843}Pétillon, J.-M., et al. 2011. Hard core
+840.  []{#c10752*444.xhtml#R840}Perlin, J. 2005. \_Forest Journey: The
+      Story of Wood and Civilization*. Woodstock, VT: Countryman Press.
+841.  []{#c10752*444.xhtml#R841}Perrodon, A. 1985. \_Histoire des Grandes
+      Decouvertes Petrolieres*. Paris: Elf Aquitaine.
+842.  []{#c10752*444.xhtml#R842}Pessaroff, N. 2002. An electric idea. ...
+      Edison's electric pen. \_Pen World International* 15 (5): 1--4.
+843.  []{#c10752*444.xhtml#R843}Pétillon, J.-M., et al. 2011. Hard core
       and cutting edge: Experimental manufacture and use of Magdalenian
-      composite projectile tips. _Journal of Archaeological Science_
+      composite projectile tips. \_Journal of Archaeological Science*
       38:1266--1283.
-844.  []{#c10752_444.xhtml#R844}Petroski, H. 1993. On dating inventions.
-      _American Scientist_ 81:314--318.
-845.  []{#c10752_444.xhtml#R845}Petroski, H. 2011. Moving obelisks.
-      _American Scientist_ 99:448--451.
-846.  []{#c10752_444.xhtml#R846}Pfau, T., et al. 2009. Modern riding
-      style improves horse racing times. _Science_ 325:289--291.
-847.  []{#c10752_444.xhtml#R847}Phocaides, A. 2007. _Handbook on
-      Pressurized Irrigation Techniques_. Rome: FAO.
-848.  []{#c10752_444.xhtml#R848}Piggott, S. 1983. _The Earliest Wheeled
-      Transport_. Ithaca, NY: Cornell University Press.
-849.  []{#c10752_444.xhtml#R849}Pimentel, D., ed. 1980. _Handbook of
-      Energy Utilization in Agriculture_. Boca Raton, FL: CRC Press.
-850.  []{#c10752_444.xhtml#R850}Pinhasi, R., J. Fort, and A. J.
+844.  []{#c10752*444.xhtml#R844}Petroski, H. 1993. On dating inventions.
+      \_American Scientist* 81:314--318.
+845.  []{#c10752*444.xhtml#R845}Petroski, H. 2011. Moving obelisks.
+      \_American Scientist* 99:448--451.
+846.  []{#c10752*444.xhtml#R846}Pfau, T., et al. 2009. Modern riding
+      style improves horse racing times. \_Science* 325:289--291.
+847.  []{#c10752*444.xhtml#R847}Phocaides, A. 2007. \_Handbook on
+      Pressurized Irrigation Techniques*. Rome: FAO.
+848.  []{#c10752*444.xhtml#R848}Piggott, S. 1983. \_The Earliest Wheeled
+      Transport*. Ithaca, NY: Cornell University Press.
+849.  []{#c10752*444.xhtml#R849}Pimentel, D., ed. 1980. \_Handbook of
+      Energy Utilization in Agriculture*. Boca Raton, FL: CRC Press.
+850.  []{#c10752*444.xhtml#R850}Pinhasi, R., J. Fort, and A. J.
       Ammerman. 2005. Tracing the origin and spread of agriculture in
-      Europe. _PLoS Biology_ 3:2220--2228.
+      Europe. \_PLoS Biology* 3:2220--2228.
 851.  []{#c10752_444.xhtml#R851}PISA. 2015. PISA 2012 Results.
       <http://www.oecd.org/pisa/keyfindings/pisa-2012-results.htm>.
-852.  []{#c10752_444.xhtml#R852}Plutarch. 1961. _Plutarch's Lives_.
+852.  []{#c10752*444.xhtml#R852}Plutarch. 1961. \_Plutarch's Lives*.
       Trans. B. Perrin. Cambridge, MA: Harvard University Press.
-853.  []{#c10752_444.xhtml#R853}Pobiner, B. L. 2015. New actualistic data
+853.  []{#c10752*444.xhtml#R853}Pobiner, B. L. 2015. New actualistic data
       on the ecology and energetics of hominin scavenging opportunities.
-      _Journal of Human Evolution_ 80:1--16.
-854.  []{#c10752_444.xhtml#R854}Pogue, S. 2012. Use it better: The worst
-      tech predictions of all time. _Scientific American_
+      \_Journal of Human Evolution* 80:1--16.
+854.  []{#c10752*444.xhtml#R854}Pogue, S. 2012. Use it better: The worst
+      tech predictions of all time. \_Scientific American*
       <http://www.scientificamerican.com/article/pogue-all-time-worst-tech-predictions>.
-855.  []{#c10752_444.xhtml#R855}Polimeni, J. M., et al. 2008. _The Jevons
-      Paradox and the Myth of Resource Efficiency Improvements._ London:
+855.  []{#c10752*444.xhtml#R855}Polimeni, J. M., et al. 2008. \_The Jevons
+      Paradox and the Myth of Resource Efficiency Improvements.* London:
       Earthscan.
-856.  []{#c10752_444.xhtml#R856}Polmar, N. 2006. _Aircraft Carriers: A
-      History of Carrier Aviation and Its Influence on World Events_.
+856.  []{#c10752*444.xhtml#R856}Polmar, N. 2006. \_Aircraft Carriers: A
+      History of Carrier Aviation and Its Influence on World Events*.
       Vol. 1., _1909--1945_. Lincoln, NB: Potomac Press.
-857.  []{#c10752_444.xhtml#R857}Polmar, N., and T. B. Allen. 1982.
-      _Rickover: Controversy and Genius_. New York: Simon and Schuster.
-858.  []{#c10752_444.xhtml#R858}Pomeranz, K. 2002. Political economy and
+857.  []{#c10752*444.xhtml#R857}Polmar, N., and T. B. Allen. 1982.
+      \_Rickover: Controversy and Genius*. New York: Simon and Schuster.
+858.  []{#c10752*444.xhtml#R858}Pomeranz, K. 2002. Political economy and
       ecology on the eve of industrialization: Europe, China, and the
-      global conjuncture. _American Historical Review_ 107:425--446.
-859.  []{#c10752_444.xhtml#R859}Ponting, C. 2007. _A New Green History of
+      global conjuncture. \_American Historical Review* 107:425--446.
+859.  []{#c10752*444.xhtml#R859}Ponting, C. 2007. \_A New Green History of
       the World: The Environment and the Collapse of Great
-      Civilizations_. New York: Penguin Books.
-860.  []{#c10752_444.xhtml#R860}Pope, F. L. 1894. _Evolution of the
-      Electric Incandescent Lamp_. New York: Boschen & Wefer.
-861.  []{#c10752_444.xhtml#R861}Pope, S. T. 1923. A study of bows and
-      arrows. _University of California Publications in American
-      Archaeology and Ethnology_ 13:329--414.
-862.  []{#c10752_444.xhtml#R862}Prager, F. D., and G. Scaglia. 1970.
-      _Brunelleschi: Studies of His Technology and Inventions_.
+      Civilizations*. New York: Penguin Books.
+860.  []{#c10752*444.xhtml#R860}Pope, F. L. 1894. \_Evolution of the
+      Electric Incandescent Lamp*. New York: Boschen & Wefer.
+861.  []{#c10752*444.xhtml#R861}Pope, S. T. 1923. A study of bows and
+      arrows. \_University of California Publications in American
+      Archaeology and Ethnology* 13:329--414.
+862.  []{#c10752*444.xhtml#R862}Prager, F. D., and G. Scaglia. 1970.
+      \_Brunelleschi: Studies of His Technology and Inventions*.
       Cambridge, MA: MIT Press.
-863.  []{#c10752_444.xhtml#R863}Pratap, A., and J. Kumar. 2011. _Biology
-      and Breeding of Food Legumes_. Wallingford: CAB.
-864.  []{#c10752_444.xhtml#R864}Price, T. 1991. The Mesolithic of
-      Northern Europe. _Annual Review of Anthropology_ 20:211--233.
-865.  []{#c10752_444.xhtml#R865}Price, T. D., and O. Bar-Yosef. 2011. The
-      origins of agriculture: New data, new ideas. _Current Anthropology_
+863.  []{#c10752*444.xhtml#R863}Pratap, A., and J. Kumar. 2011. \_Biology
+      and Breeding of Food Legumes*. Wallingford: CAB.
+864.  []{#c10752*444.xhtml#R864}Price, T. 1991. The Mesolithic of
+      Northern Europe. \_Annual Review of Anthropology* 20:211--233.
+865.  []{#c10752*444.xhtml#R865}Price, T. D., and O. Bar-Yosef. 2011. The
+      origins of agriculture: New data, new ideas. \_Current Anthropology*
       52 (Supplement): S163--S174.
-866.  []{#c10752_444.xhtml#R866}Prigogine, I. 1947. _Étude
-      thermodynamique des phenomenes irreversibles_. Paris: Dunod.
-867.  []{#c10752_444.xhtml#R867}Prigogine, I. 1961. _Introduction to
-      Thermodynamics of Irreversible Processes_. New York: Interscience.
-868.  []{#c10752_444.xhtml#R868}Prost, Antoine. 1991. Public and private
-      spheres in France. In _A History of Private Life_, vol. 5, ed.
+866.  []{#c10752*444.xhtml#R866}Prigogine, I. 1947. *Étude
+      thermodynamique des phenomenes irreversibles\_. Paris: Dunod.
+867.  []{#c10752*444.xhtml#R867}Prigogine, I. 1961. \_Introduction to
+      Thermodynamics of Irreversible Processes*. New York: Interscience.
+868.  []{#c10752*444.xhtml#R868}Prost, Antoine. 1991. Public and private
+      spheres in France. In \_A History of Private Life*, vol. 5, ed.
       Antoine Prost and Gérard Vincent., 1--103. Cambridge, MA: Belknap
       Press of Harvard University Press.
-869.  []{#c10752_444.xhtml#R869}Protzen, J.-P. 1993. _Inca Architecture
-      and Construction at Ollantaytambo_. Oxford: Oxford University
+869.  []{#c10752*444.xhtml#R869}Protzen, J.-P. 1993. \_Inca Architecture
+      and Construction at Ollantaytambo*. Oxford: Oxford University
       Press.
-870.  []{#c10752_444.xhtml#R870}Pryor, F. L. 1983. Causal theories about
-      the origin of agriculture. _Research in Economic History_
+870.  []{#c10752*444.xhtml#R870}Pryor, F. L. 1983. Causal theories about
+      the origin of agriculture. \_Research in Economic History*
       8:93--124.
-871.  []{#c10752_444.xhtml#R871}Pryor, A. J. E., et al. 2013. Plant foods
+871.  []{#c10752*444.xhtml#R871}Pryor, A. J. E., et al. 2013. Plant foods
       in the Upper Palaeolithic at Dolní Vestonice? Parenchyma redux.
-      _Antiquity_ 87 (338): 971--984.
+      \_Antiquity* 87 (338): 971--984.
 872.  []{#c10752_444.xhtml#R872}Quick, D. 2012. World record 1,626 miles
       on one tank of diesel.
       <http://www.gizmag.com/tank-diesel-distance-world-record/22488>.
-873.  []{#c10752_444.xhtml#R873}Raepsaet, G. 2008. Land transport, part
-      2: Riding, harnesses, and vehicles. In _The Oxford Handbook of
-      Engineering and Technology in the Classical World_, ed. J. P.
+873.  []{#c10752*444.xhtml#R873}Raepsaet, G. 2008. Land transport, part
+      2: Riding, harnesses, and vehicles. In \_The Oxford Handbook of
+      Engineering and Technology in the Classical World*, ed. J. P.
       Oleson, 580--605. Oxford: Oxford University Press.
-874.  []{#c10752_444.xhtml#R874}Rafiqul, I., et al. 2005. Energy
+874.  []{#c10752*444.xhtml#R874}Rafiqul, I., et al. 2005. Energy
       efficiency improvements in ammonia production: Perspectives and
-      uncertainties. _Energy_ 30:2487--2504.
-875.  []{#c10752_444.xhtml#R875}Raghavan, B., and J. Ma. 2011. The energy
-      and emergy of the Internet. _Hotnets '11_: 1--6.
+      uncertainties. \_Energy* 30:2487--2504.
+875.  []{#c10752*444.xhtml#R875}Raghavan, B., and J. Ma. 2011. The energy
+      and emergy of the Internet. \_Hotnets '11*: 1--6.
       <http://www1.icsi.berkeley.edu/~barath/papers/emergy-hotnets11.pdf>.
-876.  []{#c10752_444.xhtml#R876}Ramelli, A. 1976 (1588). _Le diverse et
-      artificiose machine_. Trans. M. Teach Gnudi. Baltimore, MD: Johns
+876.  []{#c10752*444.xhtml#R876}Ramelli, A. 1976 (1588). \_Le diverse et
+      artificiose machine*. Trans. M. Teach Gnudi. Baltimore, MD: Johns
       Hopkins University Press.
-877.  []{#c10752_444.xhtml#R877}Ranaweera, M. P. 2004. Ancient stupas in
-      Sri Lanka: Largest brick structure sin the world. _Construction
-      History Society Newsletter_ 70:1--19.
-878.  []{#c10752_444.xhtml#R878}Rankine, W. J. M. 1866. _Useful Rules and
+877.  []{#c10752*444.xhtml#R877}Ranaweera, M. P. 2004. Ancient stupas in
+      Sri Lanka: Largest brick structure sin the world. \_Construction
+      History Society Newsletter* 70:1--19.
+878.  []{#c10752*444.xhtml#R878}Rankine, W. J. M. 1866. \_Useful Rules and
       Tables Relating to Mensuration, Engineering Structures and
-      Machines_. London: G. Griffin & Co.
-879.  []{#c10752_444.xhtml#R879}Rapoport, B. I. 2010. Metabolic factors
-      limiting performance in marathon runners. _PLoS Computational
-      Biology_ 6:1--13.
-880.  []{#c10752_444.xhtml#R880}Rappaport, R. A. 1968. _Pigs for the
-      Ancestors_. New Haven, CT: Yale University Press.
-881.  []{#c10752_444.xhtml#R881}Ratcliffe, M. 1985. _Liquid Gold Ships: A
-      History of the Tanker, 1859--1984_. London: Lloyd's of London
+      Machines*. London: G. Griffin & Co.
+879.  []{#c10752*444.xhtml#R879}Rapoport, B. I. 2010. Metabolic factors
+      limiting performance in marathon runners. \_PLoS Computational
+      Biology* 6:1--13.
+880.  []{#c10752*444.xhtml#R880}Rappaport, R. A. 1968. \_Pigs for the
+      Ancestors*. New Haven, CT: Yale University Press.
+881.  []{#c10752*444.xhtml#R881}Ratcliffe, M. 1985. \_Liquid Gold Ships: A
+      History of the Tanker, 1859--1984*. London: Lloyd's of London
       Press.
-882.  []{#c10752_444.xhtml#R882}Rea, M. S., ed. 2000. _IESNA Handbook_.
+882.  []{#c10752*444.xhtml#R882}Rea, M. S., ed. 2000. \_IESNA Handbook*.
       New York: Illuminating Engineering Society of North America.
-883.  []{#c10752_444.xhtml#R883}Reader, J. 2008. _Propitious Esculent:
-      The Potato in World History_. New York: Random House.
-884.  []{#c10752_444.xhtml#R884}Recht, R. 2008. _Believing and Seeing:
-      The Art of Gothic Cathedrals_. Chicago: University of Chicago
+883.  []{#c10752*444.xhtml#R883}Reader, J. 2008. \_Propitious Esculent:
+      The Potato in World History*. New York: Random House.
+884.  []{#c10752*444.xhtml#R884}Recht, R. 2008. \_Believing and Seeing:
+      The Art of Gothic Cathedrals*. Chicago: University of Chicago
       Press.
-885.  []{#c10752_444.xhtml#R885}Reid, T. R. 2001. _The Chip: How Two
-      Americans Invented the Microchip and Launched a Revolution_. New
+885.  []{#c10752*444.xhtml#R885}Reid, T. R. 2001. \_The Chip: How Two
+      Americans Invented the Microchip and Launched a Revolution*. New
       York: Simon and Schuster.
-886.  []{#c10752_444.xhtml#R886}REN21. 2016. _Renewables 2016 Global
-      Status Report_. Paris: REN21.
+886.  []{#c10752*444.xhtml#R886}REN21. 2016. \_Renewables 2016 Global
+      Status Report*. Paris: REN21.
       <http://www.ren21.net/wp-content/uploads/2016/06/GSR_2016_KeyFindings1.pdf>.
-887.  []{#c10752_444.xhtml#R887}Revel, J. 1979. Capital city's
-      privileges: Food supply in early-modern Rome. In _Food and Drink in
-      History_, ed. R. Foster and O. Ranum, 37--49. Baltimore, MD: Johns
+887.  []{#c10752*444.xhtml#R887}Revel, J. 1979. Capital city's
+      privileges: Food supply in early-modern Rome. In \_Food and Drink in
+      History*, ed. R. Foster and O. Ranum, 37--49. Baltimore, MD: Johns
       Hopkins University Press.
-888.  []{#c10752_444.xhtml#R888}Revelle, R., and H. E. Suess. 1957.
+888.  []{#c10752*444.xhtml#R888}Revelle, R., and H. E. Suess. 1957.
       Carbon dioxide exchange between atmosphere and ocean and the
       question of an increase of atmospheric CO~2~ during the past
-      decades. _Tellus_ 9:18--27.
-889.  []{#c10752_444.xhtml#R889}Reynolds, J. 1970. _Windmills and
-      Watermills_. London: Hugh Evelyn.
-890.  []{#c10752_444.xhtml#R890}Reynolds, S. C., and A. Gallagher,
-      eds. 2012. _African Genesis: Perspectives on Hominin Evolution_.
+      decades. \_Tellus* 9:18--27.
+889.  []{#c10752*444.xhtml#R889}Reynolds, J. 1970. \_Windmills and
+      Watermills*. London: Hugh Evelyn.
+890.  []{#c10752*444.xhtml#R890}Reynolds, S. C., and A. Gallagher,
+      eds. 2012. \_African Genesis: Perspectives on Hominin Evolution*.
       Cambridge: Cambridge University Press.
-891.  []{#c10752_444.xhtml#R891}Reynolds, T. S. 1979. Scientific
+891.  []{#c10752*444.xhtml#R891}Reynolds, T. S. 1979. Scientific
       influences on technology: The case of the overshot waterwheel,
-      1752--1754. _Technology and Culture_ 20:270--295.
-892.  []{#c10752_444.xhtml#R892}Reynolds, T. S. 1983. _Stronger Than a
-      Hundred Men: A History of the Vertical Water Wheel_. Baltimore, MD:
+      1752--1754. \_Technology and Culture* 20:270--295.
+892.  []{#c10752*444.xhtml#R892}Reynolds, T. S. 1983. \_Stronger Than a
+      Hundred Men: A History of the Vertical Water Wheel*. Baltimore, MD:
       Johns Hopkins University Press.
-893.  []{#c10752_444.xhtml#R893}Rhodes, J. A., and S. E. Churchill. 2009.
+893.  []{#c10752*444.xhtml#R893}Rhodes, J. A., and S. E. Churchill. 2009.
       Throwing in the Middle and Upper Paleolithic: inferences from an
-      analysis of humeral retroversion. _Journal of Human Evolution_
+      analysis of humeral retroversion. \_Journal of Human Evolution*
       56:1--10.
-894.  []{#c10752_444.xhtml#R894}Ricci, M. 2014. _Il genio di Brunelleschi
-      e la costruzione della Cupola di Santa Maria del Fiore_. Livorno:
+894.  []{#c10752*444.xhtml#R894}Ricci, M. 2014. \_Il genio di Brunelleschi
+      e la costruzione della Cupola di Santa Maria del Fiore*. Livorno:
       Casa Editrice Sillabe.
-895.  []{#c10752_444.xhtml#R895}Richerson, P.J., R. Boyd, and R. L.
+895.  []{#c10752*444.xhtml#R895}Richerson, P.J., R. Boyd, and R. L.
       Bettinger. 2001. Was agriculture impossible during the Pleistocene
       but mandatory during the Holocene? A climate change hypothesis.
-      _American Antiquity_ 66:387--411.
-896.  []{#c10752_444.xhtml#R896}Richmond, B. G., et al. 2001. Origin of
+      \_American Antiquity* 66:387--411.
+896.  []{#c10752*444.xhtml#R896}Richmond, B. G., et al. 2001. Origin of
       human bipedalism: The knuckle-walking hypothesis revisited.
-      _Yearbook of Physical Anthropology_ 44:71--105.
-897.  []{#c10752_444.xhtml#R897}Rickman, G. E. 1980. The grain trade
-      under the Roman Empire. _Memoirs from the American Academy in Rome_
+      \_Yearbook of Physical Anthropology* 44:71--105.
+897.  []{#c10752*444.xhtml#R897}Rickman, G. E. 1980. The grain trade
+      under the Roman Empire. \_Memoirs from the American Academy in Rome*
       36:261--276.
-898.  []{#c10752_444.xhtml#R898}Riehl, S., M. Zeidi, and N. J.
+898.  []{#c10752*444.xhtml#R898}Riehl, S., M. Zeidi, and N. J.
       Conard. 2013. Emergence of agriculture in the foothills of the
-      Zagros Mountains of Iran. _Science_ 341:65--67.
-899.  []{#c10752_444.xhtml#R899}Righter, R. W. 2008. _Wind Energy in
-      America: A History_. Norman: University of Oklahoma Press.
-900.  []{#c10752_444.xhtml#R900}Rindos, D. 1984. _The Origins of
-      Agriculture: An Evolutionary Perspective_. Orlando, FL: Academic
+      Zagros Mountains of Iran. \_Science* 341:65--67.
+899.  []{#c10752*444.xhtml#R899}Righter, R. W. 2008. \_Wind Energy in
+      America: A History*. Norman: University of Oklahoma Press.
+900.  []{#c10752*444.xhtml#R900}Rindos, D. 1984. \_The Origins of
+      Agriculture: An Evolutionary Perspective*. Orlando, FL: Academic
       Press.
-901.  []{#c10752_444.xhtml#R901}Robson, G. 1983. _Magnificent Mercedes:
-      The History of the Marque_. New York: Bonanza Books.
-902.  []{#c10752_444.xhtml#R902}Roche, D. 2000. _A History of Everyday
-      Things: The Birth of Consumption in France, 1600--1800_. Cambridge:
+901.  []{#c10752*444.xhtml#R901}Robson, G. 1983. \_Magnificent Mercedes:
+      The History of the Marque*. New York: Bonanza Books.
+902.  []{#c10752*444.xhtml#R902}Roche, D. 2000. \_A History of Everyday
+      Things: The Birth of Consumption in France, 1600--1800*. Cambridge:
       Cambridge University Press.
-903.  []{#c10752_444.xhtml#R903}Rockström, J., et al. 2009. A safe
-      operating space for humanity. _Nature_ 461:472--475.
-904.  []{#c10752_444.xhtml#R904}Rogin, L. 1931. _The Introduction of Farm
-      Machinery_. Berkeley: University of California Press.
-905.  []{#c10752_444.xhtml#R905}Rollins, A. 1983. _The Fall of Rome: A
-      Reference Guide_. Jefferson, NC: McFarland & Co.
-906.  []{#c10752_444.xhtml#R906}Rolt, L.T.C. 1963. _Thomas Newcomen: The
-      Prehistory of the Steam Engine_. Dawlish: David and Charles.
-907.  []{#c10752_444.xhtml#R907}Rose, D. J. 1974. Nuclear eclectic power.
-      _Science_ 184:351--359.
-908.  []{#c10752_444.xhtml#R908}Rosen, W. 2012. _The Most Powerful Idea
-      in the World: The Story of Steam, Industry, and Invention_.
+903.  []{#c10752*444.xhtml#R903}Rockström, J., et al. 2009. A safe
+      operating space for humanity. \_Nature* 461:472--475.
+904.  []{#c10752*444.xhtml#R904}Rogin, L. 1931. \_The Introduction of Farm
+      Machinery*. Berkeley: University of California Press.
+905.  []{#c10752*444.xhtml#R905}Rollins, A. 1983. \_The Fall of Rome: A
+      Reference Guide*. Jefferson, NC: McFarland & Co.
+906.  []{#c10752*444.xhtml#R906}Rolt, L.T.C. 1963. \_Thomas Newcomen: The
+      Prehistory of the Steam Engine*. Dawlish: David and Charles.
+907.  []{#c10752*444.xhtml#R907}Rose, D. J. 1974. Nuclear eclectic power.
+      \_Science* 184:351--359.
+908.  []{#c10752*444.xhtml#R908}Rosen, W. 2012. \_The Most Powerful Idea
+      in the World: The Story of Steam, Industry, and Invention*.
       Chicago: University of Chicago Press.
-909.  []{#c10752_444.xhtml#R909}Rosenberg, N. 1975. America's rise to
-      woodworking leadership. In _America's Wooden Age: Aspects of Its
-      Early Technology_, ed. B. Hindle, 37--62. Tarrytown, PA: Sleepy
+909.  []{#c10752*444.xhtml#R909}Rosenberg, N. 1975. America's rise to
+      woodworking leadership. In \_America's Wooden Age: Aspects of Its
+      Early Technology*, ed. B. Hindle, 37--62. Tarrytown, PA: Sleepy
       Hollow Restorations.
-910.  []{#c10752_444.xhtml#R910}Rosenberg, N., and L. E. Birdzell. 1986.
-      _How the West Grew Rich: The Economic Transformation of the
-      Industrial World_. New York: Basic Books.
-911.  []{#c10752_444.xhtml#R911}Rosenblum, N. 1997. _A World History of
-      Photography_. New York: Abbeville Press.
-912.  []{#c10752_444.xhtml#R912}Rostow, W. W. 1965. _The Stages of
-      Economic Growth_. Cambridge: Cambridge University Press.
-913.  []{#c10752_444.xhtml#R913}Rostow, W. W. 1971. _The Stages of
-      Economic Growth: A Non-Communist Manifesto_. Cambridge: Cambridge
+910.  []{#c10752*444.xhtml#R910}Rosenberg, N., and L. E. Birdzell. 1986.
+      \_How the West Grew Rich: The Economic Transformation of the
+      Industrial World*. New York: Basic Books.
+911.  []{#c10752*444.xhtml#R911}Rosenblum, N. 1997. \_A World History of
+      Photography*. New York: Abbeville Press.
+912.  []{#c10752*444.xhtml#R912}Rostow, W. W. 1965. \_The Stages of
+      Economic Growth*. Cambridge: Cambridge University Press.
+913.  []{#c10752*444.xhtml#R913}Rostow, W. W. 1971. \_The Stages of
+      Economic Growth: A Non-Communist Manifesto*. Cambridge: Cambridge
       University Press.
-914.  []{#c10752_444.xhtml#R914}Rothenberg, B., and F. G. Palomero. 1986.
-      The Rio Tinto enigma---no more. _IAMS_ 8:1--6.
+914.  []{#c10752*444.xhtml#R914}Rothenberg, B., and F. G. Palomero. 1986.
+      The Rio Tinto enigma---no more. \_IAMS* 8:1--6.
       <https://www.ucl.ac.uk/iams/newsletter/accordion/journals/iams_08/iams_8_1986_rothenberg_palomero>.
-915.  []{#c10752_444.xhtml#R915}Rouse, J. E. 1970. _World Cattle_.
+915.  []{#c10752*444.xhtml#R915}Rouse, J. E. 1970. \_World Cattle*.
       Norman: University of Oklahoma Press.
-916.  []{#c10752_444.xhtml#R916}Rousmaniere, P., and N. Raj. 2007.
+916.  []{#c10752*444.xhtml#R916}Rousmaniere, P., and N. Raj. 2007.
       Shipbreaking in the developing world: Problems and prospects.
-      _International Journal of Occupational and Environmental Health_
+      \_International Journal of Occupational and Environmental Health*
       13:359--368.
-917.  []{#c10752_444.xhtml#R917}Rowland, F. S. 1989. Chlorofluorocarbons
-      and the depletion of stratospheric ozone. _American Scientist_
+917.  []{#c10752*444.xhtml#R917}Rowland, F. S. 1989. Chlorofluorocarbons
+      and the depletion of stratospheric ozone. \_American Scientist*
       77:36--45.
-918.  []{#c10752_444.xhtml#R918}Rubio, M., and M. Folchi. 2012. Will
+918.  []{#c10752*444.xhtml#R918}Rubio, M., and M. Folchi. 2012. Will
       small energy consumers be faster in transition? Evidence form early
-      shift from coal to oil in Latin America. _Energy Policy_ 50:50--61.
-919.  []{#c10752_444.xhtml#R919}Ruddle, K., and G. Zhong. 1988.
-      _Integrated Agriculture-Aquaculture in South China_. Cambridge:
+      shift from coal to oil in Latin America. \_Energy Policy* 50:50--61.
+919.  []{#c10752*444.xhtml#R919}Ruddle, K., and G. Zhong. 1988.
+      \_Integrated Agriculture-Aquaculture in South China*. Cambridge:
       Cambridge University Press.
-920.  []{#c10752_444.xhtml#R920}Ruff, C. B., et al. 2015. Gradual decline
+920.  []{#c10752*444.xhtml#R920}Ruff, C. B., et al. 2015. Gradual decline
       in mobility with the adoption of food production in Europe.
-      _Proceedings of the National Academy of Sciences of the United
-      States of America_ 112:7147--7152.
-921.  []{#c10752_444.xhtml#R921}RWEDP (Regional Wood Energy Development
-      Programme in Asia). 1997. _Regional Study of Wood Energy Today and
-      Tomorrow_. Rome: FAO-RWEDP. <http://www.rwedp.org/fd50.html>.
-922.  []{#c10752_444.xhtml#R922}Ryder, H. W., H. J. Carr, and P.
-      Herget. 1976. Future performance in footracing. _Scientific
-      American_ 224 (6): 109--119.
-923.  []{#c10752_444.xhtml#R923}Sagui, C. L. 1948. Le meunerie de
+      \_Proceedings of the National Academy of Sciences of the United
+      States of America* 112:7147--7152.
+921.  []{#c10752*444.xhtml#R921}RWEDP (Regional Wood Energy Development
+      Programme in Asia). 1997. \_Regional Study of Wood Energy Today and
+      Tomorrow*. Rome: FAO-RWEDP. <http://www.rwedp.org/fd50.html>.
+922.  []{#c10752*444.xhtml#R922}Ryder, H. W., H. J. Carr, and P.
+      Herget. 1976. Future performance in footracing. \_Scientific
+      American* 224 (6): 109--119.
+923.  []{#c10752*444.xhtml#R923}Sagui, C. L. 1948. Le meunerie de
       Barbegal (France) et les roués hydrauliques les ancients et au
-      moyen âge. _Isis_ 38:225--231.
-924.  []{#c10752_444.xhtml#R924}Sahlins, M. 1972. _Stone Age Economics_.
+      moyen âge. \_Isis* 38:225--231.
+924.  []{#c10752*444.xhtml#R924}Sahlins, M. 1972. \_Stone Age Economics*.
       Chicago: Aldine.
 925.  []{#c10752_444.xhtml#R925}Salkield, L. U. 1970. Ancient slags in
       the wouth west of the Iberian Peninsula. Paper presented at the
       Sixth International Mining Congress, Madrid, June 1970.
-926.  []{#c10752_444.xhtml#R926}Salzman, P. C. 2004. _Pastoralists:
-      Equality, Hierarchy, and the State_. Boulder, CO: Westview Press.
-927.  []{#c10752_444.xhtml#R927}Samedov, V.A. 1988. _Neft' i ekonomika
-      Rossii: 80--90e gody XIX veka_. Baku: Elm.
-928.  []{#c10752_444.xhtml#R928}Sanders, W. T., J. R. Parsons, and R. S.
-      Santley. 1979. _The Basin of Mexico: Ecological Processes in the
-      Evolution of a Civilization_. New York: Academic Press.
-929.  []{#c10752_444.xhtml#R929}Sanz, M., J. Call, and C. Boesch,
-      eds. 2013. _Tool Use in Animals: Cognition and Ecology_. Cambridge:
+926.  []{#c10752*444.xhtml#R926}Salzman, P. C. 2004. \_Pastoralists:
+      Equality, Hierarchy, and the State*. Boulder, CO: Westview Press.
+927.  []{#c10752*444.xhtml#R927}Samedov, V.A. 1988. \_Neft' i ekonomika
+      Rossii: 80--90e gody XIX veka*. Baku: Elm.
+928.  []{#c10752*444.xhtml#R928}Sanders, W. T., J. R. Parsons, and R. S.
+      Santley. 1979. \_The Basin of Mexico: Ecological Processes in the
+      Evolution of a Civilization*. New York: Academic Press.
+929.  []{#c10752*444.xhtml#R929}Sanz, M., J. Call, and C. Boesch,
+      eds. 2013. \_Tool Use in Animals: Cognition and Ecology*. Cambridge:
       Cambridge University Press.
-930.  []{#c10752_444.xhtml#R930}Sarkar, D. 2015. _Thermal Power Plant:
-      Design and Operation_. Amsterdam: Elsevier.
-931.  []{#c10752_444.xhtml#R931}Sasada, T., and A. Chunag. 2014. Irom
+930.  []{#c10752*444.xhtml#R930}Sarkar, D. 2015. \_Thermal Power Plant:
+      Design and Operation*. Amsterdam: Elsevier.
+931.  []{#c10752*444.xhtml#R931}Sasada, T., and A. Chunag. 2014. Irom
       smelting in the nomadic empire of Xiongnu in ancient Mongolia.
-      _ISIJ International_ 54:1017--1023.
-932.  []{#c10752_444.xhtml#R932}Savage, C. I. 1959. _An Economic History
-      of Transport_. London: Hutchinson.
-933.  []{#c10752_444.xhtml#R933}Schlebecker, J. T. 1975. _Whereby We
-      Thrive_. Ames: Iowa State University Press.
-934.  []{#c10752_444.xhtml#R934}Schmidt, M. J. 1996. Working elephants.
-      _Scientific American_ 274 (1): 82--87.
-935.  []{#c10752_444.xhtml#R935}Schmidt, P., and D. H. Avery. 1978.
+      \_ISIJ International* 54:1017--1023.
+932.  []{#c10752*444.xhtml#R932}Savage, C. I. 1959. \_An Economic History
+      of Transport*. London: Hutchinson.
+933.  []{#c10752*444.xhtml#R933}Schlebecker, J. T. 1975. \_Whereby We
+      Thrive*. Ames: Iowa State University Press.
+934.  []{#c10752*444.xhtml#R934}Schmidt, M. J. 1996. Working elephants.
+      \_Scientific American* 274 (1): 82--87.
+935.  []{#c10752*444.xhtml#R935}Schmidt, P., and D. H. Avery. 1978.
       Complex iron smelting and prehistoric culture in Tanzania.
-      _Science_ 201:1085--1089.
-936.  []{#c10752_444.xhtml#R936}Schobert, H. H. 2014. _Energy and
-      Society: An Introduction_. Boca Raton, FL: CRC Press.
+      \_Science* 201:1085--1089.
+936.  []{#c10752*444.xhtml#R936}Schobert, H. H. 2014. \_Energy and
+      Society: An Introduction*. Boca Raton, FL: CRC Press.
 937.  []{#c10752_444.xhtml#R937}Schram, W. D. 2014. Greek and Roman
       Siphons. <http://www.romanaqueducts.info/siphons/siphons.htm>.
-938.  []{#c10752_444.xhtml#R938}Schumpeter, J. A. 1939. _Business Cycle:
+938.  []{#c10752*444.xhtml#R938}Schumpeter, J. A. 1939. \_Business Cycle:
       A Theoretical and Statistical Analysis of the Capitalist
-      Processes_. New York: McGraw-Hill.
-939.  []{#c10752_444.xhtml#R939}Schurr, S. H., and B. C. Netschert. 1960.
-      _Energy in the American Economy 1850--1975_. Baltimore, MD: Johns
+      Processes*. New York: McGraw-Hill.
+939.  []{#c10752*444.xhtml#R939}Schurr, S. H., and B. C. Netschert. 1960.
+      \_Energy in the American Economy 1850--1975*. Baltimore, MD: Johns
       Hopkins University Press.
-940.  []{#c10752_444.xhtml#R940}Schurr, S. H., et al. 1990. _Electricity
-      in the American Economy: Agent of Technological Progress_. New
+940.  []{#c10752*444.xhtml#R940}Schurr, S. H., et al. 1990. \_Electricity
+      in the American Economy: Agent of Technological Progress*. New
       York: Greenwood Press.
-941.  []{#c10752_444.xhtml#R941}Schurz, W. L. 1939. _The Manila Galleon_.
+941.  []{#c10752*444.xhtml#R941}Schurz, W. L. 1939. \_The Manila Galleon*.
       New York: E. P. Dutton.
-942.  []{#c10752_444.xhtml#R942}Scott, D. A. 2002. _Copper and Bronze in
-      Art: Corrosion, Colorants, Conservation_. Los Angeles: Getty
+942.  []{#c10752*444.xhtml#R942}Scott, D. A. 2002. \_Copper and Bronze in
+      Art: Corrosion, Colorants, Conservation*. Los Angeles: Getty
       Conservation Institute.
-943.  []{#c10752_444.xhtml#R943}Scott, R. A. 2011. _Gothic Enterprise A
-      Guide to Understanding the Medieval Cathedral_. Berkeley:
+943.  []{#c10752*444.xhtml#R943}Scott, R. A. 2011. \_Gothic Enterprise A
+      Guide to Understanding the Medieval Cathedral*. Berkeley:
       University of California Press.
-944.  []{#c10752_444.xhtml#R944}Seaborg, G. T. 1972. Opening Address. In
-      _Peaceful Uses of Atomic Energy: Proceedings of the Fourth
-      International Conference on the Peaceful Uses of Atomic Energy_,
+944.  []{#c10752*444.xhtml#R944}Seaborg, G. T. 1972. Opening Address. In
+      \_Peaceful Uses of Atomic Energy: Proceedings of the Fourth
+      International Conference on the Peaceful Uses of Atomic Energy*,
       29--35. New York: United Nations.
-945.  []{#c10752_444.xhtml#R945}Seavoy, R. E. 1986. _Famine in Peasant
-      Societies_. New York: Greenwood Press.
-946.  []{#c10752_444.xhtml#R946}Seebohm, M. E. 1927. _The Evolution of
-      the English Farm_. London: Allen & Unwin.
-947.  []{#c10752_444.xhtml#R947}comte de Ségur, P.-P. 1825. _History of
+945.  []{#c10752*444.xhtml#R945}Seavoy, R. E. 1986. \_Famine in Peasant
+      Societies*. New York: Greenwood Press.
+946.  []{#c10752*444.xhtml#R946}Seebohm, M. E. 1927. \_The Evolution of
+      the English Farm*. London: Allen & Unwin.
+947.  []{#c10752*444.xhtml#R947}comte de Ségur, P.-P. 1825. \_History of
       the Expedition to Russia, Undertaken by Emperor Napoleon, in the
-      Year 1812_. London: Treuttel and Würtz.
+      Year 1812*. London: Treuttel and Würtz.
 948.  []{#c10752_444.xhtml#R948}Self. 2015. Nuts, brazilnuts. Dried,
       unblanched. Self.com.
       <http://nutritiondata.self.com/facts/nut-and-seed-products/3091/2>.
-949.  []{#c10752_444.xhtml#R949}Sellin, H. J. 1983. The large Roman water
-      mill at Barbégal (France). _History and Technology_ 8:91--109.
-950.  []{#c10752_444.xhtml#R950}Senancour, E. P. 1901 (1804). _Obermann_.
+949.  []{#c10752*444.xhtml#R949}Sellin, H. J. 1983. The large Roman water
+      mill at Barbégal (France). \_History and Technology* 8:91--109.
+950.  []{#c10752*444.xhtml#R950}Senancour, E. P. 1901 (1804). \_Obermann*.
       Trans. J. D. Frothingham. Cambridge: Riverside Press.
-951.  []{#c10752_444.xhtml#R951}Sexton, A. H. 1897. _Fuel and Refractory
-      Materials_. London: Vlackie and Son.
-952.  []{#c10752_444.xhtml#R952}Sharma, R. 2012. _Wheat Cultivation
-      Practices: With Special Reference to Nitrogen and Weed Management_.
+951.  []{#c10752*444.xhtml#R951}Sexton, A. H. 1897. \_Fuel and Refractory
+      Materials*. London: Vlackie and Son.
+952.  []{#c10752*444.xhtml#R952}Sharma, R. 2012. \_Wheat Cultivation
+      Practices: With Special Reference to Nitrogen and Weed Management*.
       Saarbrücken: LAP Lambert Academic Publishing.
-953.  []{#c10752_444.xhtml#R953}Shannon, C. E. 1948. A mathematical
-      theory of communication. _Bell System Technical Journal_
+953.  []{#c10752*444.xhtml#R953}Shannon, C. E. 1948. A mathematical
+      theory of communication. \_Bell System Technical Journal*
       27:379--423, 623--656.
-954.  []{#c10752_444.xhtml#R954}Sheehan, G. W. 1985. Whaling as an
-      organizing focus in Northwestern Eskimo society. In _Prehistoric
-      Hunter-Gatherers_, ed. T. D. Price and J. A. Brown, 123--154.
+954.  []{#c10752*444.xhtml#R954}Sheehan, G. W. 1985. Whaling as an
+      organizing focus in Northwestern Eskimo society. In \_Prehistoric
+      Hunter-Gatherers*, ed. T. D. Price and J. A. Brown, 123--154.
       Orlando, FL: Academic Press.
-955.  []{#c10752_444.xhtml#R955}Sheldon, C. D. 1958. _The Rise of the
+955.  []{#c10752*444.xhtml#R955}Sheldon, C. D. 1958. \_The Rise of the
       Merchant Class in Tokugawa Japan, 1600--1868: An Introductory
-      Survey_. New York: J. J. Augustin.
-956.  []{#c10752_444.xhtml#R956}Shen, T. H. 1951. _Agricultural Resources
-      of China_. Ithaca, NY: Cornell University Press.
+      Survey*. New York: J. J. Augustin.
+956.  []{#c10752*444.xhtml#R956}Shen, T. H. 1951. \_Agricultural Resources
+      of China*. Ithaca, NY: Cornell University Press.
 957.  []{#c10752_444.xhtml#R957}Shift Project. 2015. Redesigning Economy
       to Achieve Carbon Transition. <http://www.theshiftproject.org>.
-958.  []{#c10752_444.xhtml#R958}Shockley, W. 1964. Transistor technology
-      evokes new physics. In _Nobel Lectures: Physics 1942--1962_,
+958.  []{#c10752*444.xhtml#R958}Shockley, W. 1964. Transistor technology
+      evokes new physics. In \_Nobel Lectures: Physics 1942--1962*,
       344--374. Amsterdam: Elsevier.
-959.  []{#c10752_444.xhtml#R959}Shulman, P. A. 2015. _Coal and Empire:
-      The Birth of Energy Security in Industrial America_. Baltimore, MD:
+959.  []{#c10752*444.xhtml#R959}Shulman, P. A. 2015. \_Coal and Empire:
+      The Birth of Energy Security in Industrial America*. Baltimore, MD:
       Johns Hopkins University Press.
-960.  []{#c10752_444.xhtml#R960}Sieferle, R. P. 2001. _The Subterranean
-      Forest_. Cambridge: White Horse Press.
-961.  []{#c10752_444.xhtml#R961}Siemens, C. W. 1882. Electric lighting,
-      the transmission of force by electricity. _Nature_ 27:67--71.
-962.  []{#c10752_444.xhtml#R962}Sierra-Macías, M., et al. 2010.
+960.  []{#c10752*444.xhtml#R960}Sieferle, R. P. 2001. \_The Subterranean
+      Forest*. Cambridge: White Horse Press.
+961.  []{#c10752*444.xhtml#R961}Siemens, C. W. 1882. Electric lighting,
+      the transmission of force by electricity. \_Nature* 27:67--71.
+962.  []{#c10752*444.xhtml#R962}Sierra-Macías, M., et al. 2010.
       Caracterización agronómica, calidad industrial y nutricional de
-      maíz para el trópico mexicano. _Agronomía Mesoamericana_ 21:21--29.
-963.  []{#c10752_444.xhtml#R963}Sillitoe, P. 2002. Always been
+      maíz para el trópico mexicano. \_Agronomía Mesoamericana* 21:21--29.
+963.  []{#c10752*444.xhtml#R963}Sillitoe, P. 2002. Always been
       farmer-foragers? Hunting and gathering in the Papua New Guinea
-      Highlands. _Anthropological Forum_ 12:45--76.
-964.  []{#c10752_444.xhtml#R964}Silver, C. 1976. _Guide to the Horses of
-      the World_. Oxford: Elsevier Phaidon.
-965.  []{#c10752_444.xhtml#R965}Simons, G. 2014. _Comet! The World's
-      First Jet Airliner_. Barnsley: Pen and Sword Books.
-966.  []{#c10752_444.xhtml#R966}Singer, C. et al., eds. 1954--1958. _A
-      History of Technology_. 5 volumes. Oxford: Oxford University Press.
-967.  []{#c10752_444.xhtml#R967}Singer, J. D., and M. Small. 1972. _The
-      Wages of War 1816--1965: A Statistical Handbook_. New York: John
+      Highlands. \_Anthropological Forum* 12:45--76.
+964.  []{#c10752*444.xhtml#R964}Silver, C. 1976. \_Guide to the Horses of
+      the World*. Oxford: Elsevier Phaidon.
+965.  []{#c10752*444.xhtml#R965}Simons, G. 2014. \_Comet! The World's
+      First Jet Airliner*. Barnsley: Pen and Sword Books.
+966.  []{#c10752*444.xhtml#R966}Singer, C. et al., eds. 1954--1958. \_A
+      History of Technology*. 5 volumes. Oxford: Oxford University Press.
+967.  []{#c10752*444.xhtml#R967}Singer, J. D., and M. Small. 1972. \_The
+      Wages of War 1816--1965: A Statistical Handbook*. New York: John
       Wiley.
-968.  []{#c10752_444.xhtml#R968}Sinor, D. 1999. The Mongols in the West.
-      _Journal of Asian History_ 33:1--44.
-969.  []{#c10752_444.xhtml#R969}Sittauer, H. L. 1972. _Gebändigte
-      Explosionen_. Berlin: Transpress Verlag für Verkehrswesen.
-970.  []{#c10752_444.xhtml#R970}Sitwell, N. H. 1981. _Roman Roads of
-      Europe_. New York: St. Martin's Press.
-971.  []{#c10752_444.xhtml#R971}Siuru, B. 1989. Horsepower to the people.
-      _Mechanical Engineering (New York)_ 111 (2): 42--46.
-972.  []{#c10752_444.xhtml#R972}Skilton, C. P. 1947. _British Windmills
-      and Watermills_. London: Collins.
-973.  []{#c10752_444.xhtml#R973}Slicher van Bath, B. H. 1963. _The
-      Agrarian History of Western Europe, A.D. 500--1850_. London:
+968.  []{#c10752*444.xhtml#R968}Sinor, D. 1999. The Mongols in the West.
+      \_Journal of Asian History* 33:1--44.
+969.  []{#c10752*444.xhtml#R969}Sittauer, H. L. 1972. \_Gebändigte
+      Explosionen*. Berlin: Transpress Verlag für Verkehrswesen.
+970.  []{#c10752*444.xhtml#R970}Sitwell, N. H. 1981. \_Roman Roads of
+      Europe*. New York: St. Martin's Press.
+971.  []{#c10752*444.xhtml#R971}Siuru, B. 1989. Horsepower to the people.
+      \_Mechanical Engineering (New York)* 111 (2): 42--46.
+972.  []{#c10752*444.xhtml#R972}Skilton, C. P. 1947. \_British Windmills
+      and Watermills*. London: Collins.
+973.  []{#c10752*444.xhtml#R973}Slicher van Bath, B. H. 1963. \_The
+      Agrarian History of Western Europe, A.D. 500--1850*. London:
       Arnold.
-974.  []{#c10752_444.xhtml#R974}Smeaton, J. 1759. An experimental enquiry
+974.  []{#c10752*444.xhtml#R974}Smeaton, J. 1759. An experimental enquiry
       concerning the natural power of water and wind to turn mills, and
-      other machines, depending on a circular motion. _Philosophical
-      Transactions of the Royal Society of London_ 51:100--174.
-975.  []{#c10752_444.xhtml#R975}Smil, V. 1976. _China's Energy_. New
+      other machines, depending on a circular motion. \_Philosophical
+      Transactions of the Royal Society of London* 51:100--174.
+975.  []{#c10752*444.xhtml#R975}Smil, V. 1976. \_China's Energy*. New
       York: Praeger.
-976.  []{#c10752_444.xhtml#R976}Smil, V. 1981. China's food. _Food
-      Policy_ 6:67--77.
-977.  []{#c10752_444.xhtml#R977}Smil, V. 1983. _Biomass Energies_. New
+976.  []{#c10752*444.xhtml#R976}Smil, V. 1981. China's food. \_Food
+      Policy* 6:67--77.
+977.  []{#c10752*444.xhtml#R977}Smil, V. 1983. \_Biomass Energies*. New
       York: Plenum Press.
-978.  []{#c10752_444.xhtml#R978}Smil, V. 1985. _Carbon Nitrogen Sulfur:
-      Human Interference in Grand Biospheric Cycles_. New York: Plenum
+978.  []{#c10752*444.xhtml#R978}Smil, V. 1985. \_Carbon Nitrogen Sulfur:
+      Human Interference in Grand Biospheric Cycles*. New York: Plenum
       Press.
-979.  []{#c10752_444.xhtml#R979}Smil, V. 1987. _Energy Food Environment_.
+979.  []{#c10752*444.xhtml#R979}Smil, V. 1987. \_Energy Food Environment*.
       Oxford: Oxford University Press.
-980.  []{#c10752_444.xhtml#R980}Smil, V. 1988. _Energy in China's
-      Modernization_. Armonk, NY: M. E. Sharpe.
-981.  []{#c10752_444.xhtml#R981}Smil, V. 1991. _General Energetics_. New
+980.  []{#c10752*444.xhtml#R980}Smil, V. 1988. \_Energy in China's
+      Modernization*. Armonk, NY: M. E. Sharpe.
+981.  []{#c10752*444.xhtml#R981}Smil, V. 1991. \_General Energetics*. New
       York: John Wiley.
-982.  []{#c10752_444.xhtml#R982}Smil, V. 1994. _Energy in World History_.
+982.  []{#c10752*444.xhtml#R982}Smil, V. 1994. \_Energy in World History*.
       Boulder, CO: Westview.
-983.  []{#c10752_444.xhtml#R983}Smil, V. 1997. _Cycles of Life_. New
+983.  []{#c10752*444.xhtml#R983}Smil, V. 1997. \_Cycles of Life*. New
       York: Scientific American Library.
-984.  []{#c10752_444.xhtml#R984}Smil, V. 2000a. Energy in the twentieth
+984.  []{#c10752*444.xhtml#R984}Smil, V. 2000a. Energy in the twentieth
       century: Resources, conversions, costs, uses, and consequences.
-      _Annual Review of Energy and the Environment_ 25:21--51.
-985.  []{#c10752_444.xhtml#R985}Smil, V. 2000b. _Feeding the World_.
+      \_Annual Review of Energy and the Environment* 25:21--51.
+985.  []{#c10752*444.xhtml#R985}Smil, V. 2000b. \_Feeding the World*.
       Cambridge, MA: MIT Press.
-986.  []{#c10752_444.xhtml#R986}Smil, V. 2000c. Jumbo. _Nature_ 406:239.
-987.  []{#c10752_444.xhtml#R987}Smil, V. 2001. _Enriching the Earth:
+986.  []{#c10752*444.xhtml#R986}Smil, V. 2000c. Jumbo. \_Nature* 406:239.
+987.  []{#c10752*444.xhtml#R987}Smil, V. 2001. \_Enriching the Earth:
       Fritz Haber, Carl Bosch and the Transformation of World Food
-      Production_. Cambridge, MA: MIT Press.
-988.  []{#c10752_444.xhtml#R988}Smil, V. 2003. _Energy at the Crossroads:
-      Global Perspectives and Uncertainties_. Cambridge, MA: MIT Press.
-989.  []{#c10752_444.xhtml#R989}Smil, V. 2004. War and energy. In
-      _Encyclopedia of Energy_, ed. C. Cleveland et al., vol. 6,
+      Production*. Cambridge, MA: MIT Press.
+988.  []{#c10752*444.xhtml#R988}Smil, V. 2003. \_Energy at the Crossroads:
+      Global Perspectives and Uncertainties*. Cambridge, MA: MIT Press.
+989.  []{#c10752*444.xhtml#R989}Smil, V. 2004. War and energy. In
+      \_Encyclopedia of Energy*, ed. C. Cleveland et al., vol. 6,
       363--371. Amsterdam: Elsevier.
-990.  []{#c10752_444.xhtml#R990}Smil, V. 2005. _Creating the Twentieth
+990.  []{#c10752*444.xhtml#R990}Smil, V. 2005. \_Creating the Twentieth
       Century: Technical Innovations of 1867--1914 and Their Lasting
-      Impact_. New York: Oxford University Press.
-991.  []{#c10752_444.xhtml#R991}Smil, V. 2006. _Transforming the
-      Twentieth Century: Technical Innovations and Their Consequences_.
+      Impact*. New York: Oxford University Press.
+991.  []{#c10752*444.xhtml#R991}Smil, V. 2006. \_Transforming the
+      Twentieth Century: Technical Innovations and Their Consequences*.
       New York: Oxford University Press.
-992.  []{#c10752_444.xhtml#R992}Smil, V. 2008a. _Energy in Nature and
-      Society: General Energetics of Complex Systems_. Cambridge, MA: MIT
+992.  []{#c10752*444.xhtml#R992}Smil, V. 2008a. \_Energy in Nature and
+      Society: General Energetics of Complex Systems*. Cambridge, MA: MIT
       Press.
-993.  []{#c10752_444.xhtml#R993}Smil, V. 2008b. _Global Catastrophes and
-      Trends_. Cambridge, MA: MIT Press.
-994.  []{#c10752_444.xhtml#R994}Smil, V. 2008c. _Oil_. Oxford: Oneworld
+993.  []{#c10752*444.xhtml#R993}Smil, V. 2008b. \_Global Catastrophes and
+      Trends*. Cambridge, MA: MIT Press.
+994.  []{#c10752*444.xhtml#R994}Smil, V. 2008c. \_Oil*. Oxford: Oneworld
       Press.
-995.  []{#c10752_444.xhtml#R995}Smil, V. 2010a. _Energy Transitions:
-      History, Requirements, Prospects_. Santa Barbara, CA: Praeger.
-996.  []{#c10752_444.xhtml#R996}Smil, V. 2010b. _Prime Movers of
+995.  []{#c10752*444.xhtml#R995}Smil, V. 2010a. \_Energy Transitions:
+      History, Requirements, Prospects*. Santa Barbara, CA: Praeger.
+996.  []{#c10752*444.xhtml#R996}Smil, V. 2010b. \_Prime Movers of
       Globalization: The History and Impact of Diesel Engines and Gas
-      Turbines_. Cambridge: MIT Press.
-997.  []{#c10752_444.xhtml#R997}Smil, V. 2010c. _Why America Is Not a New
-      Rome_. Cambridge, MA: MIT Press.
-998.  []{#c10752_444.xhtml#R998}Smil, V. 2013a. _Harvesting the
-      Biosphere: What We Have Taken from Nature_. Cambridge, MA: MIT
+      Turbines*. Cambridge: MIT Press.
+997.  []{#c10752*444.xhtml#R997}Smil, V. 2010c. \_Why America Is Not a New
+      Rome*. Cambridge, MA: MIT Press.
+998.  []{#c10752*444.xhtml#R998}Smil, V. 2013a. \_Harvesting the
+      Biosphere: What We Have Taken from Nature*. Cambridge, MA: MIT
       Press.
-999.  []{#c10752_444.xhtml#R999}Smil, V. 2013b. Just how polluted is
-      China, anyway? _The American,_ January 31, 2013.
+999.  []{#c10752*444.xhtml#R999}Smil, V. 2013b. Just how polluted is
+      China, anyway? \_The American,* January 31, 2013.
       <http://www.vaclavsmil.com/wp-content/uploads/smail-article-20130131.pdf>.
-1000. []{#c10752_444.xhtml#R1000}Smil, V. 2013c. _Made in the USA: The
-      Rise and Retreat of American Manufacturing_. Cambridge, MA: MIT
+1000. []{#c10752*444.xhtml#R1000}Smil, V. 2013c. \_Made in the USA: The
+      Rise and Retreat of American Manufacturing*. Cambridge, MA: MIT
       Press.
-1001. []{#c10752_444.xhtml#R1001}Smil, V. 2013d. _Should We Eat Meat?_
+1001. []{#c10752*444.xhtml#R1001}Smil, V. 2013d. \_Should We Eat Meat?*
       Chichester: Wiley Blackwell.
-1002. []{#c10752_444.xhtml#R1002}Smil, V. 2014a. Fifty years of the
-      _Shinkansen. Asia-Pacific Journal: Japan Focus,_ December 1, 2014.
+1002. []{#c10752*444.xhtml#R1002}Smil, V. 2014a. Fifty years of the
+      \_Shinkansen. Asia-Pacific Journal: Japan Focus,* December 1, 2014.
       <http://www.vaclavsmil.com/wp-content/uploads/shinkansen.pdf>.
-1003. []{#c10752_444.xhtml#R1003}Smil, V. 2014b. _Making the Modern
-      World: Materials and Dematerialization_. Chichester: Wiley.
-1004. []{#c10752_444.xhtml#R1004}Smil, V. 2015a. _Natural Gas: Fuel for
-      the 21st Century_. Chichester: Wiley.
-1005. []{#c10752_444.xhtml#R1005}Smil, V. 2015b. _Power Density: A Key
-      to Understanding Energy Sources and Uses_. Cambridge, MA: MIT
+1003. []{#c10752*444.xhtml#R1003}Smil, V. 2014b. \_Making the Modern
+      World: Materials and Dematerialization*. Chichester: Wiley.
+1004. []{#c10752*444.xhtml#R1004}Smil, V. 2015a. \_Natural Gas: Fuel for
+      the 21st Century*. Chichester: Wiley.
+1005. []{#c10752*444.xhtml#R1005}Smil, V. 2015b. \_Power Density: A Key
+      to Understanding Energy Sources and Uses*. Cambridge, MA: MIT
       Press.
 1006. []{#c10752*444.xhtml#R1006}Smil, V. 2015c. Real price of oil.
       *IEEE Spectrum* 26 (October).
       <http://www.vaclavsmil.com/wp-content/uploads/10.OIL*.pdf>.
-1007. []{#c10752_444.xhtml#R1007}Smil, V. 2016. _Still the Iron Age:
-      Iron and Steel in the Modern World_. Amsterdam: Elsevier.
-1008. []{#c10752_444.xhtml#R1008}Smith, K. 2013. _Biofuels, Air
-      Pollution, and Health: A Global Review_. Berlin: Springer.
-1009. []{#c10752_444.xhtml#R1009}Smith, K. P., and A. Anilkumar. 2012.
-      _Rice Farming_. Saarbrücken: Lambert Academic Publishing.
-1010. []{#c10752_444.xhtml#R1010}Smith, N. 1980. The origins of the
-      water turbine. _Scientific American_ 242 (1): 138--148.
-1011. []{#c10752_444.xhtml#R1011}Smith, P. C. 2015. _Mitsubishi Zero:
-      Japan's Legendary Fighter_. Barnsley: Pen & Sword Books.
-1012. []{#c10752_444.xhtml#R1012}Smith, N. 1978. Roman hydraulic
-      technology. _Scientific American_ 238:154--161.
-1013. []{#c10752_444.xhtml#R1013}Smythe, R. H. 1967. _The Structure of
-      the Horse_. London: J. A. Allen & Co.
-1014. []{#c10752_444.xhtml#R1014}Sobel, D. 1995. _Longitude: The True
+1007. []{#c10752*444.xhtml#R1007}Smil, V. 2016. \_Still the Iron Age:
+      Iron and Steel in the Modern World*. Amsterdam: Elsevier.
+1008. []{#c10752*444.xhtml#R1008}Smith, K. 2013. \_Biofuels, Air
+      Pollution, and Health: A Global Review*. Berlin: Springer.
+1009. []{#c10752*444.xhtml#R1009}Smith, K. P., and A. Anilkumar. 2012.
+      \_Rice Farming*. Saarbrücken: Lambert Academic Publishing.
+1010. []{#c10752*444.xhtml#R1010}Smith, N. 1980. The origins of the
+      water turbine. \_Scientific American* 242 (1): 138--148.
+1011. []{#c10752*444.xhtml#R1011}Smith, P. C. 2015. \_Mitsubishi Zero:
+      Japan's Legendary Fighter*. Barnsley: Pen & Sword Books.
+1012. []{#c10752*444.xhtml#R1012}Smith, N. 1978. Roman hydraulic
+      technology. \_Scientific American* 238:154--161.
+1013. []{#c10752*444.xhtml#R1013}Smythe, R. H. 1967. \_The Structure of
+      the Horse*. London: J. A. Allen & Co.
+1014. []{#c10752*444.xhtml#R1014}Sobel, D. 1995. \_Longitude: The True
       Story of a Lone Genius Who Solved the Greatest Scientific Problem
-      of His Time_. New York: Penguin.
-1015. []{#c10752_444.xhtml#R1015}Sockol, M. D., D. A. Raichlen, and H.
+      of His Time*. New York: Penguin.
+1015. []{#c10752*444.xhtml#R1015}Sockol, M. D., D. A. Raichlen, and H.
       Pontzer. 2007. Chimpanzee locomotor energetics and the origin of
-      human bipedalism. _Proceedings of the National Academy of Sciences
-      of the United States of America_ 104:12265--12269.
-1016. []{#c10752_444.xhtml#R1016}Soddy, F. 1933. _Money versus Man: A
+      human bipedalism. \_Proceedings of the National Academy of Sciences
+      of the United States of America* 104:12265--12269.
+1016. []{#c10752*444.xhtml#R1016}Soddy, F. 1933. \_Money versus Man: A
       Statement of the World Problem from the Standpoint of the New
-      Economics_. New York: E. P. Dutton.
-1017. []{#c10752_444.xhtml#R1017}Soedel, W., and V. Foley. 1979. Ancient
-      catapults. _Scientific American_ 240 (3): 150--160.
-1018. []{#c10752_444.xhtml#R1018}Solomon, B. D., J. R. Barnes, and K. E.
+      Economics*. New York: E. P. Dutton.
+1017. []{#c10752*444.xhtml#R1017}Soedel, W., and V. Foley. 1979. Ancient
+      catapults. \_Scientific American* 240 (3): 150--160.
+1018. []{#c10752*444.xhtml#R1018}Solomon, B. D., J. R. Barnes, and K. E.
       Halvorsen. 2007. Grain and cellulosic ethanol: History, economics,
-      and energy policy. _Biomass and Bioenergy_ 31:416--425.
-1019. []{#c10752_444.xhtml#R1019}Solomon, F., and R. Q. Marston,
-      eds. 1986. _The Medical Implications of Nuclear War_. Washington,
+      and energy policy. \_Biomass and Bioenergy* 31:416--425.
+1019. []{#c10752*444.xhtml#R1019}Solomon, F., and R. Q. Marston,
+      eds. 1986. \_The Medical Implications of Nuclear War*. Washington,
       DC: National Academies Press.
-1020. []{#c10752_444.xhtml#R1020}Sørensen, B. 2011. _History of Energy:
-      Northern Europe from the Stone Age to the Present Day_. London:
+1020. []{#c10752*444.xhtml#R1020}Sørensen, B. 2011. \_History of Energy:
+      Northern Europe from the Stone Age to the Present Day*. London:
       Routledge.
-1021. []{#c10752_444.xhtml#R1021}Speer, A. 1970. _Inside the Third
-      Reich: Memoirs_. New York: Macmillan.
-1022. []{#c10752_444.xhtml#R1022}Spence, K. 2000. Ancient Egyptian
-      chronology and the astronomical orientation of pyramids. _Nature_
+1021. []{#c10752*444.xhtml#R1021}Speer, A. 1970. \_Inside the Third
+      Reich: Memoirs*. New York: Macmillan.
+1022. []{#c10752*444.xhtml#R1022}Spence, K. 2000. Ancient Egyptian
+      chronology and the astronomical orientation of pyramids. \_Nature*
       408:320--324.
-1023. []{#c10752_444.xhtml#R1023}Spencer, J. E. 1966. _Shifting
-      Cultivation in Southeastern Asia_. Berkeley: University of
+1023. []{#c10752*444.xhtml#R1023}Spencer, J. E. 1966. \_Shifting
+      Cultivation in Southeastern Asia*. Berkeley: University of
       California Press.
-1024. []{#c10752_444.xhtml#R1024}Spinardi, G. 2008. _From Polaris to
+1024. []{#c10752*444.xhtml#R1024}Spinardi, G. 2008. \_From Polaris to
       Trident: The Development of US Fleet Ballistic Missile
-      Technology_. Cambridge: Cambridge University Press.
-1025. []{#c10752_444.xhtml#R1025}Sponheimer, M., et al. 2013. Isotopic
-      evidence of early hominin diets. _Proceedings of the National
-      Academy of Sciences of the United States of America_
+      Technology*. Cambridge: Cambridge University Press.
+1025. []{#c10752*444.xhtml#R1025}Sponheimer, M., et al. 2013. Isotopic
+      evidence of early hominin diets. \_Proceedings of the National
+      Academy of Sciences of the United States of America*
       110:10513--10518.
-1026. []{#c10752_444.xhtml#R1026}Sprague, G. F., and J. W. Dudley,
-      eds. 1988. _Corn and Corn Improvement_. Madison, WI: American
+1026. []{#c10752*444.xhtml#R1026}Sprague, G. F., and J. W. Dudley,
+      eds. 1988. \_Corn and Corn Improvement*. Madison, WI: American
       Society of Agronomy.
-1027. []{#c10752_444.xhtml#R1027}Spring-Rice, M. 1939. _Working-Class
-      Wives_. Hardmonsworth: Penguin.
-1028. []{#c10752_444.xhtml#R1028}Spruytte, J. 19837. _Études
+1027. []{#c10752*444.xhtml#R1027}Spring-Rice, M. 1939. \_Working-Class
+      Wives*. Hardmonsworth: Penguin.
+1028. []{#c10752*444.xhtml#R1028}Spruytte, J. 19837. *Études
       expérimentales sur l'attelage: Contribution à l'histoire du
-      cheval_. Paris: Crépin-Lebond.
-1029. []{#c10752_444.xhtml#R1029}Stanhill, G. 1976. Trends and
+      cheval\_. Paris: Crépin-Lebond.
+1029. []{#c10752*444.xhtml#R1029}Stanhill, G. 1976. Trends and
       deviations in the yield of the English wheat crop during the last
-      750 years. _Agro-ecosystems_ 3:1--10.
-1030. []{#c10752_444.xhtml#R1030}Stanley, W. 1912. Alternating-current
-      development in America. _Journal of the Franklin Institute_
+      750 years. \_Agro-ecosystems* 3:1--10.
+1030. []{#c10752*444.xhtml#R1030}Stanley, W. 1912. Alternating-current
+      development in America. \_Journal of the Franklin Institute*
       173:561--580.
-1031. []{#c10752_444.xhtml#R1031}Starbuck, A. 1878. _History of the
-      American Whale Fishery_. Waltham, MA: A. Starbuck.
-1032. []{#c10752_444.xhtml#R1032}Stearns, P. N. 2012. _The Industrial
-      Revolution in World History_. Boulder, CO: Westview Press.
-1033. []{#c10752_444.xhtml#R1033}Stern, D. I. 2004. Economic growth and
-      energy. In _Encyclopedia of Energy_, ed. C. Cleveland et al., vol.
+1031. []{#c10752*444.xhtml#R1031}Starbuck, A. 1878. \_History of the
+      American Whale Fishery*. Waltham, MA: A. Starbuck.
+1032. []{#c10752*444.xhtml#R1032}Stearns, P. N. 2012. \_The Industrial
+      Revolution in World History*. Boulder, CO: Westview Press.
+1033. []{#c10752*444.xhtml#R1033}Stern, D. I. 2004. Economic growth and
+      energy. In \_Encyclopedia of Energy*, ed. C. Cleveland et al., vol.
       2, 35--51. Amsterdam: Elsevier.
-1034. []{#c10752_444.xhtml#R1034}Stern, D. I. 2010. _The Role of Energy
-      in Economic Growth_. Canberra: Australian National University.
+1034. []{#c10752*444.xhtml#R1034}Stern, D. I. 2010. \_The Role of Energy
+      in Economic Growth*. Canberra: Australian National University.
 1035. []{#c10752_444.xhtml#R1035}Stewart, I., D. De, and A. Cole. 2015.
       Technology and people: The great job-creating machine. Deloitte.
       <http://www2.deloitte.com/uk/en/pages/finance/articles/technology-and-people.html>.
 1036. []{#c10752_444.xhtml#R1036}Stockholm Resilience Center. 2015. The
       nine planetary boundaries.
       <http://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html>.
-1037. []{#c10752_444.xhtml#R1037}Stockhuyzen, F. 1963. _The Dutch
-      Windmill_. New York: Universe Books.
-1038. []{#c10752_444.xhtml#R1038}Stoltzenberg, D. 2004. _Fritz Haber:
-      Chemist, Nobel Laureate, German, Jew_. Philadelphia: Chemical
+1037. []{#c10752*444.xhtml#R1037}Stockhuyzen, F. 1963. \_The Dutch
+      Windmill*. New York: Universe Books.
+1038. []{#c10752*444.xhtml#R1038}Stoltzenberg, D. 2004. \_Fritz Haber:
+      Chemist, Nobel Laureate, German, Jew*. Philadelphia: Chemical
       Heritage Press.
-1039. []{#c10752_444.xhtml#R1039}Stopford, M. 2009. _Maritime
-      Economics_. London: Routledge.
-1040. []{#c10752_444.xhtml#R1040}Straker, E. 1969. _Wealden Iron_. New
+1039. []{#c10752*444.xhtml#R1039}Stopford, M. 2009. \_Maritime
+      Economics*. London: Routledge.
+1040. []{#c10752*444.xhtml#R1040}Straker, E. 1969. \_Wealden Iron*. New
       York: Augustus M. Kelley.
-1041. []{#c10752_444.xhtml#R1041}Strauss, L. L. 1954. Speech to the
+1041. []{#c10752*444.xhtml#R1041}Strauss, L. L. 1954. Speech to the
       National Association of Science Writers, New York City,
-      September 16. Cited in _New York Times_, September 17, 5.
-1042. []{#c10752_444.xhtml#R1042}Stross, R. E. 1996. _The Microsoft Way:
-      The Real Story of How the Company Outsmarts its Competition_.
+      September 16. Cited in \_New York Times*, September 17, 5.
+1042. []{#c10752*444.xhtml#R1042}Stross, R. E. 1996. \_The Microsoft Way:
+      The Real Story of How the Company Outsmarts its Competition*.
       Reading, MA: Addison-Wesley.
-1043. []{#c10752_444.xhtml#R1043}Subcommittee on Horse Nutrition. 1978.
-      _Nutrient Requirements of Horses_. Washington, DC: NAS.
-1044. []{#c10752_444.xhtml#R1044}Sullivan, R. J. 1990. The revolution of
+1043. []{#c10752*444.xhtml#R1043}Subcommittee on Horse Nutrition. 1978.
+      \_Nutrient Requirements of Horses*. Washington, DC: NAS.
+1044. []{#c10752*444.xhtml#R1044}Sullivan, R. J. 1990. The revolution of
       ideas: Widespread patenting and invention during the English
-      Industrial Revolution. _Journal of Economic History_ 50:349--362.
-1045. []{#c10752_444.xhtml#R1045}Swade, D. 1991. _Charles Babbage and
-      His Calculating Engines_. London: Science Museum.
-1046. []{#c10752_444.xhtml#R1046}Taeuber, I. B. 1958. _The Population of
-      Japan_. Princeton, NJ: Princeton University Press.
-1047. []{#c10752_444.xhtml#R1047}Tainter, J. A. 1988. _The Collapse of
-      Complex Societies_. New York: Cambridge University Press.
-1048. []{#c10752_444.xhtml#R1048}Takamatsu, N., et al. 2014. Steel
-      recycling circuit in the world. _Tetsu To Hagane_ 100:740--749.
-1049. []{#c10752_444.xhtml#R1049}Tanaka, Y. 1998. The cyclical
-      sensibility of Edo-period Japan. _Japan Echo_ 25 (2): 12--16.
+      Industrial Revolution. \_Journal of Economic History* 50:349--362.
+1045. []{#c10752*444.xhtml#R1045}Swade, D. 1991. \_Charles Babbage and
+      His Calculating Engines*. London: Science Museum.
+1046. []{#c10752*444.xhtml#R1046}Taeuber, I. B. 1958. \_The Population of
+      Japan*. Princeton, NJ: Princeton University Press.
+1047. []{#c10752*444.xhtml#R1047}Tainter, J. A. 1988. \_The Collapse of
+      Complex Societies*. New York: Cambridge University Press.
+1048. []{#c10752*444.xhtml#R1048}Takamatsu, N., et al. 2014. Steel
+      recycling circuit in the world. \_Tetsu To Hagane* 100:740--749.
+1049. []{#c10752*444.xhtml#R1049}Tanaka, Y. 1998. The cyclical
+      sensibility of Edo-period Japan. \_Japan Echo* 25 (2): 12--16.
 1050. []{#c10752_444.xhtml#R1050}Tata Steel. 2011. Tata Steel announces
       completion of 100 years of its A-F Blast Furnace's existence.
       <http://www.tatasteel.com/UserNewsRoom/usershowcontent.asp?id=785&type=PressRelease&REFERER=http://www.tatasteel.com/media/press-release.asp>.
 1051. []{#c10752_444.xhtml#R1051}Tate, K. 2009. America's Moon Rocket
       Saturn V.
       <http://www.space.com/18422-apollo-saturn-v-moon-rocket-nasa-infographic.html>.
-1052. []{#c10752_444.xhtml#R1052}Tauger, M. B. 2010. _Agriculture in
-      World History_. London: Routledge.
+1052. []{#c10752*444.xhtml#R1052}Tauger, M. B. 2010. \_Agriculture in
+      World History*. London: Routledge.
 1053. []{#c10752_444.xhtml#R1053}Taylor, A. 2013. A luxury car club is
       stirring up class conflict in China.
       <http://www.businessinsider.com/chinas-sports-car-club-envy-2013-4>.
-1054. []{#c10752_444.xhtml#R1054}Taylor, C. F. 1984. _The
-      Internal-Combustion Engine in Theory and Practice_. Cambridge, MA:
+1054. []{#c10752*444.xhtml#R1054}Taylor, C. F. 1984. \_The
+      Internal-Combustion Engine in Theory and Practice*. Cambridge, MA:
       MIT Press.
-1055. []{#c10752_444.xhtml#R1055}Taylor, G. R., ed. 1982. _The
-      Inventions That Changed the World_. London: Reader's Digest
+1055. []{#c10752*444.xhtml#R1055}Taylor, G. R., ed. 1982. \_The
+      Inventions That Changed the World*. London: Reader's Digest
       Association.
-1056. []{#c10752_444.xhtml#R1056}Taylor, M. J. H., ed. 1989. _Jane's
-      Encyclopedia of Aviation_. New York: Portland House.
-1057. []{#c10752_444.xhtml#R1057}Taylor, F. S. 1972. _A History of
-      Industrial Chemistry_. New York: Arno Press.
-1058. []{#c10752_444.xhtml#R1058}Taylor, F. W. 1911. _Principles of
-      Scientific Management_. New York: Harper & Brothers.
-1059. []{#c10752_444.xhtml#R1059}Taylor, N. A. S. 2006. Ethnic
+1056. []{#c10752*444.xhtml#R1056}Taylor, M. J. H., ed. 1989. \_Jane's
+      Encyclopedia of Aviation*. New York: Portland House.
+1057. []{#c10752*444.xhtml#R1057}Taylor, F. S. 1972. \_A History of
+      Industrial Chemistry*. New York: Arno Press.
+1058. []{#c10752*444.xhtml#R1058}Taylor, F. W. 1911. \_Principles of
+      Scientific Management*. New York: Harper & Brothers.
+1059. []{#c10752*444.xhtml#R1059}Taylor, N. A. S. 2006. Ethnic
       differences in thermoregulation: Genotypic versus phenotypic heat
-      adaptation. _Journal of Thermal Biology_ 31:90--104.
-1060. []{#c10752_444.xhtml#R1060}Taylor, N. A. S., and C. A.
+      adaptation. \_Journal of Thermal Biology* 31:90--104.
+1060. []{#c10752*444.xhtml#R1060}Taylor, N. A. S., and C. A.
       Machado-Moreira. 2013. Regional variations in transepidermal water
       loss, eccrine sweat gland density, sweat secretion rates and
-      electrolyte composition in resting and exercising humans. _Extreme
-      Physiology & Medicine_ 2:1--29.
-1061. []{#c10752_444.xhtml#R1061}Taylor, R. 2007. The polemics of eating
-      fish in Tasmania: The historical evidence revisited. _Aboriginal
-      History_ 31:1--26.
-1062. []{#c10752_444.xhtml#R1062}Taylor, T. S. 2009. _Introduction to
-      Rocket Science and Engineering_. Boca Raton, FL: CRC Press.
-1063. []{#c10752_444.xhtml#R1063}Telleen, M. 1977. _The Draft Horse
-      Primer_. Emmaus, PA: Rodale Press.
-1064. []{#c10752_444.xhtml#R1064}Termuehlen, H. 2001. _100 Years of
-      Power Plant Development_. New York: ASME Press.
-1065. []{#c10752_444.xhtml#R1065}Tesla, N. 1888. _Electro-magnetic
+      electrolyte composition in resting and exercising humans. \_Extreme
+      Physiology & Medicine* 2:1--29.
+1061. []{#c10752*444.xhtml#R1061}Taylor, R. 2007. The polemics of eating
+      fish in Tasmania: The historical evidence revisited. \_Aboriginal
+      History* 31:1--26.
+1062. []{#c10752*444.xhtml#R1062}Taylor, T. S. 2009. \_Introduction to
+      Rocket Science and Engineering*. Boca Raton, FL: CRC Press.
+1063. []{#c10752*444.xhtml#R1063}Telleen, M. 1977. \_The Draft Horse
+      Primer*. Emmaus, PA: Rodale Press.
+1064. []{#c10752*444.xhtml#R1064}Termuehlen, H. 2001. \_100 Years of
+      Power Plant Development*. New York: ASME Press.
+1065. []{#c10752*444.xhtml#R1065}Tesla, N. 1888. \_Electro-magnetic
       Motor. Specification forming part of Letters Patent No. 391,968,
-      dated May 1, 1888_. Washington, DC: U.S. Patent Office.
+      dated May 1, 1888*. Washington, DC: U.S. Patent Office.
       <http://www.uspto.gov>.
-1066. []{#c10752_444.xhtml#R1066}Testart, A. 1982. The significance of
+1066. []{#c10752*444.xhtml#R1066}Testart, A. 1982. The significance of
       food storage among hunter-gatherers: Residence patterns,
-      population densities, and social inequalities. _Current
-      Anthropology_ 23:523--537.
-1067. []{#c10752_444.xhtml#R1067}Thieme, H. 1997. Lower Paleolithic
-      hunting spears from Germany. _Nature_ 385:807--810.
-1068. []{#c10752_444.xhtml#R1068}Thomas, B. 1986. Was there an energy
-      crisis in Great Britain in the 17th century? _Explorations in
-      Economic History_ 23:124--152.
+      population densities, and social inequalities. \_Current
+      Anthropology* 23:523--537.
+1067. []{#c10752*444.xhtml#R1067}Thieme, H. 1997. Lower Paleolithic
+      hunting spears from Germany. \_Nature* 385:807--810.
+1068. []{#c10752*444.xhtml#R1068}Thomas, B. 1986. Was there an energy
+      crisis in Great Britain in the 17th century? \_Explorations in
+      Economic History* 23:124--152.
 1069. []{#c10752_444.xhtml#R1069}Thomas Edison Papers. 2015. Edison's
       patents. <http://edison.rutgers.edu/patents.htm>.
-1070. []{#c10752_444.xhtml#R1070}Thompson, W. C. 2002. _Thompson
-      Releases Report on Fiscal Impact of 9/11 on New York City_. New
+1070. []{#c10752*444.xhtml#R1070}Thompson, W. C. 2002. \_Thompson
+      Releases Report on Fiscal Impact of 9/11 on New York City*. New
       York: NYC Comptroller.
-1071. []{#c10752_444.xhtml#R1071}Thomsen, C. J. 1836. _Ledetraad til
-      nordisk oldkyndighed_. Copenhagen: L. Mellers.
-1072. []{#c10752_444.xhtml#R1072}Thomson, K. S. 1987. How to sit on a
-      horse. _American Scientist_ 75:69--71.
-1073. []{#c10752_444.xhtml#R1073}Thomson, E. 2003. _The Chinese Coal
-      Industry: An Economic History_. London: Routledge.
-1074. []{#c10752_444.xhtml#R1074}Thomson, W. 1896. Letter to Major Baden
-      Baden-Powell, December 8, 1896. _Correspondence of Lord Kelvin_.
+1071. []{#c10752*444.xhtml#R1071}Thomsen, C. J. 1836. \_Ledetraad til
+      nordisk oldkyndighed*. Copenhagen: L. Mellers.
+1072. []{#c10752*444.xhtml#R1072}Thomson, K. S. 1987. How to sit on a
+      horse. \_American Scientist* 75:69--71.
+1073. []{#c10752*444.xhtml#R1073}Thomson, E. 2003. \_The Chinese Coal
+      Industry: An Economic History*. London: Routledge.
+1074. []{#c10752*444.xhtml#R1074}Thomson, W. 1896. Letter to Major Baden
+      Baden-Powell, December 8, 1896. \_Correspondence of Lord Kelvin*.
       <http://zapatopi.net/kelvin/papers/letters.html#baden-powell>.
-1075. []{#c10752_444.xhtml#R1075}Thoreau, H. D. 1906. _The Journal of
-      Henry David Thoreau, 1837--1861_. Boston: Houghton-Mifflin.
-1076. []{#c10752_444.xhtml#R1076}Thrupp, L. A., et al. 1997. _The
+1075. []{#c10752*444.xhtml#R1075}Thoreau, H. D. 1906. \_The Journal of
+      Henry David Thoreau, 1837--1861*. Boston: Houghton-Mifflin.
+1076. []{#c10752*444.xhtml#R1076}Thrupp, L. A., et al. 1997. \_The
       Diversity and Dynamics of Shifting Cultivation: Myths, Realities,
-      and Policy Implications_. Washington, DC: World Resources
+      and Policy Implications*. Washington, DC: World Resources
       Institute.
-1077. []{#c10752_444.xhtml#R1077}Thurston, R. H. 1878. _A History of the
-      Growth of the Steam-Engine_. New York: D. Appleton Co.
-1078. []{#c10752_444.xhtml#R1078}Titow, J. Z. 1969. _English Rural
-      Society, 1200--1350_. London: George Allen and Unwin.
-1079. []{#c10752_444.xhtml#R1079}Tomaselli, I. 2007. _Forests and Energy
-      in Developing Countries_. Rome: FAO.
+1077. []{#c10752*444.xhtml#R1077}Thurston, R. H. 1878. \_A History of the
+      Growth of the Steam-Engine*. New York: D. Appleton Co.
+1078. []{#c10752*444.xhtml#R1078}Titow, J. Z. 1969. \_English Rural
+      Society, 1200--1350*. London: George Allen and Unwin.
+1079. []{#c10752*444.xhtml#R1079}Tomaselli, I. 2007. \_Forests and Energy
+      in Developing Countries*. Rome: FAO.
 1080. []{#c10752_444.xhtml#R1080}Tomlinson, R. 2002. The invention of
       e-mail just seemed like a neat idea. SAP INFO.
       <http://www.sap.info>.
-1081. []{#c10752_444.xhtml#R1081}Tompkins, P. 1971. _Secrets of the
-      Great Pyramid_. New York: Harper & Row.
-1082. []{#c10752_444.xhtml#R1082}Tompkins, P. 1976. _Mysteries of
-      Mexican Pyramids_. New York: Harper & Row.
-1083. []{#c10752_444.xhtml#R1083}Torii, M. 1995. Maximal sweating rate
-      in humans. _Journal of Human Ergology_ 24:137--152.
-1084. []{#c10752_444.xhtml#R1084}Torr, G. 1964. _Ancient Ships_.
+1081. []{#c10752*444.xhtml#R1081}Tompkins, P. 1971. \_Secrets of the
+      Great Pyramid*. New York: Harper & Row.
+1082. []{#c10752*444.xhtml#R1082}Tompkins, P. 1976. \_Mysteries of
+      Mexican Pyramids*. New York: Harper & Row.
+1083. []{#c10752*444.xhtml#R1083}Torii, M. 1995. Maximal sweating rate
+      in humans. \_Journal of Human Ergology* 24:137--152.
+1084. []{#c10752*444.xhtml#R1084}Torr, G. 1964. \_Ancient Ships*.
       Chicago: Argonaut Publishers.
-1085. []{#c10752_444.xhtml#R1085}Torrey, V. 1976. _Wind-Catchers:
-      American Windmills of Yesterday and Tomorrow_. Brattleboro, VT:
+1085. []{#c10752*444.xhtml#R1085}Torrey, V. 1976. \_Wind-Catchers:
+      American Windmills of Yesterday and Tomorrow*. Brattleboro, VT:
       Stephen Greene Press.
-1086. []{#c10752_444.xhtml#R1086}Tresemer, D. 1996. _The Scythe Book_.
+1086. []{#c10752*444.xhtml#R1086}Tresemer, D. 1996. \_The Scythe Book*.
       Chambersburg, PA: Alan C. Hood.
-1087. []{#c10752_444.xhtml#R1087}Trinkaus, E. 1987. Bodies, brawn,
-      brains and noses: Human ancestors and human predation. In _The
-      Evolution of Human Hunting_, ed. M. Nitecki and D. V. Nitecki,
+1087. []{#c10752*444.xhtml#R1087}Trinkaus, E. 1987. Bodies, brawn,
+      brains and noses: Human ancestors and human predation. In \_The
+      Evolution of Human Hunting*, ed. M. Nitecki and D. V. Nitecki,
       107--145. New York: Plenum.
-1088. []{#c10752_444.xhtml#R1088}Trinkaus, E. 2005. Early modern humans.
-      _Annual Review of Anthropology_ 34:207--230.
-1089. []{#c10752_444.xhtml#R1089}TsSU (Tsentral'noie statisticheskoie
-      upravlenie). 1977. _Narodnoie khoziaistvo SSSR za 60 let_. Moscow:
+1088. []{#c10752*444.xhtml#R1088}Trinkaus, E. 2005. Early modern humans.
+      \_Annual Review of Anthropology* 34:207--230.
+1089. []{#c10752*444.xhtml#R1089}TsSU (Tsentral'noie statisticheskoie
+      upravlenie). 1977. \_Narodnoie khoziaistvo SSSR za 60 let*. Moscow:
       Statistika.
-1090. []{#c10752_444.xhtml#R1090}Turner, B. L. 1990. The rise and fall
+1090. []{#c10752*444.xhtml#R1090}Turner, B. L. 1990. The rise and fall
       of population and agriculture in the Central Maya Lowlands 300
-      B.C. to present. In _Hunger in History_, ed. L. F. Newman,
+      B.C. to present. In \_Hunger in History*, ed. L. F. Newman,
       78--211. Oxford: Blackwell.
-1091. []{#c10752_444.xhtml#R1091}Tvengsberg, P. M. 1995. Rye and swidden
-      cultivation. _Tools and Tillage_ 7:131--146.
-1092. []{#c10752_444.xhtml#R1092}Tyne Built Ships. 2015. _Glückauf_.
+1091. []{#c10752*444.xhtml#R1091}Tvengsberg, P. M. 1995. Rye and swidden
+      cultivation. \_Tools and Tillage* 7:131--146.
+1092. []{#c10752*444.xhtml#R1092}Tyne Built Ships. 2015. \_Glückauf*.
       <http://www.tynebuiltships.co.uk/G-Ships/gluckauf1886.html>.
-1093. []{#c10752_444.xhtml#R1093}UNDP (United Nations Development
-      Programme). 2015. _Human Development Report 2015_. New York: UNDP.
+1093. []{#c10752*444.xhtml#R1093}UNDP (United Nations Development
+      Programme). 2015. \_Human Development Report 2015*. New York: UNDP.
 1094. []{#c10752_444.xhtml#R1094}UNESCO. 2015a. Head-Smashed-In Buffalo
       Jump. <http://whc.unesco.org/en/list/158>.
 1095. []{#c10752_444.xhtml#R1095}UNESCO. 2015b. Mount Qingcheng and
       Dujianyang Irrigation System.
       <http://whc.unesco.org/en/list/1001>.
-1096. []{#c10752_444.xhtml#R1096}Unger, R. 1984. Energy sources for the
-      Dutch Golden Age. _Research in Economic History_ 9:221--253.
-1097. []{#c10752_444.xhtml#R1097}United Nations Organization. 1956.
-      World energy requirements in 1975 and 2000. In _Proceedings of the
-      International Conference on the Peaceful Uses of Atomic Energy_,
+1096. []{#c10752*444.xhtml#R1096}Unger, R. 1984. Energy sources for the
+      Dutch Golden Age. \_Research in Economic History* 9:221--253.
+1097. []{#c10752*444.xhtml#R1097}United Nations Organization. 1956.
+      World energy requirements in 1975 and 2000. In \_Proceedings of the
+      International Conference on the Peaceful Uses of Atomic Energy*,
       vol. 1, 3--33. New York: UNO.
-1098. []{#c10752_444.xhtml#R1098}Upham, C. W., ed. 1851. _The life of
-      General Washington: First President of the United States_. vol. 2.
+1098. []{#c10752*444.xhtml#R1098}Upham, C. W., ed. 1851. \_The life of
+      General Washington: First President of the United States*. vol. 2.
       London: National Illustrated Library.
-1099. []{#c10752_444.xhtml#R1099}Urbanski, T. 1967. _Chemistry and
-      Technology of Explosives_. New York: Pergamon Press.
-1100. []{#c10752_444.xhtml#R1100}U.S. Strategic Bombing Survey. 1947.
-      _Effects of Air Attack on Urban Complex Tokyo-Kawasaki-Yokohama_.
+1099. []{#c10752*444.xhtml#R1099}Urbanski, T. 1967. \_Chemistry and
+      Technology of Explosives*. New York: Pergamon Press.
+1100. []{#c10752*444.xhtml#R1100}U.S. Strategic Bombing Survey. 1947.
+      \_Effects of Air Attack on Urban Complex Tokyo-Kawasaki-Yokohama*.
       Washington, DC: U.S. Strategic Bombing Survey.
-1101. []{#c10752_444.xhtml#R1101}USBC (U.S. Bureau of the Census). 1954.
-      _U.S. Census of Manufacturers: 1954_. Washington, DC: U.S. GPO.
-1102. []{#c10752_444.xhtml#R1102}USBC. 1975. _Historical Statistics of
-      the United States: Colonial Times to 1970_. Washington, DC: USBC.
-1103. []{#c10752_444.xhtml#R1103}U.S. Centennial of Flight
-      Commission. 2003. _History of Flight_. Washington, DC.
+1101. []{#c10752*444.xhtml#R1101}USBC (U.S. Bureau of the Census). 1954.
+      \_U.S. Census of Manufacturers: 1954*. Washington, DC: U.S. GPO.
+1102. []{#c10752*444.xhtml#R1102}USBC. 1975. \_Historical Statistics of
+      the United States: Colonial Times to 1970*. Washington, DC: USBC.
+1103. []{#c10752*444.xhtml#R1103}U.S. Centennial of Flight
+      Commission. 2003. \_History of Flight*. Washington, DC.
 1104. []{#c10752_444.xhtml#R1104}U.S. Centennial of Flight Commission.
       <http://www.centennialofflight.gov/hof/index.htm>.
-1105. []{#c10752_444.xhtml#R1105}USDA (U.S. Department of
-      Agriculture). 1959. _Changes in Farm Production and Efficiency_.
+1105. []{#c10752*444.xhtml#R1105}USDA (U.S. Department of
+      Agriculture). 1959. \_Changes in Farm Production and Efficiency*.
       Washington, DC: USDA.
-1106. []{#c10752_444.xhtml#R1106}USDA. 2011. _National Nutrient Database
-      for Standard Reference_ _._ <http://ndb.nal.usda.gov>.
-1107. []{#c10752_444.xhtml#R1107}USDA. 2014. _Multi-Cropping Practices:
-      Recent Trends in Double Cropping_. Washington, DC: USDA.
-1108. []{#c10752_444.xhtml#R1108}USDOE (U.S. Department of
-      Energy). 2011. _Biodiesel Basics_.
+1106. []{#c10752*444.xhtml#R1106}USDA. 2011. \_National Nutrient Database
+      for Standard Reference* _._ <http://ndb.nal.usda.gov>.
+1107. []{#c10752*444.xhtml#R1107}USDA. 2014. \_Multi-Cropping Practices:
+      Recent Trends in Double Cropping*. Washington, DC: USDA.
+1108. []{#c10752*444.xhtml#R1108}USDOE (U.S. Department of
+      Energy). 2011. \_Biodiesel Basics*.
       <http://www.afdc.energy.gov/pdfs/47504.pdf>.
 1109. []{#c10752_444.xhtml#R1109}USDOE. 2013. Energy efficiency of LEDs.
       <http://apps1.eere.energy.gov/buildings/publications/pdfs/ssl/led_energy_efficiency.pdf>.
@@ -22599,12 +22583,12 @@ modern contributions.
       Agency). 2014. Consumer energy expenditures are roughly 5% of
       disposable income, below long-term average.
       <http://www.eia.gov/todayinenergy/detail.cfm?id=18471>.
-1112. []{#c10752_444.xhtml#R1112}USEIA. 2015a. _Annual Coal Report_.
+1112. []{#c10752*444.xhtml#R1112}USEIA. 2015a. \_Annual Coal Report*.
       <http://www.eia.gov/coal/annual>.
 1113. []{#c10752_444.xhtml#R1113}USEIA. 2015b. China.
       <http://www.eia.gov/beta/international/analysis.cfm?iso=CHN>.
-1114. []{#c10752_444.xhtml#R1114}USEIA. 2015c. _Direct Federal Financial
-      Interventions and Subsidies in Energy in Fiscal Year 2013._
+1114. []{#c10752*444.xhtml#R1114}USEIA. 2015c. \_Direct Federal Financial
+      Interventions and Subsidies in Energy in Fiscal Year 2013.*
       Washington, DC: USEIA.
       <http://www.eia.gov/analysis/requests/subsidy>.
 1115. []{#c10752_444.xhtml#R1115}USEIA. 2015d. Energy intensity.
@@ -22617,193 +22601,193 @@ modern contributions.
 1118. []{#c10752_444.xhtml#R1118}USEPA (U.S. Environmental Protection
       Agency). 2004. Photochemical smog.
       <http://www.epa.sa.gov.au/files/8238_info_photosmog.pd>.
-1119. []{#c10752_444.xhtml#R1119}USEPA. 2015. _Light-Duty Automotive
+1119. []{#c10752*444.xhtml#R1119}USEPA. 2015. \_Light-Duty Automotive
       Technology, Carbon Dioxide Emissions, and Fuel Economy Trends:
-      1975 Through 2015_.
+      1975 Through 2015*.
       <https://www3.epa.gov/fueleconomy/fetrends/1975-2015/420r15016.pdf>.
 1120. []{#c10752_444.xhtml#R1120}USGS (U.S. Geological Survey). 2015.
       Commodity statistics and information.
       <http://minerals.usgs.gov/minerals/pubs/commodity>.
-1121. []{#c10752_444.xhtml#R1121}Usher, A. P. 1954. _A History of
-      Mechanical Inventions_. Cambridge, MA: Harvard University Press.
-1122. []{#c10752_444.xhtml#R1122}Utley, F. 1925. _Trade Guilds of the
-      Later Roman Empire_. London: London School of Economics.
-1123. []{#c10752_444.xhtml#R1123}Van Beek, G. W. 1987. Arches and vaults
-      in the ancient Near East. _Scientific American_ 257 (2): 96--103.
-1124. []{#c10752_444.xhtml#R1124}van Duijn, J. J. 1983. _The Long Wave
-      in Economic Life_. London: George Allen & Unwin.
-1125. []{#c10752_444.xhtml#R1125}Van Noten, F., and J. Raymaekers. 1988.
-      Early iron smelting in Central Africa. _Scientific American_
+1121. []{#c10752*444.xhtml#R1121}Usher, A. P. 1954. \_A History of
+      Mechanical Inventions*. Cambridge, MA: Harvard University Press.
+1122. []{#c10752*444.xhtml#R1122}Utley, F. 1925. \_Trade Guilds of the
+      Later Roman Empire*. London: London School of Economics.
+1123. []{#c10752*444.xhtml#R1123}Van Beek, G. W. 1987. Arches and vaults
+      in the ancient Near East. \_Scientific American* 257 (2): 96--103.
+1124. []{#c10752*444.xhtml#R1124}van Duijn, J. J. 1983. \_The Long Wave
+      in Economic Life*. London: George Allen & Unwin.
+1125. []{#c10752*444.xhtml#R1125}Van Noten, F., and J. Raymaekers. 1988.
+      Early iron smelting in Central Africa. \_Scientific American*
       258:104--111.
-1126. []{#c10752_444.xhtml#R1126}Varvoglis, H. 2014. _History and
-      Evolution of Concepts in Physics_. Berlin: Springer.
-1127. []{#c10752_444.xhtml#R1127}Vasko, T., R. Ayres, and L.
-      Fontvieille, eds. 1990. _Life Cycles and Long Waves_. Berlin:
+1126. []{#c10752*444.xhtml#R1126}Varvoglis, H. 2014. \_History and
+      Evolution of Concepts in Physics*. Berlin: Springer.
+1127. []{#c10752*444.xhtml#R1127}Vasko, T., R. Ayres, and L.
+      Fontvieille, eds. 1990. \_Life Cycles and Long Waves*. Berlin:
       Springer-Verlag.
-1128. []{#c10752_444.xhtml#R1128}Vavilov, N. I. 1951. _Origin,
-      Variation, Immunity and Breeding of Cultivated Plants_. Waltham,
+1128. []{#c10752*444.xhtml#R1128}Vavilov, N. I. 1951. \_Origin,
+      Variation, Immunity and Breeding of Cultivated Plants*. Waltham,
       MA: Chronica Botanica.
-1129. []{#c10752_444.xhtml#R1129}Veraverbeke, W. S., and J. A.
+1129. []{#c10752*444.xhtml#R1129}Veraverbeke, W. S., and J. A.
       Delcour. 2002. Wheat protein composition and properties of wheat
-      glutenin in relation to breadmaking functionality. _Critical
-      Reviews in Food Science and Nutrition_ 42:179--208.
+      glutenin in relation to breadmaking functionality. \_Critical
+      Reviews in Food Science and Nutrition* 42:179--208.
 1130. []{#c10752_444.xhtml#R1130}Versatile. 2015. Versatile.
       <http://www.versatile-ag.ca>.
 1131. []{#c10752_444.xhtml#R1131}Vikingeskibs Museet. 2016. Wool
       sailcloth.
       <http://www.vikingeskibsmuseet.dk/en/professions/boatyard/experimental-archaeological-research/maritime-crafts/maritime-technology/woollen-sailcloth>.
-1132. []{#c10752_444.xhtml#R1132}Ville, S. P. 1990. _Transport and the
-      Development of European Economy, 1750--1918_. London: Macmillan.
-1133. []{#c10752_444.xhtml#R1133}Villiers, G. 1976. _The British Heavy
-      Horse_. London: Barrie and Jenkins.
-1134. []{#c10752_444.xhtml#R1134}Vogel, H. U. 1993. The Great Wall of
-      China. _Scientific American_ 268 (6): 116--121.
+1132. []{#c10752*444.xhtml#R1132}Ville, S. P. 1990. \_Transport and the
+      Development of European Economy, 1750--1918*. London: Macmillan.
+1133. []{#c10752*444.xhtml#R1133}Villiers, G. 1976. \_The British Heavy
+      Horse*. London: Barrie and Jenkins.
+1134. []{#c10752*444.xhtml#R1134}Vogel, H. U. 1993. The Great Wall of
+      China. \_Scientific American* 268 (6): 116--121.
 1135. []{#c10752_444.xhtml#R1135}Volkswagen, A. G. 2013. Ivan Hirst.
       <http://www.volkswagenag.com/content/vwcorp/info_center/en/publications/2013/11/ivan_hirst.bin.html/binarystorageitem/file/VWAG_HN_4_Ivan-Hirst-eng_2013_10_18.pdf>.
-1136. []{#c10752_444.xhtml#R1136}von Bertalanffy, L. 1968. _General
-      System Theory_. New York: George Braziller.
-1137. []{#c10752_444.xhtml#R1137}von Braun, W., and F. I. Ordway. 1975.
-      _History of Rocketry and Space Travel_. New York: Thomas Y.
+1136. []{#c10752*444.xhtml#R1136}von Bertalanffy, L. 1968. \_General
+      System Theory*. New York: George Braziller.
+1137. []{#c10752*444.xhtml#R1137}von Braun, W., and F. I. Ordway. 1975.
+      \_History of Rocketry and Space Travel*. New York: Thomas Y.
       Crowell.
-1138. []{#c10752_444.xhtml#R1138}von Hippel, Frank, et al. 1988.
-      Civilian casualties from counterforce attacks. _Scientific
-      American_ 259 (3): 36--42.
-1139. []{#c10752_444.xhtml#R1139}von Tunzelmann, G. N. 1978. _Steam
-      Power and British Industrialization to 1860_. Oxford: Clarendon
+1138. []{#c10752*444.xhtml#R1138}von Hippel, Frank, et al. 1988.
+      Civilian casualties from counterforce attacks. \_Scientific
+      American* 259 (3): 36--42.
+1139. []{#c10752*444.xhtml#R1139}von Tunzelmann, G. N. 1978. \_Steam
+      Power and British Industrialization to 1860*. Oxford: Clarendon
       Press.
-1140. []{#c10752_444.xhtml#R1140}Wailes, R. 1975. _Windmills in England:
-      A Study of Their Origin, Development and Future_. London:
+1140. []{#c10752*444.xhtml#R1140}Wailes, R. 1975. \_Windmills in England:
+      A Study of Their Origin, Development and Future*. London:
       Architectural Press.
-1141. []{#c10752_444.xhtml#R1141}Waldron, A. 1990. _The Great Wall of
-      China_. Cambridge: Cambridge University Press.
-1142. []{#c10752_444.xhtml#R1142}Walther, R. 2007. _Pechelbronn: A la
-      source du pétrole, 1735--1970_. Strasbourg: Hirlé.
-1143. []{#c10752_444.xhtml#R1143}Walton, S. A., ed. 2006. _Wind and
+1141. []{#c10752*444.xhtml#R1141}Waldron, A. 1990. \_The Great Wall of
+      China*. Cambridge: Cambridge University Press.
+1142. []{#c10752*444.xhtml#R1142}Walther, R. 2007. \_Pechelbronn: A la
+      source du pétrole, 1735--1970*. Strasbourg: Hirlé.
+1143. []{#c10752*444.xhtml#R1143}Walton, S. A., ed. 2006. \_Wind and
       Water in the Middle Ages: Fluid Technologies from Antiquity to the
-      Renaissance_. Tempe: Arizona Center for Medieval and Renaissance
+      Renaissance*. Tempe: Arizona Center for Medieval and Renaissance
       Studies.
-1144. []{#c10752_444.xhtml#R1144}Walz, W., and H. Niemann. 1997.
-      _Daimler-Benz: Wo das Auto Anfing_. Konstanz: Verlag Stadler.
-1145. []{#c10752_444.xhtml#R1145}Wang, Z. 1991. _A History of Chinese
-      Firearms_. Beijing: Military Science Press.
+1144. []{#c10752*444.xhtml#R1144}Walz, W., and H. Niemann. 1997.
+      \_Daimler-Benz: Wo das Auto Anfing*. Konstanz: Verlag Stadler.
+1145. []{#c10752*444.xhtml#R1145}Wang, Z. 1991. \_A History of Chinese
+      Firearms*. Beijing: Military Science Press.
 1146. []{#c10752_444.xhtml#R1146}War Chronicle. 2015. Estimated war dead
       World War II. <http://warchronicle.com/numbers/WWII/deaths.htm>.
-1147. []{#c10752_444.xhtml#R1147}Warburton, M. 2001. Barefoot running.
-      _Sportscience_ 5 (3): 1--4.
-1148. []{#c10752_444.xhtml#R1148}Warde, P. 2007. _Energy Consumption in
-      England and Wales, 1560--2004_. Naples: Consiglio Nazionale della
+1147. []{#c10752*444.xhtml#R1147}Warburton, M. 2001. Barefoot running.
+      \_Sportscience* 5 (3): 1--4.
+1148. []{#c10752*444.xhtml#R1148}Warde, P. 2007. \_Energy Consumption in
+      England and Wales, 1560--2004*. Naples: Consiglio Nazionale della
       Ricerche.
-1149. []{#c10752_444.xhtml#R1149}Warde, P. 2013. The first industrial
-      revolution. In _Power to the People: Energy in Europe Over the
-      Last Five Centuries_, ed. A. Kander, P. Malanima, and P. Warde,
+1149. []{#c10752*444.xhtml#R1149}Warde, P. 2013. The first industrial
+      revolution. In \_Power to the People: Energy in Europe Over the
+      Last Five Centuries*, ed. A. Kander, P. Malanima, and P. Warde,
       129--247. Princeton, NJ: Princeton University Press.
 1150. []{#c10752_444.xhtml#R1150}Washlaski, R. A. 2008. Manufacture of
       Coke at Salem No. 1 Mine Coke Works.
       <http://patheoldminer.rootsweb.ancestry.com/coke2.html>.
-1151. []{#c10752_444.xhtml#R1151}Waterbury, J. 1979. _Hydropolitics of
-      the Nile Valley_. Syracuse, NY: Syracuse University Press.
-1152. []{#c10752_444.xhtml#R1152}Watkins, G. 1967. Steam power---an
-      illustrated guide. _Industrial Archaeology_ 4 (2): 81--110.
-1153. []{#c10752_444.xhtml#R1153}Watt, J. 1855 (1769). _Steam Engines,
-      &c. 29 April 1769._ Patent reprint by G. E. Eyre and W.
+1151. []{#c10752*444.xhtml#R1151}Waterbury, J. 1979. \_Hydropolitics of
+      the Nile Valley*. Syracuse, NY: Syracuse University Press.
+1152. []{#c10752*444.xhtml#R1152}Watkins, G. 1967. Steam power---an
+      illustrated guide. \_Industrial Archaeology* 4 (2): 81--110.
+1153. []{#c10752*444.xhtml#R1153}Watt, J. 1855 (1769). \_Steam Engines,
+      &c. 29 April 1769.* Patent reprint by G. E. Eyre and W.
       Spottiswoode.
       <https://upload.wikimedia.org/wikipedia/commons/0/0d/James_Watt_Patent_1769_No_913.pdf>.
-1154. []{#c10752_444.xhtml#R1154}Watters, R. F. 1971. _Shifting
-      Cultivation in Latin America_. Rome: FAO.
-1155. []{#c10752_444.xhtml#R1155}Watts, P. 1905. _The Ships of the Royal
-      Navy as They Existed at the Time of Trafalgar_. London:
+1154. []{#c10752*444.xhtml#R1154}Watters, R. F. 1971. \_Shifting
+      Cultivation in Latin America*. Rome: FAO.
+1155. []{#c10752*444.xhtml#R1155}Watts, P. 1905. \_The Ships of the Royal
+      Navy as They Existed at the Time of Trafalgar*. London:
       Institution of Naval Architects.
-1156. []{#c10752_444.xhtml#R1156}Wei, J. 2012. _Great Inventions that
-      Changed the World_. Hoboken, NJ: Wiley.
-1157. []{#c10752_444.xhtml#R1157}Weissenbacher, M. 2009. _Sources of
-      Power: How Energy Forges Human History_. Santa Barbara, CA:
+1156. []{#c10752*444.xhtml#R1156}Wei, J. 2012. \_Great Inventions that
+      Changed the World*. Hoboken, NJ: Wiley.
+1157. []{#c10752*444.xhtml#R1157}Weissenbacher, M. 2009. \_Sources of
+      Power: How Energy Forges Human History*. Santa Barbara, CA:
       Praeger.
-1158. []{#c10752_444.xhtml#R1158}Weisskopf, V. F. 1983. Los Alamos
-      anniversary: "We meant so well." _Bulletin of the Atomic
-      Scientists,_ August--September, 24--26.
+1158. []{#c10752*444.xhtml#R1158}Weisskopf, V. F. 1983. Los Alamos
+      anniversary: "We meant so well." \_Bulletin of the Atomic
+      Scientists,* August--September, 24--26.
 1159. []{#c10752_444.xhtml#R1159}Weller, J. A. 1999. Roman traction
       systems. <http://www.humanist.de/rome/rts>.
-1160. []{#c10752_444.xhtml#R1160}Welsch, R. L. 1980. No fuel like an old
-      fuel. _Natural History_ 89 (11): 76--81.
-1161. []{#c10752_444.xhtml#R1161}Wendel, J. F., et al. 1999. Genes,
+1160. []{#c10752*444.xhtml#R1160}Welsch, R. L. 1980. No fuel like an old
+      fuel. \_Natural History* 89 (11): 76--81.
+1161. []{#c10752*444.xhtml#R1161}Wendel, J. F., et al. 1999. Genes,
       jeans, and genomes: Reconstructing the history of cotton. In
-      _Seventh International Symposium of the
-      International-Organization-of-Plant-Biosystematists_, ed. L. W. D.
+      \_Seventh International Symposium of the
+      International-Organization-of-Plant-Biosystematists*, ed. L. W. D.
       VanRaamsdonk and J. C. M. DenNijs, 133--159.
-1162. []{#c10752_444.xhtml#R1162}Wesley, J. P. 1974. _Ecophysics_.
+1162. []{#c10752*444.xhtml#R1162}Wesley, J. P. 1974. \_Ecophysics*.
       Springfield, IL: Charles C. Thomas.
-1163. []{#c10752_444.xhtml#R1163}Whaples, R. 2005. Child Labor in the
-      United States. _EH.Net Encyclopedia_
+1163. []{#c10752*444.xhtml#R1163}Whaples, R. 2005. Child Labor in the
+      United States. \_EH.Net Encyclopedia*
       <http://eh.net/encyclopedia/child-labor-in-the-united-states>.
 1164. []{#c10752_444.xhtml#R1164}Wheat Foods Council. 2015. Wheat facts.
       <http://www.wheatfoods.org/resources/72>.
-1165. []{#c10752_444.xhtml#R1165}Whipp, B. J., and K. Wasserman. 1969.
-      Efficiency of muscular work. _Journal of Applied Physiology_
+1165. []{#c10752*444.xhtml#R1165}Whipp, B. J., and K. Wasserman. 1969.
+      Efficiency of muscular work. \_Journal of Applied Physiology*
       26:644--648.
-1166. []{#c10752_444.xhtml#R1166}White, A. 2007. A global projection of
+1166. []{#c10752*444.xhtml#R1166}White, A. 2007. A global projection of
       subjective well-being: A challenge to positive psychology?
-      _Psychtalk_ 56:17--20.
-1167. []{#c10752_444.xhtml#R1167}White, K. D. 1967. _Agricultural
-      Implements of the Roman World_. Cambridge: Cambridge University
+      \_Psychtalk* 56:17--20.
+1167. []{#c10752*444.xhtml#R1167}White, K. D. 1967. \_Agricultural
+      Implements of the Roman World*. Cambridge: Cambridge University
       Press.
-1168. []{#c10752_444.xhtml#R1168}White, K. D. 1970. _Roman Farming_.
+1168. []{#c10752*444.xhtml#R1168}White, K. D. 1970. \_Roman Farming*.
       London: Thames & Hudson.
-1169. []{#c10752_444.xhtml#R1169}White, K. D. 1984. _Greek and Roman
-      Technology_. Ithaca, NY: Cornell University Press.
-1170. []{#c10752_444.xhtml#R1170}White, L. A. 1943. Energy and the
-      evolution of culture. _American Anthropologist_ 45:335--356.
-1171. []{#c10752_444.xhtml#R1171}White, L. 1978. _Medieval Religion and
-      Technology_. Berkeley: University of California Press.
-1172. []{#c10752_444.xhtml#R1172}White, P., and T. Denham, eds. 2006.
-      _The Emergence of Agriculture: A Global View_. London: Routledge.
-1173. []{#c10752_444.xhtml#R1173}Whitmore, T. M., et al. 1990. Long-term
-      population change. In _The Earth as Transformed by Human Action_,
+1169. []{#c10752*444.xhtml#R1169}White, K. D. 1984. \_Greek and Roman
+      Technology*. Ithaca, NY: Cornell University Press.
+1170. []{#c10752*444.xhtml#R1170}White, L. A. 1943. Energy and the
+      evolution of culture. \_American Anthropologist* 45:335--356.
+1171. []{#c10752*444.xhtml#R1171}White, L. 1978. \_Medieval Religion and
+      Technology*. Berkeley: University of California Press.
+1172. []{#c10752*444.xhtml#R1172}White, P., and T. Denham, eds. 2006.
+      \_The Emergence of Agriculture: A Global View*. London: Routledge.
+1173. []{#c10752*444.xhtml#R1173}Whitmore, T. M., et al. 1990. Long-term
+      population change. In \_The Earth as Transformed by Human Action*,
       ed. B. L. Turner II et al., 25--39. Cambridge: Cambridge
       University Press.
-1174. []{#c10752_444.xhtml#R1174}WHO (World Health Organization). 2002.
-      _Protein and Amino Acid Requirements in Human Nutrition_. Geneva:
+1174. []{#c10752*444.xhtml#R1174}WHO (World Health Organization). 2002.
+      \_Protein and Amino Acid Requirements in Human Nutrition*. Geneva:
       WHO.
 1175. []{#c10752_444.xhtml#R1175}WHO. 2015a. Life expectancy.
       <http://apps.who.int/gho/data/node.main.688>.
 1176. []{#c10752_444.xhtml#R1176}WHO. 2015b. Road traffic injuries.
       <http://www.who.int/mediacentre/factsheets/fs358/en>.
-1177. []{#c10752_444.xhtml#R1177}Wier, S. K. 1996. Insight from geometry
+1177. []{#c10752*444.xhtml#R1177}Wier, S. K. 1996. Insight from geometry
       and physics into the construction of Egyptian Old Kingdom
-      pyramids. _Cambridge Archaeological Journal_ 6:150--163.
-1178. []{#c10752_444.xhtml#R1178}Wikander, Ö. 1983. _Exploitation of
-      Water-Power or Technological Stagnation?_ Lund: CWK Gleerup.
-1179. []{#c10752_444.xhtml#R1179}Wilkins, J., et al. 2012. Evidence for
-      early hafted hunting technology. _Science_ 338:942--946.
-1180. []{#c10752_444.xhtml#R1180}Williams, M. 2006. _Deforesting the
-      Earth :From Prehistory to Global Crisis_. Chicago: Chicago
+      pyramids. \_Cambridge Archaeological Journal* 6:150--163.
+1178. []{#c10752*444.xhtml#R1178}Wikander, Ö. 1983. \_Exploitation of
+      Water-Power or Technological Stagnation?* Lund: CWK Gleerup.
+1179. []{#c10752*444.xhtml#R1179}Wilkins, J., et al. 2012. Evidence for
+      early hafted hunting technology. \_Science* 338:942--946.
+1180. []{#c10752*444.xhtml#R1180}Williams, M. 2006. \_Deforesting the
+      Earth :From Prehistory to Global Crisis*. Chicago: Chicago
       University Press.
-1181. []{#c10752_444.xhtml#R1181}Williams, M. R. 1997. _History of
-      Computing Technology_. Los Alamitos, CA: IEEE Computer Society.
-1182. []{#c10752_444.xhtml#R1182}Williams, T. 1987. _The History of
-      Invention: From Stone Axes to Silicon Chips_. New York: Facts on
+1181. []{#c10752*444.xhtml#R1181}Williams, M. R. 1997. \_History of
+      Computing Technology*. Los Alamitos, CA: IEEE Computer Society.
+1182. []{#c10752*444.xhtml#R1182}Williams, T. 1987. \_The History of
+      Invention: From Stone Axes to Silicon Chips*. New York: Facts on
       File.
-1183. []{#c10752_444.xhtml#R1183}Wilson, A. M. 1999. Windmills, cattle
-      and railroad: The settlement of the Llano Estacado. _Journal of
-      the West_ 38 (1): 62--67.
-1184. []{#c10752_444.xhtml#R1184}Wilson, A. M. et al. 2001. Horses damp
-      the spring in their step. _Nature_ 414:895--899.
-1185. []{#c10752_444.xhtml#R1185}Wilson, C. 1990. _The Gothic Cathedral:
-      The Architecture of the Great Church 1130--1530_. London: Thames
+1183. []{#c10752*444.xhtml#R1183}Wilson, A. M. 1999. Windmills, cattle
+      and railroad: The settlement of the Llano Estacado. \_Journal of
+      the West* 38 (1): 62--67.
+1184. []{#c10752*444.xhtml#R1184}Wilson, A. M. et al. 2001. Horses damp
+      the spring in their step. \_Nature* 414:895--899.
+1185. []{#c10752*444.xhtml#R1185}Wilson, C. 1990. \_The Gothic Cathedral:
+      The Architecture of the Great Church 1130--1530*. London: Thames
       and Hudson.
-1186. []{#c10752_444.xhtml#R1186}Wilson, C. 2012. Up-scaling, formative
+1186. []{#c10752*444.xhtml#R1186}Wilson, C. 2012. Up-scaling, formative
       phases, and learning in the historical diffusion of energy
-      technologies. _Energy Policy_ 50:81--94.
-1187. []{#c10752_444.xhtml#R1187}Wilson, D. G. 2004. _Bicycling
-      Science_. Cambridge, MA: MIT Press.
-1188. []{#c10752_444.xhtml#R1188}Winkelmann, R., et al. 2015. Combustion
+      technologies. \_Energy Policy* 50:81--94.
+1187. []{#c10752*444.xhtml#R1187}Wilson, D. G. 2004. \_Bicycling
+      Science*. Cambridge, MA: MIT Press.
+1188. []{#c10752*444.xhtml#R1188}Winkelmann, R., et al. 2015. Combustion
       of available fossil fuel resources sufficient to eliminate the
-      Antarctic Ice Sheet. _Science Advances_ 1:e1500589.
-1189. []{#c10752_444.xhtml#R1189}Winter, T. N. 2007. _The Mechanical
-      Problems in the Corpus Aristotle_. Lincoln:: University of
+      Antarctic Ice Sheet. \_Science Advances* 1:e1500589.
+1189. []{#c10752*444.xhtml#R1189}Winter, T. N. 2007. \_The Mechanical
+      Problems in the Corpus Aristotle*. Lincoln:: University of
       Nebraska, Classics and Religious Studies Department.
-1190. []{#c10752_444.xhtml#R1190}Winterhalder, B., R. Larsen, and R. B.
+1190. []{#c10752*444.xhtml#R1190}Winterhalder, B., R. Larsen, and R. B.
       Thomas. 1974. Dung as an essential resurce in a highland Peruvian
-      community. _Human Ecology_ 2:89--104.
+      community. \_Human Ecology* 2:89--104.
 1191. []{#c10752_444.xhtml#R1191}Wirfs-Brock, J. 2014. Explore 15 years
       of power outages.
       <http://insideenergy.org/2014/08/18/data-explore-15-years-of-power-outages/>.
@@ -22815,23 +22799,23 @@ modern contributions.
 1194. []{#c10752_444.xhtml#R1194}WNA. 2015b. World nuclear power
       reactors & uranium requirements.
       <http://www.world-nuclear.org/info/Facts-and-Figures/World-Nuclear-Power-Reactors-and-Uranium-Requirements>.
-1195. []{#c10752_444.xhtml#R1195}Wolfe, D. A., and A. Bramwell. 2008.
+1195. []{#c10752*444.xhtml#R1195}Wolfe, D. A., and A. Bramwell. 2008.
       Innovation, creativity and governance: Social dynamics of economic
-      performance in city-regions. _Innovation: Management. Policy &
-      Practice_ 10:170--182.
-1196. []{#c10752_444.xhtml#R1196}Wolff, A. R. 1900. _The Windmill as
-      Prime Mover_. New York: John Wiley.
-1197. []{#c10752_444.xhtml#R1197}Wölfel, W. 1987. _Das Wasserrad:
-      Technik und Kulturgeschichte_. Wiesbaden: U. Pfriemer.
-1198. []{#c10752_444.xhtml#R1198}Womack, J. P., D. T. Jones, and D.
-      Roos. 1990. _The Machine that Changed the World: The Story of Lean
-      Production_. New York: Simon and Schuster.
-1199. []{#c10752_444.xhtml#R1199}Wood, W. 1922. _All Afloat_. Toronto:
+      performance in city-regions. \_Innovation: Management. Policy &
+      Practice* 10:170--182.
+1196. []{#c10752*444.xhtml#R1196}Wolff, A. R. 1900. \_The Windmill as
+      Prime Mover*. New York: John Wiley.
+1197. []{#c10752*444.xhtml#R1197}Wölfel, W. 1987. \_Das Wasserrad:
+      Technik und Kulturgeschichte*. Wiesbaden: U. Pfriemer.
+1198. []{#c10752*444.xhtml#R1198}Womack, J. P., D. T. Jones, and D.
+      Roos. 1990. \_The Machine that Changed the World: The Story of Lean
+      Production*. New York: Simon and Schuster.
+1199. []{#c10752*444.xhtml#R1199}Wood, W. 1922. \_All Afloat*. Toronto:
       Glasgow, Brook & Company.
-1200. []{#c10752_444.xhtml#R1200}Woodall, F. P. 1982. Water wheels for
-      winding. _Industrial Archaeology_ 16:333--338.
-1201. []{#c10752_444.xhtml#R1201}Woolfe, J. A. 1987. _The Potato in the
-      Human Diet_. Cambridge: Cambridge University Press.
+1200. []{#c10752*444.xhtml#R1200}Woodall, F. P. 1982. Water wheels for
+      winding. \_Industrial Archaeology* 16:333--338.
+1201. []{#c10752*444.xhtml#R1201}Woolfe, J. A. 1987. \_The Potato in the
+      Human Diet*. Cambridge: Cambridge University Press.
 1202. []{#c10752_444.xhtml#R1202}World Bank. 2015a. Energy use.
       <http://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE>.
 1203. []{#c10752_444.xhtml#R1203}World Bank. 2015b. Motor vehicles (per
@@ -22850,59 +22834,59 @@ modern contributions.
 1208. []{#c10752_444.xhtml#R1208}World Economic Forum. 2012. Energy for
       economic growth.
       <http://www3.weforum.org/docs/WEF_EN_EnergyEconomicGrowth_IndustryAgenda_2012.pdf>.
-1209. []{#c10752_444.xhtml#R1209}Wrangham, R. 2009. _Catching Fire: How
-      Cooking Made Us Human_. New York: Basic Books.
-1210. []{#c10752_444.xhtml#R1210}Wright, O. 1953. _How We Invented the
-      Airplane_. New York: David McKay.
-1211. []{#c10752_444.xhtml#R1211}Wrigley, E. A. 2002. The transition to
+1209. []{#c10752*444.xhtml#R1209}Wrangham, R. 2009. \_Catching Fire: How
+      Cooking Made Us Human*. New York: Basic Books.
+1210. []{#c10752*444.xhtml#R1210}Wright, O. 1953. \_How We Invented the
+      Airplane*. New York: David McKay.
+1211. []{#c10752*444.xhtml#R1211}Wrigley, E. A. 2002. The transition to
       an advanced organic economy: Half a millennium of English
-      agriculture. _Economic History Review_ 59:435--480.
-1212. []{#c10752_444.xhtml#R1212}Wrigley, E. A. 2006. The transition to
+      agriculture. \_Economic History Review* 59:435--480.
+1212. []{#c10752*444.xhtml#R1212}Wrigley, E. A. 2006. The transition to
       an advanced organic economy: Half a millennium of English
-      agriculture. _Economic History Review_ 59:435--480.
-1213. []{#c10752_444.xhtml#R1213}Wrigley, E. A. 2010. _Energy and the
-      English Industrial Revolution_. Cambridge: Cambridge University
+      agriculture. \_Economic History Review* 59:435--480.
+1213. []{#c10752*444.xhtml#R1213}Wrigley, E. A. 2010. \_Energy and the
+      English Industrial Revolution*. Cambridge: Cambridge University
       Press.
-1214. []{#c10752_444.xhtml#R1214}Wrigley, E. A. 2013. Energy and the
-      English Industrial Revolution. _Philosophical Transactions of the
-      Royal Society A_ 371. doi:10.1098/rsta.2011.0568.
-1215. []{#c10752_444.xhtml#R1215}Wu, K. C. 1982. _The Chinese Heritage_.
+1214. []{#c10752*444.xhtml#R1214}Wrigley, E. A. 2013. Energy and the
+      English Industrial Revolution. \_Philosophical Transactions of the
+      Royal Society A* 371. doi:10.1098/rsta.2011.0568.
+1215. []{#c10752*444.xhtml#R1215}Wu, K. C. 1982. \_The Chinese Heritage*.
       New York: Crown Publishers.
-1216. []{#c10752_444.xhtml#R1216}Wulff, H. E. 1966. _The Traditional
-      Crafts of Persia_. Cambridge, MA: MIT Press.
-1217. []{#c10752_444.xhtml#R1217}Xie, Y., and Y. Jin. 2015. Household
-      wealth in China. _China Sociological Review_ 47: 203--229.
+1216. []{#c10752*444.xhtml#R1216}Wulff, H. E. 1966. \_The Traditional
+      Crafts of Persia*. Cambridge, MA: MIT Press.
+1217. []{#c10752*444.xhtml#R1217}Xie, Y., and Y. Jin. 2015. Household
+      wealth in China. \_China Sociological Review* 47: 203--229.
 1218. []{#c10752_444.xhtml#R1218}Xinhua. 2015. China boasts world's
       largest highspeed railway network.
       <http://news.xinhuanet.com/english/photo/2015-01/30/c_133959250.htm>.
-1219. []{#c10752_444.xhtml#R1219}Xu, Z., and J. L. Dull. 1980. _Han
+1219. []{#c10752*444.xhtml#R1219}Xu, Z., and J. L. Dull. 1980. \_Han
       Agriculture: The Formation of Early Chinese Agrarian Economy, 206
-      B.C.--A.D. 220_. Seattle: University of Washington Press.
-1220. []{#c10752_444.xhtml#R1220}Yang, J. 2012 _Tombstone: The Great
-      Chinese Famine, 1958--1962_. New York: Farrar, Straus and Giroux.
-1221. []{#c10752_444.xhtml#R1221}Yates, P. 2012. _Evaluation and Model
-      of the Chinese Kang System_. Fort Collins, CO: University of
+      B.C.--A.D. 220*. Seattle: University of Washington Press.
+1220. []{#c10752*444.xhtml#R1220}Yang, J. 2012 \_Tombstone: The Great
+      Chinese Famine, 1958--1962*. New York: Farrar, Straus and Giroux.
+1221. []{#c10752*444.xhtml#R1221}Yates, P. 2012. \_Evaluation and Model
+      of the Chinese Kang System*. Fort Collins, CO: University of
       Colorado.
-1222. []{#c10752_444.xhtml#R1222}Yates, R. S. 1990. War, food shortages,
-      and relief measures in early China. In _Hunger in History_,
+1222. []{#c10752*444.xhtml#R1222}Yates, R. S. 1990. War, food shortages,
+      and relief measures in early China. In \_Hunger in History*,
       ed. L. F. Newman, 147--177. Oxford: Basil Blackwell.
-1223. []{#c10752_444.xhtml#R1223}Yenne, B. 2006. _The American Aircraft
-      Factory in World War II_. Minneapolis, MN: Zenith Press.
-1224. []{#c10752_444.xhtml#R1224}Yergin, D. 2008. _The Prize: The Epic
-      Quest for Oil, Money, and Power_. New York: Simon and Schuster.
-1225. []{#c10752_444.xhtml#R1225}Yesner, D. R. 1980. Maritime
-      hunter-gatherers: Ecology and prehistory. _Current Anthropology_
+1223. []{#c10752*444.xhtml#R1223}Yenne, B. 2006. \_The American Aircraft
+      Factory in World War II*. Minneapolis, MN: Zenith Press.
+1224. []{#c10752*444.xhtml#R1224}Yergin, D. 2008. \_The Prize: The Epic
+      Quest for Oil, Money, and Power*. New York: Simon and Schuster.
+1225. []{#c10752*444.xhtml#R1225}Yesner, D. R. 1980. Maritime
+      hunter-gatherers: Ecology and prehistory. \_Current Anthropology*
       21:727--750.
-1226. []{#c10752_444.xhtml#R1226}Yonekura, S. 1994. _The Japanese Iron
-      and Steel Industry, 1850--1990: Continuity and Discontinuity_. New
+1226. []{#c10752*444.xhtml#R1226}Yonekura, S. 1994. \_The Japanese Iron
+      and Steel Industry, 1850--1990: Continuity and Discontinuity*. New
       York: St. Martin's Press.
 1227. []{#c10752_444.xhtml#R1227}Zaanse Schans. 2015. Zaanse Schans.
       <http://www.dezaanseschans.nl/en>.
-1228. []{#c10752_444.xhtml#R1228}Zeder, M. 2011. The origins of
-      agriculture in the Near East. _Current Anthropology_ 52
+1228. []{#c10752*444.xhtml#R1228}Zeder, M. 2011. The origins of
+      agriculture in the Near East. \_Current Anthropology* 52
       (Supplement): S221--S235.
-1229. []{#c10752_444.xhtml#R1229}Ziemke, E. F. 1968. _The Battle for
-      Berlin: End of the Third Reich_. New York: Ballantine Books.
+1229. []{#c10752*444.xhtml#R1229}Ziemke, E. F. 1968. \_The Battle for
+      Berlin: End of the Third Reich*. New York: Ballantine Books.
       :::
 
 []{#c10752_555n.xhtml}
