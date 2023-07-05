@@ -179,7 +179,7 @@ keeps our planet orbiting at just the right distance from the Sun, and
 it holds a sufficiently massive atmosphere that makes Earth habitable
 (box 1.1).
 
-## Box 1.1 Gravity and the habitability of Earth {.featuretitle}
+Box 1.1 Gravity and the habitability of Earth
 
 Extreme tolerances of carbon-based metabolism are determined by the
 freezing point of water, whose liquid form is required for the formation
@@ -330,7 +330,7 @@ metabolized or burned, and it ends up as the random motion of slightly
 heated air molecules, an irreversible high-entropy state that represents
 an irretrievable loss of utility.
 
-## Box 1.2 Diminishing utility of converted energy {.featuretitle}
+Box 1.2 Diminishing utility of converted energy
 
 Any energy conversion illustrates the principle. If an American reader
 uses electric light to illuminate this page, the electromagnetic energy
@@ -380,7 +380,7 @@ harnessed horse commonly used to power a mill or a pump
 ([]{#c10752_001.xhtml#fig_003a}[fig. 1.3](#c10752_001.xhtml#fig_003),
 box 1.3).
 
-## Box 1.3 Measuring energy and power {.featuretitle}
+Box 1.3 Measuring energy and power
 
 The official definition of a joule is the work accomplished when a force
 of one newton acts over a distance of one meter. Another option is to
@@ -439,7 +439,7 @@ macronutrients) would have to eat 5 kg of the fruit every day---but she
 could get the same amount of energy from only about 650 g of ground corn
 consumed as tortillas or tamales.
 
-## Box 1.4 Energy densities of foodstuffs and fuels {.featuretitle}
+Box 1.4 Energy densities of foodstuffs and fuels
 
 ```{=html}
 <figure>
@@ -492,7 +492,7 @@ areas at least 30 times their size for fuel supply. This reality
 restricted their growth even where other resources, such as food and
 water, were adequate.
 
-## Box 1.5 Power densities of phytomass fuels {.featuretitle}
+Box 1.5 Power densities of phytomass fuels
 
 Photosynthesis converts less than 0.5% of incoming solar radiation into
 new phytomass. The best annual fuelwood productivities of traditional
@@ -536,7 +536,7 @@ practical efficiency limits, though in most instances, including such
 common energy converters as internal combustion engines and lights,
 there is still much room for further improvement.
 
-## Box 1.6 Efficiency improvements and the Jevons paradox {.featuretitle}
+Box 1.6 Efficiency improvements and the Jevons paradox
 
 Technical advances have brought many impressive efficiency gains, and
 the history of lighting offers one of the best examples (Nordhaus 1998;
@@ -586,7 +586,7 @@ energies needed to synthesize fertilizers and pesticides and to build
 farm machinery) and hence has, invariably, lower energy returns than
 traditional cropping (box 1.7).
 
-## Box 1.7 Comparison of energy returns in food production {.featuretitle}
+Box 1.7 Comparison of energy returns in food production
 
 Since the early 1970s, energy ratios have been used to illustrate the
 superiority of traditional farming and the low energy returns of modern
@@ -624,7 +624,7 @@ smelting of pig iron in large blast furnaces now requires less than 10%
 of energy per unit mass of hot metal than did the preindustrial
 charcoal-based production of pig iron (Smil 2016).
 
-## Box 1.8 Energy intensities of common materials {.featuretitle}
+Box 1.8 Energy intensities of common materials
 
 ```{=html}
 <figure>
@@ -676,7 +676,7 @@ in general, and the rich Middle Eastern fields in particular; oil's high
 energy density, and hence easy transportability, are other obvious
 advantages (box 1.9).
 
-## Box 1.9 Energy returns on energy investment {.featuretitle}
+Box 1.9 Energy returns on energy investment
 
 Differences in the quality and accessibility of fossil fuels are
 enormous: thin underground seams of low-quality coal versus a thick
@@ -762,7 +762,7 @@ basal metabolism operates regardless of whether people or animals rest
 or work. Calculating the net energy cost is perhaps the most
 satisfactory solution (box 1.10).
 
-## Box 1.10 Calculating the net energy cost of human labor {.featuretitle}
+Box 1.10 Calculating the net energy cost of human labor
 
 There is no universally accepted way to express the energy cost of human
 labor, and calculating the net energy cost is perhaps the best choice:
@@ -1047,7 +1047,7 @@ efficiencies. Experiments show that 2--10% of wood's energy ends up as
 useful heat for cooking, and plausible assumptions indicate annual wood
 consumption maxima of 100--150 kg/year/capita (box 2.1).
 
-## Box 2.1 Wood consumption in open-fire cooking of meat {.featuretitle}
+Box 2.1 Wood consumption in open-fire cooking of meat
 
 Realistic assumptions for setting plausible maxima of wood consumption
 in open-fire meat cooking during the late Paleolithic are as follows
@@ -1189,7 +1189,7 @@ larger foraging populations. This image shows canopies at La Fortuna,
 Costa Rica
 (Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_fig_002.jpg)
 
-## Box 2.2 Harvesting Brazil nuts {.featuretitle}
+Box 2.2 Harvesting Brazil nuts
 
 Because of their high lipid content (66%), Brazil nuts contain about 27
 MJ/kg (compared to about 15 MJ/kg for cereal grains), are about 14%
@@ -1232,7 +1232,7 @@ protein on grasslands. In any case, human bipedalism and ability to
 sweat better than any other mammal made it also possible to chase to
 exhaustion even the fastest herbivores (box 2.3).
 
-## Box 2.3 Running and heat dissipation by humans {.featuretitle}
+Box 2.3 Running and heat dissipation by humans
 
 All quadrupeds have optimum speeds for different gaits, such as walk,
 trot, and canter in horses. The energy cost of human running is
@@ -1318,7 +1318,7 @@ megafauna, animals with a body mass greater than 50 kg (Martin 1958,
 2005; Fiedel and Haynes 2004), but the verdict remains uncertain (box
 2.4).
 
-## Box 2.4 Extinction of the Late Pleistocene megafauna {.featuretitle}
+Box 2.4 Extinction of the Late Pleistocene megafauna
 
 The persistent killing of slow-breeding animals (those with a single
 offspring born after a long gestation) could lead to their extinction.
@@ -1356,7 +1356,7 @@ simple stone-tipped weapons, or why Indians on the North American
 plains, seeking fatty meat for preparing long-lasting pemmican, spent so
 much energy in pursuing bison.
 
-## Box 2.5 Body masses, energy densities, and food energy content of hunted animals {.featuretitle}
+Box 2.5 Body masses, energy densities, and food energy content of hunted animals
 
 ![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_BT2.5.png)
 
@@ -1375,7 +1375,7 @@ the need to defend territories against competing groups, and the needs
 for reliable water sources and for vitamins and minerals. Food
 preferences and attitudes toward work were also important (box 2.6).
 
-## Box 2.6 Food preferences and attitudes toward work {.featuretitle}
+Box 2.6 Food preferences and attitudes toward work
 
 Food preferences are convincingly illustrated by a comparison of two
 otherwise highly similar foraging groups. The !Kung Basarwa (in
@@ -1450,7 +1450,7 @@ were 10--20-fold, similar to those of hunting large mammals. Prehistoric
 returns were undoubtedly much higher in many biomass-rich environments,
 allowing for a gradual increase in social complexity.
 
-## Box 2.7 Net energy returns in foraging {.featuretitle}
+Box 2.7 Net energy returns in foraging
 
 I use the method described in box 1.10 and assume smaller statures of
 prehistoric foragers (average adult weight of just 50 kg). That would
@@ -1504,7 +1504,7 @@ dependent on maritime hunting is that of northwestern Alaskan Inuit,
 whose net energy returns in killing migrating baleen whales were more
 than 2,000-fold (Sheehan 1985) (box 2.8).
 
-## Box 2.8 Alaskan whalers {.featuretitle}
+Box 2.8 Alaskan whalers
 
 In less than four months of near-shore hunting of baleen whales, whose
 migration routes led along the Alaskan coast, men in umiak (boats with a
@@ -1756,7 +1756,7 @@ periodically, with the actually cultivated area ranging from just 0.1 to
 population densities an order of magnitude higher than the best
 foraging.
 
-## Box 2.9 Energy costs and population densities in shifting cultivation {.featuretitle}
+Box 2.9 Energy costs and population densities in shifting cultivation
 
 Net energy cost is used to calculate returns of shifting farming. I
 assume that an average labor input requires 700 kJ/h. Outputs are edible
@@ -1793,7 +1793,7 @@ densities of such societies were no higher than those of foraging groups
 cattle
 (Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_002_fig_005.jpg)
 
-## Box 2.10 Nomadic pastoralists {.featuretitle}
+Box 2.10 Nomadic pastoralists
 
 Helland (1980) illustrated low labor requirements in pastoral societies
 by pointing out the large numbers of major livestock species managed by
@@ -2215,7 +2215,7 @@ total energy content, all cereals are remarkably similar: differences
 between mature seeds of various grains are mostly less than 10% (box
 3.1).
 
-## Box 3.1 Energy density and carbohydrate and protein content of principal grains {.featuretitle}
+Box 3.1 Energy density and carbohydrate and protein content of principal grains
 
 ![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.1.png)
 
@@ -2281,7 +2281,7 @@ agricultural productivity. Data on typical agricultural labor
 requirements and their energy costs are available for a large variety of
 individual field and farmyard tasks (box 3.2).
 
-## Box 3.2 Labor and energy requirements in traditional farming {.featuretitle}
+Box 3.2 Labor and energy requirements in traditional farming
 
 ![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.2.png)
 
@@ -2310,7 +2310,7 @@ Some grains are eaten whole, but before actual food preparation (cooking
 or baking) most cereals are milled first, and in the process lose a
 significant share of the whole grain's mass (box 3.3).
 
-## Box 3.3 Cereal milling {.featuretitle}
+Box 3.3 Cereal milling
 
 Whole grain flours incorporate the complete kernel, but white wheat
 flour is made only of the gain's endosperm (about 83% of total weight),
@@ -2523,7 +2523,7 @@ horsepower (745 W), and usually delivered between 500 and 850 W (box
 3.4, []{#c10752_003.xhtml#fig_003a}[fig.
 3.3](#c10752_003.xhtml#fig_003)).
 
-## Box 3.4 Typical weights, drafts, working speeds, and power of domestic animals {.featuretitle}
+Box 3.4 Typical weights, drafts, working speeds, and power of domestic animals
 
 ![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.4.png)
 
@@ -2610,7 +2610,7 @@ decades a widely accepted conclusion that this was a very inefficient
 arrangement because it choked the animal, as the breast collar tended to
 ride up (box 3.5).
 
-## Box 3.5 Comparing harnesses and draft power {.featuretitle}
+Box 3.5 Comparing harnesses and draft power
 
 For decades many writings repeated the claim that the ancient
 throat-and-girth harness was not suitable for heavy field tasks because
@@ -2761,7 +2761,7 @@ nineteenth-century draft horse were to be seen merely as a substitute
 for tedious human labor, it would have earned its keep, but strong,
 well-fed horses could perform tasks beyond human capacity and endurance.
 
-## Box 3.6 Energy cost, efficiency, and performance of a draft horse {.featuretitle}
+Box 3.6 Energy cost, efficiency, and performance of a draft horse
 
 A mature 500-kg horse needs about 70 MJ of digestible energy per day to
 maintain its weight (Subcommittee on Horse Nutrition 1978). If its feed
@@ -2906,7 +2906,7 @@ water-raising devices make the limits of human performance obvious (box
 3.7, []{#c10752_003.xhtml#fig_009a}[fig.
 3.9](#c10752_003.xhtml#fig_009)).
 
-## Box 3.7 Power requirements, lifts, and capacities of traditional water-lifting devices {.featuretitle}
+Box 3.7 Power requirements, lifts, and capacities of traditional water-lifting devices
 
 ![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.7.png)
 
@@ -2929,7 +2929,7 @@ insensitive to a temporary water deficit, corn is rather vulnerable). A
 realistic example shows that energy returns could be easily 10-fold or
 higher (box 3.8).
 
-## Box 3.8 Energy returns of wheat irrigation {.featuretitle}
+Box 3.8 Energy returns of wheat irrigation
 
 A single specific calculation demonstrates the considerable energy
 returns of traditional irrigation. Field studies indicated that winter
@@ -3431,7 +3431,7 @@ periods could still return around 20 times as much food energy in the
 additional harvest as the food consumed by peasants while treading water
 ladders.
 
-## Box 3.9 Nitrogen content of organic materials recycled in China {.featuretitle}
+Box 3.9 Nitrogen content of organic materials recycled in China
 
 Scale of traditional recycling (and hence the energies devoted to
 gathering, handling and applying the waste biomass) had to be so large
@@ -3495,7 +3495,7 @@ and barley was commonly the most time-consuming part of the human labor
 one-third) devoted to those crops. But this investment was very
 rewarding: its net energy return was commonly over 50 (box 3.10).
 
-## Box 3.10 Net energy return of fertilization {.featuretitle}
+Box 3.10 Net energy return of fertilization
 
 A good late Qing dynasty winter wheat harvest of about 1.5 t/ha required
 just over 300 hours of human and about 250 hours of animal labor.
@@ -3655,7 +3655,7 @@ return on the invested labor, and the high benefit/cost ratio explains
 the frequency of the practice, which started as early as 100 BCE and
 reached its peak during the last decades of the Aztec rule (box 3.11).
 
-## Box 3.11 Raised fields in the basin of Mexico {.featuretitle}
+Box 3.11 Raised fields in the basin of Mexico
 
 A chinampa could yield up to four times as much as nonirrigated land. An
 excellent corn harvest of 3 t/ha would produce, after subtracting about
@@ -3735,7 +3735,7 @@ human labor (and around 200 hours of animal labor) to produce typical
 harvests of merely close to 0.5 t/ha. Even so, gross food energy
 returns, ranging mostly between 30 and 40, were fairly high (box 3.12).
 
-## Box 3.12 Labor requirements of European wheat harvests, 200--1800 {.featuretitle}
+Box 3.12 Labor requirements of European wheat harvests, 200--1800
 
 ![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.12.png)
 
@@ -3893,7 +3893,7 @@ than 160-fold compared to less than 40-fold gain in medieval English
 wheat cultivation and a less than 25-fold return in Roman grain farming
 in Italy around 200 CE (box 3.13).
 
-## Box 3.13 Energy costs and returns of European wheat harvests, 200--1800 {.featuretitle}
+Box 3.13 Energy costs and returns of European wheat harvests, 200--1800
 
 ![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.13.png)
 
@@ -4016,7 +4016,7 @@ kilogram of wheat, but less than half a minute was needed in
 California's Central Valley in 1900, roughly a 20-fold labor
 productivity gain in a century.
 
-## Box 3.14 Labor requirements (human/animal) in hours/hectare and the energy cost of American wheat, 1800--1900 {.featuretitle}
+Box 3.14 Labor requirements (human/animal) in hours/hectare and the energy cost of American wheat, 1800--1900
 
 ![](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_003_BT3.14.png)
 
@@ -4062,7 +4062,7 @@ claim was possible only because of America's plentiful farmland. In 1910
 the country had almost 1.5 ha/capita, twice as much as in 1990 and about
 ten times as much as contemporary China.
 
-## Box 3.15 Feeding America's draft horses {.featuretitle}
+Box 3.15 Feeding America's draft horses
 
 In 1910 America had 24.2 million farm horses and mules (and only 1,000
 small tractors); in 1918 the draft animal herd peaked at 26.7 million
@@ -4805,7 +4805,7 @@ with us not only since the time of ancient empires but, necessarily,
 long before that---or how else did Stonehenge's 40 t outer stones get
 raised?
 
-## Box 4.1 Raising Alexander's column {.featuretitle}
+Box 4.1 Raising Alexander's column
 
 The large piece of red granite that became Alexander's Column was
 quarried at Virolahti in Finland, rolled onto a purpose-built barge able
@@ -4937,7 +4937,7 @@ planes, and pulleys---were used by virtually all old high cultures
 (Lacey 1935; Usher 1954; Needham 1965; Burstall 1968; Cotterell and
 Kamminga 1990; Wei 2012).
 
-## Box 4.2 Work, force, and distance {.featuretitle}
+Box 4.2 Work, force, and distance
 
 Work is done when a force---no matter whether provided by animate or
 inanimate prime movers---changes a body's state of motion. Its magnitude
@@ -5179,7 +5179,7 @@ with laborers leaning against a bar ([fig.
 became common in the early nineteenth century (box 4.3,
 []{#c10752_004.xhtml#fig_008a}[fig. 4.8](#c10752_004.xhtml#fig_008)).
 
-## Box 4.3 Working on a treadmill {.featuretitle}
+Box 4.3 Working on a treadmill
 
 The largest treading devices operated during the nineteenth century in
 English prisons, where William Cubitt (1785--861) introduced them as a
@@ -5314,7 +5314,7 @@ before the adoption of electric streetcars Western cities had many urban
 horses harnessed to omnibuses and carts (box 4.4; see also
 []{#c10752_004.xhtml#fig_018a}[fig. 4.18](#c10752_004.xhtml#fig_018)).
 
-## Box 4.4 Draft horses in urban transportation {.featuretitle}
+Box 4.4 Draft horses in urban transportation
 
 Draft horses were employed in cities to deliver food, fuel, and
 materials (pulling carts of different sizes) and for personal transport,
@@ -5463,7 +5463,7 @@ overshot wheel powering ore-washing machinery in a French forge
 (bottom). Reproduced from the *Encyclopédie* (Diderot and d'Alembert
 1769--1772).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_010.jpg)
 
-## Box 4.5 Power of undershot wheels {.featuretitle}
+Box 4.5 Power of undershot wheels
 
 The kinetic energy of flowing water (in joules) is 0.5ρ*v*^2^, one-half
 the product of its density (ρ = 1,000 kg/m^3^) and squared velocity (_v_
@@ -5502,7 +5502,7 @@ more than 1,000 L/s and at speeds of 4--12 rpm. Because most of the
 rotary power was generated by the weight of the descending water,
 overshot wheels could be placed on slowly flowing streams (box 4.6).
 
-## Box 4.6 Power of overshot waterwheels {.featuretitle}
+Box 4.6 Power of overshot waterwheels
 
 The potential energy of water (in joules) is equal to _mgh_, the product
 of its mass (in kg), gravitational acceleration (9.8 m/s^2^), and head
@@ -5611,7 +5611,7 @@ the textbooks, never existed at all---an authentic, ancient Roman,
 power-driven, mass-production, assembly-line factory." A closer look
 shows a less impressive reality (box 4.7).
 
-## Box 4.7 Barbegal waterwheels {.featuretitle}
+Box 4.7 Barbegal waterwheels
 
 Water for the Barbegal's 16 overshot wheels (most likely built during
 the early second century CE) was diverted from a nearby aqueduct into
@@ -5808,7 +5808,7 @@ lantern-and-crown gear and the only access was by ladder. Reproduced
 from the *Encyclopédie* (Diderot and d'Alembert
 1769--1772).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_004_fig_012.jpg)
 
-## Box 4.8 Wind energy and power {.featuretitle}
+Box 4.8 Wind energy and power
 
 Average wind speed increases roughly with one-seventh the power of
 height. This means, for example, that it will be about 22% higher 20 m
@@ -6017,7 +6017,7 @@ MJ/kg for cellulose), but the differences among common woody species are
 fairly small, mostly 17.5--20 MJ/kg for hardwoods and, because of their
 higher resin content, 19--21 MJ/kg for softwoods (box 4.9).
 
-## Box 4.9 Energy content of biomass fuels {.featuretitle}
+Box 4.9 Energy content of biomass fuels
 
 ```{=html}
 <figure>
@@ -6133,7 +6133,7 @@ GJ/capita (Galloway, Keene, and Murphy 1996). Estimates for Western
 Europe and North America just before their switch to coal show even
 higher average needs.
 
-## Box 4.10 Wood consumption in the Roman Empire {.featuretitle}
+Box 4.10 Wood consumption in the Roman Empire
 
 My conservative estimate accounts for all major wood consumption
 categories (Smil 2010c). Bread and stews were the Roman staple, and
@@ -6311,7 +6311,7 @@ commonly used, and slaves also powered dough-kneading machines in large
 bakeries: the empire's staple was paid for by terrible suffering (box
 4.11).
 
-## Box 4.11 Lucius Apuleius (_Metamorphoses_ IX, 12, 3.4) on Roman mill slaves {.featuretitle}
+Box 4.11 Lucius Apuleius (_Metamorphoses_ IX, 12, 3.4) on Roman mill slaves
 
 > Ye gods, what a set of men I saw! Their skins were seamed all over
 > with marks of the lash, their scarred backs were shaded rather than
@@ -6742,7 +6742,7 @@ construction (box 4.12) In Western Europe the Roman achievements in road
 building were surpassed only during the nineteenth century, in the
 eastern regions of the continent only during the twentieth.
 
-## Box 4.12 Energy cost of Roman roads {.featuretitle}
+Box 4.12 Energy cost of Roman roads
 
 If we assume that the average Roman road was just 5 m wide and 1 m deep,
 construction of 85,000 km of trunk roads would have required the
@@ -6992,7 +6992,7 @@ powered by 40 men turning capstans or treadmills appeared in the middle
 of the sixteenth century. Animate power was also the principal prime
 mover for moving goods and people by canal boats and barges (box 4.13).
 
-## Box 4.13 Ancient canal transportation {.featuretitle}
+Box 4.13 Ancient canal transportation
 
 The earliest description of their sluggish progress (snoring waterman,
 grazing mule) was left by Horace (Quintus Horatius Flaccus, 65--8 BCE)
@@ -7055,7 +7055,7 @@ minimize drag (box 4.14). But this force from the sail's foil shape must
 be combined with the balancing force of the keel; otherwise the vessel
 will drift downwind (Anderson 2003).
 
-## Box 4.14 Sails and sailing near the wind {.featuretitle}
+Box 4.14 Sails and sailing near the wind
 
 When wind strikes a sail, the difference in pressure generates two
 forces: lift, whose direction is perpendicular to the sail, and drag,
@@ -7178,7 +7178,7 @@ dominance before and after the Napoleonic age. Starting in the early
 fifteenth century the simplest ships of this innovative design carried
 the audacious Portuguese sailors on longer voyages (box 4.15).
 
-## Box 4.15 Portuguese voyages of discovery {.featuretitle}
+Box 4.15 Portuguese voyages of discovery
 
 Portuguese sailors advanced first southward, along the western coast of
 Africa: the mouth of the Senegal Rover was reached in 1444, the equator
@@ -7242,7 +7242,7 @@ expansion of shipping (preceding that of the economy as a whole) and its
 rising productivity were critical contributions to Europe's economic
 growth between 1350 and 1850 (Lucassen and Unger 2011).
 
-## Box 4.16 Contribution of sail ships to Dutch energy use {.featuretitle}
+Box 4.16 Contribution of sail ships to Dutch energy use
 
 Information on tonnages and speeds that would allow us to calculate the
 energies needed to move individual ships on long voyages, or to come up
@@ -7340,7 +7340,7 @@ Parthenon in just 15 years (447--432 BCE), the Pantheon in about eight
 Byzantine church later converted into a mosque, in less than five years
 (527--532).
 
-## Box 4.17 Brunelleschi's ingenious machines {.featuretitle}
+Box 4.17 Brunelleschi's ingenious machines
 
 Filippo Brunelleschi's work on the Cathedral of Santa Maria del Fiore is
 a perfect demonstration of the roles played by ingenious inventions in
@@ -7493,7 +7493,7 @@ numbers of workers, most of them concentrated on the Giza Plateau, might
 have been a factor as limiting as or even more limiting than delivering
 and lifting the stones.
 
-## Box 4.18 Energy cost of the Great Pyramid {.featuretitle}
+Box 4.18 Energy cost of the Great Pyramid
 
 The Great Pyramid's potential energy (required to lift the mass of 2.5
 Mm^3^ of stones) is about 2.5 TJ. Wier (1996) got that total right, but
@@ -7568,7 +7568,7 @@ metallic oxides in an inclined rotating kiln---and there was no cement
 in the Roman _opus caementicium_ used to build the Pantheon or in any
 other building until the 1820s (box 4.19).
 
-## Box 4.19 Rome's Pantheon {.featuretitle}
+Box 4.19 Rome's Pantheon
 
 The Roman _opus caementicium_ was a mixture of aggregates (sand, gravel,
 stones, often also broken bricks or tiles) and water, but its bonding
@@ -7768,7 +7768,7 @@ the late medieval metallurgical expertise (Agricola 1912 \[1556\];
 Biringuccio 1959 \[1540\]) describe copper smelting in ways that hardly
 differ from the Rio Tinto practices.
 
-## Box 4.20 Fuelwood needs for Roman copper and silver smelting at Rio Tinto {.featuretitle}
+Box 4.20 Fuelwood needs for Roman copper and silver smelting at Rio Tinto
 
 The first mapping of Rio Tinto's enormous slag heaps resulted in
 estimates of 15.3 Mt of slag from lead and silver mining and 1 Mt of
@@ -7907,7 +7907,7 @@ before 1400. Blast furnaces produce cast, or pig, iron, an alloy with
 strength is no higher than copper's (and it can be up to 55% weaker) but
 it is two to three times harder (Oberg et al. 2012; box 4.21).
 
-## Box 4.21 Tensile strength and hardness of common metals and alloys {.featuretitle}
+Box 4.21 Tensile strength and hardness of common metals and alloys
 
 ```{=html}
 <figure>
@@ -7977,7 +7977,7 @@ inevitably caused extensive deforestation around furnace sites. A
 typical early eighteenth-century English furnace needed about 1,600 ha
 of trees for a sustainable supply (box 4.22).
 
-## Box 4.22 Fuel needs of an eighteenth-century English blast furnace {.featuretitle}
+Box 4.22 Fuel needs of an eighteenth-century English blast furnace
 
 Early eighteenth-century English blast furnaces worked only from October
 to May, and during that time their average output was just 300 t of pig
@@ -8005,7 +8005,7 @@ beginning of the twentieth century it would have been impossible, and
 only the use of coke allowed the country to become the world's larger
 producer of pig iron (box 4.23).
 
-## Box 4.23 Energy needs in British and American iron production {.featuretitle}
+Box 4.23 Energy needs in British and American iron production
 
 In 1720, 60 British furnaces produced about 17,000 t of pig iron,
 requiring, with 40 kg of wood per kilogram of metal, about 680,000 t of
@@ -8169,7 +8169,7 @@ and even if well-rested and well-fed men were able to move swiftly, the
 army's progress was often limited by the speed of its supply train, made
 up of slow-moving animals.
 
-## Box 4.24 Kinetic energy of swords and arrows {.featuretitle}
+Box 4.24 Kinetic energy of swords and arrows
 
 Even heavy medieval swords weighed no more than 2 kg, usually less than
 1.5 kg. Kinetic energy increases with the square value of speed: it is
@@ -8267,7 +8267,7 @@ Napoleon's armies for their invasion of Russia in 1812 (box 4.25).
 Without oxen---44,000 of them---pulling the supply wagons, the army
 could not have advanced.
 
-## Box 4.25 Prussian supplies and animals for the Russian invasion {.featuretitle}
+Box 4.25 Prussian supplies and animals for the Russian invasion
 
 Opening the road to Russia to Napoleon: that is how Philip Paul, comte
 de Ségur (1780--1873), one of Napoleon's young generals and perhaps the
@@ -8437,7 +8437,7 @@ translates into high energy densities (box 5.1)
 
 ##
 
-## Box 5.1 Fossil fuels {.featuretitle}
+Box 5.1 Fossil fuels
 
 Plant mass is 45--55% C, anthracite is nearly 100% C, good bituminous
 coals have in excess of 85% C, crude oils are mostly between 82% and 84%
@@ -8666,7 +8666,7 @@ accurate appraisal of actual physical exertion (box 5.2).
 Scottish mine in the early nineteenth century
 (Corbis).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_001.jpg)
 
-## Box 5.2 _An Inquiry Into the Condition of the Women Who Carry Coals Under Ground in Scotland, Known by the Name of BEARERS_ {.featuretitle}
+Box 5.2 _An Inquiry Into the Condition of the Women Who Carry Coals Under Ground in Scotland, Known by the Name of BEARERS_
 
 This was the title of the addition to _A General View of the Coal Trade
 in Scotland,_ published in 1812; here are the key findings (Bald 1812,
@@ -8947,7 +8947,7 @@ Lessening the Consumption of Steam and Fuel in Fire Engines_ (Watt 1855
 systematic listing of improvements makes it clear how the new machine
 differed from its predecessors (box 5.3).
 
-## Box 5.3 Watt's 1769 patent {.featuretitle}
+Box 5.3 Watt's 1769 patent
 
 This is how Watt explained his improved design:
 
@@ -9012,7 +9012,7 @@ discouraged William Murdoch (1754--1839), the principal erector of their
 engines, from developing such a machine, and when Murdoch persisted,
 Boulton persuaded him not to file a patent (box 5.4)
 
-## Box 5.4 Watt and Boulton delay the development of a steam carriage {.featuretitle}
+Box 5.4 Watt and Boulton delay the development of a steam carriage
 
 In 1777, when he was 23 years old, William Murdoch walked nearly 500 km
 to Birmingham to take a job with James Watt's steam engine company. Both
@@ -9193,7 +9193,7 @@ inefficient: by 1900 the typical steam locomotive wasted 92% of coal fed
 into its boiler. And they remained heavy, limiting mobile uses beyond
 water and rails where it was easier to support their mass (box 5.5)
 
-## Box 5.5 Mass/power ratio of steam engines and a _Megatherium_ {.featuretitle}
+Box 5.5 Mass/power ratio of steam engines and a _Megatherium_
 
 A medium-heavy horse weighing 750 kg and delivering one horsepower (745
 W) will have a mass/power ratio of almost exactly 1,000 g/W---and so
@@ -9421,7 +9421,7 @@ road vehicles, and as the new century began, the leading German
 manufacturer designed the first essentially modern car (box 5.6,
 []{#c10752_005.xhtml#fig_007a}[fig. 5.7](#c10752_005.xhtml#fig_007)).
 
-## Box 5.6 The first modern car {.featuretitle}
+Box 5.6 The first modern car
 
 The car was a German invention, but a French engineer, Emile Levassor
 (1844--1897), designed the first vehicle that was not merely a horseless
@@ -9503,7 +9503,7 @@ shapes and with experimental glider flights. Their first flights, on
 December 17, 1903, are well documented (box 5.7,
 []{#c10752_005.xhtml#fig_008a}[fig. 5.8](#c10752_005.xhtml#fig_008)).
 
-## Box 5.7 The first flights {.featuretitle}
+Box 5.7 The first flights
 
 Nine days after Manly's second dunking, the Wright brothers were ready
 to test the _Flyer_ at Kitty Hawk. The airplane was a fragile canard
@@ -9590,7 +9590,7 @@ largely realized, but his initial hopes for the machine's social impact
 were completely misplaced---yet another instance of the unintended
 consequences of a technical advance (box 5.8).
 
-## Box 5.8 Diesel's engine: The intent and the outcome {.featuretitle}
+Box 5.8 Diesel's engine: The intent and the outcome
 
 Diesel's ambition was to produce a light, small (about the size of a
 contemporary sewing machine), cheap engine that would be bought by
@@ -9681,7 +9681,7 @@ the answer he discovered (box 5.9).
 Wellcome Library, London,
 photograph.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_005_fig_009.jpg)
 
-## Box 5.9 Faraday's discovery of electromagnetic induction {.featuretitle}
+Box 5.9 Faraday's discovery of electromagnetic induction
 
 Faraday, a self-educated assistant at the Royal Institution, working
 mostly with Humphry Davy (1778--1829), the first scientist to describe
@@ -9798,7 +9798,7 @@ the determination and organizational talent to make the whole work (box
 5.10, []{#c10752_005.xhtml#fig_010a}[fig.
 5.10](#c10752_005.xhtml#fig_010)).
 
-## Box 5.10 Edison's electrical system {.featuretitle}
+Box 5.10 Edison's electrical system
 
 The first durable electric lamp, demonstrated by Joseph Swan in
 Newcastle-on-Tyne on December 18, 1878, had the same key components as
@@ -9957,7 +9957,7 @@ serving limited local areas---and either option would have been very
 expensive. Transformers of AC provided an inexpensive and reliable
 solution (box 5.11)
 
-## Box 5.11 Transforming electricity and transmission losses {.featuretitle}
+Box 5.11 Transforming electricity and transmission losses
 
 Electricity is most efficiently generated and most conveniently
 converted to final uses at low voltages, but because the power loss in
@@ -10363,7 +10363,7 @@ coal output was surpassed by the Chinese production in 1985, and coal
 has been by far the most important energizer of China's extraordinary
 economic growth (USEIA 2015b; box 5.12).
 
-## Box 5.12 Chinese coal production {.featuretitle}
+Box 5.12 Chinese coal production
 
 Once the Chinese Communist Party established a new regime on October 1,
 1949, it energized its Stalinist-type industrialization with China's
@@ -10513,7 +10513,7 @@ distance between its origin and the final user has become only a minor
 economic consideration and as annual intercontinental crude oil sales
 surpass 2 Gt (box 5.13).
 
-## Box 5.13 Giant oil tankers {.featuretitle}
+Box 5.13 Giant oil tankers
 
 The first tanker, the British-built German _Glückauf,_ launched in 1886,
 was rated at just 2,300 gross tons (Tyne Built Ships 2015). Subsequent
@@ -10711,7 +10711,7 @@ by increased reliability of the service, a particularly important
 consideration in a world full of electronic devices and controls (box
 5.14)
 
-## Box 5.14 Reliability of electricity supply {.featuretitle}
+Box 5.14 Reliability of electricity supply
 
 The reliability of the electricity supply is often expressed in terms of
 nines, the percentage of time in standard 365-day year that a particular
@@ -11274,7 +11274,7 @@ in a key consumption sector, household heating, entire populations have
 experienced a complete efficiency transition just in a matter of a few
 decades (box 6.1).
 
-## Box 6.1 Efficiency of household heating {.featuretitle}
+Box 6.1 Efficiency of household heating
 
 In less than 50 years I have lived in homes heated by four different
 fuels and have seen the conversion efficiency of this key energy service
@@ -11595,7 +11595,7 @@ of about 100 Mt N by the year 2000, accounting for about 80% of the
 compound's total synthesis (box 6.2, []{#c10752_006.xhtml#fig_006a}[fig.
 6.6](#c10752_006.xhtml#fig_006)).
 
-## Box 6.2 Energy costs of nitrogenous fertilizers {.featuretitle}
+Box 6.2 Energy costs of nitrogenous fertilizers
 
 The energy requirements of the Haber-Bosch synthesis include fuels and
 electricity used in the process and energy embodied in the feedstocks.
@@ -11905,7 +11905,7 @@ Scientific Management_ (Taylor 1911); a century later its lessons
 continue to guide some of the world's most successful makers of consumer
 products (box 6.3).
 
-## Box 6.3 From experiments with steel cutting to Japan's car exports {.featuretitle}
+Box 6.3 From experiments with steel cutting to Japan's car exports
 
 Frederick Winslow Taylor's main concern was with wasted labor, that is,
 with the inefficient use of energy---those "awkward, inefficient, or
@@ -12054,7 +12054,7 @@ have been impossible without the much larger and more efficient blast
 furnaces (box 6.4, []{#c10752_006.xhtml#fig_009a}[fig.
 6.9](#c10752_006.xhtml#fig_009)).
 
-## Box 6.4 Growth and mass and energy balances of blast furnaces {.featuretitle}
+Box 6.4 Growth and mass and energy balances of blast furnaces
 
 Few production structures with a medieval pedigree remain as important
 for the functioning of modern civilization do blast furnaces. As noted
@@ -12165,7 +12165,7 @@ manufacturing sector, to 44--50% in Germany, France, and the UK, and to
 different from their predecessors, they are actually very different
 hybrids (box 6.5).
 
-## Box 6.5 Cars as mechatronic machines {.featuretitle}
+Box 6.5 Cars as mechatronic machines
 
 There is no better example of the fusion of mechanical and electronic
 components than a modern passenger car. In 1977 GM's Oldsmobile Toronado
@@ -12351,7 +12351,7 @@ Other notable models were the Austin Seven, the Morris Minor, the
 Citroen 2CV, the Renault 4CV, the Fiat Topolino, and, the most popular
 of them all, Ferdinand Porsche's Hitler-inspired Volkswagen (box 6.6).
 
-## Box 6.6 Volkswagen and other durable models {.featuretitle}
+Box 6.6 Volkswagen and other durable models
 
 In terms of the aggregate production, size, and longevity (though with
 updated models), no car designed for the masses comes close to the one
@@ -12502,7 +12502,7 @@ Plotted from data in Taylor (1989) and Gunston (2002) and from technical
 specifications on the Boeing corporate
 website.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_013.jpg)
 
-## Box 6.7 Boeing and Airbus {.featuretitle}
+Box 6.7 Boeing and Airbus
 
 Boeing is an old U.S. company---established by William E. Boeing
 (1881--1956) in 1916---and a maker of such iconic designs as the Boeing
@@ -12717,7 +12717,7 @@ invented miniaturized circuits integrated into the body of semiconductor
 material (Noyce 1961; Kilby 1964). Noyce's design of a planar transistor
 opened the new era of solid-state electronics (box 6.8).
 
-## Box 6.8 Invention of integrated circuits {.featuretitle}
+Box 6.8 Invention of integrated circuits
 
 When working as the director of research at Fairchild Semiconductors in
 Santa Clara, California, Robert Noyce wrote in his lab notebook that
@@ -12857,7 +12857,7 @@ dependent on an incessant and highly reliable electricity supply to
 energize the requisite infrastructures, ranging from data centers to
 cell towers (box 6.9).
 
-## Box 6.9 Energy embodied in mobile phones and cars {.featuretitle}
+Box 6.9 Energy embodied in mobile phones and cars
 
 Even a compact car weighs 10,000 times as much as a smart phone (1.4 t
 vs. 140 g), and hence it embodies considerably more energy. But the
@@ -13059,7 +13059,7 @@ have a significantly lower energy intensity (energy per unit of GDP)
 than they had during earlier stages of their development (box 6.10,
 []{#c10752_006.xhtml#fig_017a}[fig. 6.17](#c10752_006.xhtml#fig_017)).
 
-## Box 6.10 Declining energy intensity of economic growth {.featuretitle}
+Box 6.10 Declining energy intensity of economic growth
 
 Historical statistics show a steady decline in the British energy
 intensity following the rapid rise brought by the adoption of steam
@@ -13222,7 +13222,7 @@ their energies had to come from croplands and woodlands that were at
 least 50 times and commonly about 100 times larger than the size of the
 settlement itself (box 6.11).
 
-## Box 6.11 Power densities of traditional urban energy supply and use {.featuretitle}
+Box 6.11 Power densities of traditional urban energy supply and use
 
 With average per capita food intakes of about 9 MJ/day originating, as
 preindustrial diets usually did, overwhelmingly (90%) from plant foods,
@@ -13536,7 +13536,7 @@ eventual liberator. Regardless of the availability of other energy
 forms, it was only the introduction of electricity that did away with
 exhausting and often dangerous labor (Caro 1982; box 6.12).
 
-## Box 6.12 Importance of electricity for easing housework {.featuretitle}
+Box 6.12 Importance of electricity for easing housework
 
 The liberating effects of electricity are unforgettably illustrated in
 Robert Caro's (1982) first volume of Lyndon Johnson's biography. As Caro
@@ -13886,7 +13886,7 @@ half a dozen specific weapons are shown in box 6.13: the values for gun
 shells are only the kinetic energies of projectiles and exclude the
 energies of the explosives they may or may not carry.
 
-## Box 6.13 Kinetic energy of projectiles propelled by explosives {.featuretitle}
+Box 6.13 Kinetic energy of projectiles propelled by explosives
 
 ```{=html}
 <figure>
@@ -13971,7 +13971,7 @@ NH~4~NO~3~ (as an oxidizing agent) and 6% of fuel oil, both readily
 available ingredients whose effect is the result of the mass of the
 explosive used, not of any extraordinary detonation velocity (box 6.14).
 
-## Box 6.14 Kinetic energy of explosive devices {.featuretitle}
+Box 6.14 Kinetic energy of explosive devices
 
 ```{=html}
 <figure>
@@ -14056,7 +14056,7 @@ explosive energy of 3.8 GJ. But the greatest damage was done by dropping
 incendiary bombs on Tokyo on March 9--10, 1945 (box 6.15,
 []{#c10752_006.xhtml#fig_021a}[fig. 6.21](#c10752_006.xhtml#fig_021)).
 
-## Box 6.15 Firebombing of Tokyo, March 9--10, 1945 {.featuretitle}
+Box 6.15 Firebombing of Tokyo, March 9--10, 1945
 
 The raid, the largest of its kind ever, involved 334 B-29 bombers that
 offloaded their bombs at low (about 600--750 m) altitude (Caidin 1960;
@@ -14112,7 +14112,7 @@ magnitudes of energy release I do not use scientific notation
 (exponents) in the staggering ladder of maximum destructivity of
 explosive weapons (box 6.16).
 
-## Box 6.16 Maximum energy of explosive weapons {.featuretitle}
+Box 6.16 Maximum energy of explosive weapons
 
 ```{=html}
 <figure>
@@ -14231,7 +14231,7 @@ increasing destructiveness of weapons and the more concentrated delivery
 of explosives can be illustrated by comparing both discrete events and
 overall conflict casualties (box 6.17).
 
-## Box 6.17 Casualties of modern wars {.featuretitle}
+Box 6.17 Casualties of modern wars
 
 Combat casualties during the Battle of the Somme (July--November 19, 1916) totaled 1.043 million. Those during the Battle of Stalingrad
 (August 23, 1942--February 2, 1943) surpassed 2.1 million (Beevor 1998).
@@ -14541,7 +14541,7 @@ forcing (box 6.18).
 measured at Mauna Loa Observatory in Hawaii (NOAA
 2015).](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_006_fig_022.jpg)
 
-## Box 6.18 Greenhouse gases and rising tropospheric temperature {.featuretitle}
+Box 6.18 Greenhouse gases and rising tropospheric temperature
 
 In 2014 the global rate of anthropogenic radiative forcing (capacity of
 greenhouse gases to affect the planet's energy balance) reached 2.936
@@ -14867,7 +14867,7 @@ came only with steam engines of the nineteenth century. Maximum
 capacities are plotted from prime mover--specific sources cited in this
 book.](https://raw.githubusercontent.com/hdgroup/picasso/main/2023/energy-and-civilization/10752_007_fig_002.jpg)
 
-## Box 7.1 Persistence of animate power {.featuretitle}
+Box 7.1 Persistence of animate power
 
 In the Americas, horse, mule, and ox teams also converted most of the
 currently cultivated land by plowing up the extensive grasslands of the
@@ -15181,7 +15181,7 @@ are still very low. Poorly maintained car engines often perform at less
 than a third of their rated maxima. Improvements in lighting efficiency
 have been even more impressive (box 7.2).
 
-## Box 7.2 Efficiency and efficacy of lighting {.featuretitle}
+Box 7.2 Efficiency and efficacy of lighting
 
 Candles convert as little as 0.01% and no more than 0.04% of the
 chemical energy of the burning wax, tallow, or paraffin into light.
@@ -15398,7 +15398,7 @@ in high- or low-income countries---have been subsidized, often heavily,
 mostly by ignoring externalities, by setting low tax rates, and by other
 preferential treatments (box 7.3).
 
-## Box 7.3 Energy subsidies {.featuretitle}
+Box 7.3 Energy subsidies
 
 The International Monetary Fund (IMF 2015) more than doubled its
 original 2011 estimate of \$2.0 trillion of global energy subsidies, to
@@ -15573,7 +15573,7 @@ and prime movers, on the one hand, and accelerated investment on the
 other (box 7.4, []{#c10752_007.xhtml#fig_008a}[fig.
 7.8](#c10752_007.xhtml#fig_008)).
 
-## Box 7.4 Business cycles and energy {.featuretitle}
+Box 7.4 Business cycles and energy
 
 The first well-documented upswing (1787--1814) coincides with the
 spreading extraction of coal and with the initial introduction of
@@ -16679,7 +16679,7 @@ reserves soon swept that myth away. Electricity was the next carrier of
 unbounded possibilities, its powers eventually so far-reaching that they
 would cure poverty and disease (box 7.5).
 
-## Box 7.5 Electricity's promise that never ends {.featuretitle}
+Box 7.5 Electricity's promise that never ends
 
 Electricity is the most versatile form of energy, and its multifaceted
 promise inspired innovators---Edison, Westinghouse, Steinmetz,
