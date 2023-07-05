@@ -20,645 +20,7 @@ subject: power; resources; technology and civilization; energy consumption
 
 [豆瓣书评](https://book.douban.com/subject/35418848/)
 
-![](vertopal_c7b1276959634ad39553458bb92e4366/images/cover.jpg)
-
-[]{#c10752_000_1.xhtml}
-
-::: {.section .titlePage}
-
-<div>
-
-# Energy and Civilization {.bookTitle}
-
-</div>
-
-::: section
-
-## A History {.bookSubTitle}
-
-:::
-
-::: authorGroup
-::: bookAuthor
-Vaclav Smil
-:::
-:::
-
-The MIT Press
-
-Cambridge, Massachusetts
-
-London, England
-:::
-
-[]{#c10752_000_2.xhtml}
-
-::: section
-© 2017 Massachusetts Institute of Technology
-
-All rights reserved. No part of this book may be reproduced in any form
-by any electronic or mechanical means (including photocopying,
-recording, or information storage and retrieval) without permission in
-writing from the publisher.
-
-This book was set in Stone Sans and Stone Serif by Toppan Best-set
-Premedia Limited. Printed on recycled paper and bound in the United
-States of America.
-
-Library of Congress Cataloging-in-Publication Data
-
-Names: Smil, Vaclav, author.
-
-Title: Energy and civilization : a history / Vaclav Smil.
-
-Other titles: Energy in world history
-
-Description: Cambridge, MA : The MIT Press, \[2017\] \| Revised edition
-of: Energy in world history / Vaclav Smil. 1994. \| Includes
-bibliographical references and index.
-
-Identifiers: LCCN 2016030742 \| ISBN 9780262035774 (hardcover : alk.
-paper)
-
-eISBN 9780262338295
-
-Subjects: LCSH: Power resources\--History. \| Power resources\--Social
-aspects. \| Technology and civilization. \| Energy consumption\--Social
-aspects.
-
-Classification: LCC TJ163.5 .S623 2017 \| DDC 333.7909\--dc23 LC record
-available at <https://lccn.loc.gov/2016030742>
-
-ePub Version 1.0
-:::
-
-[]{#toc.xhtml}
-
-```{=html}
-<nav epub:type="loi">
-```
-
-## List of Illustrations
-
-1.  [Figure 1.1 Matrix of energy conversions. Where more possibilities
-    exist, no more than two leading transformations are
-    identified.](#c10752_001.xhtml#fig_001)
-2.  [Figure 1.2 Chimpanzee (_Pan troglodytes_) in Gabon using tools to
-    crack nuts (Corbis).](#c10752_001.xhtml#fig_002)
-3.  [Figure 1.3 Two horses turning a capstan geared to pumping well
-    water in a mid-eighteenth-century French carpet manufactory
-    (reproduced from the _Encyclopédie_ \[Diderot and d'Alembert
-    1769--1772\]). An average horse of that period could not sustain a
-    steady work rate of one horsepower. James Watt used an exaggerated
-    rating to ensure customers' satisfaction with his
-    horsepower-denominated steam engines installed to place harnessed
-    animals.](#c10752_001.xhtml#fig_003)
-4.  [Figure 1.4 Charcoaling in early seventeenth-century England as
-    depicted in John Evelyn's _Silva_
-    (1607).](#c10752_001.xhtml#fig_004)
-5.  [Figure 2.1 Acheulean stone tools, first made by _Homo ergaster,_
-    were formed by the removal of stone flakes to create specialized
-    cutting blades (Corbis).](#c10752_002.xhtml#fig_001)
-6.  [Figure 2.2 Tropical rain forests are rich in species but relatively
-    poor in plants that would support larger foraging populations. This
-    image shows canopies at La Fortuna, Costa Rica
-    (Corbis).](#c10752_002.xhtml#fig_002)
-7.  [Figure 2.3 Charcoal paintings of animals on a wall of the Chauvet
-    Cave in southern France. These remarkable likenesses were dated to
-    between 32,900 and 30,000 years ago
-    (Corbis).](#c10752_002.xhtml#fig_003)
-8.  [Figure 2.4 The earliest domesticated cereals. a--c. Emmer wheat
-    (_Triticum dicoccum_), einkorn wheat (_Triticum monococcum_), and
-    barley (_Hordeum vulgare_) were the foundation of the origins of
-    agriculture in the Middle East (Corbis).](#c10752_002.xhtml#fig_004)
-9.  [Figure 2.5 Maasai herder with his cattle
-    (Corbis).](#c10752_002.xhtml#fig_005)
-10. [Figure 3.1 Evolution of curved moldboard plows. Traditional Chinese
-    plow (top) had small but smoothly curving moldboard made from
-    nonbrittle cast iron. Heavy European medieval plow, attached to a
-    forecarriage (bottom left), had a pointed coulter in front of the
-    share to cut the roots. The efficient American beam plow of the
-    mid-nineteenth-century (bottom right) had its share and moldboard
-    fused into a smoothly curving steel shape. _Sources:_ Hopfen (1969),
-    Diderot and D'Alembert (1769--1772) and Ardrey
-    (1894).](#c10752_003.xhtml#fig_001)
-11. [Figure 3.2 Sickle and scythes pictured in the French _Encyclopédie_
-    (Diderot and d'Alembert 1769--1772). The simple scythe on the right
-    was used for grass mowing, the cradled one for cereal harvesting.
-    Also shown are tools for hammering (straightening) and sharpening
-    the scythes, as well as a rake and pitchforks. The bottom
-    illustrations show nineteenth-century American grain harvesting by
-    sickle and cradled scythe.](#c10752_003.xhtml#fig_002)
-12. [Figure 3.3 Comparisons of animal draft power showing the clear
-    superiority of horses. Plotted from data in Hopfen (1969), Rouse
-    (1970), and Cockrill (1974).](#c10752_003.xhtml#fig_003)
-13. [Figure 3.4 The head yoke was the first, and rather inefficient,
-    harness for working oxen. The neck yoke became the dominant way of
-    harnessing cattle throughout the Old World. Adapted from
-    Hopfen (1963) and from a late Ming dynasty (1637)
-    illustration.](#c10752_003.xhtml#fig_004)
-14. [Figure 3.5 The breastband harness, reproduced here from the
-    _Encylopédie_ (Diderot and D'Alembert 1769--1772), remained in use
-    for lighter duty until the twentieth
-    century.](#c10752_003.xhtml#fig_005)
-15. [Figure 3.6 Components of a typical late nineteenth-century collar
-    harness (based on Telleen 1977 and Villiers 1976)---and a variety of
-    mid-eighteenth-century horseshoes (Diderot and d'Alembert
-    1769--1772). The shapes (starting on the left) are, respectively,
-    typical English, Spanish, German, Turkish, and French
-    horseshoes.](#c10752_003.xhtml#fig_006)
-16. [Figure 3.7 Nineteenth-century engraving of Egyptian peasants using
-    a shaduf (Corbis).](#c10752_003.xhtml#fig_007)
-17. [Figure 3.8 China's ancient "dragon backbone machine" was powered by
-    peasants leaning on a pole and treading a spoked axle. Adapted from
-    a late Ming dynasty illustration.](#c10752_003.xhtml#fig_008)
-18. [Figure 3.9 Comparison of lifts, volumes, and power requirements of
-    preindustrial water-raising devices and machines. Plotted from data
-    in Molenaar (1956), Forbes (1965), and Needham and colleagues
-    (1965).](#c10752_003.xhtml#fig_009)
-19. [Figure 3.10 Scenes of Egyptian farming activities from the
-    eighteenth dynasty (New Kingdom) tomb of Unsou in East Thebes
-    (Corbis).](#c10752_003.xhtml#fig_010)
-20. [Figure 3.11 Small area of extensive longji (dragon's back) rice
-    terraces north of Guilin in Guangxi whose origins go back to Yuan
-    Dynasty (1271--1368). _Source:_
-    https://en.wikipedia.org/wiki/Longsheng_Rice_Terrace#/media.](#c10752_003.xhtml#fig_011)
-21. [Figure 3.12 China's population density in long-term perspective. A
-    substantial expansion of cultivated area during the Qing dynasty was
-    soon overwhelmed by the country's continuing population growth.
-    Density bars indicate the uncertainty of historical estimates. Based
-    on data in Perkins (1969) and Smil
-    (2004).](#c10752_003.xhtml#fig_012)
-22. [Figure 3.13 European draft horses ranged from small, ponylike
-    animals less than 12 hands (1.2 m) tall to tall (more than 16
-    hands), heavy beasts (weighing around 1 t). Animal silhouettes,
-    based on Silver (1976), have been scaled to
-    size.](#c10752_003.xhtml#fig_013)
-23. [Figure 3.14 The three-wheeled steel riding plow (made by Deere &
-    Co. in Moline, Illinois, during the 1880s) and the twine grain
-    harvester (made during the last decades of the nineteenth century in
-    Auburn, New York). These two innovations opened up the American
-    plains for large-scale grain cropping. Reproduced from Ardrey
-    (1894).](#c10752_003.xhtml#fig_014)
-24. [Figure 3.15 Improving efficiency of American wheat cultivation
-    during the nineteenth century can be charted fairly accurately on
-    the basis of data compiled by Rogin (1931) and the USDA
-    (1959).](#c10752_003.xhtml#fig_015)
-25. [Figure 3.16 English wheat yields show a long period of stagnation
-    followed by a post-1600 take-off. Yield gains during the nineteenth
-    century were even more impressive in the Netherlands, but marginal
-    in France, while in the United States the westward expansion of
-    wheat farming to the drier interior had actually resulted in
-    declining average yields. Plotted from data in USDA (1955), USBC
-    (1975), Stanhill (1976), Clark (1991), and Palgrave Macmillan
-    (2013).](#c10752_003.xhtml#fig_016)
-26. [Figure 3.17 Approximate long-term trends of population densities
-    per hectare of cultivated land in Egypt, China, the basin of Mexico,
-    and Europe, 2500 BCE--1900 CE. Calculations are based on estimates
-    and data in Perkins (1969), Mitchell (1975), Butzer (1976),
-    Waterbury (1979), Richards (1990), and Whitmore and co-workers
-    (1990).](#c10752_003.xhtml#fig_017)
-27. [Figure 3.18 Slash-and-burn cultivation in late nineteenth-century
-    Europe. In this photograph, taken by I. K. Inha in 1892 in Eno,
-    Finland, women clear-burn slopeland before it is plowed and planted
-    with a grain or root crop.](#c10752_003.xhtml#fig_018)
-28. [Figure 4.1 Flowing water powered these three hammers, but their
-    complexity and performance were vastly different. The primitive
-    Chinese spoon tilt-hammer of the early fourteenth century was a
-    simple lever actuated by falling water (top). European forge hammers
-    of the late sixteenth century were energized by waterwheels whose
-    rotary power was transferred by connecting rods (middle).
-    Tilt-hammers at a nineteenth-century English foundry were
-    high-performance, adjustable machines (bottom). Reproduced from
-    drawings in Needham (1965) and Reynolds
-    (1970).](#c10752_004.xhtml#fig_001)
-29. [Figure 4.2 Three classes of levers are distinguished by the point
-    at which the force is applied in relation to the object (whose
-    weight, _W_, always acts in a downward direction) and the fulcrum
-    (_F_). In levers of the first class, the force moves in a direction
-    opposite to that of the object. In levers of the second class, the
-    force moves in the same direction as the object, but both levers
-    confer the same mechanical advantage: they gain power at the expense
-    of distance. In levers of the third class, the force moves over a
-    shorter distance than the object, resulting in a velocity gain. The
-    first two classes of levers have had countless applications in
-    lifting and moving objects and in machinery construction. A detail
-    from a partially reconstructed Assyrian bas-relief at Kuyunjik
-    (about 700 BCE) shows a large lever used to move a giant statue of a
-    winged bull with a man's head. Reproduced from Layard
-    (1853).](#c10752_004.xhtml#fig_002)
-30. [Figure 4.3 Equilibrium forces in pulleys are determined by the
-    number of suspension cords. There is no mechanical advantage in A.
-    In B the weight _P_ is suspended by two parallel cords and hence the
-    free end needs to be loaded only by _P_/2 to be in equilibrium, in C
-    by _P_/6, and so on. A worker raising building materials with
-    Archimedean potential pulley (D) could lift (ignoring friction) a
-    200 kg stone with a force of only 25 kg, but a lift of 10 m will
-    require pulling 80 m of the counterweight cord. A ratchet and pawl
-    can be used to interrupt this effort
-    anytime.](#c10752_004.xhtml#fig_003)
-31. [Figure 4.4 Miners using both a horizontal windlass (left) and a
-    crank (right) to lift water from a shaft. A heavy wooden wheel,
-    sometimes with pieces of lead fastened to its spokes, helped to
-    conserve the momentum and make the lifting easier. Reproduced from
-    Agricola, _De re metallica_ (1912
-    \[1556\]).](#c10752_004.xhtml#fig_004)
-32. [Figure 4.5 Eight men rotating a large vertical capstan in a
-    mid-eighteenth-century French workshop. The capstan winds a cord
-    fastened to pincers, drawing a gold wire through a die. Reproduced
-    from the _Encyclopédie_ (Diderot and d'Alembert
-    1769--1772).](#c10752_004.xhtml#fig_005)
-33. [Figure 4.6 The great wheel powered by a crank, used to turn a
-    metalworking lathe. The smaller wheel was used for working with
-    larger diameters, and vice versa. In the background of this image a
-    man works on a foot-powered lathe machining wood. Reproduced from
-    the _Encyclopédie_ (Diderot and d'Alembert
-    1769--1772).](#c10752_004.xhtml#fig_006)
-34. [Figure 4.7 Details of treadwheels with different torque. a.
-    Internal treadwheel. b. External treadwheel (maximum torque). c.
-    Inclined treadwheel. Reproduced from Agricola, _De re metallica_
-    (1912 \[1556\]).](#c10752_004.xhtml#fig_007)
-35. [Figure 4.8 Prisoners on a treadmill at the Brixton House of
-    Correction (Corbis).](#c10752_004.xhtml#fig_008)
-36. [Figure 4.9 The horizontal waterwheel, also called the Greek or
-    Norse wheel. The wheel was powered by the impact of running water
-    and rotated directly the runner stone above. Reproduced from Ramelli
-    (1976 \[1588\]).](#c10752_004.xhtml#fig_009)
-37. [Figure 4.10 Engravings of a large undershot wheel running a French
-    royal paper mill (top) and of an overshot wheel powering ore-washing
-    machinery in a French forge (bottom). Reproduced from the
-    _Encyclopédie_ (Diderot and d'Alembert
-    1769--1772).](#c10752_004.xhtml#fig_010)
-38. [Figure 4.11 The Great Laxey waterwheel after restoration
-    (Corbis).](#c10752_004.xhtml#fig_011)
-39. [Figure 4.12 Post windmill. The main wooden, almost always oaken,
-    post on which the whole structure was balanced was held up by four
-    quarter-bars attached to massive cross-trees. Windmill rotations
-    were transferred to the millstone by a lantern-and-crown gear and
-    the only access was by ladder. Reproduced from the _Encyclopédie_
-    (Diderot and d'Alembert 1769--1772).](#c10752_004.xhtml#fig_012)
-40. [Figure 4.13 Halladay windmill. During the last decade of the
-    nineteenth century, Halladay windmills were the most popular
-    American brand. They were a common sight at western railway
-    stations, where they pumped water for steam locomotives. Reproduced
-    from Wolff (1900).](#c10752_004.xhtml#fig_013)
-41. [Figure 4.14 Charcoal production started with leveling the ground
-    and setting up the central pole; cut wood was stacked around it and
-    covered up by clay before ignition. Reproduced from the
-    _Encyclopédie_ (Diderot and d'Alembert
-    1769--1772).](#c10752_004.xhtml#fig_014)
-42. [Figure 4.15 Rows and piles of cow patties left to dry in Varanasi,
-    Uttar Pradesh, India (Corbis).](#c10752_004.xhtml#fig_015)
-43. [Figure 4.16 Part of a Roman hypocaust (with the skeleton of a dog
-    killed by fumes) displayed at Homburg-Schwarzenacker Roman Museum in
-    Saarland. Photograph courtesy of Barbara F.
-    McManus.](#c10752_004.xhtml#fig_016)
-44. [Figure 4.17 Moving a massive (6.75 m tall, weighing more than 50 t)
-    alabaster statue of Dje­hutyhotep, Great Chief of the Hare Nome
-    (Osirisnet 2015). The drawing reconstructs a damaged wall painting
-    in the tomb of Djehutyhotep at the site of el-Bersheh, Egypt
-    (Corbis).](#c10752_004.xhtml#fig_017)
-45. [Figure 4.18 Engraving from the _Illustrated London_ _News_ of
-    November 16, 1872, captures perfectly the high density of
-    horse-drawn traffic (hansom cabs, omnibuses, heavy wagons) in the
-    rapidly industrializing cities of late nineteenth-century
-    Europe.](#c10752_004.xhtml#fig_018)
-46. [Figure 4.19 The development of the bicycle started surprisingly
-    late and advanced rather slowly. Riders had to push themselves on
-    Baron von Drais's 1816 clumsy draisine. Pedals were first applied to
-    the axle of the drive wheel in 1855, an advance leading to the
-    velocipedes of the 1860s. Subsequent design regression led to huge
-    front wheels and plenty of accidents. Only the late 1880s brought
-    the safety, efficiency, and simplicity of the modern bicycle.
-    Adapted from Byrn (1900).](#c10752_004.xhtml#fig_019)
-47. [Figure 4.20 Side view, partial plan, and cross section of the
-    reconstructed Greek trireme _Olympias_. Six files arranged in a V
-    shape accommodate 170 rowers, and the topmost oars have their pivots
-    on outriggers. Based on Coates (1989).](#c10752_004.xhtml#fig_020)
-48. [Figure 4.21 Principal types of sails. Square sails, straight (a) or
-    flared (b), are the oldest types. Triangular sails include the
-    Pacific boom (d), and lateens without or with a luff edge (e, f).
-    Sprit sails (h) were common in Polynesia, Melanesia (i), the Indian
-    Ocean (j), and Europe (k, l). Masts and all supporting structures
-    (booms, sprits, gaffs) are drawn with thicker lines, and the sails
-    are not shown to scale. Based on Needham and co-workers (1971) and
-    White (1984).](#c10752_004.xhtml#fig_021)
-49. [Figure 4.22 Evolution of sail ships. Ancient Mediterranean
-    societies used square-rigged sails. Before they were adopted by
-    Europeans, triangular sails were dominant in the Indian Ocean. A
-    large seagoing junk from Jiangsu typifies efficient Chinese designs.
-    Columbus's _Santa Maria_ had square sails, a foretopsail, a lateen
-    on mizzen, and the spritsail under the bowsprit. _Flying Cloud,_ a
-    famous mid-nineteenth-century record-breaking U.S. clipper, was
-    rigged with triangular jibs fore, a spanker aft, and lofty main
-    royal and skysails. Simplified outlines are based on images in
-    Armstrong (1969), Daumas (1969), and Needham and co-workers (1971)
-    and are drawn to scale.](#c10752_004.xhtml#fig_022)
-50. [Figure 4.23 Khufu's pyramid at Giza, Pyramid of the Sun at
-    Teotihuacan, the Jetavana stupa at Anuradhapura, and the Choga
-    Zanbil ziggurat at Elam. Detailed information about these structures
-    is available in Bandaranayke (1974), Tompkins (1976), and Ching,
-    Jarzombek, and Prakash (2011).](#c10752_004.xhtml#fig_023)
-51. [Figure 4.24 Roman aqueducts carried water from rivers, springs,
-    lakes, or reservoirs by combining at least two or three of the
-    following structures (from the top): shallow rectangular channels
-    running on a foundation, tunnels accessible by shafts, embankments
-    pierced by arches, single- or double-tiered arched bridges, and
-    inverted lead-pipe siphons to take water across deep valleys. Rome's
-    aqueducts, supplying about 1 Mm^3^/day of water, formed an
-    impressive system built over a period of more than 500 years. Based
-    on Ashby (1935) and Smith (1978). Aqueduct slope is
-    exaggerated.](#c10752_004.xhtml#fig_024)
-52. [Figure 4.25 Charcoal-fueled blast furnace of the mid-eighteenth
-    century, with bellows powered by an overshot waterwheel. Reproduced
-    from the _Encyclopédie_ (Diderot and d'Alembert
-    1769--1772).](#c10752_004.xhtml#fig_025)
-53. [Figure 4.26 Roman catapults (Corbis).](#c10752_004.xhtml#fig_026)
-54. [Figure 4.27 Soviet cavalry in Red Square, Moscow, on November 7,
-    1941, a week before the start of the German offensive to reach
-    Moscow (Corbis).](#c10752_004.xhtml#fig_027)
-55. [Figure 5.1 Coal carriers in a Scottish mine in the early nineteenth
-    century (Corbis).](#c10752_005.xhtml#fig_001)
-56. [Figure 5.2 Newcomen's and Watt's steam engines. a. In Newcomen's
-    engine, built by John Smeaton in 1772, the boiler was placed
-    underneath the cylinder and the steam was condensed inside the
-    cylinder by injecting water from the pipe leading to its lower right
-    side. b. In Watt's engine, built in 1788, the boiler was placed in a
-    separate enclosure, the cylinder was enveloped by an insulating
-    steam jacket, and a separate condenser was connected to an air pump
-    maintaining vacuum. Reproduced from Farey
-    (1827).](#c10752_005.xhtml#fig_002)
-57. [Figure 5.3 The C Pit of the Hebburn Colliery was a typical English
-    coal mine of the early steam engine era. The mine's steam engine was
-    housed in the building with a stack and powered the winding and
-    ventilation machinery. Reproduced from Hair
-    (1844).](#c10752_005.xhtml#fig_003)
-58. [Figure 5.4 Notable machines of the steam locomotive age.
-    Stephenson's 1829 Rocket, the first commercial machine, introduced
-    two features of every subsequent design: separate cylinders on each
-    side that moved the wheels by short connecting rods, and an
-    efficient multitube boiler. Standard American designs have dominated
-    U.S. railways since the mid-1850s. The streamlined German Borsig
-    design reached 191.7 km/h in 1935. Based on Byrn (1900) and Ellis
-    (1983).](#c10752_005.xhtml#fig_004)
-59. [Figure 5.5 Rising power and improving efficiency of the best steam
-    engines, 1700--1930. Plotted from data in Dickinson (1939) and von
-    Tunzelmann (1978).](#c10752_005.xhtml#fig_005)
-60. [Figure 5.6 Oil gushing from the Spindletop well near Beaumont,
-    Texas, in January 1901 (Corbis).](#c10752_005.xhtml#fig_006)
-61. [Figure 5.7 The Mercedes 35, designed by Wilhelm Maybach and Paul
-    Daimler in 1901. Photograph from the Daimler
-    website.](#c10752_005.xhtml#fig_007)
-62. [Figure 5.8 The first flight of a self-propelled machine heavier
-    than air at Kitty Hawk, North Carolina, at 10:35 a.m. on December
-    17, 1903, with Orville Wright at the controls. Library of Congress
-    photograph.](#c10752_005.xhtml#fig_008)
-63. [Figure 5.9 Michael Faraday. Wellcome Library, London,
-    photograph.](#c10752_005.xhtml#fig_009)
-64. [Figure 5.10 Thomas A. Edison in 1882, the year his first coal-fired
-    electricity-generating station began operating in lower Manhattan.
-    Library of Congress photograph.](#c10752_005.xhtml#fig_010)
-65. [Figure 5.11 Nikola Tesla in 1890. Photograph by Napoleon
-    Sarony.](#c10752_005.xhtml#fig_011)
-66. [Figure 5.12 Decarbonization of the world's primary energy supply,
-    1900--2010. Plotted from data in Smil
-    (2014b).](#c10752_005.xhtml#fig_012)
-67. [Figure 5.13 British coal production, 1700--2015. Plotted from data
-    in Nef (1932) and Department of Energy & Climate Change
-    (2015).](#c10752_005.xhtml#fig_013)
-68. [Figure 5.14 Wells of al-Burqan oilfield (on the right, eastern,
-    side of the image) were set on fire by the retreating Iraqi army
-    in 1991. Image produced on April 7,1991 by
-    earthobservatory.nasa.gov.](#c10752_005.xhtml#fig_014)
-69. [Figure 5.15 Maximum capacities of steam turbogenerators and the
-    efficiencies of the best thermal power plants, 1900--2000. Plotted
-    from data in Dalby (1920), Termuehlen (2001), and Smil
-    (2008a).](#c10752_005.xhtml#fig_015)
-70. [Figure 5.16 Lucaneina de las Torres photovoltaic power plant in
-    Spanish Andalusia (Corbis).](#c10752_005.xhtml#fig_016)
-71. [Figure 5.17 Increasingly more powerful yet lighter aeroengines have
-    made the continuing progress in flying possible. Just before piston
-    engines reached their limit of performance, jet engines began their
-    spectacular advances. Those powering large Boeing and Airbus planes
-    now weigh less than 0.1 g/W, a 100-fold improvement compared to the
-    Wrights' pioneering piston design. Engines in military jets are
-    lighter still. Plotted from data in Constant (1981, Gunston (1986),
-    Taylor (1989), and Smil (2010b).](#c10752_005.xhtml#fig_017)
-72. [Figure 5.18 Plans and front views of notable jet planes. The Boeing
-    707 (1957) was based on an in-flight refueling tanker. The Boeing
-    737 (1967) is the all-time best-selling jet aircraft (nearly 9,000
-    planes had been delivered by the end of 2015 and 13,000 more had
-    been ordered). The supersonic French-British Concorde, which flew
-    limited routes between 1976 and 2003, was an expensive oddity. The
-    Boeing 747 (in service since 1969) was the first wide-body long-haul
-    aircraft. For comparison with these scaled drawings the Wright
-    brothers' plane and its total flight path on December 7, 1903, are
-    shown. Based on Boeing and Aerospatiale/BAe publications and on
-    Jakab (1990).](#c10752_005.xhtml#fig_018)
-73. [Figure 6.1 Production of the three principal fossil fuels: global
-    totals and annual outputs for the largest producers. Plotted from
-    data in United Nations Organization (1956), Smil (2010a), and BP
-    (2015).](#c10752_006.xhtml#fig_001)
-74. [Figure 6.2 Global output of fossil fuels had surpassed the total
-    supply of traditional biomass energies just before the end of the
-    nineteenth century (left). Increase of useful energy was more than
-    twice as high as the increase of the total primary supply (right).
-    Plotted from data in United Nations Organization (1956) and Smil
-    (1983, 2010a).](#c10752_006.xhtml#fig_002)
-75. [Figure 6.3 Comparisons of typical annual per capita energy
-    consumption during different stages of human evolution. Large
-    increases in absolute consumption have been accompanied by growing
-    shares of energy used by households, industries, and transportation.
-    Pre-nineteenth-century values are only approximations based on Smil
-    (1994, 2010c) and Malanima (2013a); later figures are taken from
-    specific national statistical sources.](#c10752_006.xhtml#fig_003)
-76. [Figure 6.4 Stoking a late-nineteenth-century steam locomotive (top)
-    and piloting a Boeing jetliner (bottom). The two pilots control two
-    orders of magnitude more power than did the stoker and the engineer
-    in their locomotive. Locomotive from VS archive; Boeing cockpit from
-    http://wallpapersdesk.net/wp-content/uploads/2015/08/2931_boeing_747.jpg.](#c10752_006.xhtml#fig_004)
-77. [Figure 6.5 Global electricity generation has been growing
-    considerably faster than the supply of fossil fuels. The largest
-    economies have been always the leading producers, and thermal
-    generation (now largely coal- and natural gas--based) continues to
-    dominate the global output (left). Hydroelectricity and nuclear
-    generation remain, respectively, in the second and third places,
-    while wind and solar electricity have seen rapid post-2000 gains
-    (right). Plotted from data in United Nations Organization (1956),
-    Palgrave Macmillan (2013), and BP
-    (2015).](#c10752_006.xhtml#fig_005)
-78. [Figure 6.6 An exponential increase in the global production of
-    nitrogenous fertilizers (left) has been accompanied by an impressive
-    decline in the energy costs of ammonia synthesis (right). Plotted
-    from data in Smil (2001, 2015b) and FAO
-    (2015a).](#c10752_006.xhtml#fig_006)
-79. [Figure 6.7 Total (direct and indirect) energy subsidies in modern
-    farming (top), total harvests and rising wheat yields (bottom).
-    Plotted from data in Smil (2008b), Palgrave Macmillan (2013), and
-    FAO (2015a).](#c10752_006.xhtml#fig_007)
-80. [Figure 6.8 Interior of the main lathe workshop of the Stott Park
-    Bobbin Mill in Finthswaite, Lakeside, Cumbria, showing the typical
-    arrangement of overhead belts transmitting power from a large steam
-    engine to individual machines. The mill produced wooden bobbins used
-    by Lancashire's spinning and weaving industries
-    (Corbis).](#c10752_006.xhtml#fig_008)
-81. [Figure 6.9 Changing designs of blast furnaces, 1830--2004. The
-    principal trends have included taller and wider stacks, larger
-    hearths, and lower and steeper boshes. The largest furnaces now
-    produce more than 15,000 t of hot metal a day. Reproduced from Smil
-    (2016).](#c10752_006.xhtml#fig_009)
-82. [Figure 6.10 Shinkansen N700 Series at Kyoto Station in 2014, the
-    50th year of accident-free operation of Japan's rapid trains on the
-    Tokaido line. Photograph by V. Smil.](#c10752_006.xhtml#fig_010)
-83. [Figure 6.11 The worldwide total of road vehicles grew from about
-    10,000 in 1900 to more than one billion by 2010 (left). U.S.
-    registrations were surpassed by the European total during the late
-    1980s, but the country still has the highest rate of ownership,
-    about 1.25 people per vehicle in 2010 (right). Plotted from data in
-    annual reports of the Motor Vehicle Manufacturers Association and
-    World Bank (2015b).](#c10752_006.xhtml#fig_011)
-84. [Figure 6.12 As the ships connecting Europe and North America grew
-    in size (left) and became equipped with more powerful engines, the
-    time needed to cross the Atlantic was cut from more than two weeks
-    to just over three days (right). Plotted from data in Fry (1896),
-    Croil (1898), and Stopford (2009).](#c10752_006.xhtml#fig_012)
-85. [Figure 6.13 The first scheduled commercial flights (by the de
-    Havilland D.H. 16 in 1919) averaged just over 150 km/h, and the
-    plane had a maximum range of about 600 km (left). By the late 1950s
-    the Boeing 707 could cruise at close to 1,000 km/h, and by the late
-    1990s the Boeing 777 could fly nonstop more than 15,000 km (right).
-    The Concorde, flying at over twice the speed of sound, was a costly
-    exception, not a precursor to a new generation of fast planes.
-    Plotted from data in Taylor (1989) and Gunston (2002) and from
-    technical specifications on the Boeing corporate
-    website.](#c10752_006.xhtml#fig_013)
-86. [Figure 6.14 Engraved portrait of James Clerk Maxwell, based on a
-    photograph by Fergus (Corbis). Maxwell's formulation of the theory
-    of electromagnetism opened the way to the still unfolding exploits
-    of modern wireless electronics that have brought inexpensive instant
-    communication and global connectivity: the e-world of the
-    twenty-first century rests on Maxwell's
-    insights.](#c10752_006.xhtml#fig_014)
-87. [Figure 6.15 Moore's law in operation. The first commercially
-    available microchip (Intel 4004) had 2,250 metal-oxide semiconductor
-    transistors, while the latest designs have more than ten billion
-    components, an increase of six orders of magnitude. Plotted from
-    data in Smil (2006) and Intel (2015).](#c10752_006.xhtml#fig_015)
-88. [Figure 6.16 Utilitarian but revolutionary: the Xerox Alto desk
-    computer, released in 1973, was the first nearly complete embodiment
-    of the basic features characteristic of all later PCs (Wikimedia
-    photograph).](#c10752_006.xhtml#fig_016)
-89. [Figure 6.17 A declining energy intensity of the GDP has been a
-    universal feature of maturing economies. Based on data in Smil 2003
-    and USEIA 2015d.](#c10752_006.xhtml#fig_017)
-90. [Figure 6.18 Kibera, one of Nairobi's largest slums (Corbis).
-    Kenya's per capita use of modern energies averages about 20 GJ/year,
-    but slum dwellers in Africa and Asia consume as little as 5 GJ/year,
-    or less than 2% of the U.S. mean.](#c10752_006.xhtml#fig_018)
-91. [Figure 6.19 A Shanghai high-rise apartment building with air
-    conditioners for virtually every room
-    (Corbis).](#c10752_006.xhtml#fig_019)
-92. [Figure 6.20 Average per capita energy consumption and the human
-    development index in 2010. Plotted from data in UNDP (2015) and
-    World Bank (2015a).](#c10752_006.xhtml#fig_020)
-93. [Figure 6.21 Aftermath of Tokyo bombing of March 1945
-    (Corbis).](#c10752_006.xhtml#fig_021)
-94. [Figure 6.22 Atmospheric CO~2~ measured at Mauna Loa Observatory in
-    Hawaii (NOAA 2015).](#c10752_006.xhtml#fig_022)
-95. [Figure 7.1 The prolonged dominance of human labor, the slow
-    diffusion of water- and wind-driven machines, and the rapid
-    post-1800 adoption of engines and turbines are the three most
-    remarkable features in the history of prime movers. Approximate
-    ratios are estimated and calculated from a wide variety of sources
-    cited in this book.](#c10752_007.xhtml#fig_001)
-96. [Figure 7.2 The average unit power of traditional prime movers
-    remained limited even after the adoption of larger waterwheels at
-    the beginning of the early modern era. The change came only with
-    steam engines of the nineteenth century. Maximum capacities are
-    plotted from prime mover--specific sources cited in this
-    book.](#c10752_007.xhtml#fig_002)
-97. [Figure 7.3 Approximate estimates chart the shares contributed by
-    major fuels to the Old World's primary energy supply during the past
-    3,000 years (top). Reasonably accurate (except for the consumption
-    of traditional biomass fuels) post-1850 statistics reveal successive
-    waves of slow energy transitions (bottom): by 2010 crude oil was the
-    leading fossil fuel, but coal and natural gas were not far behind.
-    Plotted from data in UNO (1956) and Smil
-    (2010a).](#c10752_007.xhtml#fig_003)
-98. [Figure 7.4 Maximum capacities of prime movers predating 1700 and
-    those introduced during the past three centuries. The largest
-    turbogenerators are now six orders of magnitude (nearly two million
-    times) more powerful than heavy draft horses, the most powerful
-    animate prime movers. Waterwheel ratings were surpassed by steam
-    engines before 1750, by 1850 water turbines had become briefly the
-    most powerful prime movers, and steam turbines have been the most
-    powerful prime movers ever since the second decade of the twentieth
-    century. Plotted from data cited in the sections concerning specific
-    prime movers.](#c10752_007.xhtml#fig_004)
-99. [Figure 7.5 Global prime mover shares in 1700 were only marginally
-    different from those of 500 or even 1,000 years ago. In contrast, by
-    1950 all but a very small fraction of the world's available power
-    was installed in internal combustion engines (mostly in passenger
-    cars) and in steam and water turbines (top). Disaggregated U.S.
-    statistics (bottom) show this rapid transformation with greater
-    detail and accuracy. The global rates were estimated and plotted
-    from data in UNO (1956), Smil (2010a), and Palgrave Macmillan
-    (2013); the bottom graph was plotted from data in USBC (1975) and
-    from subsequent issues of _The Statistical Abstract of the United
-    States_.](#c10752_007.xhtml#fig_005)
-100.  [Figure 7.6 Every new inanimate energy converter became eventually
-      much lighter and more efficient. The steady decline in the
-      weight/power ratio of leading prime movers means that the best
-      internal combustion engines now weigh less than 1/1,000 of what the
-      equally powerful draft animals or early steam engines weighed.
-      Plotted from data cited throughout this
-      book.](#c10752_007.xhtml#fig_006)
-101.  [Figure 7.7 Maximum speeds of passenger transportation rose from
-      less than 20 km/h for coaches of the pre-railway era to well over
-      100 km/h after just a few decades of better locomotive designs.
-      Modern rapid trains commonly travel at 200--300 km/h and jetliners
-      cruise at speeds just above 900 km/h. Plotted from data in numerous
-      references cited in the book's sections dealing with
-      transportation.](#c10752_007.xhtml#fig_007)
-102.  [Figure 7.8 Comparison of the onsets of major energy eras
-      (identified by principal fuels and prime movers) with innovation
-      clusters according to Mensch (1979) and with Schumpeter's (1939)
-      long waves of Western business cycles. I have extended both waves
-      to the year 2000.](#c10752_007.xhtml#fig_008)
-103.  [Figure 7.9 Saint Peter's Basilica completed in 1626
-      (Corbis).](#c10752_007.xhtml#fig_009)
-104.  [Figure 7.10 Brazil's largest megalopolis, São Paulo, photographed
-      in 2013. Megacities are the foremost examples of global uniformity
-      imposed by high levels of fuel and electricity use
-      (Corbis).](#c10752_007.xhtml#fig_010)
-105.  [Figure 7.11 Camille Pissarro, _Le Boulevard de Montmartre, Matinée
-      de Printemps_. Oil on canvas, painted in 1897 (Google Art
-      Project).](#c10752_007.xhtml#fig_011)
-
-```{=html}
-</nav>
-```
-
-```{=html}
-<nav class="guideList" epub:type="landmarks" id="guide">
-```
-
-## Guide
-
-1.  [Cover](cover.xhtml){.cover}
-2.  [Table of Contents](#toc.xhtml){.toc}
-
-```{=html}
-</nav>
-```
-
-[]{#c10752_000a.xhtml}
-
-<div>
-
-# [[]{#c10752_000a.xhtml#d2e61}Preface and Acknowledgments]{.chapterTitle}
-
-</div>
+# Preface and Acknowledgments
 
 I finished writing _Energy in World History_ in July 1993; the book came
 out in 1994, and it remained in print for two decades. Since 1994 energy
@@ -683,13 +45,7 @@ engineers, and economists.
 
 _Winnipeg, August 2016_
 
-[]{#c10752_001.xhtml}
-
-<div>
-
-# 1 [[]{#c10752_001.xhtml#d2e64}Energy and Society]{.chapterTitle}
-
-</div>
+# 1 Energy and Society
 
 Energy is the only universal currency: one of its many forms must be
 transformed to get anything done. Universal manifestations of these
@@ -823,8 +179,6 @@ conversions. Where more possibilities exist, no more than two leading
 transformations are
 identified.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_001_fig_001.jpg)
 
-::: section
-
 ## []{#c10752_001.xhtml#S1}[]{#c10752_001.xhtml#d2e147}Flows, Stores, and Controls
 
 All known forms of energy are critical for human existence, a reality
@@ -836,11 +190,6 @@ energy, which orders countless galaxies and star systems. Gravity also
 keeps our planet orbiting at just the right distance from the Sun, and
 it holds a sufficiently massive atmosphere that makes Earth habitable
 (box 1.1).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.1 Gravity and the habitability of Earth {.featuretitle}
 
@@ -868,10 +217,6 @@ number of important trace gases regulating surface temperature---but
 this thin gaseous envelope could not persist without the planet being
 sufficiently large to exert enough gravity to hold the atmosphere in
 place.
-
-::: {.bottom .hr}
-:::
-:::
 
 As with all active stars, fusion powers the Sun, and the product of
 those thermonuclear reactions reaches Earth as electromagnetic (solar,
@@ -979,9 +324,6 @@ farming, industries, transport, settlements, warfare, and Earth's
 environment. Quantitative accounts are essential to appreciate the
 constraints of our actions and the extent of our achievements, and they
 require knowledge of basic scientific concepts and measures.
-:::
-
-::: section
 
 ## []{#c10752_001.xhtml#S2}[]{#c10752_001.xhtml#d2e210}Concepts and Measures
 
@@ -999,11 +341,6 @@ low-entropy store of energy, capable of much useful work once
 metabolized or burned, and it ends up as the random motion of slightly
 heated air molecules, an irreversible high-entropy state that represents
 an irretrievable loss of utility.
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.2 Diminishing utility of converted energy {.featuretitle}
 
@@ -1023,10 +360,6 @@ high-entropy heat that warmed the air above the station, along the
 wires, and around the light bulb and caused an imperceptible temperature
 increase above a page. No energy has been lost, but a highly useful form
 was degraded to the point of no practical utility.
-
-::: {.bottom .hr}
-:::
-:::
 
 This unidirectional entropic dissipation leads to a loss of complexity
 and to greater disorder and homogeneity in any closed system. But all
@@ -1058,11 +391,6 @@ obvious comparison with the prime mover they were to replace, a
 harnessed horse commonly used to power a mill or a pump
 ([]{#c10752_001.xhtml#fig_003a}[fig. 1.3](#c10752_001.xhtml#fig_003),
 box 1.3).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.3 Measuring energy and power {.featuretitle}
 
@@ -1097,10 +425,6 @@ bulb (100 W). A double toaster needs 1,000 W, or 1 kW; small cars
 deliver around 50 kW; a large coal-fired or nuclear power plant produces
 electricity at the rate of 2 GW.
 
-::: {.bottom .hr}
-:::
-:::
-
 ![[]{#c10752_001.xhtml#fig_003}[[Figure
 1.3](#c10752_001.xhtml#fig_003a)]{.figureLabel} Two horses turning a
 capstan geared to pumping well water in a mid-eighteenth-century French
@@ -1126,11 +450,6 @@ small woman surviving only on the carbohydrates of cactus pears
 macronutrients) would have to eat 5 kg of the fruit every day---but she
 could get the same amount of energy from only about 650 g of ground corn
 consumed as tortillas or tamales.
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.4 Energy densities of foodstuffs and fuels {.featuretitle}
 
@@ -1171,10 +490,6 @@ are listed in Merrill and Watt (1973), Jenkins (1993), and USDA (2011).
 </figure>
 ```
 
-::: {.bottom .hr}
-:::
-:::
-
 **_Power density_** is the rate at which energies are produced or
 consumed per unit of area and hence is a critical structural determinant
 of energy systems (Smil 2015b). For example, city size in all
@@ -1188,11 +503,6 @@ cooking, and manufactures. Consequently, cities had to draw on nearby
 areas at least 30 times their size for fuel supply. This reality
 restricted their growth even where other resources, such as food and
 water, were adequate.
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.5 Power densities of phytomass fuels {.featuretitle}
 
@@ -1221,10 +531,6 @@ temperate climate and relying heavily on charcoal (China's Xi'an or
 Beijing would be good examples) would have required a wooded area at
 least 100 times their size to ensure a continuous supply of that fuel.
 
-::: {.bottom .hr}
-:::
-:::
-
 ![[]{#c10752_001.xhtml#fig_004}[[Figure
 1.4](#c10752_001.xhtml#fig_004a)]{.figureLabel} Charcoaling in early
 seventeenth-century England as depicted in John Evelyn's *Silva*
@@ -1241,11 +547,6 @@ these improvements, but we have pushed some processes close to the
 practical efficiency limits, though in most instances, including such
 common energy converters as internal combustion engines and lights,
 there is still much room for further improvement.
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.6 Efficiency improvements and the Jevons paradox {.featuretitle}
 
@@ -1281,10 +582,6 @@ at the end-use level are often small and decrease over time, and
 specific economy-wide rebounds may be trivial, and even net positive
 (Goldstein, Martinez, and Roy 2011).
 
-::: {.bottom .hr}
-:::
-:::
-
 When efficiencies are calculated for the production of foodstuffs
 (energy in food/energy in inputs to grow it), fuels, or electricity they
 are usually called **_energy returns_**. Net energy returns in every
@@ -1300,11 +597,6 @@ subsidized directly (fuel for field operations) and indirectly (the
 energies needed to synthesize fertilizers and pesticides and to build
 farm machinery) and hence has, invariably, lower energy returns than
 traditional cropping (box 1.7).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.7 Comparison of energy returns in food production {.featuretitle}
 
@@ -1332,10 +624,6 @@ problem remains: there is no satisfactory way to compare, simply and
 directly, the energy returns of the two farming systems that depend on
 two fundamentally different kinds of energy inputs.
 
-::: {.bottom .hr}
-:::
-:::
-
 Finally, **_energy intensity_** measures the cost of products, services,
 and even of aggregate economic output, in standard energy units---and of
 energy itself. Among the commonly used materials, aluminum and plastics
@@ -1347,11 +635,6 @@ declines in energy intensities. Perhaps most notably, the coke-fueled
 smelting of pig iron in large blast furnaces now requires less than 10%
 of energy per unit mass of hot metal than did the preindustrial
 charcoal-based production of pig iron (Smil 2016).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.8 Energy intensities of common materials {.featuretitle}
 
@@ -1394,10 +677,6 @@ _Source:_ Data from Smil (2014b).
 </figure>
 ```
 
-::: {.bottom .hr}
-:::
-:::
-
 The energy cost of energy (often called EROI, energy return on
 investment, although EROEI, energy return on energy investment, would be
 more correct) is a revealing measure only if we compare values that have
@@ -1408,11 +687,6 @@ energy returns, and that is a major reason why we have favored crude oil
 in general, and the rich Middle Eastern fields in particular; oil's high
 energy density, and hence easy transportability, are other obvious
 advantages (box 1.9).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 1.9 Energy returns on energy investment {.featuretitle}
 
@@ -1432,13 +706,6 @@ photovoltaic solar cells they are no higher than 2; and for modern
 biofuels (ethanol, biodiesel) they are at best only 1.5, but their
 production has often entailed an energy loss or no net again (an EROEI
 of just 0.9--1.0).
-
-::: {.bottom .hr}
-:::
-:::
-:::
-
-::: section
 
 ## []{#c10752_001.xhtml#S3}[]{#c10752_001.xhtml#d2e787}Complexities and Caveats
 
@@ -1507,11 +774,6 @@ basal metabolism operates regardless of whether people or animals rest
 or work. Calculating the net energy cost is perhaps the most
 satisfactory solution (box 1.10).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 1.10 Calculating the net energy cost of human labor {.featuretitle}
 
 There is no universally accepted way to express the energy cost of human
@@ -1545,10 +807,6 @@ expenditure in their historical comparison of energy sources. They
 assumed an average annual food intake of 3.9 GJ/capita, unchanged
 between 1800 and 2008.
 
-::: {.bottom .hr}
-:::
-:::
-
 But even in much simpler societies than ours a great deal of labor was
 always mental rather than physical---deciding how to approach a task,
 how to execute it with the limited power available, how to lower energy
@@ -1574,15 +832,10 @@ sequences, and consequences of these fundamental evolutionary
 determinants can be explained only by referring to human motivations and
 preferences, and by acknowledging those surprising, and often seemingly
 inexplicable, choices that have shaped our civilization's history.
-:::
 
 []{#c10752_002.xhtml}
 
-<div>
-
-# 2 [[]{#c10752_002.xhtml#d2e64}Energy in Prehistory]{.chapterTitle}
-
-</div>
+# 2 Energy in Prehistory
 
 Understanding the origins of the genus _Homo_ and filling in the details
 of its subsequent evolution is a never-ending quest as new findings push
@@ -1806,12 +1059,6 @@ efficiencies. Experiments show that 2--10% of wood's energy ends up as
 useful heat for cooking, and plausible assumptions indicate annual wood
 consumption maxima of 100--150 kg/year/capita (box 2.1).
 
-::: section
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 2.1 Wood consumption in open-fire cooking of meat {.featuretitle}
 
 Realistic assumptions for setting plausible maxima of wood consumption
@@ -1832,10 +1079,6 @@ fresh and some air-dried) wood. For 200,000 people who lived 20,000
 years ago the global need would be 20,000--30,000 t, a negligible share
 (on the order of 10^--8^) of the standing pre-agricultural woody
 phytomass.
-
-::: {.bottom .hr}
-:::
-:::
 
 In addition to warming and cooking, fire was also used as an engineering
 tool: modern humans were heat-treating stones to improve their flaking
@@ -1861,9 +1104,6 @@ overseas migrants (Headland and Reid 1989; Fitzhugh and Habu 2002). But
 the absence of a typical foraging pattern does not preclude recognition
 of a number of biophysical imperatives governing energy flows and
 determining the behavior of gathering and hunting groups.
-:::
-
-::: section
 
 ## []{#c10752_002.xhtml#S2}[]{#c10752_002.xhtml#d2e220}Foraging Societies
 
@@ -1961,11 +1201,6 @@ larger foraging populations. This image shows canopies at La Fortuna,
 Costa Rica
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_002.jpg)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 2.2 Harvesting Brazil nuts {.featuretitle}
 
 Because of their high lipid content (66%), Brazil nuts contain about 27
@@ -1981,10 +1216,6 @@ and gatherers must waste energy on another trip; too late, and agoutis
 (_Dasyprocta punctata_), which are large rodents and the only animals
 able to open the fallen pods, will eat the seeds right away or bury some
 of them in food caches (Haugaasen et al. 2010).
-
-::: {.bottom .hr}
-:::
-:::
 
 In contrast to the often frustrating hunting in tropical and boreal
 forests, grasslands and open woodlands offered excellent opportunities
@@ -2012,11 +1243,6 @@ provide enough meat and that only hunting could secure sufficient animal
 protein on grasslands. In any case, human bipedalism and ability to
 sweat better than any other mammal made it also possible to chase to
 exhaustion even the fastest herbivores (box 2.3).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 2.3 Running and heat dissipation by humans {.featuretitle}
 
@@ -2050,10 +1276,6 @@ exhaustion, as some Australian Aborigines did with kangaroos. Hunters
 running barefoot reduced their energy costs by about 4% (and had fewer
 acute ankle and chronic lower leg injuries) than modern runners with
 athletic shoes (Warburton 2001).
-
-::: {.bottom .hr}
-:::
-:::
 
 Carrier (1984) believes that the outstanding rates of human heat
 dissipation provided a notable evolutionary advantage that served our
@@ -2108,11 +1330,6 @@ megafauna, animals with a body mass greater than 50 kg (Martin 1958,
 2005; Fiedel and Haynes 2004), but the verdict remains uncertain (box
 2.4).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 2.4 Extinction of the Late Pleistocene megafauna {.featuretitle}
 
 The persistent killing of slow-breeding animals (those with a single
@@ -2129,10 +1346,6 @@ required an annual kill of some two million animals. A more likely
 explanation for the Late Pleistocene extinctions is a combination of
 natural (climate and vegetation change) and anthropogenic (hunting and
 fire) factors (Smil 2013a).
-
-::: {.bottom .hr}
-:::
-:::
 
 All pre-agricultural societies were omnivorous; they did not have the
 luxury of ignoring any available food resource. Although foragers ate a
@@ -2155,18 +1368,9 @@ simple stone-tipped weapons, or why Indians on the North American
 plains, seeking fatty meat for preparing long-lasting pemmican, spent so
 much energy in pursuing bison.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 2.5 Body masses, energy densities, and food energy content of hunted animals {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_BT2.5.png)
-
-::: {.bottom .hr}
-:::
-:::
 
 But energy considerations alone cannot provide a full explanation of
 foraging behavior. If they were always dominant, then optimal
@@ -2182,11 +1386,6 @@ the most important ones were the availability of safe night shelters,
 the need to defend territories against competing groups, and the needs
 for reliable water sources and for vitamins and minerals. Food
 preferences and attitudes toward work were also important (box 2.6).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 2.6 Food preferences and attitudes toward work {.featuretitle}
 
@@ -2226,10 +1425,6 @@ reduce the risk inherent in big-game hunting---but Hadza sharing was not
 motivated by the expectation of risk-reducing reciprocity but was done
 primarily to enhance a hunter's status as a desirable neighbor.
 
-::: {.bottom .hr}
-:::
-:::
-
 Our inability to reconstruct prehistoric energy balances has provoked
 some inadmissible generalizations. For some groups the total foraging
 effort was relatively low, only a few hours a day. This finding led to
@@ -2267,11 +1462,6 @@ were 10--20-fold, similar to those of hunting large mammals. Prehistoric
 returns were undoubtedly much higher in many biomass-rich environments,
 allowing for a gradual increase in social complexity.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 2.7 Net energy returns in foraging {.featuretitle}
 
 I use the method described in box 1.10 and assume smaller statures of
@@ -2285,10 +1475,6 @@ rate for men and five times that for women, or almost 900 kJ/h.
 Subtracting the basic existential need puts the net energy input in
 foraging at roughly 600 kJ/h. Energy output is simply the value of
 edible portions of collected plants or killed animals.
-
-::: {.bottom .hr}
-:::
-:::
 
 In fact, many foraging societies reached levels of complexity usually
 associated only with later agricultural societies. They had permanent
@@ -2330,11 +1516,6 @@ dependent on maritime hunting is that of northwestern Alaskan Inuit,
 whose net energy returns in killing migrating baleen whales were more
 than 2,000-fold (Sheehan 1985) (box 2.8).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 2.8 Alaskan whalers {.featuretitle}
 
 In less than four months of near-shore hunting of baleen whales, whose
@@ -2357,10 +1538,6 @@ and artistic creativity (large wooden totems). Eventual limits on the
 population growth of these coastal settlements were imposed by the
 necessity to hunt other marine species and land game in order to secure
 raw materials for clothing, bedding, and hunting equipment.
-
-::: {.bottom .hr}
-:::
-:::
 
 A food supply dependent on a few seasonal energy flows required
 extensive, and often elaborate, storage. Storage practices included
@@ -2433,9 +1610,6 @@ of plant domestication (Legge and Rowley-Conwy 1987). In predynastic
 Egypt (earlier than 3100 BCE), the cultivation of emmer wheat and barley
 was complemented by the hunting of waterfowl, antelopes, wild pigs,
 crocodiles, and elephants (Hartmann 1923; Janick 2002).
-:::
-
-::: section
 
 ## []{#c10752_002.xhtml#S3}[]{#c10752_002.xhtml#d2e604}Origins of Agriculture
 
@@ -2594,11 +1768,6 @@ periodically, with the actually cultivated area ranging from just 0.1 to
 population densities an order of magnitude higher than the best
 foraging.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 2.9 Energy costs and population densities in shifting cultivation {.featuretitle}
 
 Net energy cost is used to calculate returns of shifting farming. I
@@ -2606,10 +1775,6 @@ assume that an average labor input requires 700 kJ/h. Outputs are edible
 harvests uncorrected for storage losses and seed needs.
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_BT2.9.png)
-
-::: {.bottom .hr}
-:::
-:::
 
 Where scarcity of precipitation, or its long seasonal absence, made
 cropping unrewarding or impossible, nomadic pastoralism has been an
@@ -2640,11 +1805,6 @@ densities of such societies were no higher than those of foraging groups
 cattle
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_005.jpg)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 2.10 Nomadic pastoralists {.featuretitle}
 
 Helland (1980) illustrated low labor requirements in pastoral societies
@@ -2671,10 +1831,6 @@ cases, nomadic population densities were low compared with those of
 settled farmers, in East Africa mostly between 0.8--2.2 people/km^2^,
 and 0.03--0.14 heads/ha (Helland 1980; Homewood 2008).
 
-::: {.bottom .hr}
-:::
-:::
-
 For millennia, nomadic grazing dominated parts of Europe and the Middle
 East, and large regions of Africa and Asia. In all of these places it
 sometimes blended into mixtures of seminomadic agropastoralism,
@@ -2687,15 +1843,10 @@ temporary conquests of agricultural societies (Grousset 1938; Khazanov
 2001). Some pure pastoralists and agropastoralists survive even
 today---above all in Central Asia and in Sahelian and eastern
 Africa---but it has been an increasingly marginal existence.
-:::
 
 []{#c10752_003.xhtml}
 
-<div>
-
-# 3 [[]{#c10752_003.xhtml#d2e64}Traditional Farming]{.chapterTitle}
-
-</div>
+# 3 Traditional Farming
 
 While the transition from foraging to farming cannot be explained solely
 by energetic imperatives, the evolution of agriculture can be seen as a
@@ -2850,8 +2001,6 @@ only by rising inputs of fossil fuels, an energy subsidy that reduced
 agricultural labor to only a small fraction of the total labor force and
 enabled the rise of modern high-energy urban societies.
 
-::: section
-
 ## []{#c10752_003.xhtml#S1}[]{#c10752_003.xhtml#d2e116}Commonalities and Peculiarities
 
 The requirements of crop growing imposed a general pattern on the
@@ -2870,8 +2019,6 @@ there would be no cathedrals---or no European voyages of discovery. I
 will first provide brief surveys of field operations, tools, and simple
 machines and then describe the dominance of cereal grains and the
 peculiarities of cropping cycles.
-
-::: section
 
 ### []{#c10752_003.xhtml#S1-1}[]{#c10752_003.xhtml#d2e123}Field Work
 
@@ -3019,9 +2166,6 @@ Tedious manual labor was also needed for grain milling before animals
 and water and windmills were used to mechanize the task. Oil was
 extracted from seeds by manual or animal-operated presses, as was the
 sweet juice from cane.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S1-2}[]{#c10752_003.xhtml#d2e197}The Dominance of Grains
 
@@ -3083,18 +2227,9 @@ total energy content, all cereals are remarkably similar: differences
 between mature seeds of various grains are mostly less than 10% (box
 3.1).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.1 Energy density and carbohydrate and protein content of principal grains {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.1.png)
-
-::: {.bottom .hr}
-:::
-:::
 
 The bulk of cereals' food energy is in carbohydrates, present mostly as
 highly digestible polysaccharides (starches). Rising share of starches
@@ -3158,18 +2293,9 @@ agricultural productivity. Data on typical agricultural labor
 requirements and their energy costs are available for a large variety of
 individual field and farmyard tasks (box 3.2).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.2 Labor and energy requirements in traditional farming {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.2.png)
-
-::: {.bottom .hr}
-:::
-:::
 
 But this level of detail is not necessary for calculating approximate
 energy balances. Using a representative average of typical net energy
@@ -3196,11 +2322,6 @@ Some grains are eaten whole, but before actual food preparation (cooking
 or baking) most cereals are milled first, and in the process lose a
 significant share of the whole grain's mass (box 3.3).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.3 Cereal milling {.featuretitle}
 
 Whole grain flours incorporate the complete kernel, but white wheat
@@ -3224,10 +2345,6 @@ loosens the hulls from the kernels, softens the kernels by dissolving
 hemicellulose, reduces the presence of mycotoxins, and enhances the
 bioavailability of niacin (vitamin B~3~).
 
-::: {.bottom .hr}
-:::
-:::
-
 Storage losses on traditional farms---to fungi and insect infestations
 and to rodents able to access bins or jars---would commonly reduce the
 edible grain total by anywhere between a few percent to more than 10%.
@@ -3238,9 +2355,6 @@ for the growth of insects and fungi. In addition, improperly stored
 grain can be consumed by rodents. Even as recently as the mid-eighteenth
 century a combination of seeding requirements and storage losses could
 have reduced the gross energy gain of European grains by around 25%.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S1-3}[]{#c10752_003.xhtml#d2e738}Cropping Cycles
 
@@ -3351,10 +2465,6 @@ but most of them were used extensively for transport. A typical working
 day ranged from just five hours for oxen in many African locations to
 more than ten hours for water buffaloes in Asian rice fields and for
 horses during European or North American grain harvests.
-:::
-:::
-
-::: section
 
 ## []{#c10752_003.xhtml#S2}[]{#c10752_003.xhtml#d2e768}Routes to Intensification
 
@@ -3386,8 +2496,6 @@ nutrient supply also brought more multicropping and crop rotations. In
 turn, these advances could support large numbers of more powerful
 animals as the three intensification paths were linked by mutually
 reinforcing feedback loops.
-
-::: section
 
 ### []{#c10752_003.xhtml#S2-1}[]{#c10752_003.xhtml#d2e778}Draft Animals
 
@@ -3427,18 +2535,9 @@ horsepower (745 W), and usually delivered between 500 and 850 W (box
 3.4, []{#c10752_003.xhtml#fig_003a}[fig.
 3.3](#c10752_003.xhtml#fig_003)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.4 Typical weights, drafts, working speeds, and power of domestic animals {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.4.png)
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_003.xhtml#fig_003}[[Figure
 3.3](#c10752_003.xhtml#fig_003a)]{.figureLabel} Comparisons of animal
@@ -3523,11 +2622,6 @@ decades a widely accepted conclusion that this was a very inefficient
 arrangement because it choked the animal, as the breast collar tended to
 ride up (box 3.5).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.5 Comparing harnesses and draft power {.featuretitle}
 
 For decades many writings repeated the claim that the ancient
@@ -3555,10 +2649,6 @@ millennia ago. In any case, because of the weight limit (500 kg) put on
 the horse-drawn wagons by the Theodosian Code (439 CE), "It seems
 certain that the Romans were aware of the distress caused in horses by
 pulling heavy loads" (Gans 2004, 179).
-
-::: {.bottom .hr}
-:::
-:::
 
 The breastband harness, introduced in China no later than the early Han
 dynasty, had its point of traction too far away from the animal's most
@@ -3683,11 +2773,6 @@ nineteenth-century draft horse were to be seen merely as a substitute
 for tedious human labor, it would have earned its keep, but strong,
 well-fed horses could perform tasks beyond human capacity and endurance.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.6 Energy cost, efficiency, and performance of a draft horse {.featuretitle}
 
 A mature 500-kg horse needs about 70 MJ of digestible energy per day to
@@ -3710,10 +2795,6 @@ peaks above 150 W, a horse could work steadily at 500 W and have brief
 peak pulls in excess of 1 kW, an effort that would require the exertions
 of a dozen men.
 
-::: {.bottom .hr}
-:::
-:::
-
 Horses could drag logs and pull out stumps when humans converted forests
 to cropland, break up rich prairie soils by deep plowing, or pull heavy
 machinery. There were, of course, additional energy costs of animal
@@ -3728,9 +2809,6 @@ horsemeat in parts of Europe) and milk were valuable sources of perfect
 protein. Leather was used in making a large number of tools essential in
 farming and in traditional manufactures. And, of course, the animals
 were self-reproducing.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S2-2}[]{#c10752_003.xhtml#d2e1074}Irrigation
 
@@ -3840,18 +2918,9 @@ water-raising devices make the limits of human performance obvious (box
 3.7, []{#c10752_003.xhtml#fig_009a}[fig.
 3.9](#c10752_003.xhtml#fig_009)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.7 Power requirements, lifts, and capacities of traditional water-lifting devices {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.7.png)
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_003.xhtml#fig_009}[[Figure
 3.9](#c10752_003.xhtml#fig_009a)]{.figureLabel} Comparison of lifts,
@@ -3872,11 +2941,6 @@ insensitive to a temporary water deficit, corn is rather vulnerable). A
 realistic example shows that energy returns could be easily 10-fold or
 higher (box 3.8).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.8 Energy returns of wheat irrigation {.featuretitle}
 
 A single specific calculation demonstrates the considerable energy
@@ -3894,10 +2958,6 @@ about 65 MJ of additional food energy, while the increased wheat yield
 would contain (after subtracting about 10% for seed and storage losses)
 about 2 GJ of digestible energy. Consequently, water ladder treading
 would return about 30 times more food energy than its food cost.
-
-::: {.bottom .hr}
-:::
-:::
 
 In contrast, for some Inca projects, net energy returns had to be low.
 Gravity irrigation required no water lifting, but carving long and wide
@@ -3933,9 +2993,6 @@ organic wastes---human, pig, and silkworm excreta, crop residues,
 grasses, weeds, and pond deposits---sustained high yields of mulberries
 for silkworms, sugar cane, rice, and numerous vegetables and fruits, as
 well as a high output of fish.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S2-3}[]{#c10752_003.xhtml#d2e1499}Fertilization
 
@@ -4094,9 +3151,6 @@ agriculture by contrasting its performance in 1300 and 1800, and Muldrew
 varied and nutritious diet and how these improvements in the worker's
 diet promoted higher productivity, steady employment, and rising
 affluence.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S2-4}[]{#c10752_003.xhtml#d2e1567}Crop Diversity
 
@@ -4153,10 +3207,6 @@ beans) European peasants cultivated flax and hemp for fiber. Mayan crops
 included the three staples of the New World farming---corn, beans, and
 squash---but also tubers (sweet potato, manioc, jicama) and agave and
 cotton for fiber (Atwood 2009).
-:::
-:::
-
-::: section
 
 ## []{#c10752_003.xhtml#S3}[]{#c10752_003.xhtml#d2e1583}Persistence and Innovation
 
@@ -4210,8 +3260,6 @@ centuries. The transfer of traditional European farming techniques to
 North America, and the unprecedented rate of agricultural innovation in
 the United States during the nineteenth century, created the world's
 most efficient traditional farming arrangement.
-
-::: section
 
 ### []{#c10752_003.xhtml#S3-1}[]{#c10752_003.xhtml#d2e1602}Ancient Egypt
 
@@ -4305,9 +3353,6 @@ rose from just 1.1 during the 1830s to 1.4 by 1900, and during the 1920s
 it surpassed 1.5 (Waterbury 1979). Farming was still powered by animate
 energies but, already helped by inorganic fertilizers, fellahin were
 feeding six people from every hectare of cultivated land.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S3-2}[]{#c10752_003.xhtml#d2e1644}China
 
@@ -4398,11 +3443,6 @@ periods could still return around 20 times as much food energy in the
 additional harvest as the food consumed by peasants while treading water
 ladders.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.9 Nitrogen content of organic materials recycled in China {.featuretitle}
 
 Scale of traditional recycling (and hence the energies devoted to
@@ -4443,10 +3483,6 @@ in a variety of historical and modern Chinese sources.
 </figure>
 ```
 
-::: {.bottom .hr}
-:::
-:::
-
 In China's rice-growing areas applications of animal manure and night
 soil commonly averaged 10 t/ha during the late nineteenth and early
 twentieth centuries. Huge amounts of organic wastes were collected in
@@ -4471,11 +3507,6 @@ and barley was commonly the most time-consuming part of the human labor
 one-third) devoted to those crops. But this investment was very
 rewarding: its net energy return was commonly over 50 (box 3.10).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.10 Net energy return of fertilization {.featuretitle}
 
 A good late Qing dynasty winter wheat harvest of about 1.5 t/ha required
@@ -4492,10 +3523,6 @@ yielded at least 200 kg of flour, or about 2.8 GJ of food energy,
 compared to an investment of about 40 MJ of additional food for human
 labor. The net energy return of fertilization was thus around 70, an
 impressive benefit/cost ratio.
-
-::: {.bottom .hr}
-:::
-:::
 
 Overall food energy returns in traditional Chinese cropping were not so
 high even during the period of its peak performance in the early decades
@@ -4571,9 +3598,6 @@ In comparison to dryland wheat cropping, net energy returns were
 invariably lower in wet rice farming but that was more than
 counterbalanced by greater yields per hectare: double-cropping of rice
 and wheat in the most fertile areas could feed 12--15 people/ha.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S3-3}[]{#c10752_003.xhtml#d2e1795}Mesoamerican Cultures
 
@@ -4643,11 +3667,6 @@ return on the invested labor, and the high benefit/cost ratio explains
 the frequency of the practice, which started as early as 100 BCE and
 reached its peak during the last decades of the Aztec rule (box 3.11).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.11 Raised fields in the basin of Mexico {.featuretitle}
 
 A chinampa could yield up to four times as much as nonirrigated land. An
@@ -4660,10 +3679,6 @@ than 2.5 m^3^. Raising 1 ha of fields thus required about 6,000 man-days
 of labor. With a labor energy cost of 900 kJ/h, the task called for
 about 30 GJ of additional food energy---an amount gained in increased
 harvest in just a single year.
-
-::: {.bottom .hr}
-:::
-:::
 
 At the time of the Spanish conquest the Texcoco, Chaco, and Xochimilco
 lakes had about 12,000 ha of chinampa fields (Sanders, Parsons, and
@@ -4692,9 +3707,6 @@ had an average density of about 4 people/ha. Nearly identical densities
 were supported by raised-field cultivation of potatoes in the wetlands
 around Lake Titicaca, the core area of the Incas, between today's Peru
 and Bolivia (Denevan 1982; Erickson 1988).
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S3-4}[]{#c10752_003.xhtml#d2e1852}Europe
 
@@ -4735,18 +3747,9 @@ human labor (and around 200 hours of animal labor) to produce typical
 harvests of merely close to 0.5 t/ha. Even so, gross food energy
 returns, ranging mostly between 30 and 40, were fairly high (box 3.12).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.12 Labor requirements of European wheat harvests, 200--1800 {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.12.png)
-
-::: {.bottom .hr}
-:::
-:::
 
 The productivity of European farming changed very slowly during the
 millennium between the demise of the Western Roman Empire and the
@@ -4902,18 +3905,9 @@ than 160-fold compared to less than 40-fold gain in medieval English
 wheat cultivation and a less than 25-fold return in Roman grain farming
 in Italy around 200 CE (box 3.13).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.13 Energy costs and returns of European wheat harvests, 200--1800 {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.13.png)
-
-::: {.bottom .hr}
-:::
-:::
 
 Farming intensification continued in most European countries after the
 recovery from an overproduction-induced depression in the early
@@ -4943,9 +3937,6 @@ fertilizers produced with coal. European farming of the late nineteenth
 century became a hybrid energy system: still critically dependent on
 animate prime movers but increasingly benefiting from many inputs of
 fossil energy.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S3-5}[]{#c10752_003.xhtml#d2e2264}North America
 
@@ -5037,11 +4028,6 @@ kilogram of wheat, but less than half a minute was needed in
 California's Central Valley in 1900, roughly a 20-fold labor
 productivity gain in a century.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.14 Labor requirements (human/animal) in hours/hectare and the energy cost of American wheat, 1800--1900 {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.14.png)
@@ -5057,10 +4043,6 @@ Because the yields of American wheat did not show any upward trend
 during the nineteenth century, I assume a constant yield of 20 bushels
 per acre, or 1,350 kg/ha (18.75 GJ/ha). Accounts are based largely on
 performance rates compiled by Rogin (1931).
-
-::: {.bottom .hr}
-:::
-:::
 
 In terms of net energy expenditures, these differences were slightly
 larger: most of the longer labor hours in 1800 were spent in much
@@ -5092,11 +4074,6 @@ claim was possible only because of America's plentiful farmland. In 1910
 the country had almost 1.5 ha/capita, twice as much as in 1990 and about
 ten times as much as contemporary China.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 3.15 Feeding America's draft horses {.featuretitle}
 
 In 1910 America had 24.2 million farm horses and mules (and only 1,000
@@ -5116,10 +4093,6 @@ annually harvested land, which means that America's farm horse herd
 cultivated land. The USDA's (1959) calculation came up with a nearly
 identical total of 29.1 Mha.
 
-::: {.bottom .hr}
-:::
-:::
-
 During the last decades of the nineteenth century it was not only a
 combination of clever designs and plentiful horse power that made
 American farming so productive. During the 1880s American coal
@@ -5129,10 +4102,6 @@ machines, and shipments of agricultural products became dependent on
 inputs of coal and oil. American farmers ceased to be just skilled
 managers of renewable solar flows: their outputs were subsidized by
 fossil fuels.
-:::
-:::
-
-::: section
 
 ## []{#c10752_003.xhtml#S4}[]{#c10752_003.xhtml#d2e2720}The Limits of Traditional Farming
 
@@ -5157,8 +4126,6 @@ even in good years, and could not prevent a great deal of chronic
 malnutrition and recurrent famines. Productive arrangements that were
 durable, resilient, and adaptable were also fragile, vulnerable, and
 inadequate to meet the rising needs.
-
-::: section
 
 ### []{#c10752_003.xhtml#S4-1}[]{#c10752_003.xhtml#d2e2730}Achievements
 
@@ -5365,9 +4332,6 @@ are based on estimates and data in Perkins (1969), Mitchell (1975),
 Butzer (1976), Waterbury (1979), Richards (1990), and Whitmore and
 co-workers
 (1990).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_017.jpg)
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S4-2}[]{#c10752_003.xhtml#d2e2817}Nutrition
 
@@ -5468,9 +4432,6 @@ half of the recommended daily intake (Buck 1937). Monotonous and
 inadequate diets and widespread malnutrition remain a norm today in many
 poor countries where population densities have surpassed the limits
 sustainable by even the most intensive traditional farming.
-:::
-
-::: section
 
 ### []{#c10752_003.xhtml#S4-3}[]{#c10752_003.xhtml#d2e2850}Limits
 
@@ -5744,16 +4705,10 @@ during the second half of the nineteenth century, fossil subsidies began
 to make a major difference only after 1910 with the diffusion of
 tractors, trucks, and synthetic nitrogenous fertilizers, advances I
 trace in the fifth chapter.
-:::
-:::
 
 []{#c10752_004.xhtml}
 
-<div>
-
-# 4 [[]{#c10752_004.xhtml#d2e64}Preindustrial Prime Movers and Fuels]{.chapterTitle}
-
-</div>
+# 4 Preindustrial Prime Movers and Fuels
 
 Most people in preindustrial societies had to spend their lives as
 peasants, laboring in ways that in some societies remained largely
@@ -5862,12 +4817,6 @@ with us not only since the time of ancient empires but, necessarily,
 long before that---or how else did Stonehenge's 40 t outer stones get
 raised?
 
-::: section
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.1 Raising Alexander's column {.featuretitle}
 
 The large piece of red granite that became Alexander's Column was
@@ -5899,10 +4848,6 @@ without being fastened to the pedestal: the 25.45 m tall, slightly
 conical (3.6 m diameter at the bottom, 3.15 m at the top) mass simply
 rests on its foundations.
 
-::: {.bottom .hr}
-:::
-:::
-
 In this chapter I first appraise the kinds, capacities, and limits of
 all traditional prime movers---human and animal muscles, wind, and
 water---as well as the combustion of phytomass fuels, mostly wood and
@@ -5912,9 +4857,6 @@ Afterward I look in some detail at the uses of prime movers and fuels in
 critical segments of traditional economies: in food preparation, in the
 provision of heat and light, in land and waterborne transportation, in
 construction, and in color and ferrous metallurgy.
-:::
-
-::: section
 
 ## []{#c10752_004.xhtml#S2}[]{#c10752_004.xhtml#d2e143}Prime Movers
 
@@ -5960,8 +4902,6 @@ hurl them in containers from catapults. Sulfur, petroleum, asphalt, and
 quicklime were used in these incendiary mixtures. Only the invention of
 gunpowder combined the propulsive force with great explosive and
 inflammatory power.
-
-::: section
 
 ### []{#c10752_004.xhtml#S2-1}[]{#c10752_004.xhtml#d2e156}Animate Power
 
@@ -6009,11 +4949,6 @@ planes, and pulleys---were used by virtually all old high cultures
 (Lacey 1935; Usher 1954; Needham 1965; Burstall 1968; Cotterell and
 Kamminga 1990; Wei 2012).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.2 Work, force, and distance {.featuretitle}
 
 Work is done when a force---no matter whether provided by animate or
@@ -6039,10 +4974,6 @@ countless examples of these actions in everyday life, from opening locks
 with a key (a row of wedges, that is, inclined planes, moving the pins
 inside a lock) to pulling a nail from a piece of wood by using a claw
 hammer (a lever action).
-
-::: {.bottom .hr}
-:::
-:::
 
 Levers are rigid, slender pieces of wood or metal. As they pivot around
 a fulcrum they convey an mechanical advantage that is easily calculated
@@ -6260,11 +5191,6 @@ with laborers leaning against a bar ([fig.
 became common in the early nineteenth century (box 4.3,
 []{#c10752_004.xhtml#fig_008a}[fig. 4.8](#c10752_004.xhtml#fig_008)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.3 Working on a treadmill {.featuretitle}
 
 The largest treading devices operated during the nineteenth century in
@@ -6286,10 +5212,6 @@ machines unemotionally, stressed nevertheless that a well-designed
 treadwheel was not only a highly efficient mechanical device but also
 one most comfortable for the operator "in so far as any continuous,
 monotonous physical work can be comfortable."
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_004.xhtml#fig_008}[[Figure
 4.8](#c10752_004.xhtml#fig_008a)]{.figureLabel} Prisoners on a treadmill
@@ -6404,11 +5326,6 @@ before the adoption of electric streetcars Western cities had many urban
 horses harnessed to omnibuses and carts (box 4.4; see also
 []{#c10752_004.xhtml#fig_018a}[fig. 4.18](#c10752_004.xhtml#fig_018)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.4 Draft horses in urban transportation {.featuretitle}
 
 Draft horses were employed in cities to deliver food, fuel, and
@@ -6434,10 +5351,6 @@ data collected by McShane and Tarr (2007) show that typical daily
 rations per animal were 5--8 kg of oats and a similar mass of hay.
 Supplying urban horses with this feed was an important service in all
 large nineteenth-century cities.
-
-::: {.bottom .hr}
-:::
-:::
 
 The use of horses for transportation or in construction was constrained
 by the same factors that limited their employment as draft animals in
@@ -6470,9 +5383,6 @@ which were often used for turning a whim, a beam attached to a central
 axle for work in small manufactures requiring steady rotary power, could
 not deliver much more, and before the introduction of steam engines many
 of them were replaced by much more powerful waterwheels and windmills.
-:::
-
-::: section
 
 ### []{#c10752_004.xhtml#S2-2}[]{#c10752_004.xhtml#d2e464}Water Power
 
@@ -6565,11 +5475,6 @@ overshot wheel powering ore-washing machinery in a French forge
 (bottom). Reproduced from the *Encyclopédie* (Diderot and d'Alembert
 1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_010.jpg)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.5 Power of undershot wheels {.featuretitle}
 
 The kinetic energy of flowing water (in joules) is 0.5ρ*v*^2^, one-half
@@ -6582,10 +5487,6 @@ cross section of about 0.15 m^2^ (roughly 50 × 50 cm) could ideally
 develop just over 400 W of power---but an inefficient wooden medieval
 undershot could actually deliver no more than a fifth of this rate, or
 about 80 W, as useful rotary motion.
-
-::: {.bottom .hr}
-:::
-:::
 
 The efficiency of undershot wheels could be further improved by forming
 the base below the waterwheel rim into a closely fitting breast over a
@@ -6613,11 +5514,6 @@ more than 1,000 L/s and at speeds of 4--12 rpm. Because most of the
 rotary power was generated by the weight of the descending water,
 overshot wheels could be placed on slowly flowing streams (box 4.6).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.6 Power of overshot waterwheels {.featuretitle}
 
 The potential energy of water (in joules) is equal to _mgh_, the product
@@ -6629,10 +5525,6 @@ the wheel would have a theoretical power of nearly 12 kW. The useful
 mechanical power of such a machine would have ranged from less than 4 kW
 for a heavy wooden wheel to well over 9 kW for a carefully crafted and
 properly lubricated nineteenth-century metal machine.
-
-::: {.bottom .hr}
-:::
-:::
 
 This advantage was partially negated by the need for a well-directed and
 carefully regulated water supply, which required the frequent building
@@ -6731,11 +5623,6 @@ the textbooks, never existed at all---an authentic, ancient Roman,
 power-driven, mass-production, assembly-line factory." A closer look
 shows a less impressive reality (box 4.7).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.7 Barbegal waterwheels {.featuretitle}
 
 Water for the Barbegal's 16 overshot wheels (most likely built during
@@ -6760,10 +5647,6 @@ four weak) Roman horses harnessed to a whim, and enough to produce daily
 about 3.4 t of flour to feed about 11,000 people: certainly a much
 higher performance than for typical mills of the second century CE but
 less than a prototype of mass production.
-
-::: {.bottom .hr}
-:::
-:::
 
 In any case, larger water mills remained rare for centuries to come.
 Even during the early decades of the eighteenth century European
@@ -6887,9 +5770,6 @@ cheaper than water power virtually anywhere in the United States. Before
 the end of the nineteenth century most water turbines had stopped
 delivering direct power and had started to turn electricity generators
 instead.
-:::
-
-::: section
 
 ### []{#c10752_004.xhtml#S2-3}[]{#c10752_004.xhtml#d2e669}Wind Power
 
@@ -6940,11 +5820,6 @@ lantern-and-crown gear and the only access was by ladder. Reproduced
 from the *Encyclopédie* (Diderot and d'Alembert
 1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_012.jpg)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.8 Wind energy and power {.featuretitle}
 
 Average wind speed increases roughly with one-seventh the power of
@@ -6980,10 +5855,6 @@ airstream! The maximum extractable power is equal to 16/27, or nearly
 20--30% for preindustrial windmills. An eighteenth-century tower mill
 with a blade diameter of 20 m thus had a theoretical power of about 189
 kW with a velocity of 10 m/s---but it delivered less than 50 kW.
-
-::: {.bottom .hr}
-:::
-:::
 
 While post mills continued to work in parts of Eastern Europe until the
 twentieth century, in Western Europe they were gradually replaced by
@@ -7093,10 +5964,6 @@ decline only in the early 1920s. By 1889 there were 77 manufacturers,
 with Halladay, Adams, and Buchanan being the leading brands (Baker
 2006). Large numbers of American-type water-pumping windmills were used
 during the twentieth century in Australia, South Africa, and Argentina.
-:::
-:::
-
-::: section
 
 ## []{#c10752_004.xhtml#S3}[]{#c10752_004.xhtml#d2e791}Biomass Fuels
 
@@ -7144,8 +6011,6 @@ traditional societies, energy needs have always amounted just to cooking
 two or three meals a day, in cold climates heating at least one room,
 and in some regions also preparing feed for animals and drying food.
 
-::: section
-
 ### []{#c10752_004.xhtml#S3-1}[]{#c10752_004.xhtml#d2e807}Wood and Charcoal
 
 Wood was used in any available form: as fallen, broken, or lopped-off
@@ -7163,11 +6028,6 @@ contain, respectively, 26.5 MJ/kg and up to 35 MJ/kg, compared to 17.5
 MJ/kg for cellulose), but the differences among common woody species are
 fairly small, mostly 17.5--20 MJ/kg for hardwoods and, because of their
 higher resin content, 19--21 MJ/kg for softwoods (box 4.9).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 4.9 Energy content of biomass fuels {.featuretitle}
 
@@ -7199,10 +6059,6 @@ _Source:_ Based on Smil (1983) and Jenkins (1993).
 ```{=html}
 </figure>
 ```
-
-::: {.bottom .hr}
-:::
-:::
 
 The energy density of wood should always refer to absolutely dry matter,
 but wood burned in traditional societies had a widely varying moisture
@@ -7289,11 +6145,6 @@ GJ/capita (Galloway, Keene, and Murphy 1996). Estimates for Western
 Europe and North America just before their switch to coal show even
 higher average needs.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.10 Wood consumption in the Roman Empire {.featuretitle}
 
 My conservative estimate accounts for all major wood consumption
@@ -7320,10 +6171,6 @@ half split roughly 2:1 between food and fodder energy. His higher total
 was 16.8 GJ/capita, while my estimate for food, fodder, and wood was
 18--19 GJ/capita (Smil 2010c).
 
-::: {.bottom .hr}
-:::
-:::
-
 Those nineteenth-century northern European, New England, Midwestern, or
 Canadian communities heating and cooking only with wood consumed
 annually anywhere between 3 and 6 t of the fuel per capita. That was the
@@ -7334,9 +6181,6 @@ in the middle of the nineteenth century (Schurr and Netschert 1960).
 Although that figure also included growing industrial (mainly
 metallurgical charcoal) and transportation uses, household combustion
 was still the leading consumer of American wood during the 1850s.
-:::
-
-::: section
 
 ### []{#c10752_004.xhtml#S3-2}[]{#c10752_004.xhtml#d2e968}Crop Residues and Dung
 
@@ -7404,10 +6248,6 @@ Bangladeshi households are still using dung for cooking (Behera et al.
 4.15](#c10752_004.xhtml#fig_015a)]{.figureLabel} Rows and piles of cow
 patties left to dry in Varanasi, Uttar Pradesh, India
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_015.jpg)
-:::
-:::
-
-::: section
 
 ## []{#c10752_004.xhtml#S4}[]{#c10752_004.xhtml#d2e1006}Household Needs
 
@@ -7454,8 +6294,6 @@ nineteenth-century America, endowed with plenty of fuelwood, an average
 household claimed only a small fraction of the useful energy flows that
 became available to its twentieth-century counterpart.
 
-::: section
-
 ### []{#c10752_004.xhtml#S4-1}[]{#c10752_004.xhtml#d2e1025}Food Preparation
 
 In light of the dominance of cereals in the nutrition of all high
@@ -7485,11 +6323,6 @@ commonly used, and slaves also powered dough-kneading machines in large
 bakeries: the empire's staple was paid for by terrible suffering (box
 4.11).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.11 Lucius Apuleius (_Metamorphoses_ IX, 12, 3.4) on Roman mill slaves {.featuretitle}
 
 > Ye gods, what a set of men I saw! Their skins were seamed all over
@@ -7501,10 +6334,6 @@ bakeries: the empire's staple was paid for by terrible suffering (box
 > Their eyes were bleared, sore, and raw, from the smoke of the ovens.
 > They were covered with flour as athletes with dust! (J. A. Hanson
 > translation)
-
-::: {.bottom .hr}
-:::
-:::
 
 A donkey-powered mill (energy input at the rate of 300 W) produced from
 less than 10 kg/h to 25 kg/h (Forbes 1965), while millstones driven by a
@@ -7581,9 +6410,6 @@ and heat with a much higher efficiency (Cohen 1990). In 1798 Benjamin
 Thompson (Count Rumford, 1753--1814) designed a brick range with top
 openings for placing the pots and with a cylindrical oven; the range was
 first adopted by large kitchens (Brown 1999).
-:::
-
-::: section
 
 ### []{#c10752_004.xhtml#S4-2}[]{#c10752_004.xhtml#d2e1090}Heat and Light
 
@@ -7701,10 +6527,6 @@ decade about 160,000 barrels of sperm oil were brought each year to New
 England's ports (Starbuck 1878). The subsequent decline in sperm whale
 numbers and competition from coal gas and kerosene led to a rapid
 decline of the hunt.
-:::
-:::
-
-::: section
 
 ## []{#c10752_004.xhtml#S5}[]{#c10752_004.xhtml#d2e1166}Transportation and Construction
 
@@ -7725,8 +6547,6 @@ palaces and churches. Everything changed, and rather rapidly, only with
 the diffusion of a much more powerful prime mover and a superior
 construction material. The steam engine and cheap cast iron and steel
 revolutionized transportation as well as construction.
-
-::: section
 
 ### []{#c10752_004.xhtml#S5-1}[]{#c10752_004.xhtml#d2e1173}Moving on Land
 
@@ -7934,11 +6754,6 @@ construction (box 4.12) In Western Europe the Roman achievements in road
 building were surpassed only during the nineteenth century, in the
 eastern regions of the continent only during the twentieth.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.12 Energy cost of Roman roads {.featuretitle}
 
 If we assume that the average Roman road was just 5 m wide and 1 m deep,
@@ -7955,10 +6770,6 @@ prorating this grand total over 600 years of construction would result
 in an annual average of six million labor-days, an equivalent of some
 20,000 full-time construction workers. This would represent (at 2
 MJ/day) an annual energy investment of nearly 12 TJ of labor.
-
-::: {.bottom .hr}
-:::
-:::
 
 The Muslim world had no roads network comparable to the Roman _cursus
 publicus_, although it had intense communication (Hill 1984). Its
@@ -8132,9 +6943,6 @@ by the rising popularity of e-bikes), but rural demand remains strong,
 and China is still the world's largest producer of bicycles, with more
 than 80 million units a year, of which more than 60% are exported (IBIS
 World 2015).
-:::
-
-::: section
 
 ### []{#c10752_004.xhtml#S5-2}[]{#c10752_004.xhtml#d2e1327}Oared Ships and Sail Ships
 
@@ -8196,11 +7004,6 @@ powered by 40 men turning capstans or treadmills appeared in the middle
 of the sixteenth century. Animate power was also the principal prime
 mover for moving goods and people by canal boats and barges (box 4.13).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.13 Ancient canal transportation {.featuretitle}
 
 The earliest description of their sluggish progress (snoring waterman,
@@ -8216,10 +7019,6 @@ in his _Satires_ (Buckley 1855, 160):
 > fellow, one of the passengers, leaps out of the boat, and drubs the
 > head and sides of both mule and waterman with a willow cudgel. At last
 > we were scarcely set ashore at the fourth hour.
-
-::: {.bottom .hr}
-:::
-:::
 
 Canals were particularly important catalysts of economic development in
 the core area of the Chinese state (in the lower basin of the Huang He
@@ -8268,11 +7067,6 @@ minimize drag (box 4.14). But this force from the sail's foil shape must
 be combined with the balancing force of the keel; otherwise the vessel
 will drift downwind (Anderson 2003).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.14 Sails and sailing near the wind {.featuretitle}
 
 When wind strikes a sail, the difference in pressure generates two
@@ -8301,10 +7095,6 @@ the course. Square-rigged ships had to resort to wearing, or making a
 complete downwind turn. Ships with fore-and-aft sails tried tacking,
 turning their bows into the wind, and eventually catching the wind on
 the opposite side of the sail.
-
-::: {.bottom .hr}
-:::
-:::
 
 Square sails set at right angles across the ship's long axis were
 efficient energy converters only with the wind astern. Roman ships
@@ -8400,11 +7190,6 @@ dominance before and after the Napoleonic age. Starting in the early
 fifteenth century the simplest ships of this innovative design carried
 the audacious Portuguese sailors on longer voyages (box 4.15).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.15 Portuguese voyages of discovery {.featuretitle}
 
 Portuguese sailors advanced first southward, along the western coast of
@@ -8416,7 +7201,6 @@ Indian Ocean to India (Boxer 1969; Newitt 2005). Luís de Camões
 and cited here in Richard Burton's translation (Burton 1880, 11),
 captured their progress:
 
-> ::: lineGroup
 > They walked the water's vasty breadth of blue,
 >
 > parting the restless billows on their way;
@@ -8432,11 +7216,6 @@ captured their progress:
 > the sacred spaces of that ocean-plain
 >
 > where Proteus' cattle cleave his own domain.
-> :::
-
-::: {.bottom .hr}
-:::
-:::
 
 In 1492 the Atlantic was crossed to America by three Spanish ships
 captained by Christopher Columbus (1451--1506). In 1519 Ferdinand
@@ -8475,11 +7254,6 @@ expansion of shipping (preceding that of the economy as a whole) and its
 rising productivity were critical contributions to Europe's economic
 growth between 1350 and 1850 (Lucassen and Unger 2011).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.16 Contribution of sail ships to Dutch energy use {.featuretitle}
 
 Information on tonnages and speeds that would allow us to calculate the
@@ -8506,13 +7280,6 @@ renewable resource constantly recharged by differences in atmospheric
 pressure. Comparisons of aggregate power thus make no greater sense than
 those of specific conversion efficiencies (in this case, contrasting the
 efficiency of a sail with the performance of a peat stove).
-
-::: {.bottom .hr}
-:::
-:::
-:::
-
-::: section
 
 ### []{#c10752_004.xhtml#S5-3}[]{#c10752_004.xhtml#d2e1559}Buildings and Structures
 
@@ -8585,11 +7352,6 @@ Parthenon in just 15 years (447--432 BCE), the Pantheon in about eight
 Byzantine church later converted into a mosque, in less than five years
 (527--532).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.17 Brunelleschi's ingenious machines {.featuretitle}
 
 Filippo Brunelleschi's work on the Cathedral of Santa Maria del Fiore is
@@ -8616,10 +7378,6 @@ structure) could not be moved from the central elevated location to
 their precisely predetermined sites by pulling or pushing: the task was
 done by the load positioner with two horizontal screw-actuated slideways
 mounted on a vertical rod and using a counterweight.
-
-::: {.bottom .hr}
-:::
-:::
 
 Several types of large construction projects stand out. By far the best
 known are various ceremonial structures, above all funerary monuments
@@ -8747,11 +7505,6 @@ numbers of workers, most of them concentrated on the Giza Plateau, might
 have been a factor as limiting as or even more limiting than delivering
 and lifting the stones.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.18 Energy cost of the Great Pyramid {.featuretitle}
 
 The Great Pyramid's potential energy (required to lift the mass of 2.5
@@ -8791,10 +7544,6 @@ Mendelssohn (1974) estimated the total at 70,000 seasonal laborers and
 perhaps as many as 10,000 permanent masons. Both of these are
 indefensible exaggerations.
 
-::: {.bottom .hr}
-:::
-:::
-
 Other ancient structures that required a long-term labor commitment
 included the Mesopotamian stepped temple towers (ziggurats) built after
 2200 BCE, and stupas (or _dagobas_), monuments built to honor Buddha and
@@ -8831,11 +7580,6 @@ metallic oxides in an inclined rotating kiln---and there was no cement
 in the Roman _opus caementicium_ used to build the Pantheon or in any
 other building until the 1820s (box 4.19).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.19 Rome's Pantheon {.featuretitle}
 
 The Roman _opus caementicium_ was a mixture of aggregates (sand, gravel,
@@ -8863,10 +7607,6 @@ as they converge on the central oculus but are built of progressively
 thinner layers of masonry using lighter aggregates, from travertine at
 the bottom to pumice at the top (MacDonald 1976). The entire dome weighs
 about 4,500 t.
-
-::: {.bottom .hr}
-:::
-:::
 
 We know that massive architraves (such as those at the Parthenon,
 weighing almost 10 t) had to be lifted by a crane (and could be rolled
@@ -8951,10 +7691,6 @@ to 1.82 MPa (18 atmospheres)---and the cost of transporting the metal
 over often considerable distances from its smelting centers. For
 example, the total amount of lead for nine siphons in the Lyon water
 supply was about 15,000 t.
-:::
-:::
-
-::: section
 
 ## []{#c10752_004.xhtml#S6}[]{#c10752_004.xhtml#d2e1784}Metallurgy
 
@@ -8986,8 +7722,6 @@ ore crushing, water pumping from mines, and metal forging. The
 availability of wood, and later also the accessibility and reliability
 of water power resources needed to energize larger bellows and hammers,
 were thus the key determinants of metallurgical progress.
-
-::: section
 
 ### []{#c10752_004.xhtml#S6-1}[]{#c10752_004.xhtml#d2e1794}Nonferrous Metals
 
@@ -9046,11 +7780,6 @@ the late medieval metallurgical expertise (Agricola 1912 \[1556\];
 Biringuccio 1959 \[1540\]) describe copper smelting in ways that hardly
 differ from the Rio Tinto practices.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.20 Fuelwood needs for Roman copper and silver smelting at Rio Tinto {.featuretitle}
 
 The first mapping of Rio Tinto's enormous slag heaps resulted in
@@ -9074,10 +7803,6 @@ Cyprus (starting around 2600 BCE) left behind more than 4 Mt of slag.
 Clearly, ancient smelting was a major cause of deforestation in the
 Mediterranean region, as well as in Transcaucasia and Afghanistan, and
 local wood shortages eventually limited the extent of smelting.
-
-::: {.bottom .hr}
-:::
-:::
 
 From the very beginning of copper smelting some of the metal was
 incorporated into bronze, the first practical alloy, chosen by Christian
@@ -9114,9 +7839,6 @@ no reduction of the alloy's malleability and corrosion resistance. The
 first uses of brass date to the first century BCE. The alloy became
 widely used in Europe only during the eleventh century, and became
 common only after 1500.
-:::
-
-::: section
 
 ### []{#c10752_004.xhtml#S6-2}[]{#c10752_004.xhtml#d2e1839}Iron and Steel
 
@@ -9197,11 +7919,6 @@ before 1400. Blast furnaces produce cast, or pig, iron, an alloy with
 strength is no higher than copper's (and it can be up to 55% weaker) but
 it is two to three times harder (Oberg et al. 2012; box 4.21).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.21 Tensile strength and hardness of common metals and alloys {.featuretitle}
 
 ```{=html}
@@ -9233,10 +7950,6 @@ _Source:_ Based on Oberg and co-workers (2012).
 ```{=html}
 </figure>
 ```
-
-::: {.bottom .hr}
-:::
-:::
 
 The number of blast furnaces grew steadily during the sixteenth and
 seventeenth centuries. Perhaps the most notable improvement of that time
@@ -9276,11 +7989,6 @@ inevitably caused extensive deforestation around furnace sites. A
 typical early eighteenth-century English furnace needed about 1,600 ha
 of trees for a sustainable supply (box 4.22).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.22 Fuel needs of an eighteenth-century English blast furnace {.featuretitle}
 
 Early eighteenth-century English blast furnaces worked only from October
@@ -9298,10 +8006,6 @@ Dean needed about 5,300 ha of coppice growth, while the smaller Wealden
 ironworks needed around 2,000 ha for each furnace-forge combination
 (Crossley 1990).
 
-::: {.bottom .hr}
-:::
-:::
-
 The total national wood requirements of charcoal-based iron making can
 be fairly well estimated for England of the early 1700s, before the
 industry began to adopt coke-based smelting: a sustainable supply would
@@ -9312,11 +8016,6 @@ charcoal made from wood from its rich natural forests, but by the
 beginning of the twentieth century it would have been impossible, and
 only the use of coke allowed the country to become the world's larger
 producer of pig iron (box 4.23).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 4.23 Energy needs in British and American iron production {.featuretitle}
 
@@ -9351,10 +8050,6 @@ equal to Missouri (or a third of France), represented by a square whose
 side would reach from Philadelphia to Boston or from Paris to Frankfurt.
 Obviously, even a forest-rich America could not afford to energize its
 iron ore smelting with charcoal.
-
-::: {.bottom .hr}
-:::
-:::
 
 Not surprisingly, during the wooden era communities surrounded by
 traditional iron mills and forges found themselves in a desperate
@@ -9422,10 +8117,6 @@ revolutionized first by flexible chain-mail suits, helmets, and heavy
 swords, later by guns, iron cannonballs, and more reliable firearms.
 These trends were greatly accelerated with the introduction of
 coke-based iron smelting and the emergence of the steam engine.
-:::
-:::
-
-::: section
 
 ## []{#c10752_004.xhtml#S7}[]{#c10752_004.xhtml#d2e2042}Warfare
 
@@ -9459,8 +8150,6 @@ this impact was limited by the clumsy designs of personal weapons
 (front- and breach-loading rifles), but gunpowder gained ever greater
 importance as the propellant of cannonballs.
 
-::: section
-
 ### []{#c10752_004.xhtml#S7-1}[]{#c10752_004.xhtml#d2e2052}Animate Energies
 
 All prehistoric land warfare and all conflicts of ancient and early
@@ -9492,11 +8181,6 @@ and even if well-rested and well-fed men were able to move swiftly, the
 army's progress was often limited by the speed of its supply train, made
 up of slow-moving animals.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.24 Kinetic energy of swords and arrows {.featuretitle}
 
 Even heavy medieval swords weighed no more than 2 kg, usually less than
@@ -9514,10 +8198,6 @@ projectile's impact is basically punctiform and hence deeply
 penetrating: flint- or metal-tipped arrows could easily penetrate a coat
 of mail when shot from distances of up to 40--50 m and, when well aimed,
 could kill unprotected men from more than 200 m away.
-
-::: {.bottom .hr}
-:::
-:::
 
 The two most powerful military machines of antiquity and the early
 Middle Ages relied on the mechanical advantage of levers. Catapults were
@@ -9599,11 +8279,6 @@ Napoleon's armies for their invasion of Russia in 1812 (box 4.25).
 Without oxen---44,000 of them---pulling the supply wagons, the army
 could not have advanced.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 4.25 Prussian supplies and animals for the Russian invasion {.featuretitle}
 
 Opening the road to Russia to Napoleon: that is how Philip Paul, comte
@@ -9620,10 +8295,6 @@ Prussian contribution:
 > each carrying a load of fifteen hundred weight; and finally, hospitals
 > provided with everything necessary for twenty thousand sick. (Ségur
 > 1825, 17)
-
-::: {.bottom .hr}
-:::
-:::
 
 Western armed conflicts fought after 1840 would use the first modern
 inanimate prime mover, the steam engine, to mobilize troops and animals
@@ -9652,9 +8323,6 @@ category of strategic matériel until the end of World War II.
 Square, Moscow, on November 7, 1941, a week before the start of the
 German offensive to reach Moscow
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_027.jpg)
-:::
-
-::: section
 
 ### []{#c10752_004.xhtml#S7-2}[]{#c10752_004.xhtml#d2e2142}Explosives and Guns
 
@@ -9736,16 +8404,10 @@ The concentrated discharges of destructive energy reached levels that
 were not surpassed until the middle of the nineteenth century with the
 introduction of nitrocellulose-based powders (during the 1860s) and
 dynamite (patented by Alfred Nobel in 1867).
-:::
-:::
 
 []{#c10752_005.xhtml}
 
-<div>
-
-# 5 [[]{#c10752_005.xhtml#d2e64}Fossil Fuels, Primary Electricity, and Renewables]{.chapterTitle}
-
-</div>
+# 5 Fossil Fuels, Primary Electricity, and Renewables
 
 Fundamentally, no terrestrial civilization can be anything else but a
 solar society dependent on the Sun's radiation, which energizes a
@@ -9785,14 +8447,7 @@ for hard coals. This origin dictates their high carbon content, which,
 combined with the low content of water and incombustible impurities,
 translates into high energy densities (box 5.1)
 
-::: section
-
 ## []{#c10752_005.xhtml#S1}[]{#c10752_005.xhtml#d2e93}
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 5.1 Fossil fuels {.featuretitle}
 
@@ -9853,10 +8508,6 @@ Coals
 </figure>
 ```
 
-::: {.bottom .hr}
-:::
-:::
-
 But only a small fraction of initially sedimented biomass carbon was
 transformed into fossil fuels (Dukes 2003). During the formation of coal
 up to 15% of plant carbon ended up as peat, up to 90% of that could be
@@ -9912,9 +8563,6 @@ phytomass fuels and animate energies to fossil fuels and inanimate prime
 movers; in the second part I trace important technical innovations that
 have combined to create the efficiency, reliability, and affordability
 characteristic of modern high-energy societies.
-:::
-
-::: section
 
 ## []{#c10752_005.xhtml#S2}[]{#c10752_005.xhtml#d2e204}The Great Transition
 
@@ -9977,8 +8625,6 @@ harvests of phytomass fuels and the deployment of animate energies
 entered a new era of diversifying fossil fuel supply and the mass-scale
 deployment of mechanical prime movers.
 
-::: section
-
 ### []{#c10752_005.xhtml#S2-1}[]{#c10752_005.xhtml#d2e228}The Beginnings and Diffusion of Coal Extraction
 
 The beginnings of coal utilization go back to antiquity, when the most
@@ -10032,11 +8678,6 @@ accurate appraisal of actual physical exertion (box 5.2).
 Scottish mine in the early nineteenth century
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_001.jpg)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.2 _An Inquiry Into the Condition of the Women Who Carry Coals Under Ground in Scotland, Known by the Name of BEARERS_ {.featuretitle}
 
 This was the title of the addition to _A General View of the Coal Trade
@@ -10069,10 +8710,6 @@ only rarely can it be exceeded (Smil 2008a). Clearly, the bearers were
 operating, day after day, many for years---they entered this work when
 seven years old, and frequently continued till they were upward of
 50---near the maximum of human capacity.
-
-::: {.bottom .hr}
-:::
-:::
 
 Bald's vivid description is also a perfect illustration of a fundamental
 fact of energetics, an impressive example of how every transition to a
@@ -10173,9 +8810,6 @@ mismanagement, including the world's largest, Mao-made, Great Famine
 a result, it was only in 1965 that biomass fuels began to supply less
 than half of China's primary energy; by 1983 their share had fallen
 below 25% and by 2006 below 10% (Smil 2010a).
-:::
-
-::: section
 
 ### []{#c10752_005.xhtml#S2-2}[]{#c10752_005.xhtml#d2e303}From Charcoal to Coke
 
@@ -10234,9 +8868,6 @@ charcoal-fueled furnaces vs. \>250 t/day for coke-fueled furnaces by 1900) made 
 about 800,000 t in 1750 to about 30 Mt in 1900, laying the foundation
 for the post-1860 development of the modern steel industry and providing
 the key metal of industrialization (Smil 2016).
-:::
-
-::: section
 
 ### []{#c10752_005.xhtml#S2-3}[]{#c10752_005.xhtml#d2e337}Steam Engines
 
@@ -10328,11 +8959,6 @@ Lessening the Consumption of Steam and Fuel in Fire Engines_ (Watt 1855
 systematic listing of improvements makes it clear how the new machine
 differed from its predecessors (box 5.3).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.3 Watt's 1769 patent {.featuretitle}
 
 This is how Watt explained his improved design:
@@ -10356,10 +8982,6 @@ This is how Watt explained his improved design:
 > cold of the condenser, and may impede the working of the engine, is to
 > be drawn out of the steam vessells or condensers, by means of pumps
 > wrought by the engines themselves, or otherwise. (Watt 1855 \[1769\], 2)
-
-::: {.bottom .hr}
-:::
-:::
 
 A separate condenser was clearly the most important innovation ([fig.
 5.2](#c10752_005.xhtml#fig_002)). Later Watt also introduced a
@@ -10402,11 +9024,6 @@ discouraged William Murdoch (1754--1839), the principal erector of their
 engines, from developing such a machine, and when Murdoch persisted,
 Boulton persuaded him not to file a patent (box 5.4)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.4 Watt and Boulton delay the development of a steam carriage {.featuretitle}
 
 In 1777, when he was 23 years old, William Murdoch walked nearly 500 km
@@ -10434,10 +9051,6 @@ Watt:
 > disorder or turn evil to good. At least I shall prevent a mischief
 > that would have been the consequence of his journey to London.
 > (Griffiths 1992, 161)
-
-::: {.bottom .hr}
-:::
-:::
 
 But perhaps that made no difference for the future development of
 steam-powered transportation because even the best conceivable road
@@ -10592,11 +9205,6 @@ inefficient: by 1900 the typical steam locomotive wasted 92% of coal fed
 into its boiler. And they remained heavy, limiting mobile uses beyond
 water and rails where it was easier to support their mass (box 5.5)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.5 Mass/power ratio of steam engines and a _Megatherium_ {.featuretitle}
 
 A medium-heavy horse weighing 750 kg and delivering one horsepower (745
@@ -10626,10 +9234,6 @@ The massive Greenwich machines were nearly as high (14.5 m) as they were
 wide---while a Parsons's generator of the same power would be only 3.35
 m wide and 4.45 m high.
 
-::: {.bottom .hr}
-:::
-:::
-
 When steam engines reached their highest efficiency, greatest power, and
 the lowest mass/power ratio, these were not achievements paving the way
 for further dominance: despite its impressive improvements and its
@@ -10646,9 +9250,6 @@ availability of inexpensive liquid fuels refined from crude oil: they
 had higher energy density than coal, were cleaner to burn, and were
 easier to move and store, a combination that still makes them the best
 fuel choice for transportation.
-:::
-
-::: section
 
 ### []{#c10752_005.xhtml#S2-4}[]{#c10752_005.xhtml#d2e538}Oil and Internal Combustion Engines
 
@@ -10832,11 +9433,6 @@ road vehicles, and as the new century began, the leading German
 manufacturer designed the first essentially modern car (box 5.6,
 []{#c10752_005.xhtml#fig_007a}[fig. 5.7](#c10752_005.xhtml#fig_007)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.6 The first modern car {.featuretitle}
 
 The car was a German invention, but a French engineer, Emile Levassor
@@ -10867,10 +9463,6 @@ g/W, 70% lower than in the best DMG engine made in 1895. The new car
 soon set the world speed record (64.4 km/h), and an even more powerful
 Mercedes 60, with fancier bodywork, followed in 1903, the beginning of a
 marquee that has lost little of its appeal 125 years later.
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_005.xhtml#fig_007}[[Figure
 5.7](#c10752_005.xhtml#fig_007a)]{.figureLabel} The Mercedes 35,
@@ -10923,11 +9515,6 @@ shapes and with experimental glider flights. Their first flights, on
 December 17, 1903, are well documented (box 5.7,
 []{#c10752_005.xhtml#fig_008a}[fig. 5.8](#c10752_005.xhtml#fig_008)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.7 The first flights {.featuretitle}
 
 Nine days after Manly's second dunking, the Wright brothers were ready
@@ -10951,10 +9538,6 @@ father, Reverend Milton Wright: "Success four flights Thursday morning
 all against twenty one mile wind started from Level with engine power
 alone average speed through air thirty one miles longest 57 second
 inform Press home Christmas" (World Digital Library 2014).
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_005.xhtml#fig_008}[[Figure
 5.8](#c10752_005.xhtml#fig_008a)]{.figureLabel} The first flight of a
@@ -11019,11 +9602,6 @@ largely realized, but his initial hopes for the machine's social impact
 were completely misplaced---yet another instance of the unintended
 consequences of a technical advance (box 5.8).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.8 Diesel's engine: The intent and the outcome {.featuretitle}
 
 Diesel's ambition was to produce a light, small (about the size of a
@@ -11058,10 +9636,6 @@ vision, an unprecedented concentration of mass-scale manufacturing and
 the inexpensive distribution of its products in a new global economy
 (Smil 2010b).
 
-::: {.bottom .hr}
-:::
-:::
-
 Commercialization of the new engine was slower than initially
 anticipated, with fewer than 300 units sold by the end of 1901 (Smil
 2010b). In 1903 the first diesel-powered vessel, the small oil tanker
@@ -11085,9 +9659,6 @@ the twentieth-century industrial advances. That momentous invention was
 the steam turbine, soon deployed as a superior prime mover to rotate
 generators producing electricity in increasingly larger central
 stations.
-:::
-
-::: section
 
 ### []{#c10752_005.xhtml#S2-5}[]{#c10752_005.xhtml#d2e738}Electricity
 
@@ -11121,11 +9692,6 @@ the answer he discovered (box 5.9).
 5.9](#c10752_005.xhtml#fig_009a)]{.figureLabel} Michael Faraday.
 Wellcome Library, London,
 photograph.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_009.jpg)
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 5.9 Faraday's discovery of electromagnetic induction {.featuretitle}
 
@@ -11166,10 +9732,6 @@ described them in _Experimental Researches in Electricity_ (Faraday
 > direction to the inducing current. As the wires receded, the induced
 > current was in the same direction as the inducing current. When the
 > wires remained stationary, there was no induced current.
-
-::: {.bottom .hr}
-:::
-:::
 
 Faraday's demonstration that mechanical energy can be converted into
 electricity (to generate alternating current) and vice versa opened the
@@ -11248,11 +9810,6 @@ the determination and organizational talent to make the whole work (box
 5.10, []{#c10752_005.xhtml#fig_010a}[fig.
 5.10](#c10752_005.xhtml#fig_010)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.10 Edison's electrical system {.featuretitle}
 
 The first durable electric lamp, demonstrated by Joseph Swan in
@@ -11293,10 +9850,6 @@ components." But Friedel and Israel (1986, 227) concluded that "the
 completeness of that system was more the product of opportunities
 afforded by technical accomplishments and financial resources than the
 outcome of a purposeful systems approach."
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_005.xhtml#fig_010}[[Figure
 5.10](#c10752_005.xhtml#fig_010a)]{.figureLabel} Thomas A. Edison in
@@ -11416,11 +9969,6 @@ serving limited local areas---and either option would have been very
 expensive. Transformers of AC provided an inexpensive and reliable
 solution (box 5.11)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.11 Transforming electricity and transmission losses {.featuretitle}
 
 Electricity is most efficiently generated and most conveniently
@@ -11444,10 +9992,6 @@ requirements, transmission tower sizes), though high-voltage (HV) and
 extra-high-voltage (EHV) transmission are now done routinely at
 240,000--750,000 V (240--750 kV), with losses limited usually to less
 than 7% of the transmitted electricity.
-
-::: {.bottom .hr}
-:::
-:::
 
 As already noted, transformers work by electromagnetic induction, a
 process discovered by Faraday, and their development was not the result
@@ -11572,10 +10116,6 @@ almost as good as a four-phase machine, which would require another
 wire. The conquest of the market by three-phase motors was rapidly
 creating, as I explain in the next section, a major transformation of
 manufacturing.
-:::
-:::
-
-::: section
 
 ## []{#c10752_005.xhtml#S3}[]{#c10752_005.xhtml#d2e955}Technical Innovations
 
@@ -11745,8 +10285,6 @@ additions, but their inherent intermittency and their low-capacity
 factors pose nontrivial problems in integrating them into existing
 grids.
 
-::: section
-
 ### []{#c10752_005.xhtml#S3-1}[]{#c10752_005.xhtml#d2e1012}Coals
 
 The two universal trends in coal production have been the growing
@@ -11837,11 +10375,6 @@ coal output was surpassed by the Chinese production in 1985, and coal
 has been by far the most important energizer of China's extraordinary
 economic growth (USEIA 2015b; box 5.12).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.12 Chinese coal production {.featuretitle}
 
 Once the Chinese Communist Party established a new regime on October 1,
@@ -11877,10 +10410,6 @@ levels of air pollution, with levels of small particulate matter (\<2.5
 μm) repeatedly reaching an order of magnitude above the desirable maxima
 (Smil 2013b).
 
-::: {.bottom .hr}
-:::
-:::
-
 Until 1983 the USSR was a larger coal producer than the United States,
 but after the state collapsed, Russian coal extraction declined as
 natural gas and crude oil filled the need. India is now the third
@@ -11901,9 +10430,6 @@ generation in China, India, and at least a dozen other nations precludes
 any rapid abandonment of the fuel, but in longer run, coal may be the
 first major energy resource whose extraction, despite of its still very
 abundant resources, will be limited because of environmental concerns.
-:::
-
-::: section
 
 ### []{#c10752_005.xhtml#S3-2}[]{#c10752_005.xhtml#d2e1078}Hydrocarbons
 
@@ -11999,11 +10525,6 @@ distance between its origin and the final user has become only a minor
 economic consideration and as annual intercontinental crude oil sales
 surpass 2 Gt (box 5.13).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.13 Giant oil tankers {.featuretitle}
 
 The first tanker, the British-built German _Glückauf,_ launched in 1886,
@@ -12030,10 +10551,6 @@ largest tanker, the _Seawise Giant_, was built in 1979, enlarged to
 and used as a floating storage and offloading unit off Qatar
 (2004--2009), then sold to Indian ship-breakers and renamed _Mont_ for
 its final journey to Alang in Gujarat (Konrad 2010).
-
-::: {.bottom .hr}
-:::
-:::
 
 The single most important advance in refining was catalytic cracking of
 crude oil. Thermal cracking was the norm until 1936, when Eugène Houdry
@@ -12139,9 +10656,6 @@ developing many new LNG facilities, hoping to become a leading exporter
 of LNG, perhaps even as a future rival of Qatar, a small, rich country
 selling LNG from the world's largest gas field in the Persian Gulf (Smil
 2015a).
-:::
-
-::: section
 
 ### []{#c10752_005.xhtml#S3-3}[]{#c10752_005.xhtml#d2e1188}Electricity
 
@@ -12209,11 +10723,6 @@ by increased reliability of the service, a particularly important
 consideration in a world full of electronic devices and controls (box
 5.14)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 5.14 Reliability of electricity supply {.featuretitle}
 
 The reliability of the electricity supply is often expressed in terms of
@@ -12242,10 +10751,6 @@ and between 2003 and 2011 the nationwide U.S. loss ranged between \$18
 and \$75 billion (in 2008, with Hurricane Ike) (Executive Office of the
 President 2013). And electrical grids are the prime candidates for
 cyber-attacks by terrorist groups or adversary governments.
-
-::: {.bottom .hr}
-:::
-:::
 
 Nuclear fission's arrival as the other major way to raise steam for
 thermal electricity generation was accelerated by World War II. The
@@ -12306,9 +10811,6 @@ mid-2015 there were 437 reactors operating worldwide, and of the 67
 reactors under construction 25 were in China, nine in Russia, and six in
 India (WNA 2015b). The West has essentially given up on this clean,
 carbon-free way of electricity generation.
-:::
-
-::: section
 
 ### []{#c10752_005.xhtml#S3-4}[]{#c10752_005.xhtml#d2e1251}Renewable Energies
 
@@ -12488,9 +10990,6 @@ the basic verdict is clear: as with all other energy transitions, moving
 away from fossil fuels will be a protracted process, and we will have to
 wait to see how different conversions will evolve to claim key roles in
 a new energy world.
-:::
-
-::: section
 
 ### []{#c10752_005.xhtml#S3-5}[]{#c10752_005.xhtml#d2e1314}Prime Movers in Transportation
 
@@ -12653,16 +11152,10 @@ its journey to the Moon. They were fired for just 150 seconds, and their
 combined thrust reached nearly 36 MN, an equivalent of about 2.6 GW and
 a mass/power ratio (including the weight of the fuel and three booster
 rockets) of just 0.001 g/W (Tate 2009).
-:::
-:::
 
 []{#c10752_006.xhtml}
 
-<div>
-
-# 6 [[]{#c10752_006.xhtml#d2e64}Fossil-Fueled Civilization]{.chapterTitle}
-
-</div>
+# 6 Fossil-Fueled Civilization
 
 The contrast is clear. Preindustrial societies tapped virtually
 instantaneous solar energy flows, converting only a negligible fraction
@@ -12731,8 +11224,6 @@ economic growth and expectations that this process, fed by incessant
 innovation, need not end anytime soon---but its continuation is by no
 means certain.
 
-::: section
-
 ## []{#c10752_006.xhtml#S1}[]{#c10752_006.xhtml#d2e97}Unprecedented Power and Its Uses
 
 Even though interrupted by two world wars and the world's worst economic
@@ -12795,11 +11286,6 @@ in a key consumption sector, household heating, entire populations have
 experienced a complete efficiency transition just in a matter of a few
 decades (box 6.1).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.1 Efficiency of household heating {.featuretitle}
 
 In less than 50 years I have lived in homes heated by four different
@@ -12820,10 +11306,6 @@ in a furnace with no more than 60% efficiency. Our first Canadian house
 had a natural gas furnace rated at 65%, and when I designed a new
 super-efficient home, I installed a natural gas furnace rated at
 94%---and have since replaced it with one rated at 97%.
-
-::: {.bottom .hr}
-:::
-:::
 
 While the total supply of all fossil energies was up 14-fold during the
 twentieth century, the steady progress of efficiencies supplied more
@@ -13015,8 +11497,6 @@ disproportionately to a minority of the world's population, and will
 also note considerable intranational inequities. Even so, there have
 been many universal improvements.
 
-::: section
-
 ### []{#c10752_006.xhtml#S1-1}[]{#c10752_006.xhtml#d2e243}Energy in Agriculture
 
 Fossil fuels and electricity have become indispensable inputs in modern
@@ -13127,11 +11607,6 @@ of about 100 Mt N by the year 2000, accounting for about 80% of the
 compound's total synthesis (box 6.2, []{#c10752_006.xhtml#fig_006a}[fig.
 6.6](#c10752_006.xhtml#fig_006)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.2 Energy costs of nitrogenous fertilizers {.featuretitle}
 
 The energy requirements of the Haber-Bosch synthesis include fuels and
@@ -13159,10 +11634,6 @@ cost to 55 GJ/t N. Using this rate as the global average means that in
 2015, with about 115 Mt N used in agriculture, the synthesis of
 nitrogenous fertilizers claimed about 6.3 EJ of energy, or just over 1%
 of the global energy supply (Smil 2014b).
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_006.xhtml#fig_006}[[Figure
 6.6](#c10752_006.xhtml#fig_006a)]{.figureLabel} An exponential increase
@@ -13279,9 +11750,6 @@ adequate nutrition even in most of the world's largest poor populous
 countries. Most notably, the energy content of China's average per
 capita diet is now, at about 3,000 kcal/day, about 10% ahead of the
 Japanese mean (FAO 2015a).
-:::
-
-::: section
 
 ### []{#c10752_006.xhtml#S1-2}[]{#c10752_006.xhtml#d2e358}Industrialization
 
@@ -13449,11 +11917,6 @@ Scientific Management_ (Taylor 1911); a century later its lessons
 continue to guide some of the world's most successful makers of consumer
 products (box 6.3).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.3 From experiments with steel cutting to Japan's car exports {.featuretitle}
 
 Frederick Winslow Taylor's main concern was with wasted labor, that is,
@@ -13482,10 +11945,6 @@ system---an alliterative trio of _muda mura muri_ (reducing
 non-value-adding activities, an uneven pace of production, and an
 excessive workload)---is nothing but pure Taylorism (Ohno 1988; Smil
 2006).
-
-::: {.bottom .hr}
-:::
-:::
 
 A radically new period of industrialization came when steam engines were
 eclipsed by electrification. Electricity is a superior form of energy,
@@ -13607,11 +12066,6 @@ have been impossible without the much larger and more efficient blast
 furnaces (box 6.4, []{#c10752_006.xhtml#fig_009a}[fig.
 6.9](#c10752_006.xhtml#fig_009)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.4 Growth and mass and energy balances of blast furnaces {.featuretitle}
 
 Few production structures with a medieval pedigree remain as important
@@ -13641,10 +12095,6 @@ rates were about 370 kg/t in Japan and less than 340 kg/t in Germany
 (Lüngen 2013). The energy cost of coke-fueled iron smelting thus fell
 from about 275 GJ/t in 1750 to about 55 GJ/t in 1900, close to 30 GJ/t
 in 1950, and between 12 and 15 GJ/t by 2010.
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_006.xhtml#fig_009}[[Figure
 6.9](#c10752_006.xhtml#fig_009a)]{.figureLabel} Changing designs of
@@ -13727,11 +12177,6 @@ manufacturing sector, to 44--50% in Germany, France, and the UK, and to
 different from their predecessors, they are actually very different
 hybrids (box 6.5).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.5 Cars as mechatronic machines {.featuretitle}
 
 There is no better example of the fusion of mechanical and electronic
@@ -13762,10 +12207,6 @@ a vehicle. The trend has been clear, but completely autonomous,
 self-driving vehicles are not coming as soon as many uncritical
 observers believe.
 
-::: {.bottom .hr}
-:::
-:::
-
 Cars are just one prominent example of an industry that now finds
 research, design, marketing, and servicing no less important than the
 actual production of goods. Even if a specific embedded energy use (per
@@ -13777,9 +12218,6 @@ among them appearance, brand distinction, and quality considerations.
 This trend has major implications both for future energy use and for the
 structure of labor force, but not necessarily in any simple,
 unidirectional way (for more on this topic, see chapter 7).
-:::
-
-::: section
 
 ### []{#c10752_006.xhtml#S1-3}[]{#c10752_006.xhtml#d2e564}Transportation
 
@@ -13925,11 +12363,6 @@ Other notable models were the Austin Seven, the Morris Minor, the
 Citroen 2CV, the Renault 4CV, the Fiat Topolino, and, the most popular
 of them all, Ferdinand Porsche's Hitler-inspired Volkswagen (box 6.6).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.6 Volkswagen and other durable models {.featuretitle}
 
 In terms of the aggregate production, size, and longevity (though with
@@ -13966,10 +12399,6 @@ was made between 1936 and 1955, and the British Morris Minor was made
 between 1948 and 1971. All these models were eclipsed in popularity by
 Japanese designs: after relatively small exports during the 1960s and
 1970s they became the global bestsellers during the 1980s.
-
-::: {.bottom .hr}
-:::
-:::
 
 Freedom of personal travel has had enormous effects on both residential
 and professional mobility. These benefits have proved to be highly
@@ -14085,11 +12514,6 @@ Plotted from data in Taylor (1989) and Gunston (2002) and from technical
 specifications on the Boeing corporate
 website.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_013.jpg)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.7 Boeing and Airbus {.featuretitle}
 
 Boeing is an old U.S. company---established by William E. Boeing
@@ -14127,10 +12551,6 @@ Corporation of China, and Japan's Mitsubishi, are entering the lucrative
 market for narrow-body planes that is now served by the Boeing 737 and
 the Airbus A319/320.
 
-::: {.bottom .hr}
-:::
-:::
-
 The speed and range of these planes, the proliferation of airlines and
 flights, and the nearly universal linking of reservation systems have
 made it possible to travel among virtually all major cities of the
@@ -14147,9 +12567,6 @@ long-distance tourism to major cities and to subtropical and tropical
 beaches. They also opened up new possibilities for unprecedented migrant
 and refugee movements, for widespread drug smuggling, and for
 international terrorism involving aircraft hijacking.
-:::
-
-::: section
 
 ### []{#c10752_006.xhtml#S1-4}[]{#c10752_006.xhtml#d2e736}Information and Communication
 
@@ -14312,11 +12729,6 @@ invented miniaturized circuits integrated into the body of semiconductor
 material (Noyce 1961; Kilby 1964). Noyce's design of a planar transistor
 opened the new era of solid-state electronics (box 6.8).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.8 Invention of integrated circuits {.featuretitle}
 
 When working as the director of research at Fairchild Semiconductors in
@@ -14348,10 +12760,6 @@ arrangements with both of them. In principle, Kilby's and Noyce's ideas
 were identical, but Noyce died of a heart attack in 1990, whereas Kilby
 lived long enough to share a Nobel Prize for Physics in the year 2000
 "for his part in the invention of the integrated circuit."
-
-::: {.bottom .hr}
-:::
-:::
 
 The U.S. military was the first customer for integrated circuits. In
 1965, when the number of transistors on a microchip had doubled to 64
@@ -14461,11 +12869,6 @@ dependent on an incessant and highly reliable electricity supply to
 energize the requisite infrastructures, ranging from data centers to
 cell towers (box 6.9).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.9 Energy embodied in mobile phones and cars {.featuretitle}
 
 Even a compact car weighs 10,000 times as much as a smart phone (1.4 t
@@ -14499,10 +12902,6 @@ communications networks is rising: it claimed nearly 5% of worldwide
 electricity generation in 2012 and will approach 10% by 2020 (Lannoo
 2013).
 
-::: {.bottom .hr}
-:::
-:::
-
 Of special note is the enormous progress that has been made since the
 1960s in designing and deploying a wide range of diagnostic, measuring,
 and remote sensing techniques. These advances yielded a previously
@@ -14515,9 +12914,6 @@ transportation and weather monitoring) to a wide range of
 satellite-based sensors acquiring data in various bands of the
 electromagnetic spectrum and enabling much improved weather forecasting
 and natural resource management.
-:::
-
-::: section
 
 ### []{#c10752_006.xhtml#S1-5}[]{#c10752_006.xhtml#d2e886}Economic Growth
 
@@ -14675,11 +13071,6 @@ have a significantly lower energy intensity (energy per unit of GDP)
 than they had during earlier stages of their development (box 6.10,
 []{#c10752_006.xhtml#fig_017a}[fig. 6.17](#c10752_006.xhtml#fig_017)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.10 Declining energy intensity of economic growth {.featuretitle}
 
 Historical statistics show a steady decline in the British energy
@@ -14719,10 +13110,6 @@ Interestingly, Kaufmann (1992) showed that most of the post-1950 decline
 in energy intensity in affluent economies resulted from shifts in the
 kind of energies used and the type of dominant goods and services rather
 than from technical advances.
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_006.xhtml#fig_017}[[Figure
 6.17](#c10752_006.xhtml#fig_017a)]{.figureLabel} A declining energy
@@ -14776,10 +13163,6 @@ post-1990 economic trajectory), then none of those factors could make a
 difference without the rising consumption of fuels and electricity: a
 decoupling of economic growth and energy consumption during early stages
 of modern economic development would defy the laws of thermodynamics.
-:::
-:::
-
-::: section
 
 ## []{#c10752_006.xhtml#S2}[]{#c10752_006.xhtml#d2e975}Consequences and Concerns
 
@@ -14834,8 +13217,6 @@ combustion of fossil fuels has brought many negative environmental
 impacts, above all the risk of rapid global warming, and it will be very
 challenging to mitigate this threat.
 
-::: section
-
 ### []{#c10752_006.xhtml#S2-1}[]{#c10752_006.xhtml#d2e991}Urbanization
 
 Cities, even large cities, have a long history (Mumford 1961; Chandler
@@ -14852,11 +13233,6 @@ societies could support only a small number of large cities because
 their energies had to come from croplands and woodlands that were at
 least 50 times and commonly about 100 times larger than the size of the
 settlement itself (box 6.11).
-
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
 
 ## Box 6.11 Power densities of traditional urban energy supply and use {.featuretitle}
 
@@ -14884,10 +13260,6 @@ own size---and the absence of powerful and inexpensive prime movers
 limited the capacity to transport food and fuel from distant regions,
 putting pressure on the plant resources of the surrounding areas (Smil
 2015b).
-
-::: {.bottom .hr}
-:::
-:::
 
 Modern cities use fuels with much higher efficiency, but their high
 concentrations of housing, factories, and transport push their power
@@ -15006,9 +13378,6 @@ ports: the fossil fuels and electricity required to sustain a person who
 moved to one of Asia's new growing cities can be easily an order of
 magnitude higher than the meager amounts of biomass fuels used in the
 village of her birth to cook and (if need be) to heat a room.
-:::
-
-::: section
 
 ### []{#c10752_006.xhtml#S2-2}[]{#c10752_006.xhtml#d2e1061}Quality of Life
 
@@ -15179,11 +13548,6 @@ eventual liberator. Regardless of the availability of other energy
 forms, it was only the introduction of electricity that did away with
 exhausting and often dangerous labor (Caro 1982; box 6.12).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.12 Importance of electricity for easing housework {.featuretitle}
 
 The liberating effects of electricity are unforgettably illustrated in
@@ -15203,10 +13567,6 @@ nearly 300 t/year, and to supply them required an equivalent of more
 than 60 eight-hour days and walking about 2,500 km. Not surprisingly,
 nothing could have been as revolutionary in the life of these people as
 the extension of transmission lines.
-
-::: {.bottom .hr}
-:::
-:::
 
 Many electric appliances were available already by 1900: during the
 1890s General Electric was selling electric irons, fans, and an
@@ -15331,9 +13691,6 @@ study, has its weaknesses, but the large differences in relative
 rankings are clear: there is not the slightest indication that America's
 high energy use has any beneficial effect on the country's educational
 achievements.
-:::
-
-::: section
 
 ### []{#c10752_006.xhtml#S2-3}[]{#c10752_006.xhtml#d2e1180}Political Implications
 
@@ -15495,9 +13852,6 @@ alive after the USSR's demise in post-Mao China. Roosevelt used federal
 involvement in building dams and electrifying the countryside as a means
 of economic recovery, some of it in the country's most backward regions
 (Lilienthal 1944).
-:::
-
-::: section
 
 ### []{#c10752_006.xhtml#S2-4}[]{#c10752_006.xhtml#d2e1221}Weapons and Wars
 
@@ -15544,11 +13898,6 @@ half a dozen specific weapons are shown in box 6.13: the values for gun
 shells are only the kinetic energies of projectiles and exclude the
 energies of the explosives they may or may not carry.
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.13 Kinetic energy of projectiles propelled by explosives {.featuretitle}
 
 ```{=html}
@@ -15577,10 +13926,6 @@ M1A1 Abrams tank Depleted U shell 6 × 10^6^
 ```{=html}
 </figure>
 ```
-
-::: {.bottom .hr}
-:::
-:::
 
 Rockets and missiles, propelled by solid or liquid fuels, cause most of
 their damage by targeted explosion of their warheads, not by their
@@ -15638,11 +13983,6 @@ NH~4~NO~3~ (as an oxidizing agent) and 6% of fuel oil, both readily
 available ingredients whose effect is the result of the mass of the
 explosive used, not of any extraordinary detonation velocity (box 6.14).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.14 Kinetic energy of explosive devices {.featuretitle}
 
 ```{=html}
@@ -15669,10 +14009,6 @@ Truck bomb (500 kg) ANFO 2 × 10^9^
 ```{=html}
 </figure>
 ```
-
-::: {.bottom .hr}
-:::
-:::
 
 The combination of better propellants and high-quality steels increased
 the range of field and naval guns from less than 2 km during the 1860s
@@ -15732,11 +14068,6 @@ explosive energy of 3.8 GJ. But the greatest damage was done by dropping
 incendiary bombs on Tokyo on March 9--10, 1945 (box 6.15,
 []{#c10752_006.xhtml#fig_021a}[fig. 6.21](#c10752_006.xhtml#fig_021)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.15 Firebombing of Tokyo, March 9--10, 1945 {.featuretitle}
 
 The raid, the largest of its kind ever, involved 334 B-29 bombers that
@@ -15760,10 +14091,6 @@ magnitude (300 times) larger than the energy of incendiary bombs. The
 destroyed area amounted to about 4,100 ha, and at least 100,000 people
 died. For comparison, the totally destroyed area in Hiroshima was about
 800 ha, and the best estimate of immediate deaths was 66,000.
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_006.xhtml#fig_021}[[Figure
 6.21](#c10752_006.xhtml#fig_021a)]{.figureLabel} Aftermath of Tokyo
@@ -15797,11 +14124,6 @@ magnitudes of energy release I do not use scientific notation
 (exponents) in the staggering ladder of maximum destructivity of
 explosive weapons (box 6.16).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.16 Maximum energy of explosive weapons {.featuretitle}
 
 ```{=html}
@@ -15830,10 +14152,6 @@ Year Weapon Energy (J)
 ```{=html}
 </figure>
 ```
-
-::: {.bottom .hr}
-:::
-:::
 
 The two nuclear superpowers eventually amassed about 5,000 strategic
 nuclear warheads (and an arsenal of more than 15,000 other nuclear
@@ -15925,11 +14243,6 @@ increasing destructiveness of weapons and the more concentrated delivery
 of explosives can be illustrated by comparing both discrete events and
 overall conflict casualties (box 6.17).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.17 Casualties of modern wars {.featuretitle}
 
 Combat casualties during the Battle of the Somme (July--November 19, 1916) totaled 1.043 million. Those during the Battle of Stalingrad
@@ -15953,10 +14266,6 @@ bombers, which leveled about 83 km^2^ of Japan's four principal cities
 between March 10 and 20, 1945. The effects of the firebombing of Tokyo
 and of the nuclear attack on Hiroshima have already been described (see
 box 6.15).
-
-::: {.bottom .hr}
-:::
-:::
 
 Calculating the energy cost of major armed conflicts requires important
 arbitrary delimitations of what should be included in such totals. After
@@ -16136,9 +14445,6 @@ a clear-cut demonstration of energy-driven war is anything but! The
 conclusion is clear: broader strategic aims, whether well justified or
 misplaced, and not a quest for resources have led America into its
 post--World War II conflicts.
-:::
-
-::: section
 
 ### []{#c10752_006.xhtml#S2-5}[]{#c10752_006.xhtml#d2e1676}Environmental Changes
 
@@ -16247,11 +14553,6 @@ forcing (box 6.18).
 measured at Mauna Loa Observatory in Hawaii (NOAA
 2015).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_022.jpg)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 6.18 Greenhouse gases and rising tropospheric temperature {.featuretitle}
 
 In 2014 the global rate of anthropogenic radiative forcing (capacity of
@@ -16288,10 +14589,6 @@ international cooperation. Unintentionally, this worrisome challenge
 also offers a fundamental motivation for a new departure in managing
 human affairs.
 
-::: {.bottom .hr}
-:::
-:::
-
 The consensus position is that, to avoid the worst consequences of
 global warming, the average temperature rise should be limited to less
 than 2°C, but this would require immediate and substantial curtailment
@@ -16302,16 +14599,10 @@ energy requirements of low-income societies: some of those large new
 needs can come from renewable electricity generation, but there is no
 affordable, mass-scale alternative available for transportation fuels,
 feedstocks (ammonia, plastics), or iron ore smelting.
-:::
-:::
 
 []{#c10752_007.xhtml}
 
-<div>
-
-# 7 [[]{#c10752_007.xhtml#d2e64}Energy in World History]{.chapterTitle}
-
-</div>
+# 7 Energy in World History
 
 All natural processes and all human actions are, in the most fundamental
 physical sense, transformations of energy. Civilization's advances can
@@ -16338,8 +14629,6 @@ energy, and this dependence necessarily introduces a number of
 fundamental constraints. But these life-sustaining energy flows cannot
 explain either the very existence of organisms or the particular
 complexities of their organization.
-
-::: section
 
 ## []{#c10752_007.xhtml#S1}[]{#c10752_007.xhtml#d2e88}Grand Patterns of Energy Use
 
@@ -16428,8 +14717,6 @@ Car Club required its members to own a car better than the \$440,000
 Porsche Carrera GT (Taylor 2013), while Asia's most expensive private
 residential building, Mukesh Ambani's 27-story \$2 billion skyscraper in
 downtown Mumbai, has an unimpeded view of sprawling slums.
-
-::: section
 
 ### []{#c10752_007.xhtml#S1-1}[]{#c10752_007.xhtml#d2e111}Energy Eras and Transitions
 
@@ -16592,11 +14879,6 @@ came only with steam engines of the nineteenth century. Maximum
 capacities are plotted from prime mover--specific sources cited in this
 book.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_002.jpg)
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 7.1 Persistence of animate power {.featuretitle}
 
 In the Americas, horse, mule, and ox teams also converted most of the
@@ -16623,10 +14905,6 @@ multiples of those rates. A traditional master architect or a canal
 builder thus controlled energy flows equivalent to no more than those
 produced by a single engine powering today's small earth-moving
 machines.
-
-::: {.bottom .hr}
-:::
-:::
 
 But long before the maximum power of working animals was itself tripled
 (by strong horses with collar harnesses), waterwheels had become the
@@ -16802,9 +15080,6 @@ ways to store wind and solar electricity on massive scales. And even
 then we would still face the challenges of replacing billions of tonnes
 of high energy-density liquid fuels in transportation, and producing pig
 iron, cement, plastics, and ammonia without any fossil carbon.
-:::
-
-::: section
 
 ### []{#c10752_007.xhtml#S1-2}[]{#c10752_007.xhtml#d2e243}Long-Term Trends and Falling Costs
 
@@ -16918,11 +15193,6 @@ are still very low. Poorly maintained car engines often perform at less
 than a third of their rated maxima. Improvements in lighting efficiency
 have been even more impressive (box 7.2).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 7.2 Efficiency and efficacy of lighting {.featuretitle}
 
 Candles convert as little as 0.01% and no more than 0.04% of the
@@ -16949,10 +15219,6 @@ sodium lamps are currently the most efficient commercial source of light
 only for street lighting. Light-emitting diodes, suitable for any indoor
 applications, already deliver close to 100 lm/W, and soon they will go
 above 150 lm/W (USDOE 2013).
-
-::: {.bottom .hr}
-:::
-:::
 
 More powerful yet more efficient and lighter mechanical prime movers
 have increased the typical speeds of long-distance travel by more than
@@ -17144,11 +15410,6 @@ in high- or low-income countries---have been subsidized, often heavily,
 mostly by ignoring externalities, by setting low tax rates, and by other
 preferential treatments (box 7.3).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 7.3 Energy subsidies {.featuretitle}
 
 The International Monetary Fund (IMF 2015) more than doubled its
@@ -17165,13 +15426,6 @@ has been used to establish and then to expand solar and wind generation,
 the two leading ways of renewable electricity production, and
 fermentation of carbohydrate crops to produce automotive ethanol
 (Charles and Wooders 2011; Alberici et al. 2014; USEIA 2015c).
-
-::: {.bottom .hr}
-:::
-:::
-:::
-
-::: section
 
 ### []{#c10752_007.xhtml#S1-3}[]{#c10752_007.xhtml#d2e390}What Has Not Changed?
 
@@ -17331,11 +15585,6 @@ and prime movers, on the one hand, and accelerated investment on the
 other (box 7.4, []{#c10752_007.xhtml#fig_008a}[fig.
 7.8](#c10752_007.xhtml#fig_008)).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 7.4 Business cycles and energy {.featuretitle}
 
 The first well-documented upswing (1787--1814) coincides with the
@@ -17368,10 +15617,6 @@ telephone, steam turbine, the electrolytic production of aluminum, and
 the internal combustion engine. The third one, clustered around 1937,
 includes the gas turbine, jet engine, fluorescent lights, radar, and
 nuclear energy.
-
-::: {.bottom .hr}
-:::
-:::
 
 ![[]{#c10752_007.xhtml#fig_008}[[Figure
 7.8](#c10752_007.xhtml#fig_008a)]{.figureLabel} Comparison of the onsets
@@ -17570,10 +15815,6 @@ consumption would be unacceptable. Already concerns about biospheric
 integrity have become major considerations in contemplating the future
 of high-energy civilization. They range from preservation of
 biodiversity to rapid anthropogenic climate change.
-:::
-:::
-
-::: section
 
 ## []{#c10752_007.xhtml#S2}[]{#c10752_007.xhtml#d2e516}Between Determinism and Choice
 
@@ -17628,8 +15869,6 @@ for interpreting the past as it is for understanding future
 possibilities: they too are not predestined, but their scope is
 definitely restricted, and energy flows impose the most fundamental
 limits.
-
-::: section
 
 ### []{#c10752_007.xhtml#S2-1}[]{#c10752_007.xhtml#d2e532}Imperatives of Energy Needs and Uses
 
@@ -17922,9 +16161,6 @@ rather the impact on the habitability of the biosphere (above all
 through global climate change) that is the most important near- and
 long-term concern resulting from the world's dependence on coals and
 hydrocarbons.
-:::
-
-::: section
 
 ### []{#c10752_007.xhtml#S2-2}[]{#c10752_007.xhtml#d2e627}The Importance of Controls
 
@@ -18135,9 +16371,6 @@ Silicon Valley in particular (Bapat 2012). And, forced to compete
 globally, multinational companies strive to lower the energy intensity
 of their production, diffusing new techniques and fostering higher
 energy conversion efficiencies worldwide.
-:::
-
-::: section
 
 ### []{#c10752_007.xhtml#S2-3}[]{#c10752_007.xhtml#d2e684}The Limits of Energy Explanations
 
@@ -18458,11 +16691,6 @@ reserves soon swept that myth away. Electricity was the next carrier of
 unbounded possibilities, its powers eventually so far-reaching that they
 would cure poverty and disease (box 7.5).
 
-::: {.top .hr}
-:::
-
-::: {.section .feature1}
-
 ## Box 7.5 Electricity's promise that never ends {.featuretitle}
 
 Electricity is the most versatile form of energy, and its multifaceted
@@ -18507,10 +16735,6 @@ megacities, hardly the best location for decentralized power). And then
 there is, as there has been ever since 1945, the ultimate promise of
 electricity from nuclear fusion (although in practical terms we are no
 closer to that goal now than we were a generation ago).
-
-::: {.bottom .hr}
-:::
-:::
 
 What can be foreseen with great certainty is that much more energy will
 be needed during the coming generations to extend decent life to the
@@ -18673,18 +16897,8 @@ Senancour (1770--1846),
 > Man perisheth. That may be, but let us struggle even though we perish;
 > and if the nothing is to be our portion, let it not come to us as a
 > just reward. (Senancour 1901 \[1804\], 2:187)
-> :::
-> :::
 
 []{#c10752_008.xhtml}
-
-<div>
-
-# [[]{#c10752_008.xhtml#d2e61}Addenda]{.chapterTitle}
-
-</div>
-
-::: section
 
 ## []{#c10752_008.xhtml#S1}[]{#c10752_008.xhtml#d2e79}Basic Measures
 
@@ -18777,15 +16991,8 @@ physical units of length and mass (m and kg), two areal measures (ha and
 km^2^), and the four markers of time (second, hour, day, and year). The
 full list of prefixes follows, but only few of them (going up: hecto,
 kilo, mega, giga; going down: milli, micro) are used frequently.
-:::
-
-::: section
 
 ## []{#c10752_008.xhtml#S2}[]{#c10752_008.xhtml#d2e170}Scientific Units and Their Multiples and Submultiples
-
-:::
-
-::: section
 
 ## []{#c10752_008.xhtml#S3}[]{#c10752_008.xhtml#d2e174}Basic SI units
 
@@ -18818,10 +17025,6 @@ Luminous intensity candela cd
 ```{=html}
 </figure>
 ```
-
-:::
-
-::: section
 
 ## []{#c10752_008.xhtml#S4}[]{#c10752_008.xhtml#d2e250}Other units used in the text
 
@@ -18859,10 +17062,6 @@ Volume cubic meter m^3^
 </figure>
 ```
 
-:::
-
-::: section
-
 ## []{#c10752_008.xhtml#S5}[]{#c10752_008.xhtml#d2e365}Multiples used in the International System of Units
 
 ```{=html}
@@ -18897,10 +17096,6 @@ yota Y 10^24^
 ```{=html}
 </figure>
 ```
-
-:::
-
-::: section
 
 ## []{#c10752_008.xhtml#S6}[]{#c10752_008.xhtml#d2e488}Submultiples used in the International System of Units
 
@@ -18937,10 +17132,6 @@ yocto y 10^−24^
 </figure>
 ```
 
-:::
-
-::: section
-
 ## []{#c10752_008.xhtml#S7}[]{#c10752_008.xhtml#d2e633}Chronology of Energy-Related Developments
 
 This list is compiled from a wide variety of sources cited in the text
@@ -18958,9 +17149,6 @@ Discrepancies exist even with modern advances: dates may refer to the
 original idea, to patenting, to the first practical application, or to
 successful commercialization. For problems in dating inventions, see
 Petroski (1993).
-:::
-
-::: section
 
 ## []{#c10752_008.xhtml#S8}[]{#c10752_008.xhtml#d2e640}BCE
 
@@ -19050,10 +17238,6 @@ _Norias_ in the Middle East
 ```{=html}
 </figure>
 ```
-
-:::
-
-::: section
 
 ## []{#c10752_008.xhtml#S9}[]{#c10752_008.xhtml#d2e1019}CE
 
@@ -19351,15 +17535,7 @@ Global population reaches 7 billion
 </figure>
 ```
 
-:::
-
-::: section
-
 ## []{#c10752_008.xhtml#S10}[]{#c10752_008.xhtml#d2e2642}Power in History
-
-:::
-
-::: section
 
 ## []{#c10752_008.xhtml#S11}[]{#c10752_008.xhtml#d2e2646}Power ratings: From a candle to global civilization
 
@@ -19435,10 +17611,6 @@ Global commercial energy consumption (2015) 17,530,000,000,000
 </figure>
 ```
 
-:::
-
-::: section
-
 ## []{#c10752_008.xhtml#S12}[]{#c10752_008.xhtml#d2e2959}Maximum power of prime movers in field work, 1700--2015
 
 ```{=html}
@@ -19470,10 +17642,6 @@ Year Actions, prime movers Power (W)
 ```{=html}
 </figure>
 ```
-
-:::
-
-::: section
 
 ## []{#c10752_008.xhtml#S13}[]{#c10752_008.xhtml#d2e3036}Maximum power of prime movers in land transportation, 1700--2015
 
@@ -19507,4899 +17675,6 @@ Year Prime movers Power (W)
 </figure>
 ```
 
-:::
-
-::: section
-
 ## []{#c10752_008.xhtml#S14}[]{#c10752_008.xhtml#d2e3115}Average annual consumption (GJ/capita) of primary energy
 
 ![[]{#c10752_008.xhtml#Tj}](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_008_T8.1.png)
-:::
-
-[]{#c10752_009.xhtml}
-
-<div>
-
-# [[]{#c10752_009.xhtml#d2e61}Bibliographical Notes]{.chapterTitle}
-
-</div>
-
-Advances in energy use are described systematically in multivolume
-histories of technical progress by Singer et al. (1954--1958), Forbes
-(1964--1972), and Needham et al. (1954--2015). Energy matters are
-covered with varying degrees of detail in many writings tracing the
-history of inventions and engineering practices. Their basic list should
-include books by Byrn (1900), Abbott (1932), Mumford (1934), Usher
-(1954), , Derry and Williams (1960), Burstall (1968), Kranzberg and
-Pursell (1967), Daumas (1969), Lindsay (1975), Gille (1978), L. White
-(1978), Landels (1980), Taylor (1982), Hill (1984), K. D. White (1984),
-Williams (1987), Basalla (1988), Pacey (1990), Finniston et al. (1992),
-Constable and Somerville (2003), Cleveland (2004), Smil (2005, 2006),
-McNeill et al. (2005), Billington and Billington (2006), Oleson (2008),
-Burke (2009), Weissenbacher (2009), Coopersmith (2010), Sørensen (2011),
-and Wei (2012).
-
-The contributions of horses to civilization can be appreciated by
-consulting Lefebvre des Noëttes (1924), Smythe (1967), Dent (1974),
-Silver (1976), Villiers (1976), Telleen (1977), Langdon (1986), Hyland
-(1990), Anthony (2007), McShane and Tarr (2007), and Oleson (2008). The
-long history of waterwheels, and their importance during the time of
-early industrialization can be traced in volumes by Bresse (1876),
-Forbes (1965), Reynolds (1970), Hindle (1975), Reynolds (1983), Wikander
-(1983), Lewis (1997), Walton (2006), Malone (2009), and Mays (2010). The
-history of windmills and their economic importance are well reviewed in
-Wolff (1900), Skilton (1947), Freese (1957), Stockhuyzen (1963), Needham
-et al. (1965), Husslage (1965), Reynolds (1970), Wailes (1975), Torrey
-(1976), Harverson (1991), and Righter (2008). The development of sail
-ships is traced comprehensively in Chatterton (1914), Torr (1964),
-Armstrong (1969), and Chapelle (1988). Volumes on oared ships include
-Morrison and Gardiner (1995) and Morrison, Coates, and Rankov (2000).
-
-Indispensable sources for the history of steam engines and their uses
-are Farey (1827), Fry (1896), Croil (1898), Dalby (1920), Dickinson (
-1939), Watkins (1967), Jones (1973), von Tunzelmann (1978), Hunter
-(1979), Ellis (1981), O'Brien (1983), Hills (1989), and Garrett and
-Wade-Matthews (2015). The development of internal combustion engines and
-gas turbines is reviewed in Diesel (1913), Constant (1981), Taylor
-(1984), Gunston (1986 and 1999), Cumpsty (2006), and Smil (2010b). The
-automobile age is chronicled by Beaumont (1906), Kennedy (1941),
-Sittauer (1972), May (1975), Flower and Jones (1981), Flink (1988),
-Cummins (1989), Ling (1990), Womack, Jones, and Roos (1990), and Maxton
-and Wormald (2004). The history of flying can be followed in Wright
-(1953), Constant (1981), Taylor (1989), Jakab (1990), Heppenheimer
-(1995), U.S. Centennial of Flight Commission (2003), Blériot (2015), and
-McCullough (2015).
-
-The properties and uses of biomass energies are covered in Earl (1973),
-Smil (1983), Sieferle (2001), and Perlin (2005). Histories of the coal
-industry are presented by Bald (1812), Jevons (1865), Nef (1932),
-Eavenson (1942), Flinn et al. (1984--1993), Church, Hall, and Kanefsky
-(1986), and Thomson (2003). The development of the oil and gas industry
-is covered in Brantly (1971), Perrodon (1985), Yergin (2008), and Smil
-(2015a). The pioneering decades of the electrical industry and its
-subsequent expansion are traced by Jehl (1937), MacLaren (1943),
-Lilienthal (1944), Josephson (1959), Dunsheath (1962), Electricity
-Council (1973), Hughes (1983), Cheney (1981), Friedel and Israel (1986),
-Schurr et al. (1990), Cantelon, Hewlett, and Williams (1991), Nye
-(1992), Beauchamp (1997), Bowers (1998), and Hausman, Hertner, and
-Wilkins (2008).
-
-The literature on the history of productive human activities is very
-rich. Perspectives on agricultural development, from farming's origins
-to the twentieth century, can be found in Bailey (1908), King (1927),
-Seebohm (1927), Buck (1930, 1937), Leser (1931), Lizerand (1942),
-Haudricourt and Delamarre (1955), Geertz (1963), Slicher van Bath
-(1963), Allan (1965), Boserup (1965, 1976), Perkins (1969), Titow
-(1969), Clark and Haswell (1970), White (1970), Fussell (1972), Ho
-(1975), Schlebecker (1975), Cohen (1977), Abel (1962), Xu and Dull
-(1980), Bray (1984), Rindos (1984), Mazoyer and Roudart (2006), Federico
-(2008), and Tauger (2010). Details on water lifting and irrigation are
-contained in Ewbank (1870), Molenaar (1956), Needham et al. (1965),
-Butzer (1976), Oleson (1984, 2008), and Mays (2010). The energy costs of
-modern agriculture are reviewed in Pimentel (1980), Fluck (1992), and
-Smil (2008a).
-
-Interdisciplinary insights into the origins, process, and consequences
-of industrialization can be found in Kay (1832), Clapham (1926), Ashton
-(1948), Landes (1969), Falkus (1972), Mokyr (1976, 2002), Clarkson
-(1985), Rosenberg and Birdzell (1986), Blumer (1990), and Stearns
-(2012). Many aspects of construction activities are chronicled and
-explained by Ashby (1935), Fitchen (1961), Bandaranayke (1974), Baldwin
-(1977), Hodges (1989), Lepre (1990), Waldron (1990), Wilson (1990), Gies
-and Gies (1995), Lehner (1997), and Ching, Jarzombek, and Prakash
-(2011). Contributions to the history of transportation include books by
-Savage (1959), Hadfield (1969), Sitwell (1981), Piggott (1983),
-Ratcliffe (1985), Ville (1990), Gerhold (1993), Herlihy (2004), Levinson
-(2006), and Smil (2010b).
-
-Metallurgical progress can be traced in books by Biringuccio (1959
-\[1540\]), Agricola (1912 \[1556\]), Bell (1884), Greenwood (1907), King
-(1948), Needham (1964), Straker (1969), Hogan (1971), Hyde (1977), Gold
-et al. (1984), Haaland and Shinnie (1985), Harris (1988), Geerdes,
-Toxopeus, and van der Vliet (2009), and Smil (2016). Weapons from
-ancient to modern times, and their effects on societies are reviewed in
-Mitchell (1932), Kloss (1963), Cipolla (1965), Ziemke (1968), Egg
-(1971), Singer and Small (1972), Kesaris (1977), McNeill (1989), Keegan
-(1994), Chase (2003), Parker (2005), Buchanan (2006), and Archer et al.
-(2008).
-
-Writings on broad social implications of energy use include books by
-Ostwald (1912), Ellul (1964), Jones (1971), Odum (1971), Adams (1975,
-1982), Smil (1991, 2008,), and Schobert (2014). Finally, anybody who
-wants to study history through the evolution of tools and machines must
-consult books that are appropriately illustrated. The two unsurpassed
-classical works are Ramelli (1976 \[1588\]) and Diderot and d'Alembert
-(1769--1772). Ardrey (1894), Abbott (1932), Hommel (1937), Burstall
-(1968), Hopfen (1969), Williams (1987), Basalla (1988), Finniston et al.
-(1992), Smil (2005, 2006), and DK Publishing (2012) are among the many
-modern contributions.
-
-[]{#c10752_444.xhtml}
-
-<div>
-
-# [[]{#c10752_444.xhtml#d2e61}References]{.chapterTitle}
-
-</div>
-
-::: {.section .biblioDiv}
-
-1.  []{#c10752*444.xhtml#R1}Abbate, J. 1999. \_Inventing the Internet*.
-    Cambridge, MA: MIT Press.
-2.  []{#c10752*444.xhtml#R2}Abbott, C. G. 1932. \_Great Inventions*.
-    Washington, DC: Smithsonian Institution.
-3.  []{#c10752*444.xhtml#R3}Abel, W. 1962. \_Geschichte der deutschen
-    Landwirtschaft von frühen Mittelalter bis zum 19 Jahrhundert*.
-    Stuttgart: Ulmer.
-4.  []{#c10752*444.xhtml#R4}Adam, J.-P. 1994. \_Roman Building: Materials
-    and Techniques*. London: Routledge.
-5.  []{#c10752*444.xhtml#R5}Adams, R. N. 1975. \_Energy and Structure: A
-    Theory of Social Power*. Austin: University of Texas Press.
-6.  []{#c10752*444.xhtml#R6}Adams, R. N. 1982. \_Paradoxical Harvest:
-    Energy and Explanation in British History, 1870--1914*. Cambridge:
-    Cambridge University Press.
-7.  []{#c10752*444.xhtml#R7}Adler, D. 2006. \_Daimler & Benz: The
-    Complete History: The Birth and Evolution of the Mercedes-Benz*. New
-    York: Harper.
-8.  []{#c10752*444.xhtml#R8}Adshead, S. A. M. 1992. \_Salt and
-    Civilization*. New York: St. Martin's Press.
-9.  []{#c10752*444.xhtml#R9}Agricola, G. 1912 (1556). \_De re metallica*.
-    Trans. H. C. Hoover and L. H. Hoover. London: The Mining Magazine.
-10. []{#c10752*444.xhtml#R10}Aiello, L. C. 1996. Terrestriality,
-    bipedalism and the origin of language. \_Proceedings of the British
-    Academy* 88:269--289.
-11. []{#c10752*444.xhtml#R11}Aiello, L. C., and J. C. K. Wells. 2002.
-    Energetics and the evolution of the genus \_Homo.* _Annual Review of
-    Anthropology_ 31:323--338.
-12. []{#c10752*444.xhtml#R12}Aiello, L. C., and P. Wheeler. 1995. The
-    expensive-tissue hypothesis. \_Current Anthropology* 36:199--221.
-13. []{#c10752*444.xhtml#R13}Alberici, S., et al. 2014. \_Subsidies and
-    Costs of EU Energy*. Brussels: EU Commission.
-    <https://ec.europa.eu/energy/sites/ener/files/documents/ECOFYS%202014%20Subsidies%20and%20costs%20of%20EU%20energy_11_Nov.pdf>.
-14. []{#c10752*444.xhtml#R14}Aldrich, L. J. 2002. \_Cyrus McCormick and
-    the Mechanical Reaper*. Greensboro, NC: Morgan Reynolds.
-15. []{#c10752*444.xhtml#R15}Allan, W. 1965. \_The African Husbandman*.
-    Edinburgh: Oliver & Boyd.
-16. []{#c10752*444.xhtml#R16}Allen, R. 2003. \_Farm to Factory: A
-    Reinterpretation of the Soviet Industrial Revolution*. Princeton,
-    NJ: Princeton University Press.
-17. []{#c10752*444.xhtml#R17}Allen, R. C. 2007. \_How Prosperous Were the
-    Romans? Evidence from Diocletian's Price Edict (301 AD)*. Oxford:
-    Oxford University, Department of Economics.
-18. []{#c10752*444.xhtml#R18}Allen, R. C., et al. 2011. Wages, prices,
-    and living standards in China, 1738--1925: In comparison with
-    Europe, Japan, and India. \_Economic History Review* 64 (S1): 8--38.
-19. []{#c10752*444.xhtml#R19}Allianz. 2010. \_The Sixth Kondratieff: Long
-    Waves of Prosperity*. Frankfurt am Main: Allianz.
-    <https://www.allianz.com/v_1339501901000/media/press/document/other/kondratieff_en.pdf>.
-20. []{#c10752*444.xhtml#R20}Alvard, M. S., and L. Kuznar. 2001.
-    Deferred harvests: The transition from hunting to animal husbandry.
-    \_American Anthropologist* 103:295--311.
-21. []{#c10752*444.xhtml#R21}Amitai, R., and M. Biran, eds. 2005.
-    \_Mongols, Turks, and Others: Eurasian Nomads and the Sedentary
-    World*. Leiden: Brill.
-22. []{#c10752*444.xhtml#R22}Amontons, G. 1699. Moyen de substituer
-    commodement l'action du feu, à la force des hommes et des chevaux
-    pour mouvoir les machines. \_Mémoires de l'Académie Royale*
-    1699:112--126.
-23. []{#c10752*444.xhtml#R23}Andersen, S. O., and K. M. Sarma. 2002.
-    \_Protecting the Ozone Layer*. London: Earthscan.
-24. []{#c10752*444.xhtml#R24}Anderson, B. D. 2003. \_The Physics of
-    Sailing Explained*. Dobbs Ferry, NY: Sheridan House.
-25. []{#c10752*444.xhtml#R25}Anderson, E. N. 1988. \_The Food of China*.
-    New Haven, CT: Yale University Press.
-26. []{#c10752*444.xhtml#R26}Anderson, M. S. 1988. \_War and Society in
-    Europe of the Old regime, 1618--1789*. New York: St. Martin's Press.
-27. []{#c10752*444.xhtml#R27}Anderson, R. 1926. \_The Sailing Ship: Six
-    Thousands Years of History*. London: George Harrap.
-28. []{#c10752*444.xhtml#R28}Anderson, R. C. 1962. \_Oared Fighting
-    Ships: From Classical Times to the Coming of Steam*. London:
-    Percival Marshall.
-29. []{#c10752*444.xhtml#R29}Angelo, J. E. 2003. \_Space Technology*.
-    Westport, CT: Greenwood Press.
-30. []{#c10752*444.xhtml#R30}Anthony, D. W. 2007. \_The Horse, the Wheel,
-    and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped
-    the Modern World*. Princeton, NJ: Princeton University Press.
-31. []{#c10752*444.xhtml#R31}Anthony, D., D. Y. Telegin, and D.
-    Brown. 1991. The origin of horseback riding. \_Scientific American*
-    265 (6): 94--100.
-32. []{#c10752*444.xhtml#R32}Apt, J., and P. Jaramillo. 2014. \_Variable
-    Renewable Energy and the Electricity Grid*. Washington, DC:
-    Resources for the Future.
-33. []{#c10752*444.xhtml#R33}Archer, C. I., et al. 2008. \_World History
-    of Warfare*. Lincoln: University of Nebraska Press.
-34. []{#c10752*444.xhtml#R34}Ardrey, L. R. 1894. \_American Agricultural
-    Implements*. Chicago: L. R. Ardrey.
-35. []{#c10752*444.xhtml#R35}Arellano, C. J., and R. Kram. 2014.
-    Partitioning the metabolic cost of human running: A task-by-task
-    approach. \_Integrative and Comparative Biology* 54:1084--1098.
-36. []{#c10752*444.xhtml#R36}Armelagos, G. J., and K. N. Harper. 2005.
-    Genomics at the origins of agriculture, part one. \_Evolutionary
-    Anthropology* 14:68--77.
-37. []{#c10752*444.xhtml#R37}Armstrong, R. 1969. \_The Merchantmen*.
-    London: Ernest Benn.
-38. []{#c10752*444.xhtml#R38}Army Air Forces. 1945. \_Army Air Forces
-    Statistical Digest, World War II*.
-    <http://www.afhra.af.mil/shared/media/document/AFD-090608-039.pdf>.
-39. []{#c10752_444.xhtml#R39}Army Technology. 2015. M1A1/2 Abrams Main
-    Battle Tank, United States of America.
-    <http://www.army-technology.com/projects/abrams>.
-40. []{#c10752*444.xhtml#R40}Ashby, T. 1935. \_The Aqueducts of Ancient
-    Rome*. Oxford: Oxford University Press.
-41. []{#c10752*444.xhtml#R41}Ashton, Thomas S. 1948. \_The Industrial
-    Revolution, 1760--1830*. Oxford: Oxford University Press.
-42. []{#c10752*444.xhtml#R42}Astill, G., and J. Langdon, eds. 1997.
-    \_Medieval Farming and Technology: The Impact of Agricultural Change
-    in Northwest Europe*. Leiden: Brill.
-43. []{#c10752*444.xhtml#R43}Åström, K. J., and R. M. Murray. 2009.
-    \_Feedback Systems: An Introduction for Scientists and Engineers*.
-    Princeton, NJ: Princeton University Press;
-    <http://www.cds.caltech.edu/~murray/books/AM05/pdf/am08-complete_22Feb09.pdf>.
-44. []{#c10752*444.xhtml#R44}Atalay, S., and C. A. Hastorf. 2006. Food,
-    meals, and daily activities: Food \_habitus* at Neolithic Çatalhöyük.
-    _American Antiquity_ 71:283--319.
-45. []{#c10752*444.xhtml#R45}Atkins, S. E. 2000. \_Historical
-    Encyclopedia of Atomic Energy*. Westport, CT: Greenwood Press.
-46. []{#c10752*444.xhtml#R46}Atsmon, Y., and V. Dixit. 2009.
-    Understanding China's wealthy. \_McKinsey Quarterly* _._
-    <http://www.mckinsey.com/insights/marketing_sales/understanding_chinas_wealthy>.
-47. []{#c10752*444.xhtml#R47}Atwater, W. O., and C. F. Langworthy. 1897.
-    \_A Digest of Metabolism Experiments in Which the Balance of Income
-    and Outgo Was Determined*. Washington, DC: U.S. GPO.
-48. []{#c10752*444.xhtml#R48}Atwood, C. P. 2004. \_Encyclopedia of
-    Mongolia and the Mongol Empire*. New York: Facts on File.
-49. []{#c10752*444.xhtml#R49}Atwood, R. 2009. Maya roots. \_Archaeology*
-    62:18--66.
-50. []{#c10752*444.xhtml#R50}Augarten, S. 1984. \_Bit by Bit*. Boston:
-    Ticknor & Fields.
-51. []{#c10752*444.xhtml#R51}Axelsson, E., et al. 2013. The genomic
-    signature of dog domestication reveals adaptation to a starch-rich
-    diet. \_Nature* 495:360--364.
-52. []{#c10752*444.xhtml#R52}Ayres, R. U. 2014. \_The Bubble Economy: Is
-    Sustainable Growth Possible?* Cambridge, MA: MIT Press.
-53. []{#c10752*444.xhtml#R53}Ayres, R. U., L. W. Ayres, and B.
-    Warr. 2003. Exergy, power and work in the UA economy, 1900--1998.
-    \_Energy* 28:219--273.
-54. []{#c10752*444.xhtml#R54}Baars, C. 1973. \_De Geschiedenis van de
-    Landbouw in de Bayerlanden*. Wageningen: PUDOC (Centrum voor
-    Landbouwpublicaties en Landbouwdocumentatie).
-55. []{#c10752*444.xhtml#R55}Bailey, L. H., ed. 1908. \_Cyclopedia of
-    American Agriculture*. New York: Macmillan.
-56. []{#c10752*444.xhtml#R56}Bailey, R. C., G. Head, M. Jenike, et
-    al. 1989. Hunting and gathering in tropical rain forest: Is it
-    possible? \_American Anthropologist* 91:59--82.
-57. []{#c10752*444.xhtml#R57}Bailey, R. C., and T. N. Headland. 1991.
-    The tropical rain forest: Is it a productive environment for human
-    foragers? \_Human Ecology* 19:261285.
-58. []{#c10752*444.xhtml#R58}Baines, D. 1991. \_Emigration from Europe
-    1815--1930*. London: Macmillan.
-59. []{#c10752*444.xhtml#R59}Bairoch, P. 1988. \_Cities and Economic
-    Development: From the Dawn of History to the Present*. Chicago:
-    University of Chicago Press.
-60. []{#c10752*444.xhtml#R60}Baker, T. L. 2006. \_A Field Guide to
-    America Windmills*. Tempe, AZ: ACMRS (Arizona Center for Medieval
-    and Renaissance Studies), University of Arizona.
-61. []{#c10752*444.xhtml#R61}Bald, R. 1812. \_A General View of the Coal
-    Trade of Scotland, Chiefly that of the River Forth and Mid-Lothian.
-    To Which is Added An Inquiry Into the Condition of the Women Who
-    Carry Coals Under Ground in Scotland. Known by the Name of Bearers*.
-    Edinburgh: Oliphant, Waugh and Innes.
-62. []{#c10752*444.xhtml#R62}Baldwin, G. C. 1977. \_Pyramids of the New
-    World*. New York: G. P. Putnam's Sons.
-63. []{#c10752*444.xhtml#R63}Bamford, P. W. 1974. \_Fighting Ships and
-    Prisons: The Mediterranean Galleys of France in the Age of Louis
-    XIV*. Cambridge: Cambridge University Press.
-64. []{#c10752*444.xhtml#R64}Bandaranayke, S. 1974. \_Sinhalese Monastic
-    Architecture*. Leiden: E. J. Brill.
-65. []{#c10752_444.xhtml#R65}Bank of Nova Scotia. 2015. Global Auto
-    Report.
-    <http://www.gbm.scotiabank.com/English/bns_econ/bns_auto.pdf>.
-66. []{#c10752_444.xhtml#R66}Bapat, N. 2012. How Indians defied gravity
-    and achieved success in Silicon Valley.
-    <http://www.forbes.com/sites/singularity/2012/10/15/how-indians-defied-gravity-and-achieved-success-in-silicon-valley>.
-67. []{#c10752*444.xhtml#R67}Bar-Yosef, O. 2002. The Upper Paleolithic
-    revolution. \_Annual Review of Anthropology* 31:363--393.
-68. []{#c10752*444.xhtml#R68}Bardeen, J., and W. H. Brattain. 1950.
-    \_Three-electron Circuit Element Utilizing Semiconductive Materials*.
-    US Patent 2,524,035, October 3. Washington, DC: USPTO.
-    <http://www.uspto.gov>.
-69. []{#c10752*444.xhtml#R69}Barjot, D. 1991. \_L'énergie aux XIXe et XXe
-    siècles.* Paris: Presses de l'E.N.S.
-70. []{#c10752*444.xhtml#R70}Barker, A. V., and D. J. Pilbeam. 2007.
-    \_Handbook of Plant Nutrition*. Boca Raton, FL: CRC Press.
-71. []{#c10752*444.xhtml#R71}Barles, S. 2007. Feeding the city: Food
-    consumption and flow of nitrogen, Paris, 1801--1914. \_Science of the
-    Total Environment* 375:48--58.
-72. []{#c10752*444.xhtml#R72}Barles, S., and L. Lestel. 2007. The
-    nitrogen question: Urbanization, industrialization, and river
-    quality in Paris 1830--1939. \_Journal of Urban History* 33:794--812.
-73. []{#c10752*444.xhtml#R73}Barnes, B. R. 2014. Behavioural change,
-    indoor air pollution and child respiratory health in developing
-    countries: A review. \_International Journal of Environmental
-    Research and Public Health* 11:4607--4618.
-74. []{#c10752*444.xhtml#R74}Barro, R. J. 1997. \_Determinants of
-    Economic Growth: A Cross-Country Empirical Study*. Cambridge, MA:
-    MIT Press.
-75. []{#c10752*444.xhtml#R75}Bartosiewicz, L. et al. 1997. \_Draught
-    Cattle: Their Osteological Identification and History*. Tervuren:
-    Musée royal de l'Afrique central.
-76. []{#c10752*444.xhtml#R76}Basalla, G. 1980. Energy and civilization.
-    In \_Science, Technology and the Human Prospect*, ed. C. Starr
-    and P. C. Ritterbusch, 39--52. Oxford: Pergamon Press.
-77. []{#c10752*444.xhtml#R77}Basalla, G. 1982. Some persistent energy
-    myths. In \_Energy and Transport*, ed. G. H. Daniels and M. H. Rose,
-    27--38. Beverley Hills, CA: Sage.
-78. []{#c10752*444.xhtml#R78}Basalla, G. 1988. \_The Evolution of
-    Technology*. Cambridge: Cambridge University Press.
-79. []{#c10752*444.xhtml#R79}Basile, S. 2014. \_Cool: How Air
-    Conditioning Changed Everything*. New York: Fordham University
-    Press.
-80. []{#c10752*444.xhtml#R80}Basso, L. C., T. O. Basso, and S. N.
-    Rocha. 2011. \_Ethanol Production in Brazil: The Industrial Process
-    and Its Impact on Yeast Fermentation, Biofuel Production: Recent
-    Developments and Prospects*.
-    <http://cdn.intechopen.com/pdfs/20058/InTech-Ethanol_production_in_brazil_the_industrial_process_and_its_impact_on_yeast_fermentation.pdf>.
-81. []{#c10752*444.xhtml#R81}Bayley, J., D. Dungworth, and S.
-    Paynter. 2001. \_Archaeometallurgy*. London: English Heritage.
-82. []{#c10752*444.xhtml#R82}Beauchamp, K. G. 1997. \_Exhibiting
-    Electricity*. London: Institution of Electrical Engineers.
-83. []{#c10752*444.xhtml#R83}Beaumont, W. W. 1902. \_Motor Vehicles and
-    Motors: Their Design, Construction and Working by Steam, Oil and
-    Electricity*. Westminster: Archibald Constable and Company.
-84. []{#c10752*444.xhtml#R84}Beaumont, W. W. 1906. \_Motor Vehicles and
-    Motors: Their Design, Construction and Working by Steam, Oil and
-    Electricity*. Westminster: Archibald Constable and Co.
-85. []{#c10752*444.xhtml#R85}Beevor, A. 1998. \_Stalingrad*. London:
-    Viking.
-86. []{#c10752*444.xhtml#R86}Behera, B., et al. 2015. Household
-    collection and use of biomass energy sources in South Asia. \_Energy*
-    85:468--480.
-87. []{#c10752*444.xhtml#R87}Bell, L. 1884. \_Principles of the
-    Manufacture of Iron and Steel*. London: George Routledge & Sons.
-88. []{#c10752_444.xhtml#R88}Bell System Memorial. 2011. Who really
-    invented the transistor?
-    <http://www.porticus.org/bell/belllabs_transistor1.html>.
-89. []{#c10752*444.xhtml#R89}Bennett, M. K. 1935. British wheat yield
-    per acre for seven centuries. \_Economy and History* 3:12--29.
-90. []{#c10752_444.xhtml#R90}Benoît, C. 1996. Le Canon de 75: Une gloire
-    centenaire. Vincennes, France: Service Historique de l'Armée de
-    Terre.
-91. []{#c10752*444.xhtml#R91}Benoit, F. 1940. L'usine de meunerie
-    hydraulique de Barbegal (Arles). \_Review of Archaeology* 15:19--80.
-92. []{#c10752*444.xhtml#R92}Beresford, M. W., and J. G. Hurst. 1971.
-    \_Deserted Medieval Villages*. London: Littleworth.
-93. []{#c10752*444.xhtml#R93}Berklian, Y. U., ed. 2008. \_Crop Rotation*.
-    New York: Nova Science Publishers.
-94. []{#c10752_444.xhtml#R94}Bernard, L., A. V. Gevorkyan, T. Palley,
-    and W. Semmler. 2013. Time scales and mechanisms of economic cycles:
-    A review of theories of long waves. Political Economy Research
-    Institute Working Paper, no.337, 1--21. Amherst, MA: University of
-    Massachusetts.
-95. []{#c10752*444.xhtml#R95}Bessemer, H. 1905. \_Sir Henry Bessemer,
-    F.R.S.: An Autobiography* _._ London: Offices of Engineering.
-96. []{#c10752*444.xhtml#R96}Bettencourt, L., and G. West. 2010. A
-    unified theory of urban living. \_Nature* 467:912--913.
-97. []{#c10752*444.xhtml#R97}Bettinger, R. L. 1991. \_Hunter-Gatherers:
-    Archaeological and Evolutionary Theory*. New York: Plenum Press.
-98. []{#c10752*444.xhtml#R98}Betz, A. 1926. \_Wind-Energie und ihre
-    Ausnutzung durch Windmühlen*. Göttingen: Bandenhoeck & Ruprecht.
-99. []{#c10752*444.xhtml#R99}Billington, D. P., and D. P. Billington,
-    Jr. 2006. \_Power, Speed, and Form: Engineers and the Making of the
-    Twentieth Century*. Princeton, NJ: Princeton University Press.
-100.  []{#c10752_444.xhtml#R100}bin Laden, U. 2004. Message to the
-      American people.
-      <http://english.aljazeera.net/NR/exeres/79C6AF22-98FB-4A1C-B21F-2BC36E87F61F.htm>.
-101.  []{#c10752*444.xhtml#R101}Bird-David, N. 1992. Beyond "The Original
-      Affluent Society." \_Current Anthropology* 33:25--47.
-102.  []{#c10752*444.xhtml#R102}Biringuccio, V. 1959 (1540). \_De la
-      pirotechnia \[The pirotechnia\]*. Trans. C. S. Smith and M. T.
-      Gnudi. New York: Basic Books.
-103.  []{#c10752*444.xhtml#R103}Bishop, C. 2014. \_The Illustrated
-      Encyclopedia of Weapons of World War I: The Comprehensive Guide to
-      Weapons Systems, Including Tanks, Small Arms, Warplanes,
-      Artillery*. London: Amber.
-104.  []{#c10752*444.xhtml#R104}Blériot, L. 2015. \_Blériot: Flight into
-      the XXth Century*. London: Austin Macauley.
-105.  []{#c10752*444.xhtml#R105}Blumenschine, R. J., and J. A.
-      Cavallo. 1992. Scavenging and human evolution. \_Scientific
-      American* 267 (4): 90--95.
-106.  []{#c10752*444.xhtml#R106}Blumer, H. 1990. \_Industrialization as an
-      Agent of Social Change*. New York: Aldine de Gruyter.
-107.  []{#c10752*444.xhtml#R107}Blyth, R. J., A. Lambert, and J. Ruger,
-      eds. 2011. \_The Dreadnought and the Edwardian Age*. Farnham:
-      Ashgate.
-108.  []{#c10752*444.xhtml#R108}Boden, T., and B. Andres. 2015. \_Global
-      CO~2~ Emissions from Fossil-Fuel Burning, Cement Manufacture, and
-      Gas Flaring: 1751--2011*. Oak Ridge, TN: CDIAC (Carbon Dioxide
-      Information Analysis Center), Oak Ridge National Laboratory.
-      <http://cdiac.ornl.gov/trends/emis/tre_glob_2011.html>.
-109.  []{#c10752_444.xhtml#R109}Boden. T., B. Andres, and G.
-      Marland. 2016. Global CO~2~ emissions from fossil fuel burning,
-      cement manufacture, and gas flaring: 1751--2013.
-      <http://cdiac.ornl.gov/ftp/ndp030/global.1751_2013.ems>.
-110.  []{#c10752_444.xhtml#R110}Boeing. 2015. Boeing history.
-      <http://www.boeing.com/history>.
-111.  []{#c10752*444.xhtml#R111}Bogin, B. 2011. Kung nutritional status
-      and the original "affluent society": A new analysis.
-      \_Anthropologischer Anzeiger* 68:349--366.
-112.  []{#c10752*444.xhtml#R112}Bono, P., and C. Boni. 1996. Water supply
-      of Rome in antiquity and today. \_Environmental Geology*
-      27:126--134.
-113.  []{#c10752*444.xhtml#R113}Boonenburg, K. 1952. \_Windmills in
-      Holland*. The Hague: Netherlands Government Information Service.
-114.  []{#c10752*444.xhtml#R114}Borghese, A., ed. 2005. \_Buffalo
-      Production and Research*. Rome: FAO.
-115.  []{#c10752*444.xhtml#R115}Bos, M. G. 2009. \_Water Requirements for
-      Irrigation and the Environment*. Dordrecht: Springer.
-116.  []{#c10752*444.xhtml#R116}Bose, S., ed. 1991. \_Shifting Agriculture
-      in India*. Calcutta: Anthropological Survey of India.
-117.  []{#c10752*444.xhtml#R117}Boserup, E. 1965. \_The Conditions of
-      Agricultural Growth: The Economics of Agrarian Change under
-      Population Pressure*. Chicago: Aldine.
-118.  []{#c10752*444.xhtml#R118}Boserup, E. 1976. Environment,
-      population, and technology in primitive societies. \_Population and
-      Development Review* 2:21--36.
-119.  []{#c10752*444.xhtml#R119}Bott, R. D. 2004. \_Evolution of Canada's
-      Oil and Gas Industry*. Calgary, AB: Canadian Centre for Energy
-      Information.
-120.  []{#c10752*444.xhtml#R120}Boulding, K. E. 1974. The social system
-      and the energy crisis. \_Science* 184:255--257.
-121.  []{#c10752*444.xhtml#R121}Bowers, B. 1998. \_Lengthening the Day: A
-      History of Lighting Technology*. Oxford: Oxford University Press.
-122.  []{#c10752*444.xhtml#R122}Bowers, B. 2001. \_Sir Charles Wheatstone:
-      1802--1875*, 2nd ed. London: Institution of Engineering and
-      Technology.
-123.  []{#c10752*444.xhtml#R123}Boxer, C. R. 1969. \_The Portuguese
-      Seaborne Empire 1415--1825*. London: Hutchinson.
-124.  []{#c10752*444.xhtml#R124}BP (British Petroleum). 2016.
-      \_Statistical Review of World Energy 2016*.
-      <https://www.bp.com/content/dam/bp/pdf/energy-economics/statistical-review-2015/bp-statistical-review-of-world-energy-2015-full-report.pdf>.
-125.  []{#c10752*444.xhtml#R125}Bramanti, B., et al. 2009. Genetic
-      discontinuity between local hunter-gatherers and Central Europe's
-      first farmers. \_Science* 326:137--140.
-126.  []{#c10752*444.xhtml#R126}Bramble, D. M., and D. E.
-      Lieberman. 2004. Endurance running and the evolution of \_Homo.*
-      _Nature_ 432:345--352.
-127.  []{#c10752*444.xhtml#R127}Brandstetter, T. 2005. "The most
-      wonderful piece of machinery the world can boast of": The
-      water-works at Marly, 1680--1830. \_History and Technology*
-      21:205--220.
-128.  []{#c10752*444.xhtml#R128}Brantly, J. E. 1971. \_History of Oil Well
-      Drilling*. Houston, TX: Gulf Publishing.
-129.  []{#c10752*444.xhtml#R129}Braudel, F. 1982. \_On History*. Chicago:
-      University of Chicago Press.
-130.  []{#c10752*444.xhtml#R130}Braun, D. R., et al. 2010. Early hominin
-      diet included diverse terrestrial and aquatic animals 1.95 Ma in
-      East Turkana, Kenya. \_Proceedings of the National Academy of
-      Sciences of the United States of America* 107:10002--10007.
-131.  []{#c10752*444.xhtml#R131}Braun, G. W., and D. R. Smith. 1992.
-      Commercial wind power: Recent experience in the United States.
-      \_Annual Review of Energy and the Environment* 17:97--121.
-132.  []{#c10752*444.xhtml#R132}Bray, F. 1984. \_Science and Civilisation
-      in China*. Vol. 6, Part II. _Agriculture_. Cambridge: Cambridge
-      University Press.
-133.  []{#c10752*444.xhtml#R133}Bresse, M. 1876. \_Water-Wheels or
-      Hydraulic Motors*. New York: John Wiley.
-134.  []{#c10752*444.xhtml#R134}Brodhead, M. J. 2012. \_The Panama Canal:
-      Writings of the U. S. Army Corps of Engineers Officers Who
-      Conceived and Built It*. Alexandria, VA: U.S. Army Corps of
-      Engineers History Office.
-135.  []{#c10752*444.xhtml#R135}Brody, S. 1945. \_Bioenergetics and
-      Growth*. New York: Reinhold.
-136.  []{#c10752*444.xhtml#R136}Bronson, B. 1977. The earliest farming:
-      Demography as cause and consequence. In \_Origins of Agriculture*
-      _,_ ed. C. Reed, 23--48. The Hague: Mouton.
-137.  []{#c10752*444.xhtml#R137}Brooks, D. R., and E. O. Wiley. 1986.
-      \_Evolution as Entropy*. Chicago: University of Chicago Press.
-138.  []{#c10752*444.xhtml#R138}Brown, G. I. 1999. \_Count Rumford: The
-      Extraordinary Life of a Scientific Genius*. Stroud: Sutton
-      Publishing.
-139.  []{#c10752*444.xhtml#R139}Brown, K. S., et al. 2009. Fire as an
-      engineering tool of early modern humans. \_Science* 325:859--862.
-140.  []{#c10752*444.xhtml#R140}Brown, K. S., et al. 2012. An early and
-      enduring advanced technology originating 71,000 years ago in South
-      Africa. \_Nature* 491:590--593.
-141.  []{#c10752*444.xhtml#R141}Brown, S., P. Schroeder, and R.
-      Birdsey. 1997. Aboveground biomass distribution of US eastern
-      hardwood forests and the use of large trees as an indicator of
-      forest development. \_Forest Ecology and Management* 96:31--47.
-142.  []{#c10752*444.xhtml#R142}Bruce, A. W. 1952. \_The Steam Locomotive
-      in America*. New York: Norton.
-143.  []{#c10752*444.xhtml#R143}Brunck, R. F. P. 1776. \_Analecta Veterum
-      Poetarum Graecorum*. Strasbourg: I. G. Bauer & Socium.
-144.  []{#c10752*444.xhtml#R144}Bruni, L., and P. L. Porta. 2006.
-      \_Economics and Happiness*. New York: Oxford University Press.
-145.  []{#c10752*444.xhtml#R145}Brunner, K. 1995. Continuity and
-      discontinuity of Roman agricultural knowledge in the early Middle
-      Ages. In \_Agriculture in the Middle Ages*, ed. D. Sweeney, 21--39.
-      Philadelphia: University of Pennsylvania Press.
-146.  []{#c10752*444.xhtml#R146}Brunt, L. 1999. \_Estimating English Wheat
-      Production in the Industrial Revolution*. Oxford: University of
-      Oxford.
-      <http://www.nuffield.ox.ac.uk/economics/history/paper35/dp35a4.pdf>.
-147.  []{#c10752*444.xhtml#R147}Buchanan, B. J., ed. 2006. \_Gunpowder,
-      Explosives and the State: A Technological History*. Aldershot:
-      Ashgate.
-148.  []{#c10752*444.xhtml#R148}Buck, J. L. 1930. \_Chinese Farm Economy*.
-      Nanking: University of Nanking.
-149.  []{#c10752*444.xhtml#R149}Buck, J. L. 1937. \_Land Utilization in
-      China*. Nanking: University of Nanking.
-150.  []{#c10752*444.xhtml#R150}Buckley, T. A. 1855. \_The Works of
-      Horace*. New York: Harper & Brothers.
-151.  []{#c10752*444.xhtml#R151}Budge, E. A. W. 1920. \_An Egyptian
-      Hieroglyphic Dictionary*. London: John Murray.
-152.  []{#c10752*444.xhtml#R152}Bulliet, R. W. 1975. \_The Camel and the
-      Wheel*. Cambridge, MA: Harvard University Press.
-153.  []{#c10752*444.xhtml#R153}Bulliet, R. W. 2016. \_The Wheel:
-      Inventions and Reinventions*. New York: Columbia University Press.
-154.  []{#c10752*444.xhtml#R154}Bunch, B. H., and A. Hellemans. 1993.
-      \_The Timetables of Technology: A Chronology of the Most Important
-      People and Events in the History of Technology*. New York: Simon &
-      Schuster.
-155.  []{#c10752*444.xhtml#R155}Burke, E., III. 2009. Human history,
-      energy regimes and the environment. In \_The Environment and World
-      History*, ed. E. Burke III and K. Pomeranz, 33--53. Berkeley:
-      University of California Press.
-156.  []{#c10752*444.xhtml#R156}Burstall, A. F. 1968. \_Simple Working
-      Models of Historic Machines*. Cambridge, MA: MIT Press.
-157.  []{#c10752*444.xhtml#R157}Burton, R. F. 1880. \_The Lusiads*.
-      London: Tinsley Brothers.
-158.  []{#c10752_444.xhtml#R158}Butler, J. H., and S. A. Montzka. 2015.
-      The NOAA Annual Greenhouse Gas Index. Boulder, CO: NOAA.
-      <http://www.esrl.noaa.gov/gmd/aggi/aggi.html>.
-159.  []{#c10752*444.xhtml#R159}Butzer, K. W. 1976. \_Early Hydraulic
-      Civilization in Egypt*. Chicago: University of Chicago Press.
-160.  []{#c10752*444.xhtml#R160}Butzer, K. W. 1984. Long-term Nile flood
-      variation and political discontinuities in Pharaonic Egypt. In
-      \_From Hunters to Farmers*, ed. J. D. Clark and S. A. Brandt,
-      102--112. Berkeley: University of California Press.
-161.  []{#c10752*444.xhtml#R161}Byrn, E. W. 1900. \_The Progress of
-      Invention in the Nineteenth Century*. New York: Munn & Co.
-162.  []{#c10752*444.xhtml#R162}Caidin, M. 1960. \_A Torch to the Enemy:
-      The Fire Raid on Tokyo*. New York: Balantine Books.
-163.  []{#c10752*444.xhtml#R163}Cairns, M. F., ed. 2015. \_Shifting
-      Cultivation and Environmental Change: Indigenous People,
-      Agriculture and Forest Conservation*. London: Earthscan Routledge.
-164.  []{#c10752*444.xhtml#R164}Cameron, R. 1982. The Industrial
-      Revolution: A misnomer. \_History Teacher* 15 (3): 377--384.
-165.  []{#c10752*444.xhtml#R165}Cameron, R. 1985. A new view of European
-      industrialization. \_Economic History Review* 3:1--23.
-166.  []{#c10752*444.xhtml#R166}Campbell, B. M. S., and M. Overton. 1993.
-      A new perspective on medieval and early modern agriculture: Six
-      centuries of Norfolk farming, \_c.* 1250-_c_. 1850. _Past & Present_
-      141 (1): 38--105.
-167.  []{#c10752*444.xhtml#R167}Campbell, H. R. 1907. \_The Manufacture
-      and Properties of Iron and Steel*. New York: Hill Publishing.
-168.  []{#c10752*444.xhtml#R168}Cantelon, P. L., R. G. Hewlett, and R. C.
-      Williams, eds. 1991. \_The American Atom: A Documentary History of
-      Nuclear Policies from the Discovery of Fission to the Present*.
-      Philadelphia: University of Pennsylvania Press.
-169.  []{#c10752*444.xhtml#R169}Capulli, M. 2003. \_Le Navi della
-      Serenissima: La Galea Veneziana di Lazise*. Venezia: Marsilio
-      Editore.
-170.  []{#c10752*444.xhtml#R170}Cardwell, D. S. L. 1971. \_From Watt to
-      Clausius: The Rise of Thermodynamics in the Early Industrial Age*.
-      Ithaca, NY: Cornell University Press.
-171.  []{#c10752*444.xhtml#R171}Caro, R. A. 1982. \_The Years of Lyndon
-      Johnson: The Path to Power*. New York: Knopf.
-172.  []{#c10752*444.xhtml#R172}Caron, F. 2013. \_Dynamics of Innovation:
-      The Expansion of Technology in Modern Times*. New York: Berghahn.
-173.  []{#c10752*444.xhtml#R173}Carrier, D. R. 1984. The energetic
-      paradox of human running and hominid evolution. \_Current
-      Anthropology* 25:483--495.
-174.  []{#c10752*444.xhtml#R174}Carter, R. A. 2000. \_Buffalo Bill Cody:
-      The Man behind the Legend*. New York: John Wiley.
-175.  []{#c10752*444.xhtml#R175}Carter, W. E. 1969. \_New Lands and Old
-      Traditions: Kekchi Cultivators in the Guatemala Lowlands*.
-      Gainesville: University of Florida Press.
-176.  []{#c10752*444.xhtml#R176}Casson, L. 1994. \_Ships and Seafaring in
-      Ancient Times*. Austin: University of Texas Press.
-177.  []{#c10752_444.xhtml#R177}CDC (Centers for Disease Control and
-      Prevention). 2015. Overweight & Obesity.
-      <http://www.cdc.gov/nchs/fastats/obesity-overweight.htm>.
-178.  []{#c10752_444.xhtml#R178}CDFA (Clean Diesel Fuel Alliance). 2015.
-      Ultra Low Sulfur Diesel (ULSD).
-      <http://www.clean-diesel.org/index.htm>.
-179.  []{#c10752*444.xhtml#R179}Centre des Recherches Historiques. 1965.
-      \_Villages Desertes et Histoire Economique*. Paris: SEVPEN.
-180.  []{#c10752*444.xhtml#R180}Ceruzzi, P. E. 2003. \_A History of Modern
-      Computing*. Cambridge, MA: MIT Press.
-181.  []{#c10752_444.xhtml#R181}CFM International. 2015. Discover CFM.
-      <http://www.cfmaeroengines.com/files/brochures/Brochure_CFM_2015.pdf>.
-182.  []{#c10752*444.xhtml#R182}Chandler, T. 1987. \_Four Thousand Years
-      of Urban Growth: An Historical Census*. Lewiston, NY: Edwin Mellen
-      Press.
-183.  []{#c10752*444.xhtml#R183}Chapelle, H. I. 1988. \_The History of
-      American Sailing Ships*. Modesto, CA: Bonanza Books.
-184.  []{#c10752*444.xhtml#R184}Charette, R. N. 2009. This car runs on
-      code. \_IEEE Spectrum 2009* (February).
-      <http://spectrum.ieee.org/green-tech/advanced-cars/this-car-runs-on-code/0>.
-185.  []{#c10752*444.xhtml#R185}Charles, C., and P. Wooders. 2011.
-      \_Subsidies to Liquid Transport Fuels: A comparative review of
-      estimates*. Geneva: IISD.
-186.  []{#c10752*444.xhtml#R186}Chartrand, R. 2003. \_Napoleon's Guns
-      1792--1815. Botley*. Osprey Publishing.
-187.  []{#c10752*444.xhtml#R187}Chase, K. 2003. \_Firearms: A Global
-      History to 1700*. Cambridge: Cambridge University Press.
-188.  []{#c10752*444.xhtml#R188}Chatterton, E. K. 1914. \_Sailing Ships:
-      The Story of Their Development from the Earliest Times to the
-      Present Day*. London: Sidgwick & Jackson.
-189.  []{#c10752*444.xhtml#R189}Chatterton, E. K. 1926. \_The Ship Under
-      Sail*. London: Fisher Unwin.
-190.  []{#c10752*444.xhtml#R190}Chauvois, L. 1967. \_Histoire merveilleuse
-      de Zénobe Gramme*. Paris: Albert Blanchard.
-191.  []{#c10752*444.xhtml#R191}Cheney, Margaret. 1981. \_Tesla: Man out
-      of Time*. New York: Dorset Press.
-192.  []{#c10752*444.xhtml#R192}Chevedden, P. E., et al. 1995. The
-      trebuchet. \_Scientific American* 273 (1): 66--71.
-193.  []{#c10752*444.xhtml#R193}China Energy Group. 2014. \_Key China
-      Energy Statistics 2014*. Berkeley, CA: Lawrence Berkeley National
-      Laboratory.
-194.  []{#c10752_444.xhtml#R194}Chincold. 2015. Three Gorges Project.
-      <http://www.chincold.org.cn/dams/rootfiles/2010/07/20/1279253974143251-1279253974145520.pdf>.
-195.  []{#c10752*444.xhtml#R195}Ching, F. D. K., M. Jarzombek, and V.
-      Prakash. 2011. \_A Global History of Architecture*. Hoboken, NJ:
-      John Wiley & Sons.
-196.  []{#c10752*444.xhtml#R196}Chorley, G. P. H. 1981. The agricultural
-      revolution in Northern Europe, 1750--1880: Nitrogen, legumes, and
-      crop productivity. \_Economic History Review* 34 (1):71--93.
-197.  []{#c10752*444.xhtml#R197}Choudhury, P. C. 1976. \_Hastividyarnava*.
-      Gauhati: Publication Board of Assam.
-198.  []{#c10752*444.xhtml#R198}Christ, K. 1984. \_The Romans*. Berkeley:
-      University of California Press.
-199.  []{#c10752*444.xhtml#R199}Church, R., Hall, A. and J.
-      Kanefsky. 1986. \_History of the British Coal Industry*. Vol. 3,
-      _Victorian Pre-Eminence_. Oxford: Oxford University Press.
-200.  []{#c10752*444.xhtml#R200}Cipolla, C. M. 1965. \_Guns, Sails and
-      Empires: Technological Innovation and the Early Phases of European
-      Expansion, 1400--1700*. New York: Pantheon Books.
-201.  []{#c10752_444.xhtml#R201}City Population. 2015. Major
-      agglomerations of the world.
-      <http://www.citypopulation.de/world/Agglomerations.html>.
-202.  []{#c10752*444.xhtml#R202}Clapham, J. H. 1926. \_An Economic History
-      of Modern Britain*. Cambridge: Cambridge University Press.
-203.  []{#c10752*444.xhtml#R203}Clark, C., and M. Haswell. 1970. \_The
-      Economics of Subsistence Agriculture*. London: Macmillan.
-204.  []{#c10752*444.xhtml#R204}Clark, G. 1987. Productivity growth
-      without technical change in European agriculture before 1850.
-      \_Journal of Economic History* 47:419--432.
-205.  []{#c10752*444.xhtml#R205}Clark, G. 1991. Yields per acre in
-      English agriculture, 1250--1850: Evidence from labour inputs.
-      \_Economic History Review* 44:445--460.
-206.  []{#c10752*444.xhtml#R206}Clark, G., M. Huberman, and P. H.
-      Lindert. 1995. A British food puzzle, 1770--1850. \_Economic History
-      Review* 48:215--237.
-207.  []{#c10752*444.xhtml#R207}Clarke, R., and M. Dubravko. 1983.
-      \_Soviet Economic Facts, 1917--1981*. London: Palgrave Macmillan.
-208.  []{#c10752*444.xhtml#R208}Clarkson, L. A. 1985.
-      \_Proto-Industrialization: The First Phase of Industrialization?*
-      London: Macmillan.
-209.  []{#c10752*444.xhtml#R209}Clavering, E. 1995. The coal mills of
-      Northeast England: The use of waterwheels for draining coal mines,
-      1600--1750. \_Technology and Culture* 36:211--241.
-210.  []{#c10752*444.xhtml#R210}Clerk, D. 1909. \_The Gas, Petrol, and Oil
-      Engine*. London: Longmans, Green and Co.
-211.  []{#c10752*444.xhtml#R211}Cleveland, C. J., ed. 2004. \_Encyclopedia
-      of Energy,* 6 vols. Amsterdam: Elsevier.
-212.  []{#c10752*444.xhtml#R212}Cleveland, C. J., and C. Morris. 2014.
-      \_Handbook of Energy*. Vol. 2, _Chronologies, Top Ten Lists, and
-      World Clouds_. Amsterdam: Elsevier.
-213.  []{#c10752*444.xhtml#R213}CMI (Center for Military History). 2010.
-      \_War in the Persian Gulf: Operations Desert Shield and Desert
-      Storm*, August 1990--March 1991.
-      <http://www.history.army.mil/html/books/070/70-117-1/cmh_70-117-1.pdf>.
-214.  []{#c10752*444.xhtml#R214}Coates, J. F. 1989. The trireme sails
-      again. \_Scientific American* 261 (4): 68--75.
-215.  []{#c10752*444.xhtml#R215}Cobbett, J. P. 1824. \_A Ride of Eight
-      Hundred Miles in France*. London: Charles Clement.
-216.  []{#c10752*444.xhtml#R216}Cochrane, W. W. 1993. \_The Development of
-      American Agriculture: A Historical Analysis*. Minneapolis:
-      University of Minnesota Press.
-217.  []{#c10752*444.xhtml#R217}Cockrill, W. R., ed. 1974. \_The Husbandry
-      and Health of the Domestic Buffalo*. Rome: FAO.
-218.  []{#c10752*444.xhtml#R218}Cohen, B. 1990. \_Benjamin Franklin's
-      Science*. Cambridge, MA: Harvard University Press.
-219.  []{#c10752*444.xhtml#R219}Cohen, N. M. 1977. \_The Food Crisis in
-      Prehistory*. New Haven, CT: Yale University Press.
-220.  []{#c10752*444.xhtml#R220}Collier, B. 1962. \_The Battle of
-      Britain*. London: Batsford.
-221.  []{#c10752*444.xhtml#R221}Collins, E. V., and A. B. Caine. 1926.
-      \_Testing Draft Horses*. _Iowa Experimental Station Bulletin_ 240.
-222.  []{#c10752*444.xhtml#R222}Coltman, J. W. 1988. The transformer.
-      \_Scientific American* 258 (1): 86--95.
-223.  []{#c10752*444.xhtml#R223}Committee for the Compilation of
-      Materials on Damage Caused by the Atomic bombs in Hiroshima and
-      Nagasaki. 1991. \_Hiroshima and Nagasaki: The Physical, Medical and
-      Social Effects of the Atomic Bombing*. New York: Basic Books.
-224.  []{#c10752*444.xhtml#R224}Conklin, H. C. 1957. \_Hanunoo
-      Agriculture*. Rome: FAO.
-225.  []{#c10752*444.xhtml#R225}Conquest, Robert. 2007. \_The Great
-      Terror: A Reassessment*. 40th Anniversary Edition. Oxford: Oxford
-      University Press.
-226.  []{#c10752*444.xhtml#R226}Constable, G., and B. Somerville. 2003.
-      \_A Century of Innovation*. Washington, DC: Joseph Henry Press.
-227.  []{#c10752*444.xhtml#R227}Constant, E. W. 1981. \_The Origins of
-      Turbojet Revolution*. Baltimore, MD: Johns Hopkins University
-      Press.
-228.  []{#c10752*444.xhtml#R228}Coomes, O. T., F. Grimard, and G. J.
-      Burt. 2000. Tropical forests and shifting cultivation: Secondary
-      forest fallow dynamics among traditional farmers of the Peruvian
-      Amazon. \_Ecological Economics* 32:109--124.
-229.  []{#c10752*444.xhtml#R229}Coopersmith, J. 2010. \_Energy, the Subtle
-      Concept: The Discovery of Feynman's Blocks from Leibniz to
-      Einstein*. Oxford: Oxford University Press.
-230.  []{#c10752*444.xhtml#R230}Copley, Frank B. 1923. \_Frederick W.
-      Taylor: Father of Scientific Management*. New York: Harper &
-      Brothers.
-231.  []{#c10752_444.xhtml#R231}Cornways. 2015. Combine.
-      <http://www.cornways.de/hi_combine.html>.
-232.  []{#c10752*444.xhtml#R232}Cotterell, B., and J. Kamminga. 1990.
-      \_Machines of Pre-industrial Technology*. Cambridge: Cambridge
-      University Press.
-233.  []{#c10752*444.xhtml#R233}Coulomb, C. A. 1799. Résultat de
-      plusieurs expériences destinées à déterminer la quantité d'action
-      que les hommes peuvent fournir par leur travail journalier. ...
-      \_Mémoires de l'Institut national des sciences et arts---Sciences
-      mathématiques et physique* 2:380--428.
-234.  []{#c10752*444.xhtml#R234}Coulton, J. J. 1977. \_Ancient Greek
-      Architects at Work*. Ithaca, NY: Cornell University Press.
-235.  []{#c10752*444.xhtml#R235}Cowan, R. 1990. Nuclear power reactors: A
-      study in technological lock-in. \_Journal of Economic History*
-      50:541--567.
-236.  []{#c10752*444.xhtml#R236}Craddock, P. T. 1995. \_Early Metal Mining
-      and Production*. Edinburgh: Edinburgh University Press.
-237.  []{#c10752*444.xhtml#R237}Crafts, N. F. R., and C. K. Harley. 1992.
-      Output growth and the British Industrial Revolution. \_Economic
-      History Review* 45:703--730.
-238.  []{#c10752*444.xhtml#R238}Crafts, N., and T. Mills. 2004. Was 19th
-      century British growth steam-powered? The climacteric revisited.
-      \_Explorations in Economic History* 41:156--171.
-239.  []{#c10752*444.xhtml#R239}Croil, J. 1898. \_Steam Navigation*.
-      Toronto: William Briggs.
-240.  []{#c10752*444.xhtml#R240}Crossley, D. 1990. \_Post-medieval
-      Archaeology in Britain*. Leicester: Leicester University Press.
-241.  []{#c10752*444.xhtml#R241}Cummins, C. L. 1989. \_Internal Fire*.
-      Warrendale, PA: Society of Automotive Engineers.
-242.  []{#c10752*444.xhtml#R242}Cumpsty, N. 2006. \_Jet Propulsion*.
-      Cambridge: Cambridge University Press.
-243.  []{#c10752*444.xhtml#R243}Cuomo, S. 2004. The sinews of war:
-      Ancient catapults. \_Science* 303:771--772.
-244.  []{#c10752*444.xhtml#R244}Curtis, W. H. 1919. \_Wood Ship
-      Construction*. New York: McGraw-Hill.
-245.  []{#c10752*444.xhtml#R245}Daggett, S. 2010. \_Costs of Major U.S.
-      Wars*. Washington, DC: Congressional Research Service.
-      <http://cironline.org/sites/default/files/legacy/files/June2010CRScostofuswars.pdf>.
-246.  []{#c10752*444.xhtml#R246}Dalby, W. E. 1920. \_Steam Power*. London:
-      Edward Arnold.
-247.  []{#c10752*444.xhtml#R247}Darby, H. C. 1956. The clearing of the
-      woodland of Europe. In \_Man's Role in Changing the Face of the
-      Earth*, ed. W. L. Thomas, 183--216. Chicago: University of Chicago
-      Press.
-248.  []{#c10752*444.xhtml#R248}Darling, K. 2004. \_Concorde*.
-      Marlborough: Crowood Press.
-249.  []{#c10752*444.xhtml#R249}Daugherty, C. R. 1927. The development of
-      horse-power equipment in the United States. In \_Power Capacity and
-      Production in the United States*, ed. C. R. Daugherty, A. H. Horton
-      and R. W. Davenport, 5--112. Washington, DC: U.S. Geological
-      Survey.
-250.  []{#c10752*444.xhtml#R250}Daumas, M., ed. 1969. \_A History of
-      Technology and Invention*. New York: Crown Publishers.
-251.  []{#c10752*444.xhtml#R251}David, P. 1985. Clio and the economics of
-      QWERTY. \_American Economic Review* 75:332--337.
-252.  []{#c10752*444.xhtml#R252}David, P. A. 1991. The hero and the herd
-      in technological history: Reflections on Thomas Edison and the
-      Battle of the Systems. In \_Favorites of Fortune: Technology, Growth
-      and Economic Development since the Industrial Revolution*, ed. P.
-      Higonett, D. S. Landes and H. Rosovsky, 72--119. Cambridge, MA:
-      Harvard University Press.
-253.  []{#c10752*444.xhtml#R253}Davids, K. 2006. River control and the
-      evolution of knowledge: A comparison between regions in China and
-      Europe, c. 1400--1850. \_Journal of Global History* 1:59--79.
-254.  []{#c10752*444.xhtml#R254}Davies, N. 1987. \_The Aztec Empire: The
-      Toltec Resurgence*. Norman: University of Oklahoma Press.
-255.  []{#c10752*444.xhtml#R255}Davis, M. 2001. \_Late Victorian
-      Holocausts*. New York: Verso.
-256.  []{#c10752*444.xhtml#R256}de Beaune, S. A., and R. White. 1993. Ice
-      age lamps. \_Scientific American* 266 (3): 108--113.
-257.  []{#c10752*444.xhtml#R257}de la Torre, I. 2011. The origins of
-      stone tool technology in Africa: A historical perspective.
-      \_Philosophical Transactions of the Royal Society of London. Series
-      B, Biological Sciences* 366 (1567): 1028--1037.
-258.  []{#c10752*444.xhtml#R258}De Zeeuw, J. W. 1978. Peat and the Dutch
-      Golden Age: The historical meaning of energy-attainability. \_A.A.G.
-      Bijdragen* 21:3--31.
-259.  []{#c10752*444.xhtml#R259}Deffeyes, K. S. 2001. \_Hubbert's Peak:
-      The Impending World Oil Shortage*. Princeton, NJ: Princeton
-      University Press.
-260.  []{#c10752*444.xhtml#R260}Demarest, A. 2004. \_Ancient Maya: The
-      Rise and Fall of a Rainforest Civilization*. Cambridge: Cambridge
-      University Press.
-261.  []{#c10752_444.xhtml#R261}Dempsey, P. 2015. Notes on the Liberty
-      aircraft engine.
-      <http://www.enginehistory.org/Before1925/Liberty/LibertyNotes.shtml>.
-262.  []{#c10752*444.xhtml#R262}Denevan, W. H. 1982. Hydraulic
-      agriculture in the American tropics: Forms, measures, and recent
-      research. In \_Maya Subsistence*, ed. K. V. Flannery, 181--203. New
-      York: Academic Press.
-263.  []{#c10752*444.xhtml#R263}Denny, M. 2004. The efficiency of
-      overshot and undershot waterwheels. \_European Journal of Physics*
-      25:193--202.
-264.  []{#c10752*444.xhtml#R264}Denny, M. 2007. \_Ingenium: Five Machines
-      That Changed the World*. Baltimore, MD: Johns Hopkins University
-      Press.
-265.  []{#c10752*444.xhtml#R265}Dent, A. 1974. \_The Horse*. New York:
-      Holt, Rinehart and Winston.
-266.  []{#c10752_444.xhtml#R266}Department of Energy & Climate Change, UK
-      Government. 2015. Historical coal data: Coal production,
-      availability and consumption 1853 to 2014.
-      <https://www.gov.uk/government/statistical-data-sets/historical-coal-data-coal-production-availability-and-consumption-1853-to-2011>.
-267.  []{#c10752*444.xhtml#R267}Derry, T. K., and T. I. Williams. 1960.
-      \_A Short History of Technology*. Oxford: Oxford University Press.
-268.  []{#c10752*444.xhtml#R268}Diamond, J. 2011. \_Collapse: How
-      Societies Choose to Fail or Succeed*. New York: Penguin Books.
-269.  []{#c10752*444.xhtml#R269}Dickens, C. 1854. \_Hard Times*. London:
-      Bradbury & Evans.
-270.  []{#c10752*444.xhtml#R270}Dickey, P. A. 1959. The first oil well.
-      \_Journal of Petroleum Technology* 59:14--25.
-271.  []{#c10752*444.xhtml#R271}Dickinson, H. W. 1939. \_A Short History
-      of the Steam Engine*. Cambridge: Cambridge University Press.
-272.  []{#c10752*444.xhtml#R272}Dickinson, H. W., and R. Jenkins. 1927.
-      \_James Watt and the Steam Engine*. Oxford: Oxford University Press.
-273.  []{#c10752*444.xhtml#R273}Diderot, D., and J.L.R. D'Alembert.
-      1769--1772. \_L'Encyclopedie ou dictionnaire raisonne des sciences
-      des arts et des métiers*. Paris: Avec approbation et privilege du
-      roy.
-274.  []{#c10752*444.xhtml#R274}Dieffenbach, E. M., and R. B. Gray. 1960.
-      The development of the tractor. In \_Power to Produce: 1960 Yearbook
-      of Agriculture* _,_ 24--45. Washington, DC: U.S. Department of
-      Agriculture.
-275.  []{#c10752_444.xhtml#R275}Dien, A. 2000. The stirrup and its effect
-      on Chinese military history.
-      <http://www.silk-road.com/artl/stirrup.shtml>.
-276.  []{#c10752*444.xhtml#R276}Diener, E., E. Suh, and S. Oishi. 1997.
-      Recent findings on subjective well-being. \_Indian Journal of
-      Clinical Psychology* 24:25--41.
-277.  []{#c10752*444.xhtml#R277}Diesel, E. 1937. \_Diesel: Der Mensch, das
-      Werk, das Schicksal*. Hamburg: Hanseatische Verlagsanstalt.
-278.  []{#c10752_444.xhtml#R278}Diesel, R. 1893a. Arbeitsverfahren und
-      Ausführungsart für Verbrennungskraftmaschinen.
-      <https://www.dhm.de/lemo/bestand/objekt/patentschrift-von-rudolf-diesel-1893.html>.
-279.  []{#c10752*444.xhtml#R279}Diesel, R. 1893b. \_Theorie und
-      Konstruktion eines rationellen Wärmemotors zum Ersatz der
-      Dampfmaschinen und der heute bekannten Verbrennungsmotoren*.
-      Berlin: Julius Springer.
-280.  []{#c10752*444.xhtml#R280}Diesel, R. 1903. \_Solidarismus:
-      Natürliche wirtschaftliche Erlösung des Menschen*. Munich (repr.,
-      Augsburg: Maro Verlag, 2007).
-281.  []{#c10752*444.xhtml#R281}Diesel, R. 1913. \_Die Entstehung des
-      Dieselmotors*. Berlin: Julius Springer.
-282.  []{#c10752*444.xhtml#R282}Dikötter, F. 2010. \_Mao's Great Famine:
-      The History of China's Most Devastating Catastrophe, 1958--1962*.
-      London: Walker Books.
-283.  []{#c10752*444.xhtml#R283}DK Publishing. 2012. \_Military History:
-      The Definitive Visual Guide to the Objects of Warfare*. New York:
-      DK Publishing.
-284.  []{#c10752*444.xhtml#R284}Domínguez-Rodrigo, M. 2002. Hunting and
-      scavenging by early humans: The state of the debate. \_Journal of
-      World Prehistory* 16:1--54.
-285.  []{#c10752*444.xhtml#R285}Donnelly, J. S. 2005. \_The Great Irish
-      Potato Famine*. Stroud: Sutton Publishing.
-286.  []{#c10752*444.xhtml#R286}Doorenbos, J., et al. 1979. \_Yield
-      Response to Water*. Rome: FAO.
-287.  []{#c10752*444.xhtml#R287}Dowson, D. 1973. Tribology before
-      Columbus. \_Mechanical Engineering* 95 (4): 12--20.
-288.  []{#c10752*444.xhtml#R288}Doyle, J., B. Francis, and A.
-      Tannenbaum. 1990. \_Feedback Control Theory*. London: Macmillan.
-289.  []{#c10752*444.xhtml#R289}Drews, R. 2004. \_Early Riders: The
-      Beginnings of Mounted Warfare in Asia and Europe*. New York:
-      Routledge.
-290.  []{#c10752*444.xhtml#R290}Duby, G. 1968. \_Rural Economy and Country
-      Life in the Medieval West*. London: Edward Arnold.
-291.  []{#c10752*444.xhtml#R291}Duby, G. 1998. \_Rural Economy and Country
-      Life in the Medieval West*. Philadelphia: University of
-      Pennsylvania Press.
-292.  []{#c10752*444.xhtml#R292}Dukes, J. S. 2003. Burning buried
-      sunshine: Human consumption of ancient solar energy. \_Climatic
-      Change* 61:31--44.
-293.  []{#c10752*444.xhtml#R293}Duncan-Jones, R. 1990. \_Structure and
-      Scale in the Roman Economy*. Cambridge: Cambridge University Press.
-294.  []{#c10752*444.xhtml#R294}Dunsheath, P. 1962. \_A History of
-      Electrical Industry*. London: Faber and Faber.
-295.  []{#c10752_444.xhtml#R295}Dupont, B., D. Keeling, and T.
-      Weiss. 2012. Passenger fares for overseas travel in the 19th and
-      20th centuries. Paper presented at the Annual Meeting of the
-      Economic History Association, Vancouver, BC, September 21--23.
-      <http://eh.net/eha/wp-content/uploads/2013/11/Weissetal.pdf>.
-296.  []{#c10752*444.xhtml#R296}Dyer, Frank L., and Thomas C.
-      Martin. 1929. \_Edison: His Life and Inventions*. New York: Harper &
-      Brothers.
-297.  []{#c10752*444.xhtml#R297}Eagar, T. W., and C. Musso. 2001. Why did
-      the World Trade Center collapse? Science, engineering, and
-      speculation. \_JOM* 53:8--11.
-      <http://www.tms.org/pubs/journals/JOM/0112/Eagar/Eagar-0112.html>.
-298.  []{#c10752*444.xhtml#R298}Earl, D. 1973. \_Charcoal and Forest
-      Management*. Oxford: Oxford University Press.
-299.  []{#c10752*444.xhtml#R299}Eavenson, H. N. 1942. \_The First Century
-      and a Quarter of American Coal Industry.* Pittsburgh, PA: Privately
-      printed.
-300.  []{#c10752*444.xhtml#R300}Eckermann, E. 2001. \_World History of the
-      Automobile*. Warrendale, PA: SAE Press.
-301.  []{#c10752_444.xhtml#R301}ECRI (Economic Cycle Research
-      Institute). 2015. Economic cycles. <https://www.businesscycle.com>.
-302.  []{#c10752*444.xhtml#R302}Eden, F. M. 1797. \_The State of the
-      Poor*. London: J. Davis.
-303.  []{#c10752_444.xhtml#R303}Edison, T. A. 1880. Electric Light.
-      Specification forming part of Letters Patent No. 227,229, dated May
-      4, 1880. Washington, DC: U.S. Patent Office.
-      <http://www.uspto.gov>.
-304.  []{#c10752*444.xhtml#R304}Edison, T. A. 1889. The dangers of
-      electric lighting. \_North American Review* 149:625--634.
-305.  []{#c10752*444.xhtml#R305}Edgerton, D. 2007. \_The Shock of the Old:
-      Technology and Global History since 1900*. Oxford: Oxford
-      University Press.
-306.  []{#c10752*444.xhtml#R306}Edgerton, S. Y. 1961. Heat and style:
-      Eighteenth-century house warming by stoves. \_The Journal of the
-      Society of Architectural Historians* 20:20--26.
-307.  []{#c10752*444.xhtml#R307}Edwards, J. F. 2003. Building the Great
-      Pyramid: Probable construction methods employed at Giza.
-      \_Technology and Culture* 44:340--354.
-308.  []{#c10752*444.xhtml#R308}Egerton, W. 1896. \_Indian and Oriental
-      Armour*. London: W. H. Allen.
-309.  []{#c10752*444.xhtml#R309}Egg, E., et al. 1971. \_Guns*. Greenwich,
-      CT: New York Graphic Society.
-310.  []{#c10752*444.xhtml#R310}Electricity Council. 1973. \_Electricity
-      Supply in Great Britain: A Chronology---From the Beginnings of the
-      Industry to 31 December 1972*. London: Electricity Council.
-311.  []{#c10752*444.xhtml#R311}Elliott, D. 2013. \_Fukushima: Impacts and
-      Implications*. Houndmills: Palgrave Macmillan.
-312.  []{#c10752*444.xhtml#R312}Ellis, C. H. 1983. \_The Lore of the
-      Train*. New York: Crescent Books.
-313.  []{#c10752*444.xhtml#R313}Ellison, R. 1981. Diet in Mesopotamia:
-      The evidence of the barley ration texts. \_Iraq* 45:35--45.
-314.  []{#c10752*444.xhtml#R314}Ellul, J. 1954. \_La Technique ou l'enjeu
-      du siècle*. Paris: Armand Colin.
-315.  []{#c10752*444.xhtml#R315}Elphick, P. 2001. \_Liberty: The Ships
-      That Won the War*. Annapolis, MD: Naval Institute Press.
-316.  []{#c10752*444.xhtml#R316}Elton, A. 1958. Gas for light and heat.
-      In \_A History of Technology*, vol. 4, ed. C. Singer et al.,
-      258--275. Oxford: Oxford University Press.
-317.  []{#c10752*444.xhtml#R317}Engels, F. 1845. \_Die Lage der
-      arbeitenden Klasse in England*. Leipzig: Otto Wigand.
-318.  []{#c10752*444.xhtml#R318}Erdkamp, P. 2005. \_The Grain Market in
-      the Roman Empire: A Social, Political and Economic Study*.
-      Cambridge: Cambridge University Press.
-319.  []{#c10752*444.xhtml#R319}Erickson, C. L. 1988. Raised field
-      agriculture in the Lake Titicaca Basin. \_Expedition* 30 (1): 8--16.
-320.  []{#c10752*444.xhtml#R320}Erlande-Brandenburg, A. 1994. \_The
-      Cathedral: The Social and Architectural Dynamics of Construction*.
-      Cambridge: Cambridge University Press.
-321.  []{#c10752*444.xhtml#R321}Esmay, M. L., and C. W. Hall, eds. 1968.
-      \_Agricultural Mechanization in Developing Countries*. Tokyo:
-      Shin-Norinsha.
-322.  []{#c10752*444.xhtml#R322}Evangelou, P. 1984. \_Livestock
-      Development in Kenya's Maasailand*. Boulder, CO: Westview Press.
-323.  []{#c10752*444.xhtml#R323}Evans, O. 1795. \_The Young Millwright and
-      Miller's Guide*. Philadelphia: O. Evans.
-324.  []{#c10752*444.xhtml#R324}Evelyn, J. 1607. \_Silva*. London: R.
-      Scott.
-325.  []{#c10752*444.xhtml#R325}Ewbank, T. 1870. \_A Descriptive and
-      Historical Account of Hydraulic and Other Machines for Raising
-      Water*. New York: Scribner.
-326.  []{#c10752*444.xhtml#R326}Executive Office of the President. 2013.
-      \_Economic Benefits of Increasing Electric Grid Resilience to
-      Weather Outages*. Washington, DC: The White House.
-327.  []{#c10752_444.xhtml#R327}Fairlie, S. 2011. Notes on the history of
-      the scythe and its manufacture.
-      <http://scytheassociation.org/history>.
-328.  []{#c10752*444.xhtml#R328}Faith, J. T. 2007. Eland, buffalo, and
-      wild pigs: Were Middle Stone Age humans ineffective hunters?
-      \_Journal of Human Evolution* 55:24--36.
-329.  []{#c10752*444.xhtml#R329}Falkenstein, A. 1939. \_Zehnter
-      vorläufiger Bericht über die von der Notgemeinschaft der deutschen
-      Wissenschaft in Uruk-Warka unternommen Ausgrabungen*. Berlin:
-      Verlag Akademie der Wissenschaften.
-330.  []{#c10752*444.xhtml#R330}Falkus, M. E. 1972. \_The
-      Industrialization of Russia, 1700--1914*. London: Macmillan.
-331.  []{#c10752*444.xhtml#R331}Fant, K. 2014. \_Alfred Nobel: A
-      Biography*. New York: Arcade Publishing.
-332.  []{#c10752*444.xhtml#R332}FAO (Food and Agriculture
-      Organization). 2004. \_Human Energy Requirements. Report of a Joint
-      FAO/WHO/UNU Consultation*. Rome: FAO.
-333.  []{#c10752_444.xhtml#R333}FAO. 2015a. FAOSTAT.
-      <http://faostat3.fao.org/home/E>.
-334.  []{#c10752_444.xhtml#R334}FAO. 2015b. The state of food insecurity
-      in the world 2015. <http://www.fao.org/hunger/key-messages/en>.
-335.  []{#c10752*444.xhtml#R335}Faraday, M. 1832. Experimental researches
-      in electricity. \_Philosophical Transactions of the Royal Society of
-      London* 122:125--162.
-336.  []{#c10752*444.xhtml#R336}Farey, J. 1827. \_A Treatise on the Steam
-      Engine*. London: Longman, Rees, Orme, Brown and Green.
-337.  []{#c10752*444.xhtml#R337}Faulseit, R. K., ed. 2015. \_Beyond
-      Collapse: Archaeological Perspectives on Resilience,
-      Revitalization, and Transformation in Complex Societies*.
-      Carbondale, IL: Southern Illinois University Press.
-338.  []{#c10752*444.xhtml#R338}Federico, G. 2008. \_Feeding the World: An
-      Economic History of Agriculture, 1800--2000*. Princeton, NJ:
-      Princeton University Press.
-339.  []{#c10752*444.xhtml#R339}Ferguson, E. F. 1971. The measurement of
-      the "man-day." \_Scientific American* 225 (4): 96--103.
-340.  []{#c10752*444.xhtml#R340}Fernández-Armesto, F. 1988. \_The Spanish
-      Armada: The Experience of War in 1588*. New York: Oxford University
-      Press.
-341.  []{#c10752*444.xhtml#R341}Feuerbach, A. 2006. Crucible Damascus
-      steel: A fascination for almost 2,000 years. \_Journal of Metals*
-      (May): 48--50.
-342.  []{#c10752*444.xhtml#R342}Feugang, J. M., P. Konarski, D.
-      Zou, F. C. Stintzing, and C. Zou. 2006. Nutritional and medicinal
-      use of cactus pear (\_Opuntia* spp.) cladodes and fruits. _Frontiers
-      in Bioscience_ 11:2574--2589.
-343.  []{#c10752*444.xhtml#R343}Feynman, R. 1988. \_The Feynman Lectures
-      on Physics*. Redwood City, CA: Addison-Wesley.
-344.  []{#c10752*444.xhtml#R344}Fiedel, S., and G. Haynes. 2004. A
-      premature burial: Comments on Grayson and Meltzer's "Requiem for
-      overkill." \_Journal of Archaeological Science* 31:121--131.
-345.  []{#c10752*444.xhtml#R345}Figuier, L. 1888. \_Les nouvelles
-      conquêtes de la science: L'électricité*. Paris: Manpir Flammarion.
-346.  []{#c10752*444.xhtml#R346}Finley, M. I. 1959. Was Greek
-      civilization based on slave labour? \_Historia. Einzelschriften*
-      1959:145--164.
-347.  []{#c10752*444.xhtml#R347}Finley, M. I. 1965. Technical innovation
-      and economic progress in the ancient world. \_Economic History
-      Review* 18:29--45.
-348.  []{#c10752*444.xhtml#R348}Finniston, M. et al. 1992. \_Oxford
-      Illustrated Encyclopedia of Invention and Technology*. Oxford:
-      Oxford University Press.
-349.  []{#c10752*444.xhtml#R349}Fish, J. L., and C. A. Lockwood. 2003.
-      Dietary constraints on encephalization in primates. \_American
-      Journal of Physical Anthropology* 120:171--181.
-350.  []{#c10752*444.xhtml#R350}Fitchen, J. 1961. \_The Construction of
-      Gothic Cathedrals: A Study of Medieval Vault Erection*. Chicago:
-      University of Chicago Press.
-351.  []{#c10752*444.xhtml#R351}Fitzhugh, B., and J. Habu, eds. 2002.
-      \_Beyond Foraging and Collecting: Evolutionary Change in
-      Hunter-Gatherer Settlement Systems*. Berlin: Springer.
-352.  []{#c10752*444.xhtml#R352}Flannery. K.V., ed. 1982. \_Maya
-      Subsistence*. New York: Academic Press.
-353.  []{#c10752*444.xhtml#R353}Flink, J. J. 1988. \_The Automobile Age*.
-      Cambridge, MA: MIT Press.
-354.  []{#c10752*444.xhtml#R354}Flinn, M. W. et al. 1984--1993. \_History
-      of the British Coal Industry*, 5 vols. Oxford: Oxford University
-      Press.
-355.  []{#c10752*444.xhtml#R355}Flower, R., and M. W. Jones. 1981. \_100
-      Years of Motoring: An RAC Social History of Car*. Maidenhead:
-      McGraw-Hill.
-356.  []{#c10752*444.xhtml#R356}Fluck, R. C., ed. 1992. \_Energy in Farm
-      Production*. Amsterdam: Elsevier.
-357.  []{#c10752*444.xhtml#R357}Fogel, R. W. 1991. The conquest of high
-      mortality and hunger in Europe and America: Timing and mechanisms.
-      In \_Favorites of Fortune*, ed. P. Higgonet et al., 33--71.
-      Cambridge, MA: Harvard University Press.
-358.  []{#c10752*444.xhtml#R358}Foley, R. A., and P. C. Lee. 1991.
-      Ecology and energetics of encephalization in hominid evolution.
-      \_Philosophical Transactions of the Royal Society of London*
-      334:223--232.
-359.  []{#c10752_444.xhtml#R359}Fontana, D. 1590. Della trasportatione
-      dell'obelisco Vaticano et delle fabriche di nostro signore Papa
-      Sisto V*.* Roma: Domenico Basa.
-      <http://www.rarebookroom.org/Control/ftaobc/index.html>.
-360.  []{#c10752*444.xhtml#R360}Forbes, R. J. 1958. Power to 1850. In \_A
-      History of Technology*, vol. 4, ed. C. Singer et al., 148--167.
-      Oxford: Oxford University Press.
-361.  []{#c10752*444.xhtml#R361}Forbes, R. J. 1964--1972. \_Studies in
-      Ancient Technology*. 9 volumes. Leiden: E. J. Brill.
-362.  []{#c10752*444.xhtml#R362}Forbes, R. J. 1964. Bitumen and petroleum
-      in antiquity. In \_Studies in Ancient Technology*. vol. 1, 1--124.
-      Leiden: E. J. Brill.
-363.  []{#c10752*444.xhtml#R363}Forbes, R. J. 1965. \_Studies in Ancient
-      Technology*, vol. 2. Leiden: E. J. Brill.
-364.  []{#c10752*444.xhtml#R364}Forbes, R. J. 1966. Heat and heating. In
-      \_Studies in Ancient Technology*, vol. 6, 1--103. Leiden: E. J.
-      Brill.
-365.  []{#c10752*444.xhtml#R365}Forbes, R. 1972. Copper. In \_Studies in
-      Ancient Technology*, vol. 6, 1--133. Leiden: E. J. Brill.
-366.  []{#c10752_444.xhtml#R366}Forbes. 2015. The world's biggest public
-      companies. <http://www.forbes.com/global2000/list/#tab:overall>.
-367.  []{#c10752*444.xhtml#R367}Fores, M. 1981. The Myth of a British
-      Industrial Revolution. \_History* 66:181--198.
-368.  []{#c10752*444.xhtml#R368}Foster, D. R., and J. D. Aber. 2004.
-      \_Forests in Time: The Environmental Consequences of 1,000 Years of
-      Change in New England*. New Haven, CT: Yale University Press.
-369.  []{#c10752*444.xhtml#R369}Foster, N., and L. D. Cordell. 1992.
-      \_Chilies to Chocolate: Food the Americas Gave the World*. Tucson:
-      University of Arizona Press.
-370.  []{#c10752*444.xhtml#R370}Fouquet, R. 2008. \_Heat, Power and Light:
-      Revolutions in Energy Services*. London: Edward Elgar.
-371.  []{#c10752*444.xhtml#R371}Fouquet, R. 2010. The slow search for
-      solutions: Lessons from historical energy transitions by sector and
-      service. \_Energy Policy* 38:6586--6596.
-372.  []{#c10752*444.xhtml#R372}Fouquet, R., and P. J. G. Pearson. 2006.
-      Seven centuries of energy services: The price and use of light in
-      the United Kingdom (1300--2000). \_Energy Journal* 27:139--177.
-373.  []{#c10752*444.xhtml#R373}Fox, R. F. 1988. \_Energy and the
-      Evolution of Life*. San Francisco: W. H. Freeman.
-374.  []{#c10752*444.xhtml#R374}Francis, D. 1990. \_The Great Chase: A
-      History of World Whaling*. Toronto: Penguin Books.
-375.  []{#c10752*444.xhtml#R375}Frankenfield, D. C., E. R. Muth,
-      and W. A. Rowe. 1998. The Harris-Benedict studies of human basal
-      metabolism: History and limitations. \_Journal of the American
-      Dietetic Association* 98:439--445.
-376.  []{#c10752_444.xhtml#R376}FRED (Federal Reserve Economic
-      Data). 2015. Real gross domestic product per capita.
-      <https://research.stlouisfed.org/fred2/series/A939RX0Q048SBEA>.
-377.  []{#c10752*444.xhtml#R377}Freedman, B. 2014. \_Global Environmental
-      Change*. Amsterdam: Springer Netherlands.
-378.  []{#c10752_444.xhtml#R378}Freedom House. 2015. Freedom in the
-      world 2015.
-      <https://freedomhouse.org/report/freedom-world/freedom-world-2015#.Vfcs74dRGM8>.
-379.  []{#c10752*444.xhtml#R379}Freese, S. 1957. \_Windmills and
-      Millwrighting*. Cambridge: Cambridge University Press.
-380.  []{#c10752*444.xhtml#R380}French, J. C., and C. Collins. 2015.
-      Upper Palaeolithic population histories of southwestern France: A
-      comparison of the demographic signatures of ^14^C date
-      distributions and archaeological site counts. \_Journal of
-      Archaeological Science* 55:122--134.
-381.  []{#c10752*444.xhtml#R381}Friedel, R., and P. Israel. 1986.
-      \_Edison's Electric Light*. New Brunswick, NJ: Rutgers University
-      Press.
-382.  []{#c10752*444.xhtml#R382}Friedman, H. B. 1992. DDT
-      (dichlorodiphenyltrichloroethane): A chemist's tale. \_Journal of
-      Chemical Education* 69:362--365.
-383.  []{#c10752*444.xhtml#R383}Frison, G. C. 1987. Prehistoric hunting
-      strategies. In \_The Evolution of Human Hunting*, ed. M. H. Nitecki
-      and D. V. Nitecki, 177--223. New York: Plenum Press.
-384.  []{#c10752*444.xhtml#R384}Froment, A. 2001. Evolutionary biology
-      and health of hunter-gatherer populations. In \_Hunter-gatherers: An
-      Interdisciplinary Perspective*, ed. C. Panter-Brick, R. Layton
-      and P. Rowley-Conwy, 239--266. Cambridge: Cambridge University
-      Press.
-385.  []{#c10752*444.xhtml#R385}Fry, H. 1896. \_History of North Atlantic
-      Steam Navigation*. London: Sampson, Low, Marston & Company.
-386.  []{#c10752*444.xhtml#R386}Fujimoto, T. 1999. \_The Evolution of a
-      Manufacturing System at Toyota*. New York: Oxford University Press.
-387.  []{#c10752*444.xhtml#R387}Fussell, G. E. 1952. \_The Farmer's Tools,
-      1500--1900*. London: A. Melrose.
-388.  []{#c10752*444.xhtml#R388}Fussell, G. E. 1972. \_The Classical
-      Tradition in West European Farming*. Rutherford: Fairleigh
-      Dickinson University Press.
-389.  []{#c10752*444.xhtml#R389}Gaastra, F. S. 2007. \_The Dutch East
-      India Company*. Zutpen: Walburg Press.
-390.  []{#c10752*444.xhtml#R390}Gaier, C. 1967. The origin of Mons Meg.
-      \_Journal of the Arms and Armour Society London* 5:425--431.
-391.  []{#c10752*444.xhtml#R391}Galaty, J. G., and P. C. Salzman,
-      eds. 1981. \_Change and Development in Nomadic and Pastoral
-      Societies*. Leiden: E. J. Brill.
-392.  []{#c10752*444.xhtml#R392}Gales, B., et al. 2007. North versus
-      South: Energy transition and energy intensity in Europe over 200
-      years. \_European Review of Economic History* 2:219--253.
-393.  []{#c10752*444.xhtml#R393}Galloway, J. A., D. Keene, and M.
-      Murphy. 1996. Fuelling the city: Production and distribution of
-      firewood and fuel in London's region, 1290--1400. \_Economic History
-      Review* 49:447--472.
-394.  []{#c10752*444.xhtml#R394}Galor, O. 2005. \_From Stagnation to
-      Growth: Unified Growth Theory*. Amsterdam: Elsevier.
-395.  []{#c10752*444.xhtml#R395}Gamarra, N. T. 1969. \_Erroneous
-      Predictions and Negative Comments*. Washington, DC: Library of
-      Congress.
-396.  []{#c10752*444.xhtml#R396}Gans, P. J. 2004. The medieval horse
-      harness: Revolution or evolution? A case study in technological
-      change. In \_Villard's Legacy: Studies in Medieval Technology,
-      Science and Art in Memory of Jean Gimpel*, ed. M.-T. Zenner,
-      175--187. London: Routledge.
-397.  []{#c10752*444.xhtml#R397}Garcke, E. 1911. Electric lighting. In
-      \_Encyclopaedia Britannica*, 11th ed., vol. 9., 651--673. Cambridge:
-      Cambridge University Press.
-398.  []{#c10752*444.xhtml#R398}Gardiner, R. 2000. \_The Heyday of Sail:
-      The Merchant Sailing Ship 1650--1830*. New York: Chartwell Books.
-399.  []{#c10752*444.xhtml#R399}Gardner, J., ed. 2011. \_Gilgamesh*. New
-      York: Knopf Doubleday.
-400.  []{#c10752*444.xhtml#R400}Garrett, C., and M. Wade-Matthews. 2015.
-      \_The Ultimate Encyclopedia of Steam and Rail*. London: Southwater
-      Publishing.
-401.  []{#c10752_444.xhtml#R401}Gartner. 2015. Gartner says Smartphone
-      sales surpassed one billion units in 2014.
-      <http://www.gartner.com/newsroom/id/2996817>.
-402.  []{#c10752*444.xhtml#R402}Gaskell, E. 1855. \_North and South*.
-      London: Chapman & Hall.
-403.  []{#c10752*444.xhtml#R403}Gates, D. 2011. \_The Napoleonic Wars
-      1803--1815*. New York: Random House.
-404.  []{#c10752*444.xhtml#R404}Geerdes, M., H. Toxopeus, and C. van der
-      Vliet. 2009. \_Modern Blast Furnace Ironmaking*. Amsterdam: IOS
-      Press.
-405.  []{#c10752*444.xhtml#R405}Geertz, C. 1963. \_Agricultural
-      Involution*. Berkeley: University of California Press.
-406.  []{#c10752*444.xhtml#R406}Gehlsen, D. 2009. \_Social Complexity and
-      the Origins of Agriculture*. Saarbrücken: VDM Verlag.
-407.  []{#c10752*444.xhtml#R407}Georgescu-Roegen, N. 1975. Energy and
-      economic myths. \_Ecologist* 5:164--174, 242--252.
-408.  []{#c10752*444.xhtml#R408}Georgescu-Roegen, N. 1980. Afterword. In
-      \_Entropy: A New World View,* ed. J. Rifkin, 261--269. New York:
-      Viking Press.
-409.  []{#c10752*444.xhtml#R409}Geothermal Energy Association. 2014.
-      \_2014 Annual U.S. & Global Geothermal Power Production Report.*
-      <http://geo-energy.org/events/2014%20Annual%20US%20&%20Global%20Geothermal%20Power%20Production%20Report%20Final.pdf>.
-410.  []{#c10752*444.xhtml#R410}Gerhold, D. 1993. \_Road Transport before
-      the Railways*. Cambridge: Cambridge University Press.
-411.  []{#c10752*444.xhtml#R411}Gesner, J. M., ed. 1735*._ \_Scriptores
-      rei rusticae_. Leipzig: Fritsch.
-412.  []{#c10752*444.xhtml#R412}Giampietro, M., and K. Mayumi. 2009. \_The
-      Biofuel Delusion*. London: Earthscan.
-413.  []{#c10752*444.xhtml#R413}Gies, F., and J. Gies. 1995. \_Cathedral
-      Forge and Waterwheel: Technology and Invention in the Middle Ages*.
-      New York: Harper.
-414.  []{#c10752*444.xhtml#R414}Gill, R. B. 2000. \_The Great Maya
-      Droughts: Water, Life, and Death*. Albuquerque: University of New
-      Mexico Press.
-415.  []{#c10752*444.xhtml#R415}Gille, B. 1978. \_Histoire des
-      techniques*. Paris: Gallimard.
-416.  []{#c10752*444.xhtml#R416}Gimpel, J. 1997. \_The Medieval Machine*.
-      New York: Penguin Books.
-417.  []{#c10752*444.xhtml#R417}Ginouvès, R. 1962. \_Balaneutikè:
-      Recherches sur le bain dans l'antiquité grecque*. Paris: de
-      Boccard.
-418.  []{#c10752*444.xhtml#R418}Glaser, B. 2007. Prehistorically modified
-      soils of central Amazonia: A model for sustainable agriculture in
-      the twenty-first century. \_Philosophical Transactions of the Royal
-      Society of London. Series B, Biological Sciences* 362:187--196.
-419.  []{#c10752_444.xhtml#R419}Global Wind Energy Council. 2015. Global
-      wind statistics 2014.
-      <http://www.gwec.net/wp-content/uploads/2015/02/GWEC_GlobalWindStats2014_FINAL_10.2.2015.pdf>.
-420.  []{#c10752*444.xhtml#R420}Godfrey, F. P. 1982. \_An International
-      History of the Sewing Machine*. London: R. Hale.
-421.  []{#c10752*444.xhtml#R421}Goe, M. R., and R. E. Dowell. 1980.
-      \_Animal Traction: Guidelines for Utilization*. Ithaca, NY: Cornell
-      University, Department of Animal Science.
-422.  []{#c10752*444.xhtml#R422}Gold, B., et al. 1984. \_Technological
-      Progress and Industrial Leadership: The Growth of the U.S. Steel
-      Industry, 1900--1970*. Lexington, MA: D. C. Heath and Co.
-423.  []{#c10752*444.xhtml#R423}Goldsmith. R. W. 1946. The power of
-      Victory: Munitions output in World War II. \_Military Affairs*
-      10:69--80.
-424.  []{#c10752*444.xhtml#R424}Goldstein, D. B., S. Martinez, and R.
-      Roy. 2011. Are there rebound effects from energy efficiency? An
-      analysis of empirical data, internal consistency, and solutions.
-      \_Electricity Policy* 2011:1--18.
-425.  []{#c10752*444.xhtml#R425}Gómez, J. J. H., V. Marquina, and R. W.
-      Gómez. 2013. On the performance of Usain Bolt in the 100 m sprint.
-      \_European Journal of Phycology* 34:1227--1233.
-426.  []{#c10752*444.xhtml#R426}Goren-Inbar, N., et al. 2004. Evidence of
-      hominin control of fire at Gesher Benot Ya'aqov, Israel. \_Science*
-      304:725--727.
-427.  []{#c10752*444.xhtml#R427}Goudsblom, J. 1992. \_Fire and
-      Civilization*. London: Allen Lane.
-428.  []{#c10752*444.xhtml#R428}Grayson, D. K., and F. Delpech. 2002.
-      Specialized early Upper Paleolithic hunters in southwestern France?
-      \_Journal of Archaeological Science* 29:1439--1449.
-429.  []{#c10752*444.xhtml#R429}Greene, A. N. 2008. \_Horses at Work*.
-      Cambridge, MA: Harvard University Press.
-430.  []{#c10752*444.xhtml#R430}Greene, K. 2000. Technological innovation
-      and economic progress in the ancient world: M. I. Finley
-      re-considered. \_Economic History Review* 53:29--59.
-431.  []{#c10752*444.xhtml#R431}Greeno, F. L., ed. 1912. \_Obed Hussey
-      Who, of All Inventors, Made Bread Cheap*. Rochester, NY: Rochester
-      Herald Publishing Co.
-432.  []{#c10752*444.xhtml#R432}Greenwood, W. H. 1907. \_Iron*. London:
-      Cassell.
-433.  []{#c10752*444.xhtml#R433}Griffiths, J. 1992. \_The Third Man: The
-      Life and Times of William Murdoch 1754--1839*. London: Andre
-      Deutsch.
-434.  []{#c10752*444.xhtml#R434}Grigg, D. B. 1974. \_The Agricultural
-      Systems of the World*. Cambridge: Cambridge University Press.
-435.  []{#c10752*444.xhtml#R435}Grigg, D. B. 1992. \_The Transformation of
-      Agriculture in the West*. Oxford: Blackwell.
-436.  []{#c10752*444.xhtml#R436}Grimal, N. 1992. \_A History of Ancient
-      Egypt*. Oxford: Blackwell.
-437.  []{#c10752*444.xhtml#R437}Gronow, P., and I. Saunio. 1999.
-      \_International History of the Recording Industry*. London:
-      Bloomsbury Academic.
-438.  []{#c10752*444.xhtml#R438}Grousset, R. 1938. \_L'empire des
-      steppes*. Paris: Payot.
-439.  []{#c10752*444.xhtml#R439}Grousset, R. 1970. \_The Epic of the
-      Crusades*. New York: Orion Press.
-440.  []{#c10752_444.xhtml#R440}GSI (Global Subsidies Initiative). 2015.
-      Global Subsidies Initiative.
-      <https://www.iisd.org/gsi/fossil-fuel-subsidies>.
-441.  []{#c10752_444.xhtml#R441}Gulflink. 1991. Fast facts about
-      operations Desert Shield/Desert Storm.
-      <http://www.gulflink.osd.mil/timeline/fast_facts.htm>.
-442.  []{#c10752*444.xhtml#R442}Gunston, B. 1986. \_World Encyclopedia of
-      Aero Engines*. Wellingborough: Patrick Stephens.
-443.  []{#c10752*444.xhtml#R443}Gunston, B. 1999. \_The Development of
-      Piston Aero Engines.* Yeovil: Patrick Stephens.
-444.  []{#c10752*444.xhtml#R444}Gunston, B. 2002. \_Aviation: The First
-      100 Years*. Hauppauge, NY: Barron's Educational Series.
-445.  []{#c10752*444.xhtml#R445}Haaland, R., and P. Shinnie, eds. 1985.
-      \_African Iron Working: Ancient and Traditional*. Oslo: Norwegian
-      University Press.
-446.  []{#c10752*444.xhtml#R446}Hadfield, C. 1969. \_The Canal Age*. New
-      York: Praeger.
-447.  []{#c10752*444.xhtml#R447}Hadland, T., and H.-E. Lessing. 2014.
-      \_Bicycle Design: An Illustrated History*. Cambridge, MA: MIT Press.
-448.  []{#c10752*444.xhtml#R448}Haile-Selassie, Y., et al. 2015. New
-      species from Ethiopia further expands Middle Pliocene hominin
-      diversity. \_Nature* 521:483--488.
-449.  []{#c10752*444.xhtml#R449}Hair, T. H. 1844. \_Sketches of the Coal
-      Mines in Northumberland and Durham*. London: J. Madden & Co.
-450.  []{#c10752*444.xhtml#R450}Hammel, E. M. 1985. \_The Root: The
-      Marines in Beirut, August 1982--February 1984*. New York: Harcourt
-      Brace Jovanovich.
-451.  []{#c10752*444.xhtml#R451}Hansell, M. H. 2005. \_Animal
-      Architecture*. Oxford: Oxford University Press.
-452.  []{#c10752*444.xhtml#R452}Hansen, P. V. 1992. Experimental
-      reconstruction of the medieval trebuchet. \_Acta Archaeologica*
-      63:189--208.
-453.  []{#c10752*444.xhtml#R453}Hanson, N. 2011. \_The Confident Hope of a
-      Miracle: The True History of the Spanish Armada*. New York: Random
-      House.
-454.  []{#c10752*444.xhtml#R454}Harlan, J. R. 1975. \_Crops and Man*.
-      Madison, WI: American Society of Agronomy.
-455.  []{#c10752*444.xhtml#R455}Harlow, J. H. 2012. \_Electric Power
-      Transformer Engineering*. Boca Raton, FL: CRC Press.
-456.  []{#c10752*444.xhtml#R456}Harmand, S., et al. 2015.
-      3.3-Million-year-old stone tools from Lomekwi 3, West Turkana,
-      Kenya. \_Nature* 521:310--315.
-457.  []{#c10752*444.xhtml#R457}Harris, J. R. 1988. \_The British Iron
-      Industry 1700--1850*. London: Macmillan.
-458.  []{#c10752*444.xhtml#R458}Harris, M. 1966. The cultural ecology of
-      India's sacred cattle. \_Current Anthropology* 7:51--66.
-459.  []{#c10752*444.xhtml#R459}Harrison, P. D., and B. L. Turner,
-      eds. 1978. \_Pre-Hispanic Maya Agriculture*. Albuquerque: University
-      of New Mexico Press.
-460.  []{#c10752*444.xhtml#R460}Harris, J. A., and F. G. Benedict. 1919.
-      \_A Biometric Study of Basal Metabolism in Man*. Washington, DC:
-      Carnegie Institution.
-461.  []{#c10752*444.xhtml#R461}Hart, J. F. 2004. \_The Changing Scale of
-      American Agriculture*. Charlottesville: University of Virginia
-      Press.
-462.  []{#c10752*444.xhtml#R462}Hartmann, F. 1923. \_L'agriculture dans
-      l'ancienne Egypte*. Paris: Libraire-Imprimerie Réunies.
-463.  []{#c10752*444.xhtml#R463}Harverson, M. 1991. \_Persian Windmills*.
-      The Hague: International Molinological Society.
-464.  []{#c10752*444.xhtml#R464}Hashimoto, T., et al. 2013. Hand before
-      foot? Cortical somatotopy suggests manual dexterity is primitive
-      and evolved independently of bipedalism. \_Philosophical
-      Transactions B* 368 (1630): 1--12.
-465.  []{#c10752*444.xhtml#R465}Hassan, F. A. 1984. Environment and
-      subsistence in Predynastic Egypt. In \_From Hunters to Farmers*,
-      ed. J. D. Clark and S. A. Brandt, 57--64. Berkeley: University of
-      California Press.
-466.  []{#c10752*444.xhtml#R466}Haudricourt, A. G., and M. J. B.
-      Delamarre. 1955. \_L'Homme et la Charrue à travers le Monde*. Paris:
-      Gallimard.
-467.  []{#c10752*444.xhtml#R467}Haug, G. H., et al. 2003. Climate and
-      collapse of Maya civilization. \_Science* 299:1731--1735.
-468.  []{#c10752*444.xhtml#R468}Haugaasen, J. M. T., et al. 2010. Seed
-      dispersal of the Brazil nut tree (\_Bertholletia excelsa*) by
-      scatter-hoarding rodents in a central Amazonian forest. _Journal of
-      Tropical Ecology_ 26:251--262.
-469.  []{#c10752*444.xhtml#R469}Hausman, W. J., P. Hertner, and M.
-      Wilkins. 2008. \_Global Electrification: Multinational Enterprise
-      and International Finance in the History of Light and Power,
-      1878--2007*. Cambridge: Cambridge University Press.
-470.  []{#c10752*444.xhtml#R470}Hawkes, K., J. F. O'Connell, and N. G.
-      Blurton Jones. 2001. Hadza meat sharing. \_Evolution and Human
-      Behavior* 22:113--142.
-471.  []{#c10752*444.xhtml#R471}Hayden, B. 1981. Subsistence and
-      ecological adaptations of modern hunter/gatherers. In \_Omnivorous
-      Primates*, ed. R. S. O. Harding and G. Teleki, 344--421. New York:
-      Columbia University Press.
-472.  []{#c10752*444.xhtml#R472}Haynie, D. 2001. \_Biological
-      Thermodynamics*. Cambridge: Cambridge University Press.
-473.  []{#c10752*444.xhtml#R473}Headland, T. N., and L. A. Reid. 1989.
-      Hunter-gatherers and their neighbors from prehistory to the
-      present. \_Current Anthropology* 30:43--66.
-474.  []{#c10752*444.xhtml#R474}Heidenreich, C. 1971. \_Huronia: A History
-      and Geography of the Huron Indians*. Toronto: McClelland and
-      Stewart.
-475.  []{#c10752*444.xhtml#R475}Heinrich, B. 2001. \_Racing the Antelope:
-      What Animals Can Teach Us about Running and Life*. New York:
-      HarperCollins.
-476.  []{#c10752*444.xhtml#R476}Heizer, R. F. 1966. Ancient heavy
-      transport, methods and achievements. \_Science* 153:821--830.
-477.  []{#c10752*444.xhtml#R477}Helland, J. 1980. \_Five Essays on the
-      Study of Pastoralists and the Development of Pastoralism*. Bergen:
-      Universitet i Bergen.
-478.  []{#c10752*444.xhtml#R478}Helliwell, J. F., R. Layard, and J. Sachs
-      eds. 2015. \_World Happiness Report 2015*.
-      <http://worldhappiness.report/wp-content/uploads/sites/2/2015/04/WHR15-Apr29-update.pdf>.
-479.  []{#c10752*444.xhtml#R479}Hemphill, R. 1990. Le transport de
-      l'obélisque du Vatican. \_Etudes Francaises* 26 (3): 111--116.
-480.  []{#c10752*444.xhtml#R480}Henry, A. G., A. S. Brooks, and D. R.
-      Piperno. 2014. Plant foods and the dietary ecology of Neanderthals
-      and early modern humans. \_Journal of Human Evolution* 69:44--54.
-481.  []{#c10752*444.xhtml#R481}Heppenheimer, T. A. 1995. \_Turbulent
-      Skies: The History of Commercial Aviation*. New York: John Wiley.
-482.  []{#c10752*444.xhtml#R482}Herlihy, D. V. 2004. \_Bicycle: The
-      History*. New Haven, CT: Yale University Press.
-483.  []{#c10752*444.xhtml#R483}Herodotus. n.d. \_Book of Histories*.
-      Excerpt at
-      <http://www.cheops-pyramide.ch/khufu-pyramid/herodotus.html>.
-484.  []{#c10752*444.xhtml#R484}Herring, H. 2004. Rebound effect in
-      energy conservation. In \_Encyclopedia of Energy*, ed. C. Cleveland
-      et al., vol. 5, pp. 411--423. Amsterdam: Elsevier.
-485.  []{#c10752*444.xhtml#R485}Herring, H. 2006. Energy efficiency: A
-      critical view. \_Energy* 31:10--20.
-486.  []{#c10752*444.xhtml#R486}Heston, A. 1971. An approach to the
-      sacred cow of India. \_Current Anthropology* 12:191--209.
-487.  []{#c10752*444.xhtml#R487}Heyne, E. G., ed. 1987. \_Wheat and Wheat
-      Improvement*. Madison, WI: American Society of Agronomy.
-488.  []{#c10752*444.xhtml#R488}Hildinger, E. 1997. \_Warriors of the
-      Steppe: A Military History of Central Asia, 500 B.C. to A.D. 1700*.
-      New York: Sarpedon Publishers.
-489.  []{#c10752*444.xhtml#R489}Hill, A. V. 1922. The maximum work and
-      mechanical efficiency of human muscles and their most economical
-      speed. \_Journal of Physiology* 56:19--41.
-490.  []{#c10752*444.xhtml#R490}Hill, D. 1984. \_A History of Engineering
-      in Classical and Medieval Times*. La Salle, IL: Open Court
-      Publishing.
-491.  []{#c10752*444.xhtml#R491}Hills, R. 1989. \_Power from Steam: A
-      History of the Stationary Steam Engine*. Cambridge: Cambridge
-      University Press.
-492.  []{#c10752*444.xhtml#R492}Hindle, B., ed. 1975. \_America's Wooden
-      Age: Aspects of Its Early Technology*. Tarrytown, NY: Sleepy Hollow
-      Restorations.
-493.  []{#c10752*444.xhtml#R493}Hippisley, J. C. 1823. \_Prison
-      Treadmills*. London: W Nicol.
-494.  []{#c10752*444.xhtml#R494}Hitchcock, R. K., and J. I. Ebert. 1984.
-      Foraging and food production among Kalahari hunter/gatherers. In
-      \_From Hunters to Farmers*, ed. J. D. Clark and S. A. Brandt,
-      328--348. Berkeley: University of California Press.
-495.  []{#c10752*444.xhtml#R495}Ho, P. 1975. \_The Cradle of the East*.
-      Hong Kong: Chinese University of Hong Kong Press.
-496.  []{#c10752*444.xhtml#R496}Hodge, A. T. 1990. A Roman factory.
-      \_Scientific American* 263 (5): 106--111.
-497.  []{#c10752*444.xhtml#R497}Hodge, A. T. 2001. \_Roman Aqueducts &
-      Water Supply*. London: Duckworth.
-498.  []{#c10752*444.xhtml#R498}Hodges, P. 1989. \_How the Pyramids Were
-      Built*. Longmead: Element Books.
-499.  []{#c10752*444.xhtml#R499}Hoffmann, H. 1953. \_Die chemische
-      Veredlung der Steinkohle durch Verkokung*.
-      <http://epic.awi.de/23532/1/Hof1953a.pdf>.
-500.  []{#c10752*444.xhtml#R500}Hogan, W. T. 1971. \_Economic History of
-      the Iron and Steel Industry in the United States*. 5 vols.
-      Lexington, MA: Lexington Books.
-501.  []{#c10752*444.xhtml#R501}Hogg, I. V. 1997. \_German Artillery of
-      World War Two*. Mechanicsville, PA: Stackpole Books.
-502.  []{#c10752*444.xhtml#R502}Holley, I. B. 1964. \_Buying Aircraft:
-      Matérial Procurement for the Army Air Forces*. Washington, DC:
-      Department of the Army.
-503.  []{#c10752*444.xhtml#R503}Holliday, M. A. 1986. Body composition
-      and energy needs during growth. In \_Human Growth: A Comprehensive
-      Treatise*, ed. F. Falkner and J. M. Tanner, vol. 2, 101--117. New
-      York: Plenum Press.
-504.  []{#c10752*444.xhtml#R504}Holt, P. M. 2014. \_The Age of the
-      Crusades: The Near East from the Eleventh Century to 1517*. London:
-      Routledge.
-505.  []{#c10752*444.xhtml#R505}Holt, R. 1988. \_The Mills of Medieval
-      England*. Oxford: Oxford University Press.
-506.  []{#c10752*444.xhtml#R506}Homewood, K. 2008. \_Ecology of African
-      Pastoralist Societies*. Oxford: James Curry.
-507.  []{#c10752*444.xhtml#R507}Hommel, R. P. 1937. \_China at Work*.
-      Doylestown, PA: Bucks County Historical Society.
-508.  []{#c10752*444.xhtml#R508}Hong, S. 2001. \_Wireless: From Marconi's
-      Black-Box to the Audio*. Cambridge, MA: MIT Press.
-509.  []{#c10752*444.xhtml#R509}Hopfen, H. J. 1969. \_Farm Implements for
-      Arid and Tropical Regions*. Rome: FAO.
-510.  []{#c10752*444.xhtml#R510}Hough, R. and D. Richards. 2007. \_Battle
-      of Britain*. Barnsley: Pen & Sword Aviation.
-511.  []{#c10752*444.xhtml#R511}Hounshell, D. A. 1981. Two paths to the
-      telephone. \_Scientific American* 244 (1): 157--163.
-512.  []{#c10752*444.xhtml#R512}Howell, J. M. 1987. Early farming in
-      Northwestern Europe. \_Scientific American* 257 (5): 118--126.
-513.  []{#c10752*444.xhtml#R513}Howell, J. W., and H. Schroeder. 1927.
-      \_The History of the Incandescent Lamp*. Schenectady, NY: Maqua Co.
-514.  []{#c10752*444.xhtml#R514}Hoyt, E. P. 2000. \_Inferno: The Fire
-      Bombing of Japan, March 9--August 15, 1945*. New York: Madison
-      Books.
-515.  []{#c10752*444.xhtml#R515}Hua, J. 1983. The mass production of iron
-      castings in ancient China. \_Scientific American* 248:120--128.
-516.  []{#c10752*444.xhtml#R516}Huang, N. 1958. \_China Will Overtake
-      Britain*. Beijing: Foreign Languages Press.
-517.  []{#c10752*444.xhtml#R517}Hubbard, F. H. 1981. \_Encyclopedia of
-      North American railroading: 150 years of railroading in the United
-      States and Canada*. New York: McGraw-Hill.
-518.  []{#c10752*444.xhtml#R518}Hublin, J.-J., and M. P. Richards,
-      eds. 2009. \_The Evolution of Hominin Diets: Integrating Approaches
-      to the Study of Palaeolithic Subsistence*. Berlin: Springer.
-519.  []{#c10752*444.xhtml#R519}Hudson, P. 1990. Proto-industrialisation.
-      \_Recent Findings of Research in Economics and Social History*
-      10:1--4.
-520.  []{#c10752*444.xhtml#R520}Hughes, Thomas P. 1983. \_Networks of
-      Power*. Baltimore, MD: Johns Hopkins University Press.
-521.  []{#c10752*444.xhtml#R521}Hugill, P. J. 1993. \_World Trade Since
-      1431*. Baltimore, MD: Johns Hopkins University Press.
-522.  []{#c10752*444.xhtml#R522}Humphrey, W. S., and J. Stanislaw. 1979.
-      Economic growth and energy consumption in the UK, 1700--1975.
-      \_Energy Policy* 7:29--42.
-523.  []{#c10752*444.xhtml#R523}Hunley, J. D. 1995. The Enigma of
-      Robert H. Goddard. \_Technology and Culture* 36:327--350.
-524.  []{#c10752*444.xhtml#R524}Hunter, L. C. 1975. Water power in the
-      century of steam. In \_America's Wooden Age: Aspects of Its Early
-      Technology*, ed. B. Hindle, 160--192. Tarrytown, PA: Sleepy Hollow
-      Restorations.
-525.  []{#c10752*444.xhtml#R525}Hunter, L. 1979. \_A History of Industrial
-      Power in the US, 1780--1930*, vol. 1. Charlottesville: University
-      of Virginia Press.
-526.  []{#c10752*444.xhtml#R526}Hunter, L. C., and L. Bryant. 1991. \_A
-      History of Industrial Power in the United States, 1780--1930*. Vol.
-      3, _The Transmission of Power_. Cambridge, MA: MIT Press.
-527.  []{#c10752*444.xhtml#R527}Husslage, G. 1965. \_Windmolens: Een
-      overzicht van de verschillende molensoorten en hun werkwijze*.
-      Amsterdam: Heijnis.
-528.  []{#c10752*444.xhtml#R528}Huurdeman, A. A. 2003. \_The Worldwide
-      History of Telecommunications*. New York: John Wiley & Sons.
-529.  []{#c10752*444.xhtml#R529}Hyde, C. K. 1977. \_Technological Change
-      and the British Iron Industry 1700--1870*. Princeton, NJ: Princeton
-      University Press.
-530.  []{#c10752*444.xhtml#R530}Hyland, A. 1990. \_Equus: The Horse in the
-      Roman World*. New Haven, CT: Yale University Press.
-531.  []{#c10752_444.xhtml#R531}IBIS World. 2015. Bicycle manufacturing
-      in China.
-      <http://www.ibisworld.com/industry/china/bicycle-manufacturing.html>.
-532.  []{#c10752*444.xhtml#R532}IEA (International Energy Agency). 2015a.
-      \_Energy Balances of Non-OECD Countries*. Paris: IEA.
-533.  []{#c10752_444.xhtml#R533}IEA. 2015b. World balance.
-      <http://www.iea.org/sankey>.
-534.  []{#c10752*444.xhtml#R534}Ienaga, S. 1978. \_The Pacific War,
-      1931--1945*. New York: Pantheon Books.
-535.  []{#c10752*444.xhtml#R535}ICCT (International Council on Clean
-      Transportation). 2014. \_European Vehicle Market Statistics.
-      Pocketbook 2014*.
-      <http://www.theicct.org/sites/default/files/publications/EU_pocketbook_2014.pdf>.
-536.  []{#c10752_444.xhtml#R536}IFIA (International Fertilizer Industry
-      Association). 2015. Market outlook reports.
-      <http://www.fertilizer.org/MarketOutlooks>.
-537.  []{#c10752*444.xhtml#R537}Illich, I. 1974. \_Energy and Equity*. New
-      York: Harper and Row.
-538.  []{#c10752_444.xhtml#R538}IMF (International Monetary Fund). 2015.
-      Counting the cost of energy subsidies.
-      <http://www.imf.org/external/pubs/ft/survey/so/2015/new070215a.htm>.
-539.  []{#c10752_444.xhtml#R539}Intel. 2015. Moore's law and Intel
-      innovation.
-      <http://www.intel.com/content/www/us/en/history/museum-gordon-moore-law.html>.
-540.  []{#c10752_444.xhtml#R540}International Labour Organization. 2015.
-      Forced labour, human trafficking and slavery.
-      <http://www.ilo.org/global/topics/forced-labour/lang--en/index.htm>.
-541.  []{#c10752*444.xhtml#R541}IPCC (Intergovernmental Panel on Climate
-      Change). 2015. \[\_Synthesis Report Summary for Policymakers*.
-      Geneva: IPCC.\] _Climatic Change_:2014.
-542.  []{#c10752*444.xhtml#R542}Irons, W., and N. Dyson-Hudson,
-      eds. 1972. \_Perspective on Nomadism*. Leiden: E. J. Brill.
-543.  []{#c10752*444.xhtml#R543}IRRI (International Rice Research
-      Institute). 2015. Rice milling.
-      <http://www.knowledgebank.irri.org/ericeproduction/PDF*&\_Docs/Teaching_Manual_Rice_Milling.pdf>.
-544.  []{#c10752*444.xhtml#R544}Jakab, P. L. 1990. \_Visions of a Flying
-      Machine: The Wright Brothers and the Process of Invention*.
-      Washington, DC: Smithsonian Institution Press.
-545.  []{#c10752_444.xhtml#R545}Jamasmie, C. 2015. End of an era for UK
-      coal mining: Last mines close up shop.
-      <http://www.mining.com/end-of-an-era-for-uk-coal-mining-last-mines-close-up-shop>.
-546.  []{#c10752*444.xhtml#R546}James, A. 2015. \_Global PV Demand Outlook
-      2015--2020: Exploring Risk in Downstream Solar Markets*. GTM
-      Research, June.
-      <http://www.greentechmedia.com/research/report/global-pv-demand-outlook-2015-2020>.
-547.  []{#c10752*444.xhtml#R547}Janick, J. 2002. Ancient Egyptian
-      agriculture and the origins of horticulture. \_Acta Horticulturae*
-      582:23--39.
-548.  []{#c10752*444.xhtml#R548}Jansen, M. B. 2000. \_The Making of Modern
-      Japan*. Cambridge, MA: Belknap Press of Harvard University Press.
-549.  []{#c10752*444.xhtml#R549}Jehl, F. 1937. \_Menlo Park
-      Reminiscences*. Dearborn, MI: Edison Institute.
-550.  []{#c10752*444.xhtml#R550}Jenkins, B. 1993. \_Properties of Biomass,
-      Appendix to Biomass Energy Fundamentals*. Palo Alto, CA: EPRI.
-551.  []{#c10752*444.xhtml#R551}Jenkins, R. 1936. \_Links in the History
-      of Engineering and Technology from Tudor Times*. Cambridge:
-      Cambridge University Press.
-552.  []{#c10752*444.xhtml#R552}Jensen, H. 1969. \_Sign, Symbol and
-      Script*. New York: G. P. Putnam's Sons.
-553.  []{#c10752*444.xhtml#R553}Jevons, W. S. 1865. \_The Coal Question:
-      An Inquiry Concerning the Progress of the Nation, and the Probable
-      Exhaustion of our Coal Mines*. London: Macmillan.
-554.  []{#c10752*444.xhtml#R554}Jing, Y., and R. K. Flad. 2002. Pig
-      domestication in ancient China. \_Antiquity* 76:724--732.
-555.  []{#c10752*444.xhtml#R555}Johannsen, O. 1953. \_Geschichte des
-      Eisens*. Dusseldorf: Verlag Stahleisen.
-556.  []{#c10752*444.xhtml#R556}Johanson, D. 2006. How bipedalism arose.
-      PBS, \_Nova*, October 1.
-      <http://www.pbs.org/wgbh/nova/evolution/what-evidence-suggests.html>.
-557.  []{#c10752*444.xhtml#R557}Johnson, E. D. 1973. \_Communication: An
-      Introduction to the History of the Alphabet, Writing, Printing,
-      Books, and Libraries*. Metuchen, NJ: Scarecrow Press.
-558.  []{#c10752*444.xhtml#R558}Jones, C. F. 2014. \_Routes of Power*.
-      Cambridge, MA: Harvard University Press.
-559.  []{#c10752*444.xhtml#R559}Jones, H. M. 1971. \_The Age of Energy*.
-      New York: Viking Press.
-560.  []{#c10752*444.xhtml#R560}Jones, H. 1973. \_Steam Engines*. London:
-      Ernest Benn.
-561.  []{#c10752*444.xhtml#R561}Josephson, M. 1959. \_Edison: A
-      Biography*. New York: McGraw-Hill.
-562.  []{#c10752*444.xhtml#R562}J.P. Morgan. 2015. \_A Brave New World:
-      Deep Decarbonization of Electricity Grids*. New York: J. P. Morgan.
-563.  []{#c10752*444.xhtml#R563}Juleff, G. 2009. Technology and
-      evolution: A root and branch view of Asian iron from
-      first-millennium BC Sri Lanka to Japanese steel. \_World
-      Archaeology* 41:557--577.
-564.  []{#c10752*444.xhtml#R564}Junqueira, A. B, G. H. Shepard, and C. R.
-      Clement. 2010. Secondary forests on anthropogenic soils in
-      Brazilian Amazonia conserve agrobiodiversity. \_Biodiversity and
-      Conservation* 19:1933--1961.
-565.  []{#c10752*444.xhtml#R565}Kander, A. 2013. The second and third
-      industrial revolutions. In \_Power to the People: Energy in Europe
-      Over the Last Five Centuries*, by A. Kander, P. Malanima, and P.
-      Warde, 249--386. Princeton, NJ: Princeton University Press.
-566.  []{#c10752*444.xhtml#R566}Kander, A., P. Malanima, and P.
-      Warde. 2013. \_Power to the People: Energy in Europe over the Last
-      Five Centuries*. Princeton, NJ: Princeton University Press.
-567.  []{#c10752*444.xhtml#R567}Kander, A., and P. Warde. 2011. Energy
-      availability from livestock and agricultural productivity in
-      Europe, 1815--1913: A new comparison. \_The Economic History Review*
-      64:1--29.
-568.  []{#c10752*444.xhtml#R568}Kanigel, R. 1997. \_The One Best Way:
-      Frederick Winslow Taylor and the Enigma of Efficiency*. New York:
-      Viking.
-569.  []{#c10752*444.xhtml#R569}Kaplan, D. 2000. The darker side of the
-      "Original Affluent Society." \_Journal of Anthropological Research*
-      56:301--324.
-570.  []{#c10752*444.xhtml#R570}Karim, M. R., and M. S. H. Fatt. 2005.
-      Impact of the Boeing 767 aircraft into the World Trade Center.
-      \_Journal of Engineering Mechanics* 131:1066--1072.
-571.  []{#c10752*444.xhtml#R571}Karkanas, P., et al. 2007. Evidence for
-      habitual use of fire at the end of the Lower Paleolithic:
-      Site-formation processes at Qesem Cave, Israel. \_Journal of Human
-      Evolution* 53:197--212.
-572.  []{#c10752*444.xhtml#R572}Kaufer, D. S., and K. M. Carley. 1993.
-      \_Communication at a Distance: The Influence of Print on
-      Sociocultural Organization and Change*. Hillsdale, NJ: Lawrence
-      Erlbaum Associates.
-573.  []{#c10752*444.xhtml#R573}Kaufmann, R. K. 1992. A biophysical
-      analysis of the energy/real GDP ratio: Implications for
-      substitution and technical change. \_Ecological Economics* 6:35--56.
-574.  []{#c10752*444.xhtml#R574}Kay, J. P. 1832. \_The Moral and Physical
-      Condition of the Working Classes Employed in the Cotton Manufacture
-      in Manchester*. London: Ridgway.
-575.  []{#c10752*444.xhtml#R575}Keay, J. 2010. \_The Honourable Company: A
-      History of the English East India Company*. London: HarperCollins
-      UK.
-576.  []{#c10752*444.xhtml#R576}Keegan, J. 1994. \_A History of Warfare*.
-      New York: Vintage.
-577.  []{#c10752*444.xhtml#R577}Keeling, C. D. 1998. Rewards and
-      penalties of monitoring the Earth. \_Annual Review of Energy and the
-      Environment* 23: 25--82.
-578.  []{#c10752*444.xhtml#R578}Kelly, R. L. 1983. Hunter-gatherer
-      mobility strategies. \_Journal of Anthropological Research*
-      39:277--306.
-579.  []{#c10752*444.xhtml#R579}Kendall, A. 1973. \_Everyday Life of
-      Incas*. London: B. T. Batsford.
-580.  []{#c10752*444.xhtml#R580}Kennedy, C. A., et al. 2015. Energy and
-      material flows of megacities. \_Proceedings of the National Academy
-      of Sciences of the United States of America* 112:5985--5990.
-581.  []{#c10752*444.xhtml#R581}Kennedy, E. 1941. \_The Automobile
-      Industry: The Coming of Age of Capitalism's Favorite Child*. New
-      York: Reynal & Hitchcock.
-582.  []{#c10752*444.xhtml#R582}Kesaris, P. 1977. \_Manhattan Project:
-      Official History and Documents*. Washington, DC: University
-      Publications of America.
-583.  []{#c10752_444.xhtml#R583}Khaira, G. 2009. Coal transportation
-      logistics. Annual Community Coal Forum, Tumbler Ridge, BC.
-584.  []{#c10752*444.xhtml#R584}Khalturin, V. I., et al. 2005. A review
-      of nuclear testing by the Soviet Union at Novaya Zemlya,
-      1955--1990. \_Science & Global Security* 13 (1): 1--42.
-585.  []{#c10752*444.xhtml#R585}Khazanov, A. M. 1984. \_Nomads and the
-      Outside World*. Cambridge: Cambridge University Press.
-586.  []{#c10752*444.xhtml#R586}Khazanov, A. M. 2001. \_Nomads in the
-      Sedentary World*. London: Curzon.
-587.  []{#c10752*444.xhtml#R587}Kilby, Jack S. 1964. \_Miniaturized
-      Electronic Circuits*. U.S. Patent 3,138,743, June 23, 1964.
-      Washington, DC: USPTO.
-588.  []{#c10752*444.xhtml#R588}King, C. D. 1948. \_Seventy-five Years of
-      Progress in Iron and Steel*. New York: American Institute of Mining
-      and Metallurgical Engineers.
-589.  []{#c10752*444.xhtml#R589}King, F. H. 1927. \_Farmers of Forty
-      Centuries*. New York: Harcourt, Brace & Co.
-590.  []{#c10752*444.xhtml#R590}King, P. 2011. The choice of fuel in the
-      eighteenth century iron industry: The Coalbrookdale accounts
-      reconsidered. \_Economic History Review* 64:132--156.
-591.  []{#c10752*444.xhtml#R591}King, R. 2000. \_Brunelleschi's Dome: How
-      a Renaissance Genius Reinvented Architecture*. London: Chatto &
-      Windus.
-592.  []{#c10752*444.xhtml#R592}King, P. 2005. The production and
-      consumption of bar iron in early modern England and Wales.
-      \_Economic History Review* 58:1--33.
-593.  []{#c10752*444.xhtml#R593}Kingdon, J. 2003. \_Lowly Origin: Where,
-      When, and Why Our Ancestors First Stood Up*. Princeton, NJ:
-      Princeton University Press.
-594.  []{#c10752*444.xhtml#R594}Klein, H. A. 1978. Pieter Bruegel the
-      Elder as a guide to 16th-century technology. \_Scientific American*
-      238 (3): 134--140.
-595.  []{#c10752*444.xhtml#R595}Klima, B. 1954. Paleolithic huts at Dolni
-      Vestonice, Czechoslovakia. \_Antiquity* 28:4--14.
-596.  []{#c10752*444.xhtml#R596}Kloss, E. 1963. \_Der Luftkrieg über
-      Deutschland, 1939--1945*. Munich: DTV.
-597.  []{#c10752*444.xhtml#R597}Komlos, J. 1988. Agricultural
-      productivity in America and Eastern Europe: A comment. \_Journal of
-      Economic History* 48:664--665.
-598.  []{#c10752*444.xhtml#R598}Konrad, T. 2010. MV Mont, Knock Nevis,
-      Jahre Viking---World's largest supertanker. \_gCaptain* July
-      18,2020.
-      <http://gcaptain.com/mont-knock-nevis-jahre-viking-worlds-largest-tanker-ship/#.Vc3zB4dRGM8>.
-599.  []{#c10752*444.xhtml#R599}Kongshaug, G. 1998. \_Energy Consumption
-      and Greenhouse Gas Emissions in Fertilizer Production*. Paris:
-      International Fertilizer Association.
-600.  []{#c10752*444.xhtml#R600}Kopparapu, R. K., et al. 2014. Habitable
-      zones around main sequence stars: Dependence on planetary mass.
-      \_Astrophysical Journal. Letters* 787:L29.
-601.  []{#c10752*444.xhtml#R601}Kranzberg, M., and C. W. Pursell,
-      eds. 1967. \_Technology in Western Civilization*, vol. 1. New York:
-      Oxford University Press.
-602.  []{#c10752*444.xhtml#R602}Krausmann, F., and H. Haberl. 2002. The
-      process of Industrialization from an energetic metabolism point of
-      view: Socio-economic energy flows in Austria 1830--1995.
-      \_Ecological Economics* 41:177--201.
-603.  []{#c10752*444.xhtml#R603}Kumar, S. N. 2004. Tanker transportation.
-      In \_Encyclopedia of Energy*, vol. 6, ed. C. Cleveland et al.,
-      1--12. Amsterdam: Elsevier.
-604.  []{#c10752_444.xhtml#R604}Kushnirs, I. 2015. Gross Domestic Product
-      (GDP) in USSR.
-      <http://kushnirs.org/macroeconomics/gdp/gdp_ussr.html#leader1>.
-605.  []{#c10752*444.xhtml#R605}Kuthan, J. and J. Royt. 2011. \_Katedrála
-      sv. Víta, Václava a Vojtěcha: Svatyně českých patronů a králů.*
-      Praha: Nakladatelství Lidové noviny.
-606.  []{#c10752*444.xhtml#R606}Kuthan, M., et al. 2003. Domestication of
-      wild \_Saccharomyces cerevisiae* is accompanied by changes in gene
-      expression and colony morphology. _Molecular Microbiology_
-      47:745--754.
-607.  []{#c10752*444.xhtml#R607}Kuznets, S. S. 1971. \_Economic Growth of
-      Nations: Total Output and Production Structure*. Cambridge, MA:
-      Belknap Press of Harvard University Press.
-608.  []{#c10752*444.xhtml#R608}Lacey, J. M. 1935. \_A Comprehensive
-      Treatise on Practical Mechanics*. London: Technical Press.
-609.  []{#c10752*444.xhtml#R609}Laloux, R., et al. 1980. Nutrition and
-      fertilization of wheat. In \_Wheat*, 19--24. Basel: CIBA-Geigy.
-610.  []{#c10752*444.xhtml#R610}Lancaster, L. C. 2005. \_Concrete Vaulted
-      Construction in Imperial Rome: Innovations in Context*. Cambridge:
-      Cambridge University Press.
-611.  []{#c10752*444.xhtml#R611}Landels, J. G. 1980. \_Engineering in the
-      Ancient World*. London: Chatto & Windus.
-612.  []{#c10752*444.xhtml#R612}Landes, David. 1969. \_The Unbound
-      Prometheus: Technological Change and Industrial Development in
-      Western Europe from 1750 to the Present*. Cambridge: Cambridge
-      University Press.
-613.  []{#c10752*444.xhtml#R613}Langdon, J. 1986. \_Horses, Oxen, and
-      Technological Innovation*. Cambridge: Cambridge University Press.
-614.  []{#c10752_444.xhtml#R614}Lannoo, B. 2013. Energy consumption of
-      ICT networks. Brussels: TREND Final Workshop.
-      <http://www.fp7-trend.eu/.../energyconsumptionincentives-energy-efficient-net>.
-615.  []{#c10752*444.xhtml#R615}Lardy, N. 1983. \_Agriculture in China's
-      Modern Economic Development*. Cambridge: Cambridge University
-      Press.
-616.  []{#c10752*444.xhtml#R616}Latimer, B. 2005. The perils of being
-      bipedal. \_Annals of Biomedical Engineering* 33:3--6.
-617.  []{#c10752*444.xhtml#R617}Lawler, A. 2016. Megaproject asks: What
-      drove the Vikings? \_Science* 352:280--281.
-618.  []{#c10752*444.xhtml#R618}Layard, A. H. 1853. \_Discoveries among
-      the Ruins of Nineveh and Babylon*. New York: G.P. Putnam & Company.
-619.  []{#c10752*444.xhtml#R619}Layard, R. 2005. \_Happiness: Lessons from
-      a New Science*. New York: Penguin Press.
-620.  []{#c10752*444.xhtml#R620}Layton, E. T. 1979. Scientific
-      technology, 1845--1900: The hydraulic turbine and the origins of
-      American industrial research. \_Technology and Culture* 20:64--89.
-621.  []{#c10752*444.xhtml#R621}Leach, E. R. 1959. Hydraulic society in
-      Ceylon. \_Past & Present* 15:2--26.
-622.  []{#c10752*444.xhtml#R622}Lécuyer, C., and D. C. Brock. 2010.
-      \_Makers of the Microchip*. Cambridge, MA: MIT Press.
-623.  []{#c10752*444.xhtml#R623}Lee, R. B., and R. Daly, eds. 1999. \_The
-      Cambridge Encyclopaedia of Hunters and Gatherers*. Cambridge:
-      Cambridge University Press.
-624.  []{#c10752*444.xhtml#R624}Lee, R. B., and I. DeVore, eds. 1968.
-      \_Man the Hunter*. New York: Aldine de Gruyter.
-625.  []{#c10752*444.xhtml#R625}Lefebvre des Noëttes, R. 1924. \_La Force
-      Motrice animale à travers les Âges*. Paris: Berger-Levrault.
-626.  []{#c10752*444.xhtml#R626}Legge, A. J., and P. A.
-      Rowley-Conwy. 1987. Gazelle killing in Stone Age Syria. \_Scientific
-      American* 257 (2): 88--95.
-627.  []{#c10752*444.xhtml#R627}Lehner, M. 1997. \_The Complete Pyramids*.
-      London: Thames and Hudson.
-628.  []{#c10752_444.xhtml#R628}Lenin, V. I. 1920. Speech delivered to
-      the Moscow Gubernia Conference of the R.C.P. (B.), November
-      21, 1920.
-      <https://www.marxists.org/archive/lenin/works/1920/nov/21.htm>.
-629.  []{#c10752*444.xhtml#R629}Lenstra, J. A., and D. G. Bradley. 1999.
-      Systematics and phylogeny of cattle. In \_The Genetics of Cattle*,
-      ed. R. Fries and A. Ruvinsky, 1--14. Wallingford: CABI.
-630.  []{#c10752*444.xhtml#R630}Leon, P. 1998. \_The Discovery and
-      Conquest of Peru, Chronicles of the New World Encounter*, ed. and
-      trans. A. P. Cook and N. D. Cook. Durham, NC: Duke University
-      Press.
-631.  []{#c10752*444.xhtml#R631}Leonard, W. R., J. J. Snodgrass,
-      and M. L. Robertson. 2007. Effects of brain evolution on human
-      nutrition and metabolism. \_Annual Review of Nutrition* 27:311--327.
-632.  []{#c10752*444.xhtml#R632}Leonard, W. R., et al. 2003. Metabolic
-      correlates of hominid brain evolution. \_Comparative Biochemistry
-      and Physiology Part A* 136:5--15.
-633.  []{#c10752*444.xhtml#R633}Lepre, J. P. 1990. \_The Egyptian
-      Pyramids*. Jefferson, NC: McFarland & Co.
-634.  []{#c10752*444.xhtml#R634}Lerche, G. 1994. \_Ploughing Implements
-      and Tillage Practices in Denmark from the Viking Period to about
-      1800: Experimentally Substantiated*. Herning: P. Kristensen.
-635.  []{#c10752*444.xhtml#R635}Leser, P. 1931. \_Entstehung und
-      Verbreitung des Pfluges*. Münster: Aschendorff.
-636.  []{#c10752*444.xhtml#R636}Lesser, I. O. 1991. \_Oil, the Persian
-      Gulf, and Grand Strategy*. Santa Monica, CA: Rand Corp.
-637.  []{#c10752*444.xhtml#R637}Leveau, P. 2006. \_Les moulins de Barbegal
-      (1986--2006)* _._ <http://traianus.rediris.es>.
-638.  []{#c10752*444.xhtml#R638}Levine, A. J. 1992. \_The Strategic
-      Bombing of Germany, 1940--1945*. London: Greenwood.
-639.  []{#c10752*444.xhtml#R639}Levinson, M. 2006. \_The Box: How the
-      Shipping Container Made the World Smaller and the World Economy
-      Bigger*. Princeton, NJ: Princeton University Press.
-640.  []{#c10752*444.xhtml#R640}Levinson, M. 2012. \_U.S. Manufacturing in
-      International Perspective*. Washington, DC: Congressional Research
-      Service; <http://www.fas.org/sgp/crs/misc/R42135.pdf>.
-641.  []{#c10752*444.xhtml#R641}Lewin, R. 2004. \_Human Evolution: An
-      Illustrated Introduction*. Oxford: Wiley.
-642.  []{#c10752*444.xhtml#R642}Lewis, M. J. T. 1993. The Greeks and the
-      early windmill. \_History and Technology* 15:141--189.
-643.  []{#c10752*444.xhtml#R643}Lewis, M. J. T. 1994. The origins of the
-      wheelbarrow. \_Technology and Culture* 35:453--475.
-644.  []{#c10752*444.xhtml#R644}Lewis, M. J. T. 1997. \_Millstone and
-      Hammer: The Origins of Water-Power*. Hull: University of Hull
-      Press.
-645.  []{#c10752*444.xhtml#R645}Li, L. 2007. \_Fighting Famine in North
-      China: State, Market, and Environmental Decline, 1690s-1990s*.
-      Stanford, CA: Stanford University Press.
-646.  []{#c10752*444.xhtml#R646}Liebenberg, L. 2006. Persistence hunting
-      by modern hunter-gatherers. \_Current Anthropology* 47:1017--1025.
-647.  []{#c10752_444.xhtml#R647}Lighting Industry Association. 2009. Lamp
-      history.
-      <http://www.thelia.org.uk/lighting-guides/lamp-guide/lamp-history>.
-648.  []{#c10752*444.xhtml#R648}Lilienfeld, E. J. 1930. \_Method and
-      apparatus for controlling electric currents*. US Patent 1,745,175,
-      January 28, 1930. Washington, DC: USPTO.
-649.  []{#c10752*444.xhtml#R649}Lilienthal, D. E. 1944. \_TVA: Democracy
-      on the March*. New York: Harper and Brothers.
-650.  []{#c10752*444.xhtml#R650}Lindgren, M. 1990. \_Glory and Failure*.
-      Cambridge, MA: MIT Press.
-651.  []{#c10752*444.xhtml#R651}Lindsay, R. B. 1975. \_Energy: Historical
-      Development of the Concept*. Stroudsburg, PA: Dowden, Hutchinson &
-      Ross.
-652.  []{#c10752*444.xhtml#R652}Ling, P. J. 1990. \_America and the
-      Automobile: Technology, Reform and Social Change*. Manchester:
-      Manchester University Press.
-653.  []{#c10752*444.xhtml#R653}Linsley, J. W., E. W. Rienstra, and J. A.
-      Stiles. 2002. \_Giant under the Hill: History of the Spindletop Oil
-      Discovery at Beaumont, Texas, in 1901*. Austin: Texas State
-      Historical Association.
-654.  []{#c10752*444.xhtml#R654}Livi-Bacci, M. 1991. \_Population and
-      Nutrition*. Cambridge: Cambridge University Press.
-655.  []{#c10752*444.xhtml#R655}Livi-Bacci, M. 2000. \_The Population of
-      Europe*. Oxford: Blackwell.
-656.  []{#c10752*444.xhtml#R656}Livi-Bacci, M. 2012. \_A Concise History
-      of World Population*. Oxford: Wiley-Blackwell.
-657.  []{#c10752*444.xhtml#R657}Lizerand, G. 1942. \_Le régime rural de
-      l'ancienne France*. Paris: Presses Universitaires.
-658.  []{#c10752*444.xhtml#R658}Lizot, J. 1977. Population, resources and
-      warfare among the Yanomami. \_Man* 12:497--517.
-659.  []{#c10752*444.xhtml#R659}Lockwood, A. H. 2012. \_The Silent
-      Epidemic: Coal and the Hidden Threat to Health*. Cambridge, MA: MIT
-      Press.
-660.  []{#c10752*444.xhtml#R660}Looney, R. 2002. \_Economic Costs to the
-      United States Stemming from the 9/11 Attacks*. Monterey, CA: Center
-      for Contemporary Conflict.
-661.  []{#c10752*444.xhtml#R661}López, A. E. 2014. \_La conquista de
-      América*. Barcelona: RBA Libros.
-662.  []{#c10752*444.xhtml#R662}Lotka, A. J. 1922. Contribution to the
-      energetics of evolution. \_Proceedings of the National Academy of
-      Sciences of the United States of America* 8:147--151.
-663.  []{#c10752*444.xhtml#R663}Lotka, A. 1925. \_Elements of Physical
-      Biology*. Baltimore, MD: Williams and Wilkins.
-664.  []{#c10752*444.xhtml#R664}Lovejoy, C. O. 1988. Evolution of human
-      walking. \_Scientific American* 259 (5): 82--89.
-665.  []{#c10752*444.xhtml#R665}Lowrance, R., et al., eds. 1984.
-      \_Agricultural Ecosystems*. New York: John Wiley.
-666.  []{#c10752*444.xhtml#R666}Lubar, S. 1992. "Do not fold, spindle or
-      mutilate": A cultural history of the punch card. \_Journal of
-      American Culture* 15 (4): 43--55.
-667.  []{#c10752*444.xhtml#R667}Lucas, A. R. 2005. Industrial milling in
-      the ancient and medieval Worlds. A survey of the evidence for an
-      industrial revolution in medieval Europe. \_Technology and Culture*
-      4: 1--30.
-668.  []{#c10752*444.xhtml#R668}Lucassen, J., and R. W. Unger. 2011.
-      Shipping, productivity and economic growth. In \_Shipping Efficiency
-      and Economic Growth 1350--1850*, ed. R. W. Unger, 3--44. Leiden:
-      Brill.
-669.  []{#c10752*444.xhtml#R669}Lucchini, F. 1996. \_Pantheon*. Roma: Nova
-      Italia Scientifica.
-670.  []{#c10752*444.xhtml#R670}Luknatskii, N.N. 1936. Podnyatie
-      Aleksandrovskoi kolonny v 1832. \_Stroitel'naya Promyshlennost'*
-      1936 (13) :31--34.
-671.  []{#c10752*444.xhtml#R671}Lüngen, H. B. 2013. Trends for reducing
-      agents in blast furnace operation.
-      <http://www.dkg.de/akk-vortraege/2013-*-2rd_polnisch_deutsches_symposium/abstract-luengen_reducing-agents.pdf>.
-672.  []{#c10752*444.xhtml#R672}MacDonald, W. L. 1976. \_The Pantheon
-      Design, Meaning, and Progeny*. Cambridge, MA: Harvard University
-      Press.
-673.  []{#c10752*444.xhtml#R673}Macedo, I. C., M. R. L. V. Leal,
-      and J. E. A. R. da Silva. 2004. \_Assessment of Greenhouse Gas
-      Emissions in the Production and Use of Fuel Ethanol in Brazil*. São
-      Paulo: Government of the State of São Paulo;
-      <http://unica.com.br/i_pages/files/pdf_ingles.pdf>.
-674.  []{#c10752*444.xhtml#R674}Machiavello, C. M. 1991. \_La construcción
-      del sistema agrario en la civilización andina*. Lima: Editorial
-      Econgraf.
-675.  []{#c10752*444.xhtml#R675}MacLaren, M. 1943. \_The Rise of the
-      Electrical Industry During the Nineteenth Century*. Princeton, NJ:
-      Princeton University Press.
-676.  []{#c10752_444.xhtml#R676}Madden, J. 2015. How much software is in
-      your car? From the 1977 Toronado to the Tesla P85D.
-      <http://www.qsm.com/blog/2015/how-much-software-your-car-1977-toronado-tesla-p85d>.
-677.  []{#c10752_444.xhtml#R677}Maddison Project. 2013. Maddison Project.
-      <http://www.ggdc.net/maddison/maddison-project/home.htm>.
-678.  []{#c10752*444.xhtml#R678}Madureira, N. L. 2012. The iron industry
-      energy transition. \_Energy Policy* 50:24--34.
-679.  []{#c10752*444.xhtml#R679}Magee, D. 2005. \_The John Deere Way:
-      Performance That Endures*. New York: Wiley.
-680.  []{#c10752*444.xhtml#R680}Mak, S. 2010. \_Rice Cultivation---The
-      Traditional Way*. Solo, Java: CRBOM (Center for River Basin
-      Organizations and Management).
-681.  []{#c10752*444.xhtml#R681}Malanima, P. 2006. Energy crisis and
-      growth 1650--1850: The European deviation in a comparative
-      perspective. \_Journal of Global History* 1:101--121.
-682.  []{#c10752*444.xhtml#R682}Malanima, P. 2013a. Energy consumption in
-      the Roman world. In \_The Ancient Mediterranean Environment between
-      Science and History*, ed. W. V. Harris, 13--36. Leiden: Brill.
-683.  []{#c10752*444.xhtml#R683}Malanima, P. 2013b. Pre-industrial
-      economies. In \_Power to the People: Energy in Europe Over the Last
-      Five Centuries*, ed. A. Kander, P. Malanima, and P. Warde, 35--127.
-      Princeton, NJ: Princeton University Press.
-684.  []{#c10752*444.xhtml#R684}Malik. J. 1985. \_The Yields of Hiroshima
-      and Nagasaki Explosions*. Los Alamos, NM: Los Alamos National
-      Laboratory. <http://atomicarchive.com/Docs/pdfs/00313791.pdf>.
-685.  []{#c10752*444.xhtml#R685}Malone, P. M. 2009. \_Waterpower in
-      Lowell: Engineering and Industry in Nineteenth-Century America*.
-      Baltimore, MD: Johns Hopkins University Press.
-686.  []{#c10752_444.xhtml#R686}Manx National Heritage. 2015. The Great
-      Laxey Wheel.
-      <http://www.manxnationalheritage.im/attractions/laxey-wheel>.
-687.  []{#c10752*444.xhtml#R687}Marchetti, C. 1986. Fifty-year pulsation
-      in human affairs. \_Futures* 18:376--388.
-688.  []{#c10752*444.xhtml#R688}Marder, T. A., and M. W. Jones. 2015.
-      \_The Pantheon: From Antiquity to the Present*. Cambridge: Cambridge
-      University Press.
-689.  []{#c10752*444.xhtml#R689}Mark, J. 1985. Changes in the British
-      brewing industry in the twentieth century. In \_Diet and Health in
-      Modern Britain*, ed. D. J. Oddy and D. P. Miller, 81--101. London:
-      Croom Helm.
-690.  []{#c10752*444.xhtml#R690}Marlowe, F. W. 2005. Hunter-gatherers and
-      human evolution. \_Evolutionary Anthropology* 14:54--67.
-691.  []{#c10752*444.xhtml#R691}Marshall, R. 1993. \_Storm from the East:
-      From Genghis Khan to Khublai Khan*. Berkeley: University of
-      California Press.
-692.  []{#c10752*444.xhtml#R692}Martin, C., and G. Parker. 1988. \_The
-      Spanish Armada*. London: Hamish Hamilton.
-693.  []{#c10752*444.xhtml#R693}Martin, P. S. 1958. Pleistocene ecology
-      and biogeography of North America. \_Zoogeography* 151:375--420.
-694.  []{#c10752*444.xhtml#R694}Martin, P. S. 2005. \_Twilight of the
-      Mammoths*. Berkeley: University of California Press.
-695.  []{#c10752*444.xhtml#R695}Martin, T. C. 1922. \_Forty Years of
-      Edison Service, 1882--1922: Outlining the Growth and Development of
-      the Edison System in New York City*. New York: New York Edison
-      Company.
-696.  []{#c10752*444.xhtml#R696}Mason, S. L. R. 2000. Fire and Mesolithic
-      subsistence: Managing oaks for acorns in northwest Europe?
-      \_Palaeogeography, Palaeoclimatology, Palaeoecology* 164:139--150.
-697.  []{#c10752*444.xhtml#R697}Mauthner, F., and W. Weiss. 2014. \_Solar
-      Heat Worldwide 2012*. Paris: IEA.
-698.  []{#c10752*444.xhtml#R698}Maxton, G. P., and J. Wormald. 2004.
-      \_Time for a Model Change: Re-engineering the Global Automotive
-      Industry*. Cambridge: Cambridge University Press.
-699.  []{#c10752*444.xhtml#R699}Maxwell, J. C. 1865. A dynamical theory
-      of the electromagnetic field. \_Philosophical Transactions of the
-      Royal Society of London* 155:459--512.
-700.  []{#c10752*444.xhtml#R700}May, G. S. 1975. \_A Most Unique Machine:
-      The Michigan Origins of the American Automobile Industry*. Grand
-      Rapids, MI: William B. Eerdmans Publishing.
-701.  []{#c10752*444.xhtml#R701}May, T. 2013. \_The Mongol Conquests in
-      World History*. London: Reaktion Books.
-702.  []{#c10752*444.xhtml#R702}Mayhew, H., and J. Binny. 1862. \_The
-      Criminal Prisons of London: And Scenes of Prison Life*. London:
-      Griffin, Bohn, and Co.
-703.  []{#c10752*444.xhtml#R703}Mays, L. W., ed. 2010. \_Ancient Water
-      Technologies*. Berlin: Springer.
-704.  []{#c10752*444.xhtml#R704}Mays, L. W., and Y. Gorokhovich. 2010.
-      Water technology in the ancient American Societies. In \_Ancient
-      Water Technologies*, ed. L. W. Mays, 171--200. Berlin: Springer.
-705.  []{#c10752*444.xhtml#R705}Mazoyer, M., and L. Roudart. 2006. \_A
-      History of World Agriculture: From the Neolithic Age to the Current
-      Crisis*. New York: Monthly Review Press.
-706.  []{#c10752*444.xhtml#R706}McCalley, B. 1994. \_Model T Ford: The Car
-      That Changed the World*. Iola, WI: Krause Publications.
-707.  []{#c10752*444.xhtml#R707}McCartney, A. P., ed. 1995. \_Hunting the
-      Largest Animals: Native Whaling in the Western Arctic and
-      Subarctic*. Studies in Whaling 3. Edmonton, AB: Canadian
-      Circumpolar Institute.
-708.  []{#c10752*444.xhtml#R708}McCloy, S. T. 1952. \_French Inventions of
-      the Eighteenth Century*. Lexington: University of Kentucky Press.
-709.  []{#c10752*444.xhtml#R709}McCullough, D. 2015. \_The Wright
-      Brothers*. New York: Simon & Schuster.
-710.  []{#c10752*444.xhtml#R710}McDougall, I., F. H. Brown, and J. G.
-      Fleagle. 2005. Stratigraphic placement and age of modern humans
-      from Kibish, Ethiopia. \_Nature* 433:733--736.
-711.  []{#c10752*444.xhtml#R711}McGranahan, G., and F. Murray, eds. 2003.
-      \_Air Pollution and Health in Rapidly Developing Countries*. London:
-      Routledge.
-712.  []{#c10752*444.xhtml#R712}McHenry, H. M., and K. Coffing. 2000.
-      \_Australopithecus* to _Homo_: Transformations in body and mind.
-      _Annual Review of Anthropology_ 29:125--146.
-713.  []{#c10752*444.xhtml#R713}McKeown, T. 1976. \_The Modern Rise of
-      Population*. London: Arnold.
-714.  []{#c10752*444.xhtml#R714}McNeill, J. R. 2001. \_Something New Under
-      the Sun: An Environmental History of the Twentieth-Century*. New
-      York: W. W. Norton.
-715.  []{#c10752*444.xhtml#R715}McNeill, W. H. 1980. \_The Human
-      Condition*. Princeton, NJ: Princeton University Press.
-716.  []{#c10752*444.xhtml#R716}McNeill, W. H. 1989. \_The Age of
-      Gunpowder Empires, 1450--1800*. Washington, DC: American Historical
-      Association.
-717.  []{#c10752*444.xhtml#R717}McNeill, W. H. 2005. \_Berkshire
-      Encyclopedia of World History 5 Volumes*. Great Barrington, MA:
-      Berkshire Publishing.
-718.  []{#c10752*444.xhtml#R718}McShane, C., and J. A. Tarr. 2007. \_The
-      Horse in the City*. Baltimore, MD: Johns Hopkins University Press.
-719.  []{#c10752*444.xhtml#R719}Medeiros, L. C., et al. 2001.
-      \_Nutritional Content of Game Meat*. Laramie: University of Wyoming.
-      <http://www.wyomingextension.org/agpubs/pubs/B920R.pdf>.
-720.  []{#c10752*444.xhtml#R720}Meldrum, R. A., and C. E. Hilton,
-      eds. 2004. \_From Biped to Strider: The Emergence of Modern Human
-      Walking, Running, and Resource Transport*. Berlin: Springer.
-721.  []{#c10752*444.xhtml#R721}Mellars, P. A. 1985. The ecological basis
-      of social complexity in the Upper Paleolithic of Southwestern
-      France. In \_Prehistoric Hunter-Gatherers*, ed. T. D. Price
-      and J. A. Brown, 271--297. Orlando, FL: Academic Press.
-722.  []{#c10752*444.xhtml#R722}Mellars, P. 2006. Why did modern human
-      populations disperse from Africa ca. 60000 years ago? A new model.
-      \_Proceedings of the National Academy of Sciences of the United
-      States of America* 103:9381--9386.
-723.  []{#c10752*444.xhtml#R723}Melosi, M. V. 1982. Energy transition in
-      the nineteenth-century economy. In \_Energy and Transport*,
-      ed. G. H. Daniels and M. H. Rose, 55--67. Beverly Hills, CA: Sage
-      Publications.
-724.  []{#c10752*444.xhtml#R724}Melville, H. 1851. \_Moby-Dick or the
-      Whale*. New York: Harper & Brothers.
-725.  []{#c10752*444.xhtml#R725}Mendels, F. F. 1972.
-      Proto-industrialization: The first phase of the industrialization
-      process. \_Journal of Economic History* 32:241--261.
-726.  []{#c10752*444.xhtml#R726}Mendelssohn, K. 1974. \_The Riddle of the
-      Pyramids*. London: Thames and Hudson.
-727.  []{#c10752*444.xhtml#R727}Mensch, Gerhard. 1979. \_Stalemate in
-      Technology*. Cambridge, MA: Ballinger.
-728.  []{#c10752*444.xhtml#R728}Mercer, D. 2006. \_The Telephone: The Life
-      Story of a Technology*. New York: Greenwood Publishing Group.
-729.  []{#c10752*444.xhtml#R729}Merrill, A. L., and B. K. Watt. 1973.
-      \_Energy Value of Foods: Basis and Derivation*. Washington, DC:
-      United States Department of Agriculture.
-730.  []{#c10752*444.xhtml#R730}Meyer, J. H. 1975. \_Kraft aus Wasser: Vom
-      Wasserrad zur Pumpturbine*. Innertkirchen: Kraftwerke Oberhasli.
-731.  []{#c10752*444.xhtml#R731}Mill, J. S. 1913. \_The Panama Canal. A
-      History and Description of the Enterprise*. New York: Sully &
-      Kleinteich.
-732.  []{#c10752*444.xhtml#R732}Minchinton, W. 1980. Wind power. \_History
-      Today* 30 (3): 31--36.
-733.  []{#c10752*444.xhtml#R733}Minchinton, W., and P. Meigs. 1980. Power
-      from the sea. \_History Today* 30 (3): 42--46.
-734.  []{#c10752*444.xhtml#R734}Minetti, A. E. 2003. Efficiency of equine
-      express postal systems. \_Nature* 426:785--786.
-735.  []{#c10752*444.xhtml#R735}Minetti, A. E., et al. 2002. Energy cost
-      of walking and running at extreme uphill and downhill slopes.
-      \_Journal of Applied Physiology* 93:1039--1046.
-736.  []{#c10752*444.xhtml#R736}Mir-Babaev, M. F. 2004. \_Kratkaia
-      khronologiia istorii azerbaidzhanskogo neftiianogo dela*. Baku:
-      Sabakh.
-737.  []{#c10752*444.xhtml#R737}Mitchell, W. A. 1931. \_Outlines of the
-      World's Military History*. Harrisburg, PA: Military Service
-      Publishing.
-738.  []{#c10752_444.xhtml#R738}mobiForge. 2015. Global mobile
-      statistics 2014.
-      <https://mobiforge.com/research-analysis/global-mobile-statistics-2014-part-a-mobile-subscribers-handset-market-share-mobile-operators>.
-739.  []{#c10752*444.xhtml#R739}Mokyr, J. 1976. \_Industrialization in the
-      Low Countries, 1795--1850*. New Haven, CT: Yale University Press.
-740.  []{#c10752*444.xhtml#R740}Mokyr, J. 2002. \_The Gifts of Athena:
-      Historical Origins of the Knowledge Economy*. Princeton, NJ:
-      Princeton University Prss.
-741.  []{#c10752*444.xhtml#R741}Mokyr, J. 2009. \_The Enlightened Economy:
-      An Economic History of Britain 1700--1850*. New Haven, CT: Yale
-      University Press.
-742.  []{#c10752*444.xhtml#R742}Molenaar, A. 1956. \_Water Lifting Devices
-      for Irrigation*. Rome: FAO.
-743.  []{#c10752*444.xhtml#R743}Moore, G. 1965. Cramming more components
-      onto integrated circuits. \_Electronics* 38 (8): 114--117.
-744.  []{#c10752*444.xhtml#R744}Moore, G. E. 1975. Progress in digital
-      integrated electronics. \_Technical Digest, IEEE International
-      Electron Devices Meeting*, 11--13.
-745.  []{#c10752*444.xhtml#R745}Morgan, R. 1984. \_Farm Tools, Implements,
-      and Machines in Britain: Pre-history to 1945*. Reading: University
-      of Reading and the British Agricultural History Society.
-746.  []{#c10752*444.xhtml#R746}Moritz, L. A. 1958. \_Grain-Mills and
-      Flour in Classical Antiquity*. Oxford: Clarendon Press.
-747.  []{#c10752*444.xhtml#R747}Moritz, M. 1984. \_The Little Kingdom: The
-      Private Story of Apple Computer*. New York: W. Morrow.
-748.  []{#c10752*444.xhtml#R748}Morrison, J. S., and J. F. Coates. 1986.
-      \_The Athenian Trireme*. Cambridge: Cambridge University Press.
-749.  []{#c10752*444.xhtml#R749}Morrison, J. S., J. F. Coates, and B.
-      Rankov. 2000. \_The Athenian Trireme: The History and Reconstruction
-      of an Ancient Greek Warship*. Cambridge: Cambridge University
-      Press.
-750.  []{#c10752*444.xhtml#R750}Morrison, J. S., and R. Gardiner,
-      eds. 1995. \_The Age of the Galley: Mediterranean Oared Vessels
-      since Pre-Classical Times*. London: Conway Maritime.
-751.  []{#c10752*444.xhtml#R751}Morton, H. 1975. \_The Wind Commands:
-      Sailors and Sailing Ships in the Pacific*. Vancouver: University of
-      British Columbia Press.
-752.  []{#c10752*444.xhtml#R752}Mozley, J. H. 1928. \_Statius. Silvae:
-      Thebaid I--IV*. London: William Heinemann.
-753.  []{#c10752*444.xhtml#R753}Mukerji, C. 1981. \_From Graven Images:
-      Patterns of Modern Materialism*. New York: Columbia University
-      Press.
-754.  []{#c10752*444.xhtml#R754}Muldrew, C. 2011. \_Food, Energy and the
-      Creation of Industriousness: Work and Material Culture in Agrarian
-      England, 1550--1780*. Cambridge: Cambridge University Press.
-755.  []{#c10752*444.xhtml#R755}Muller, G., and K. Kauppert. 2004.
-      Performance characteristics of water wheels. \_Journal of Hydraulic
-      Research* 42:451--460.
-756.  []{#c10752*444.xhtml#R756}Müller, I. 2007. \_A History of
-      Thermodynamics: The Doctrine of Energy and Entropy*. Berlin:
-      Springer.
-757.  []{#c10752*444.xhtml#R757}Müller, W. 1939. \_Die Wasserräder*.
-      Detmold: Moritz Schäfer.
-758.  []{#c10752*444.xhtml#R758}Mumford, L. 1934. \_Technics and
-      Civilization*. New York: Harcourt, Brace & Company.
-759.  []{#c10752*444.xhtml#R759}Mumford, L. 1961. \_The City in History:
-      Its Origins, Its Transformations, and Its Prospects*. New York:
-      Harcourt, Brace & World.
-760.  []{#c10752*444.xhtml#R760}Mumford, L. 1967. \_Technics and Human
-      Development*. New York: Harcourt, Brace & World.
-761.  []{#c10752*444.xhtml#R761}Mundlak, Y. 2005. Economic growth:
-      Lessons from two centuries of American agriculture. \_Journal of
-      Economic Literature* 43:989--1024.
-762.  []{#c10752*444.xhtml#R762}Murdock, G. P. 1967. Ethnographic atlas.
-      \_Ethnology* 6:109--236.
-763.  []{#c10752*444.xhtml#R763}Murphy, D. J. 2007. \_People, Plants, and
-      Genes: The Story of Crops and Humanity*. Oxford: Oxford University
-      Press.
-764.  []{#c10752*444.xhtml#R764}Murphy, D. J., and C. A. S. Hall. 2010.
-      EROI or energy return on (energy) invested. \_Annals of the New York
-      Academy of Sciences* 1185:102--118.
-765.  []{#c10752*444.xhtml#R765}Murra, J. V. 1980. \_The Economic
-      Organization of the Inka State*. Greenwood, CT: JAO Press.
-766.  []{#c10752*444.xhtml#R766}Mushet, D. 1804. Experiments on wootz or
-      Indian steel. \_Philosophical Transactions of the Royal Society of
-      London. Series A, Mathematical and Physical Sciences* 95:175.
-767.  []{#c10752*444.xhtml#R767}Mushrush, G. W., et al. 2000. Use of
-      surplus napalm as an energy source. \_Energy Sources* 22:147--155.
-768.  []{#c10752*444.xhtml#R768}Mussatti, D. C. 1998. \_Coke Ovens:
-      Industry Profile*. Research Triangle Park, NC: U.S. Environmental
-      Protection Agency.
-769.  []{#c10752*444.xhtml#R769}Musson, A. E. 1978. \_The Growth of
-      British Industry*. New York: Holmes & Meier.
-770.  []{#c10752*444.xhtml#R770}Nagata, T. 2014. \_Japan's Policy on
-      Energy Conservation*. Tokyo: Ministry of Economy, Trade and
-      Industry.
-      <http://www.meti.go.jp/english/policy/energy_environment/>.
-771.  []{#c10752*444.xhtml#R771}Napier, J. R. 1970. \_The Roots of
-      Mankind*. Washington, DC: Smithsonian Institution Press.
-772.  []{#c10752*444.xhtml#R772}National Coal Mining Museum. 2015.
-      \_National Coal Mining Museum for England*.
-      <https://www.ncm.org.uk>.
-773.  []{#c10752_444.xhtml#R773}National Geographic Society. 2001. Pearl
-      Harbor ships and planes.
-      <http://www.nationalgeographic.com/pearlharbor/history/pearlharbor_facts.html>.
-774.  []{#c10752*444.xhtml#R774}Naville, E. 1908. \_The Temple of Deir el
-      Bahari. Part VI*. London: The Egyptian Exploration Fund.
-775.  []{#c10752*444.xhtml#R775}Needham, J. 1964. \_The Development of
-      Iron and Steel in China*. London: The Newcomen Society.
-776.  []{#c10752*444.xhtml#R776}Needham, J. 1965. \_Science and
-      Civilisation in China*. Vol. 4, Part II. _Physics and Physical
-      Technology_. Cambridge: Cambridge University Press.
-777.  []{#c10752*444.xhtml#R777}Needham, J. et al. 1954--2015. \_Science
-      and Civilisation in China*. 7 volumes. Cambridge: Cambridge
-      University Press.
-778.  []{#c10752*444.xhtml#R778}Needham, J., et al. 1971. \_Science and
-      Civilisation in China*. Vol. 4, Part III. _Civil Engineering and
-      Nautics_. Cambridge: Cambridge University Press.
-779.  []{#c10752*444.xhtml#R779}Needham, J., et al. 1986. \_Science and
-      Civilisation in China*. Vol. 5, Part VII. _Military Technology: The
-      Gunpowder Epic_. Cambridge: Cambridge University Press.
-780.  []{#c10752*444.xhtml#R780}Nef, J. U. 1932. \_The Rise of the British
-      Coal Industry*. London: G. Routledge.
-781.  []{#c10752*444.xhtml#R781}Nelson, W. H. 1998. \_Small Wonder: The
-      Amazing Story of the Volkswagen Beetle*. Cambridge, MA: Robert
-      Bentley.
-782.  []{#c10752*444.xhtml#R782}Nesbitt, M., and G. Prance. 2005. \_The
-      Cultural History of Plants*. London: Taylor & Francis.
-783.  []{#c10752*444.xhtml#R783}Newhall, B. 1982. \_The History of
-      Photography: From 1839 to the Present*. New York: Museum of Modern
-      Art.
-784.  []{#c10752*444.xhtml#R784}Newitt, M. 2005. \_A History of Portuguese
-      Overseas Expansion, 1400--1668*. London: Routledge.
-785.  []{#c10752*444.xhtml#R785}Nicholson, J. 1825. \_Operative Mechanic,
-      and British Machinist*. London: Knight and Lacey.
-786.  []{#c10752*444.xhtml#R786}Niel, F. 1961. \_Dolmens et menhirs*.
-      Paris: Presses Universitaires de France.
-787.  []{#c10752*444.xhtml#R787}Nishiyama, M., and G. Groemer. 1997. \_Edo
-      Culture: Daily Life and Diversions in Urban Japan, 1600--1868*.
-      Honolulu: University of Hawaii Press.
-788.  []{#c10752_444.xhtml#R788}NOAA. 2015. Trends in atmospheric carbon
-      dioxide.
-      <ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_annmean_mlo.txt>.
-789.  []{#c10752_444.xhtml#R789}Noelker, K., and J. Ruether. 2011. Low
-      energy consumption ammonia production: Baseline energy consumption,
-      options for energy optimization. Nitrogen + Syngas Conference 2011,
-      Düsseldorf.
-      <http://www.thyssenkrupp-industrial-solutions.com/fileadmin/documents/publications/Nitrogen-Syngas-2011/Low_Energy_Consumption_Ammonia_Production_2011_paper.pdf>.
-790.  []{#c10752*444.xhtml#R790}Noguchi, Tatsuo, and Toshishige
-      Fujii. 2000. Minimizing the effect of natural disasters. \_Japan
-      Railway & Transport Review* 23:52--59.
-791.  []{#c10752*444.xhtml#R791}Nordhaus, W. D. 1998. \_Do Real-Output and
-      Real-Wage Measures Capture Reality? The History of Lighting
-      Suggests Not*. New Haven, CT: Cowles Foundation for Research in
-      Economics at Yale University.
-792.  []{#c10752*444.xhtml#R792}Norenzayan, A. 2013. \_Big Gods: How
-      Religion Transformed Cooperation and Conflict*. Princeton, NJ:
-      Princeton University Press.
-793.  []{#c10752*444.xhtml#R793}Norgan, N. G., et al. 1974. The energy
-      and nutrient intake and the energy expenditure of 204 New Guinean
-      adults. \_Philosophical Transactions of the Royal Society of London.
-      Series B, Biological Sciences* 268:309--348.
-794.  []{#c10752*444.xhtml#R794}Norris, J. 2003. \_Early Gunpowder
-      Artillery: 1300--1600*. Marlborough: Crowood Press.
-795.  []{#c10752*444.xhtml#R795}North American Electric Reliability
-      Corporation. 2015. \_State of Reliability 2015*.
-      <http://www.nerc.com/pa/RAPA/PA/Performance%20Analysis%20DL/2015%20State%20of%20Reliability.pdf>.
-796.  []{#c10752*444.xhtml#R796}Noyce, Robert N. 1961. \_Semiconductor
-      Device-and-Lead Structure*. U.S. Patent 2,981,877, April 25, 1961.
-      Washington, DC: USPTO.
-797.  []{#c10752_444.xhtml#R797}Nutrition Value. 2015. Nutrition value.
-      <http://www.nutritionvalue.org>.
-798.  []{#c10752*444.xhtml#R798}Nye, D. E. 1992. \_Electrifying America:
-      Social Meaning of a New Technology*. Cambridge, MA: MIT Press.
-799.  []{#c10752*444.xhtml#R799}Nye, D. E. 2013. \_America's Assembly
-      Line*. Cambridge, MA: MIT Press.
-800.  []{#c10752*444.xhtml#R800}Oberg, E., et al. 2012. \_Machinery's
-      Handbook*, 29th ed. South Norwalk, CT: Industrial Press.
-801.  []{#c10752*444.xhtml#R801}O'Brien, P., ed. 1983. \_Railways and the
-      Economic Development of Western Europe, 1830--1914*. New York: St.
-      Martin's Press.
-802.  []{#c10752*444.xhtml#R802}Odend'hal, S. 1972. Energetics of Indian
-      cattle in their environment. \_Human Ecology* 1:3--22.
-803.  []{#c10752*444.xhtml#R803}Odum, H. T. 1971. \_Environment, Power,
-      and Society*. New York: Wiley-Interscience.
-804.  []{#c10752*444.xhtml#R804}Okigbo, B. N. 1984. \_Improved Production
-      Systems as an Alternative to Shifting Cultivation*. Rome: FAO.
-805.  []{#c10752_444.xhtml#R805}Oklahoma State University. 2015. Horses.
-      <http://www.ansi.okstate.edu/breeds/horses>.
-806.  []{#c10752*444.xhtml#R806}Oleson, J. P. 1984. \_Greek and Roman
-      Mechanical Water-Lifting Devices: The History of a Technology*.
-      Toronto: University of Toronto Press.
-807.  []{#c10752*444.xhtml#R807}Oleson, J. P., ed. 2008. \_The Oxford
-      Handbook of Engineering and Technology in the Classical World*.
-      Oxford: Oxford University Press.
-808.  []{#c10752*444.xhtml#R808}Oliveira, A. R. E. 2014. \_A History of
-      the Work Concept: From Physics to Economics*. Dordrecht: Springer.
-809.  []{#c10752*444.xhtml#R809}Olivier, J. G. J. 2014. \_Trends in Global
-      CO~2~ Emissions: 2014 Report*. The Hague: Netherlands Environmental
-      Assessment Agency.
-      <http://edgar.jrc.ec.europa.eu/news_docs/jrc-2014-trends-in-global-co2-emissions-2014-report-93171.pdf>.
-810.  []{#c10752*444.xhtml#R810}Olson, M. 1982. \_The Rise and Fall of
-      Nations*. New Haven, CT: Yale University Press.
-811.  []{#c10752*444.xhtml#R811}Olsson, F. 2007. \_Järnhanteringens
-      dynamic: Produktion, lokalisering och agglomerationer i Bergslagen
-      och Mellansverige 1368--1910*. Umeå: Umeå Studies in Economic
-      History.
-812.  []{#c10752*444.xhtml#R812}Olsson, M., and P. Svensson, eds. 2011.
-      \_Growth and Stagnation in European Historical Agriculture*.
-      Turnhout: Brepols.
-813.  []{#c10752*444.xhtml#R813}Ohno, T. 1988. \_Toyota Production System:
-      Beyond Large-Scale Production*. Cambridge, MA: Productivity Press.
-814.  []{#c10752_444.xhtml#R814}OPEC (Organization of Petroleum Exporting
-      Countries). 2015. Who gets what from imported oil?
-      <http://www.opec.org/opec_web/en/publications/341.htm>.
-815.  []{#c10752*444.xhtml#R815}Orme, B. 1977. The advantages of
-      agriculture. In \_Hunters, Gatherers and First Farmers beyond
-      Europe*, ed. J. V. S. Megaw, 41--49. Leicester: Leicester
-      University Press.
-816.  []{#c10752*444.xhtml#R816}Orwell, G. 1937. \_The Road to Wigan
-      Pier*. London: Victor Gollancz.
-817.  []{#c10752_444.xhtml#R817}Osirisnet. 2015. Djehutyhotep.
-      <http://www.osirisnet.net/tombes/el_bersheh/djehoutyhotep/e_djehoutyhotep_02.htm>.
-818.  []{#c10752*444.xhtml#R818}Ostwald, W. 1912. \_Der energetische
-      Imperativ* _._ Leipzing: Akademische Verlagsgesselschaft.
-819.  []{#c10752*444.xhtml#R819}Outram, A. K., et al. 2009. The earliest
-      horse harnessing and milking. \_Science* 323:1332--1335.
-820.  []{#c10752*444.xhtml#R820}Ovitt, G. 1987. \_The Restoration of
-      Perfection: Labor and Technology in Medieval Culture*. New
-      Brunswick, NJ: Rutgers University Press.
-821.  []{#c10752*444.xhtml#R821}Owen, D. 2004. \_Copies in Seconds*. New
-      York: Simon and Schuster.
-822.  []{#c10752*444.xhtml#R822}Pacey, A. 1990. \_Technology in World
-      Civilization*. Cambridge, MA: MIT Press.
-823.  []{#c10752*444.xhtml#R823}Palgrave Macmillan, ed. 2013.
-      \_International Historical Statistics*. London: Palgrave Macmillan;
-      <http://www.palgraveconnect.com/pc/connect/archives/ihs.html>.
-824.  []{#c10752*444.xhtml#R824}Pan, W., et al. 2013. Urban
-      characteristics attributable to density-driven tie formation.
-      \_Nature Communications* _._ <http://hdl.handle.net/1721.1/92362>.
-825.  []{#c10752*444.xhtml#R825}Park, J., and T. Rehren. 2011.
-      Large-scale 2nd and 3rd century AD bloomery iron smelting in Korea.
-      \_Journal of Archaeological Science* 38:1180--1190.
-826.  []{#c10752*444.xhtml#R826}Parker, G. 1996. \_The Military
-      Revolution: Military Innovation and the Rise of the West,
-      1500--1800*. Cambridge: Cambridge University Press.
-827.  []{#c10752*444.xhtml#R827}Parker, G., ed. 2005. \_The Cambridge
-      History of Warfare*. Cambridge: Cambridge University Press.
-828.  []{#c10752*444.xhtml#R828}Parris, H. S., M.-C. Daunay, and J.
-      Janick. 2012. Occidental diffusion of cucumber (\_Cucumis sativus*)
-      500--1300 CE: Two routes to Europe. _Annals of Botany_
-      109:117--126.
-829.  []{#c10752*444.xhtml#R829}Parrott, A. 1955. \_The Tower of Babel*.
-      London: SCM Press.
-830.  []{#c10752*444.xhtml#R830}Parsons, J. T. 1976. The role of chinampa
-      agriculture in the food supply of Aztec Tenochtitlan. In \_Cultural
-      Change and Continuity*, ed. C. Clelland, 233--257. New York:
-      Academic Press.
-831.  []{#c10752*444.xhtml#R831}Parsons, R. H. 1936. \_The Development of
-      Parsons Steam Turbine*. London: Constable & Co.
-832.  []{#c10752*444.xhtml#R832}Patton, P. 2004. \_Bug: The Strange
-      Mutations of the World's Most Famous Automobile*. Cambridge, MA: Da
-      Capo Press.
-833.  []{#c10752*444.xhtml#R833}Patwhardan, S. 1973. \_Change among
-      India's Harijans*. New Delhi: Orient Longman.
-834.  []{#c10752*444.xhtml#R834}Pearson, P. J. G., and T. J. Foxon. 2012.
-      A low carbon industrial revolution? Insights and challenges from
-      past technological and economic transformations. \_Energy Policy*
-      50:117--127.
-835.  []{#c10752*444.xhtml#R835}Pentzer, W. T. 1966. The giant job of
-      refrigeration. In \_USDA Yearbook*, 123--138. Washington, DC: USDA.
-836.  []{#c10752*444.xhtml#R836}Perdue, P. C. 1987. \_Exhausting the
-      Earth: State and Peasant in Hunan, 1500--1850*. Cambridge, MA:
-      Harvard University Press.
-837.  []{#c10752*444.xhtml#R837}Perdue, P. C. 2005. \_China Marches West:
-      The Qing Conquest of Central Asia*. Cambridge, MA: Belknap Press of
-      Harvard University Press.
-838.  []{#c10752*444.xhtml#R838}Perkins, D. S. 1969. \_Agricultural
-      Development in China, 1368--1968*. Chicago: University of Chicago
-      Press.
-839.  []{#c10752*444.xhtml#R839}Perkins, S. 2013. Earth is only just
-      within the Sun's habitable zone. \_Nature*.
-      doi:10.1038/nature.2013.14353.
-840.  []{#c10752*444.xhtml#R840}Perlin, J. 2005. \_Forest Journey: The
-      Story of Wood and Civilization*. Woodstock, VT: Countryman Press.
-841.  []{#c10752*444.xhtml#R841}Perrodon, A. 1985. \_Histoire des Grandes
-      Decouvertes Petrolieres*. Paris: Elf Aquitaine.
-842.  []{#c10752*444.xhtml#R842}Pessaroff, N. 2002. An electric idea. ...
-      Edison's electric pen. \_Pen World International* 15 (5): 1--4.
-843.  []{#c10752*444.xhtml#R843}Pétillon, J.-M., et al. 2011. Hard core
-      and cutting edge: Experimental manufacture and use of Magdalenian
-      composite projectile tips. \_Journal of Archaeological Science*
-      38:1266--1283.
-844.  []{#c10752*444.xhtml#R844}Petroski, H. 1993. On dating inventions.
-      \_American Scientist* 81:314--318.
-845.  []{#c10752*444.xhtml#R845}Petroski, H. 2011. Moving obelisks.
-      \_American Scientist* 99:448--451.
-846.  []{#c10752*444.xhtml#R846}Pfau, T., et al. 2009. Modern riding
-      style improves horse racing times. \_Science* 325:289--291.
-847.  []{#c10752*444.xhtml#R847}Phocaides, A. 2007. \_Handbook on
-      Pressurized Irrigation Techniques*. Rome: FAO.
-848.  []{#c10752*444.xhtml#R848}Piggott, S. 1983. \_The Earliest Wheeled
-      Transport*. Ithaca, NY: Cornell University Press.
-849.  []{#c10752*444.xhtml#R849}Pimentel, D., ed. 1980. \_Handbook of
-      Energy Utilization in Agriculture*. Boca Raton, FL: CRC Press.
-850.  []{#c10752*444.xhtml#R850}Pinhasi, R., J. Fort, and A. J.
-      Ammerman. 2005. Tracing the origin and spread of agriculture in
-      Europe. \_PLoS Biology* 3:2220--2228.
-851.  []{#c10752_444.xhtml#R851}PISA. 2015. PISA 2012 Results.
-      <http://www.oecd.org/pisa/keyfindings/pisa-2012-results.htm>.
-852.  []{#c10752*444.xhtml#R852}Plutarch. 1961. \_Plutarch's Lives*.
-      Trans. B. Perrin. Cambridge, MA: Harvard University Press.
-853.  []{#c10752*444.xhtml#R853}Pobiner, B. L. 2015. New actualistic data
-      on the ecology and energetics of hominin scavenging opportunities.
-      \_Journal of Human Evolution* 80:1--16.
-854.  []{#c10752*444.xhtml#R854}Pogue, S. 2012. Use it better: The worst
-      tech predictions of all time. \_Scientific American*
-      <http://www.scientificamerican.com/article/pogue-all-time-worst-tech-predictions>.
-855.  []{#c10752*444.xhtml#R855}Polimeni, J. M., et al. 2008. \_The Jevons
-      Paradox and the Myth of Resource Efficiency Improvements.* London:
-      Earthscan.
-856.  []{#c10752*444.xhtml#R856}Polmar, N. 2006. \_Aircraft Carriers: A
-      History of Carrier Aviation and Its Influence on World Events*.
-      Vol. 1., _1909--1945_. Lincoln, NB: Potomac Press.
-857.  []{#c10752*444.xhtml#R857}Polmar, N., and T. B. Allen. 1982.
-      \_Rickover: Controversy and Genius*. New York: Simon and Schuster.
-858.  []{#c10752*444.xhtml#R858}Pomeranz, K. 2002. Political economy and
-      ecology on the eve of industrialization: Europe, China, and the
-      global conjuncture. \_American Historical Review* 107:425--446.
-859.  []{#c10752*444.xhtml#R859}Ponting, C. 2007. \_A New Green History of
-      the World: The Environment and the Collapse of Great
-      Civilizations*. New York: Penguin Books.
-860.  []{#c10752*444.xhtml#R860}Pope, F. L. 1894. \_Evolution of the
-      Electric Incandescent Lamp*. New York: Boschen & Wefer.
-861.  []{#c10752*444.xhtml#R861}Pope, S. T. 1923. A study of bows and
-      arrows. \_University of California Publications in American
-      Archaeology and Ethnology* 13:329--414.
-862.  []{#c10752*444.xhtml#R862}Prager, F. D., and G. Scaglia. 1970.
-      \_Brunelleschi: Studies of His Technology and Inventions*.
-      Cambridge, MA: MIT Press.
-863.  []{#c10752*444.xhtml#R863}Pratap, A., and J. Kumar. 2011. \_Biology
-      and Breeding of Food Legumes*. Wallingford: CAB.
-864.  []{#c10752*444.xhtml#R864}Price, T. 1991. The Mesolithic of
-      Northern Europe. \_Annual Review of Anthropology* 20:211--233.
-865.  []{#c10752*444.xhtml#R865}Price, T. D., and O. Bar-Yosef. 2011. The
-      origins of agriculture: New data, new ideas. \_Current Anthropology*
-      52 (Supplement): S163--S174.
-866.  []{#c10752*444.xhtml#R866}Prigogine, I. 1947. *Étude
-      thermodynamique des phenomenes irreversibles\_. Paris: Dunod.
-867.  []{#c10752*444.xhtml#R867}Prigogine, I. 1961. \_Introduction to
-      Thermodynamics of Irreversible Processes*. New York: Interscience.
-868.  []{#c10752*444.xhtml#R868}Prost, Antoine. 1991. Public and private
-      spheres in France. In \_A History of Private Life*, vol. 5, ed.
-      Antoine Prost and Gérard Vincent., 1--103. Cambridge, MA: Belknap
-      Press of Harvard University Press.
-869.  []{#c10752*444.xhtml#R869}Protzen, J.-P. 1993. \_Inca Architecture
-      and Construction at Ollantaytambo*. Oxford: Oxford University
-      Press.
-870.  []{#c10752*444.xhtml#R870}Pryor, F. L. 1983. Causal theories about
-      the origin of agriculture. \_Research in Economic History*
-      8:93--124.
-871.  []{#c10752*444.xhtml#R871}Pryor, A. J. E., et al. 2013. Plant foods
-      in the Upper Palaeolithic at Dolní Vestonice? Parenchyma redux.
-      \_Antiquity* 87 (338): 971--984.
-872.  []{#c10752_444.xhtml#R872}Quick, D. 2012. World record 1,626 miles
-      on one tank of diesel.
-      <http://www.gizmag.com/tank-diesel-distance-world-record/22488>.
-873.  []{#c10752*444.xhtml#R873}Raepsaet, G. 2008. Land transport, part
-      2: Riding, harnesses, and vehicles. In \_The Oxford Handbook of
-      Engineering and Technology in the Classical World*, ed. J. P.
-      Oleson, 580--605. Oxford: Oxford University Press.
-874.  []{#c10752*444.xhtml#R874}Rafiqul, I., et al. 2005. Energy
-      efficiency improvements in ammonia production: Perspectives and
-      uncertainties. \_Energy* 30:2487--2504.
-875.  []{#c10752*444.xhtml#R875}Raghavan, B., and J. Ma. 2011. The energy
-      and emergy of the Internet. \_Hotnets '11*: 1--6.
-      <http://www1.icsi.berkeley.edu/~barath/papers/emergy-hotnets11.pdf>.
-876.  []{#c10752*444.xhtml#R876}Ramelli, A. 1976 (1588). \_Le diverse et
-      artificiose machine*. Trans. M. Teach Gnudi. Baltimore, MD: Johns
-      Hopkins University Press.
-877.  []{#c10752*444.xhtml#R877}Ranaweera, M. P. 2004. Ancient stupas in
-      Sri Lanka: Largest brick structure sin the world. \_Construction
-      History Society Newsletter* 70:1--19.
-878.  []{#c10752*444.xhtml#R878}Rankine, W. J. M. 1866. \_Useful Rules and
-      Tables Relating to Mensuration, Engineering Structures and
-      Machines*. London: G. Griffin & Co.
-879.  []{#c10752*444.xhtml#R879}Rapoport, B. I. 2010. Metabolic factors
-      limiting performance in marathon runners. \_PLoS Computational
-      Biology* 6:1--13.
-880.  []{#c10752*444.xhtml#R880}Rappaport, R. A. 1968. \_Pigs for the
-      Ancestors*. New Haven, CT: Yale University Press.
-881.  []{#c10752*444.xhtml#R881}Ratcliffe, M. 1985. \_Liquid Gold Ships: A
-      History of the Tanker, 1859--1984*. London: Lloyd's of London
-      Press.
-882.  []{#c10752*444.xhtml#R882}Rea, M. S., ed. 2000. \_IESNA Handbook*.
-      New York: Illuminating Engineering Society of North America.
-883.  []{#c10752*444.xhtml#R883}Reader, J. 2008. \_Propitious Esculent:
-      The Potato in World History*. New York: Random House.
-884.  []{#c10752*444.xhtml#R884}Recht, R. 2008. \_Believing and Seeing:
-      The Art of Gothic Cathedrals*. Chicago: University of Chicago
-      Press.
-885.  []{#c10752*444.xhtml#R885}Reid, T. R. 2001. \_The Chip: How Two
-      Americans Invented the Microchip and Launched a Revolution*. New
-      York: Simon and Schuster.
-886.  []{#c10752*444.xhtml#R886}REN21. 2016. \_Renewables 2016 Global
-      Status Report*. Paris: REN21.
-      <http://www.ren21.net/wp-content/uploads/2016/06/GSR_2016_KeyFindings1.pdf>.
-887.  []{#c10752*444.xhtml#R887}Revel, J. 1979. Capital city's
-      privileges: Food supply in early-modern Rome. In \_Food and Drink in
-      History*, ed. R. Foster and O. Ranum, 37--49. Baltimore, MD: Johns
-      Hopkins University Press.
-888.  []{#c10752*444.xhtml#R888}Revelle, R., and H. E. Suess. 1957.
-      Carbon dioxide exchange between atmosphere and ocean and the
-      question of an increase of atmospheric CO~2~ during the past
-      decades. \_Tellus* 9:18--27.
-889.  []{#c10752*444.xhtml#R889}Reynolds, J. 1970. \_Windmills and
-      Watermills*. London: Hugh Evelyn.
-890.  []{#c10752*444.xhtml#R890}Reynolds, S. C., and A. Gallagher,
-      eds. 2012. \_African Genesis: Perspectives on Hominin Evolution*.
-      Cambridge: Cambridge University Press.
-891.  []{#c10752*444.xhtml#R891}Reynolds, T. S. 1979. Scientific
-      influences on technology: The case of the overshot waterwheel,
-      1752--1754. \_Technology and Culture* 20:270--295.
-892.  []{#c10752*444.xhtml#R892}Reynolds, T. S. 1983. \_Stronger Than a
-      Hundred Men: A History of the Vertical Water Wheel*. Baltimore, MD:
-      Johns Hopkins University Press.
-893.  []{#c10752*444.xhtml#R893}Rhodes, J. A., and S. E. Churchill. 2009.
-      Throwing in the Middle and Upper Paleolithic: inferences from an
-      analysis of humeral retroversion. \_Journal of Human Evolution*
-      56:1--10.
-894.  []{#c10752*444.xhtml#R894}Ricci, M. 2014. \_Il genio di Brunelleschi
-      e la costruzione della Cupola di Santa Maria del Fiore*. Livorno:
-      Casa Editrice Sillabe.
-895.  []{#c10752*444.xhtml#R895}Richerson, P.J., R. Boyd, and R. L.
-      Bettinger. 2001. Was agriculture impossible during the Pleistocene
-      but mandatory during the Holocene? A climate change hypothesis.
-      \_American Antiquity* 66:387--411.
-896.  []{#c10752*444.xhtml#R896}Richmond, B. G., et al. 2001. Origin of
-      human bipedalism: The knuckle-walking hypothesis revisited.
-      \_Yearbook of Physical Anthropology* 44:71--105.
-897.  []{#c10752*444.xhtml#R897}Rickman, G. E. 1980. The grain trade
-      under the Roman Empire. \_Memoirs from the American Academy in Rome*
-      36:261--276.
-898.  []{#c10752*444.xhtml#R898}Riehl, S., M. Zeidi, and N. J.
-      Conard. 2013. Emergence of agriculture in the foothills of the
-      Zagros Mountains of Iran. \_Science* 341:65--67.
-899.  []{#c10752*444.xhtml#R899}Righter, R. W. 2008. \_Wind Energy in
-      America: A History*. Norman: University of Oklahoma Press.
-900.  []{#c10752*444.xhtml#R900}Rindos, D. 1984. \_The Origins of
-      Agriculture: An Evolutionary Perspective*. Orlando, FL: Academic
-      Press.
-901.  []{#c10752*444.xhtml#R901}Robson, G. 1983. \_Magnificent Mercedes:
-      The History of the Marque*. New York: Bonanza Books.
-902.  []{#c10752*444.xhtml#R902}Roche, D. 2000. \_A History of Everyday
-      Things: The Birth of Consumption in France, 1600--1800*. Cambridge:
-      Cambridge University Press.
-903.  []{#c10752*444.xhtml#R903}Rockström, J., et al. 2009. A safe
-      operating space for humanity. \_Nature* 461:472--475.
-904.  []{#c10752*444.xhtml#R904}Rogin, L. 1931. \_The Introduction of Farm
-      Machinery*. Berkeley: University of California Press.
-905.  []{#c10752*444.xhtml#R905}Rollins, A. 1983. \_The Fall of Rome: A
-      Reference Guide*. Jefferson, NC: McFarland & Co.
-906.  []{#c10752*444.xhtml#R906}Rolt, L.T.C. 1963. \_Thomas Newcomen: The
-      Prehistory of the Steam Engine*. Dawlish: David and Charles.
-907.  []{#c10752*444.xhtml#R907}Rose, D. J. 1974. Nuclear eclectic power.
-      \_Science* 184:351--359.
-908.  []{#c10752*444.xhtml#R908}Rosen, W. 2012. \_The Most Powerful Idea
-      in the World: The Story of Steam, Industry, and Invention*.
-      Chicago: University of Chicago Press.
-909.  []{#c10752*444.xhtml#R909}Rosenberg, N. 1975. America's rise to
-      woodworking leadership. In \_America's Wooden Age: Aspects of Its
-      Early Technology*, ed. B. Hindle, 37--62. Tarrytown, PA: Sleepy
-      Hollow Restorations.
-910.  []{#c10752*444.xhtml#R910}Rosenberg, N., and L. E. Birdzell. 1986.
-      \_How the West Grew Rich: The Economic Transformation of the
-      Industrial World*. New York: Basic Books.
-911.  []{#c10752*444.xhtml#R911}Rosenblum, N. 1997. \_A World History of
-      Photography*. New York: Abbeville Press.
-912.  []{#c10752*444.xhtml#R912}Rostow, W. W. 1965. \_The Stages of
-      Economic Growth*. Cambridge: Cambridge University Press.
-913.  []{#c10752*444.xhtml#R913}Rostow, W. W. 1971. \_The Stages of
-      Economic Growth: A Non-Communist Manifesto*. Cambridge: Cambridge
-      University Press.
-914.  []{#c10752*444.xhtml#R914}Rothenberg, B., and F. G. Palomero. 1986.
-      The Rio Tinto enigma---no more. \_IAMS* 8:1--6.
-      <https://www.ucl.ac.uk/iams/newsletter/accordion/journals/iams_08/iams_8_1986_rothenberg_palomero>.
-915.  []{#c10752*444.xhtml#R915}Rouse, J. E. 1970. \_World Cattle*.
-      Norman: University of Oklahoma Press.
-916.  []{#c10752*444.xhtml#R916}Rousmaniere, P., and N. Raj. 2007.
-      Shipbreaking in the developing world: Problems and prospects.
-      \_International Journal of Occupational and Environmental Health*
-      13:359--368.
-917.  []{#c10752*444.xhtml#R917}Rowland, F. S. 1989. Chlorofluorocarbons
-      and the depletion of stratospheric ozone. \_American Scientist*
-      77:36--45.
-918.  []{#c10752*444.xhtml#R918}Rubio, M., and M. Folchi. 2012. Will
-      small energy consumers be faster in transition? Evidence form early
-      shift from coal to oil in Latin America. \_Energy Policy* 50:50--61.
-919.  []{#c10752*444.xhtml#R919}Ruddle, K., and G. Zhong. 1988.
-      \_Integrated Agriculture-Aquaculture in South China*. Cambridge:
-      Cambridge University Press.
-920.  []{#c10752*444.xhtml#R920}Ruff, C. B., et al. 2015. Gradual decline
-      in mobility with the adoption of food production in Europe.
-      \_Proceedings of the National Academy of Sciences of the United
-      States of America* 112:7147--7152.
-921.  []{#c10752*444.xhtml#R921}RWEDP (Regional Wood Energy Development
-      Programme in Asia). 1997. \_Regional Study of Wood Energy Today and
-      Tomorrow*. Rome: FAO-RWEDP. <http://www.rwedp.org/fd50.html>.
-922.  []{#c10752*444.xhtml#R922}Ryder, H. W., H. J. Carr, and P.
-      Herget. 1976. Future performance in footracing. \_Scientific
-      American* 224 (6): 109--119.
-923.  []{#c10752*444.xhtml#R923}Sagui, C. L. 1948. Le meunerie de
-      Barbegal (France) et les roués hydrauliques les ancients et au
-      moyen âge. \_Isis* 38:225--231.
-924.  []{#c10752*444.xhtml#R924}Sahlins, M. 1972. \_Stone Age Economics*.
-      Chicago: Aldine.
-925.  []{#c10752_444.xhtml#R925}Salkield, L. U. 1970. Ancient slags in
-      the wouth west of the Iberian Peninsula. Paper presented at the
-      Sixth International Mining Congress, Madrid, June 1970.
-926.  []{#c10752*444.xhtml#R926}Salzman, P. C. 2004. \_Pastoralists:
-      Equality, Hierarchy, and the State*. Boulder, CO: Westview Press.
-927.  []{#c10752*444.xhtml#R927}Samedov, V.A. 1988. \_Neft' i ekonomika
-      Rossii: 80--90e gody XIX veka*. Baku: Elm.
-928.  []{#c10752*444.xhtml#R928}Sanders, W. T., J. R. Parsons, and R. S.
-      Santley. 1979. \_The Basin of Mexico: Ecological Processes in the
-      Evolution of a Civilization*. New York: Academic Press.
-929.  []{#c10752*444.xhtml#R929}Sanz, M., J. Call, and C. Boesch,
-      eds. 2013. \_Tool Use in Animals: Cognition and Ecology*. Cambridge:
-      Cambridge University Press.
-930.  []{#c10752*444.xhtml#R930}Sarkar, D. 2015. \_Thermal Power Plant:
-      Design and Operation*. Amsterdam: Elsevier.
-931.  []{#c10752*444.xhtml#R931}Sasada, T., and A. Chunag. 2014. Irom
-      smelting in the nomadic empire of Xiongnu in ancient Mongolia.
-      \_ISIJ International* 54:1017--1023.
-932.  []{#c10752*444.xhtml#R932}Savage, C. I. 1959. \_An Economic History
-      of Transport*. London: Hutchinson.
-933.  []{#c10752*444.xhtml#R933}Schlebecker, J. T. 1975. \_Whereby We
-      Thrive*. Ames: Iowa State University Press.
-934.  []{#c10752*444.xhtml#R934}Schmidt, M. J. 1996. Working elephants.
-      \_Scientific American* 274 (1): 82--87.
-935.  []{#c10752*444.xhtml#R935}Schmidt, P., and D. H. Avery. 1978.
-      Complex iron smelting and prehistoric culture in Tanzania.
-      \_Science* 201:1085--1089.
-936.  []{#c10752*444.xhtml#R936}Schobert, H. H. 2014. \_Energy and
-      Society: An Introduction*. Boca Raton, FL: CRC Press.
-937.  []{#c10752_444.xhtml#R937}Schram, W. D. 2014. Greek and Roman
-      Siphons. <http://www.romanaqueducts.info/siphons/siphons.htm>.
-938.  []{#c10752*444.xhtml#R938}Schumpeter, J. A. 1939. \_Business Cycle:
-      A Theoretical and Statistical Analysis of the Capitalist
-      Processes*. New York: McGraw-Hill.
-939.  []{#c10752*444.xhtml#R939}Schurr, S. H., and B. C. Netschert. 1960.
-      \_Energy in the American Economy 1850--1975*. Baltimore, MD: Johns
-      Hopkins University Press.
-940.  []{#c10752*444.xhtml#R940}Schurr, S. H., et al. 1990. \_Electricity
-      in the American Economy: Agent of Technological Progress*. New
-      York: Greenwood Press.
-941.  []{#c10752*444.xhtml#R941}Schurz, W. L. 1939. \_The Manila Galleon*.
-      New York: E. P. Dutton.
-942.  []{#c10752*444.xhtml#R942}Scott, D. A. 2002. \_Copper and Bronze in
-      Art: Corrosion, Colorants, Conservation*. Los Angeles: Getty
-      Conservation Institute.
-943.  []{#c10752*444.xhtml#R943}Scott, R. A. 2011. \_Gothic Enterprise A
-      Guide to Understanding the Medieval Cathedral*. Berkeley:
-      University of California Press.
-944.  []{#c10752*444.xhtml#R944}Seaborg, G. T. 1972. Opening Address. In
-      \_Peaceful Uses of Atomic Energy: Proceedings of the Fourth
-      International Conference on the Peaceful Uses of Atomic Energy*,
-      29--35. New York: United Nations.
-945.  []{#c10752*444.xhtml#R945}Seavoy, R. E. 1986. \_Famine in Peasant
-      Societies*. New York: Greenwood Press.
-946.  []{#c10752*444.xhtml#R946}Seebohm, M. E. 1927. \_The Evolution of
-      the English Farm*. London: Allen & Unwin.
-947.  []{#c10752*444.xhtml#R947}comte de Ségur, P.-P. 1825. \_History of
-      the Expedition to Russia, Undertaken by Emperor Napoleon, in the
-      Year 1812*. London: Treuttel and Würtz.
-948.  []{#c10752_444.xhtml#R948}Self. 2015. Nuts, brazilnuts. Dried,
-      unblanched. Self.com.
-      <http://nutritiondata.self.com/facts/nut-and-seed-products/3091/2>.
-949.  []{#c10752*444.xhtml#R949}Sellin, H. J. 1983. The large Roman water
-      mill at Barbégal (France). \_History and Technology* 8:91--109.
-950.  []{#c10752*444.xhtml#R950}Senancour, E. P. 1901 (1804). \_Obermann*.
-      Trans. J. D. Frothingham. Cambridge: Riverside Press.
-951.  []{#c10752*444.xhtml#R951}Sexton, A. H. 1897. \_Fuel and Refractory
-      Materials*. London: Vlackie and Son.
-952.  []{#c10752*444.xhtml#R952}Sharma, R. 2012. \_Wheat Cultivation
-      Practices: With Special Reference to Nitrogen and Weed Management*.
-      Saarbrücken: LAP Lambert Academic Publishing.
-953.  []{#c10752*444.xhtml#R953}Shannon, C. E. 1948. A mathematical
-      theory of communication. \_Bell System Technical Journal*
-      27:379--423, 623--656.
-954.  []{#c10752*444.xhtml#R954}Sheehan, G. W. 1985. Whaling as an
-      organizing focus in Northwestern Eskimo society. In \_Prehistoric
-      Hunter-Gatherers*, ed. T. D. Price and J. A. Brown, 123--154.
-      Orlando, FL: Academic Press.
-955.  []{#c10752*444.xhtml#R955}Sheldon, C. D. 1958. \_The Rise of the
-      Merchant Class in Tokugawa Japan, 1600--1868: An Introductory
-      Survey*. New York: J. J. Augustin.
-956.  []{#c10752*444.xhtml#R956}Shen, T. H. 1951. \_Agricultural Resources
-      of China*. Ithaca, NY: Cornell University Press.
-957.  []{#c10752_444.xhtml#R957}Shift Project. 2015. Redesigning Economy
-      to Achieve Carbon Transition. <http://www.theshiftproject.org>.
-958.  []{#c10752*444.xhtml#R958}Shockley, W. 1964. Transistor technology
-      evokes new physics. In \_Nobel Lectures: Physics 1942--1962*,
-      344--374. Amsterdam: Elsevier.
-959.  []{#c10752*444.xhtml#R959}Shulman, P. A. 2015. \_Coal and Empire:
-      The Birth of Energy Security in Industrial America*. Baltimore, MD:
-      Johns Hopkins University Press.
-960.  []{#c10752*444.xhtml#R960}Sieferle, R. P. 2001. \_The Subterranean
-      Forest*. Cambridge: White Horse Press.
-961.  []{#c10752*444.xhtml#R961}Siemens, C. W. 1882. Electric lighting,
-      the transmission of force by electricity. \_Nature* 27:67--71.
-962.  []{#c10752*444.xhtml#R962}Sierra-Macías, M., et al. 2010.
-      Caracterización agronómica, calidad industrial y nutricional de
-      maíz para el trópico mexicano. \_Agronomía Mesoamericana* 21:21--29.
-963.  []{#c10752*444.xhtml#R963}Sillitoe, P. 2002. Always been
-      farmer-foragers? Hunting and gathering in the Papua New Guinea
-      Highlands. \_Anthropological Forum* 12:45--76.
-964.  []{#c10752*444.xhtml#R964}Silver, C. 1976. \_Guide to the Horses of
-      the World*. Oxford: Elsevier Phaidon.
-965.  []{#c10752*444.xhtml#R965}Simons, G. 2014. \_Comet! The World's
-      First Jet Airliner*. Barnsley: Pen and Sword Books.
-966.  []{#c10752*444.xhtml#R966}Singer, C. et al., eds. 1954--1958. \_A
-      History of Technology*. 5 volumes. Oxford: Oxford University Press.
-967.  []{#c10752*444.xhtml#R967}Singer, J. D., and M. Small. 1972. \_The
-      Wages of War 1816--1965: A Statistical Handbook*. New York: John
-      Wiley.
-968.  []{#c10752*444.xhtml#R968}Sinor, D. 1999. The Mongols in the West.
-      \_Journal of Asian History* 33:1--44.
-969.  []{#c10752*444.xhtml#R969}Sittauer, H. L. 1972. \_Gebändigte
-      Explosionen*. Berlin: Transpress Verlag für Verkehrswesen.
-970.  []{#c10752*444.xhtml#R970}Sitwell, N. H. 1981. \_Roman Roads of
-      Europe*. New York: St. Martin's Press.
-971.  []{#c10752*444.xhtml#R971}Siuru, B. 1989. Horsepower to the people.
-      \_Mechanical Engineering (New York)* 111 (2): 42--46.
-972.  []{#c10752*444.xhtml#R972}Skilton, C. P. 1947. \_British Windmills
-      and Watermills*. London: Collins.
-973.  []{#c10752*444.xhtml#R973}Slicher van Bath, B. H. 1963. \_The
-      Agrarian History of Western Europe, A.D. 500--1850*. London:
-      Arnold.
-974.  []{#c10752*444.xhtml#R974}Smeaton, J. 1759. An experimental enquiry
-      concerning the natural power of water and wind to turn mills, and
-      other machines, depending on a circular motion. \_Philosophical
-      Transactions of the Royal Society of London* 51:100--174.
-975.  []{#c10752*444.xhtml#R975}Smil, V. 1976. \_China's Energy*. New
-      York: Praeger.
-976.  []{#c10752*444.xhtml#R976}Smil, V. 1981. China's food. \_Food
-      Policy* 6:67--77.
-977.  []{#c10752*444.xhtml#R977}Smil, V. 1983. \_Biomass Energies*. New
-      York: Plenum Press.
-978.  []{#c10752*444.xhtml#R978}Smil, V. 1985. \_Carbon Nitrogen Sulfur:
-      Human Interference in Grand Biospheric Cycles*. New York: Plenum
-      Press.
-979.  []{#c10752*444.xhtml#R979}Smil, V. 1987. \_Energy Food Environment*.
-      Oxford: Oxford University Press.
-980.  []{#c10752*444.xhtml#R980}Smil, V. 1988. \_Energy in China's
-      Modernization*. Armonk, NY: M. E. Sharpe.
-981.  []{#c10752*444.xhtml#R981}Smil, V. 1991. \_General Energetics*. New
-      York: John Wiley.
-982.  []{#c10752*444.xhtml#R982}Smil, V. 1994. \_Energy in World History*.
-      Boulder, CO: Westview.
-983.  []{#c10752*444.xhtml#R983}Smil, V. 1997. \_Cycles of Life*. New
-      York: Scientific American Library.
-984.  []{#c10752*444.xhtml#R984}Smil, V. 2000a. Energy in the twentieth
-      century: Resources, conversions, costs, uses, and consequences.
-      \_Annual Review of Energy and the Environment* 25:21--51.
-985.  []{#c10752*444.xhtml#R985}Smil, V. 2000b. \_Feeding the World*.
-      Cambridge, MA: MIT Press.
-986.  []{#c10752*444.xhtml#R986}Smil, V. 2000c. Jumbo. \_Nature* 406:239.
-987.  []{#c10752*444.xhtml#R987}Smil, V. 2001. \_Enriching the Earth:
-      Fritz Haber, Carl Bosch and the Transformation of World Food
-      Production*. Cambridge, MA: MIT Press.
-988.  []{#c10752*444.xhtml#R988}Smil, V. 2003. \_Energy at the Crossroads:
-      Global Perspectives and Uncertainties*. Cambridge, MA: MIT Press.
-989.  []{#c10752*444.xhtml#R989}Smil, V. 2004. War and energy. In
-      \_Encyclopedia of Energy*, ed. C. Cleveland et al., vol. 6,
-      363--371. Amsterdam: Elsevier.
-990.  []{#c10752*444.xhtml#R990}Smil, V. 2005. \_Creating the Twentieth
-      Century: Technical Innovations of 1867--1914 and Their Lasting
-      Impact*. New York: Oxford University Press.
-991.  []{#c10752*444.xhtml#R991}Smil, V. 2006. \_Transforming the
-      Twentieth Century: Technical Innovations and Their Consequences*.
-      New York: Oxford University Press.
-992.  []{#c10752*444.xhtml#R992}Smil, V. 2008a. \_Energy in Nature and
-      Society: General Energetics of Complex Systems*. Cambridge, MA: MIT
-      Press.
-993.  []{#c10752*444.xhtml#R993}Smil, V. 2008b. \_Global Catastrophes and
-      Trends*. Cambridge, MA: MIT Press.
-994.  []{#c10752*444.xhtml#R994}Smil, V. 2008c. \_Oil*. Oxford: Oneworld
-      Press.
-995.  []{#c10752*444.xhtml#R995}Smil, V. 2010a. \_Energy Transitions:
-      History, Requirements, Prospects*. Santa Barbara, CA: Praeger.
-996.  []{#c10752*444.xhtml#R996}Smil, V. 2010b. \_Prime Movers of
-      Globalization: The History and Impact of Diesel Engines and Gas
-      Turbines*. Cambridge: MIT Press.
-997.  []{#c10752*444.xhtml#R997}Smil, V. 2010c. \_Why America Is Not a New
-      Rome*. Cambridge, MA: MIT Press.
-998.  []{#c10752*444.xhtml#R998}Smil, V. 2013a. \_Harvesting the
-      Biosphere: What We Have Taken from Nature*. Cambridge, MA: MIT
-      Press.
-999.  []{#c10752*444.xhtml#R999}Smil, V. 2013b. Just how polluted is
-      China, anyway? \_The American,* January 31, 2013.
-      <http://www.vaclavsmil.com/wp-content/uploads/smail-article-20130131.pdf>.
-1000. []{#c10752*444.xhtml#R1000}Smil, V. 2013c. \_Made in the USA: The
-      Rise and Retreat of American Manufacturing*. Cambridge, MA: MIT
-      Press.
-1001. []{#c10752*444.xhtml#R1001}Smil, V. 2013d. \_Should We Eat Meat?*
-      Chichester: Wiley Blackwell.
-1002. []{#c10752*444.xhtml#R1002}Smil, V. 2014a. Fifty years of the
-      \_Shinkansen. Asia-Pacific Journal: Japan Focus,* December 1, 2014.
-      <http://www.vaclavsmil.com/wp-content/uploads/shinkansen.pdf>.
-1003. []{#c10752*444.xhtml#R1003}Smil, V. 2014b. \_Making the Modern
-      World: Materials and Dematerialization*. Chichester: Wiley.
-1004. []{#c10752*444.xhtml#R1004}Smil, V. 2015a. \_Natural Gas: Fuel for
-      the 21st Century*. Chichester: Wiley.
-1005. []{#c10752*444.xhtml#R1005}Smil, V. 2015b. \_Power Density: A Key
-      to Understanding Energy Sources and Uses*. Cambridge, MA: MIT
-      Press.
-1006. []{#c10752*444.xhtml#R1006}Smil, V. 2015c. Real price of oil.
-      *IEEE Spectrum* 26 (October).
-      <http://www.vaclavsmil.com/wp-content/uploads/10.OIL*.pdf>.
-1007. []{#c10752*444.xhtml#R1007}Smil, V. 2016. \_Still the Iron Age:
-      Iron and Steel in the Modern World*. Amsterdam: Elsevier.
-1008. []{#c10752*444.xhtml#R1008}Smith, K. 2013. \_Biofuels, Air
-      Pollution, and Health: A Global Review*. Berlin: Springer.
-1009. []{#c10752*444.xhtml#R1009}Smith, K. P., and A. Anilkumar. 2012.
-      \_Rice Farming*. Saarbrücken: Lambert Academic Publishing.
-1010. []{#c10752*444.xhtml#R1010}Smith, N. 1980. The origins of the
-      water turbine. \_Scientific American* 242 (1): 138--148.
-1011. []{#c10752*444.xhtml#R1011}Smith, P. C. 2015. \_Mitsubishi Zero:
-      Japan's Legendary Fighter*. Barnsley: Pen & Sword Books.
-1012. []{#c10752*444.xhtml#R1012}Smith, N. 1978. Roman hydraulic
-      technology. \_Scientific American* 238:154--161.
-1013. []{#c10752*444.xhtml#R1013}Smythe, R. H. 1967. \_The Structure of
-      the Horse*. London: J. A. Allen & Co.
-1014. []{#c10752*444.xhtml#R1014}Sobel, D. 1995. \_Longitude: The True
-      Story of a Lone Genius Who Solved the Greatest Scientific Problem
-      of His Time*. New York: Penguin.
-1015. []{#c10752*444.xhtml#R1015}Sockol, M. D., D. A. Raichlen, and H.
-      Pontzer. 2007. Chimpanzee locomotor energetics and the origin of
-      human bipedalism. \_Proceedings of the National Academy of Sciences
-      of the United States of America* 104:12265--12269.
-1016. []{#c10752*444.xhtml#R1016}Soddy, F. 1933. \_Money versus Man: A
-      Statement of the World Problem from the Standpoint of the New
-      Economics*. New York: E. P. Dutton.
-1017. []{#c10752*444.xhtml#R1017}Soedel, W., and V. Foley. 1979. Ancient
-      catapults. \_Scientific American* 240 (3): 150--160.
-1018. []{#c10752*444.xhtml#R1018}Solomon, B. D., J. R. Barnes, and K. E.
-      Halvorsen. 2007. Grain and cellulosic ethanol: History, economics,
-      and energy policy. \_Biomass and Bioenergy* 31:416--425.
-1019. []{#c10752*444.xhtml#R1019}Solomon, F., and R. Q. Marston,
-      eds. 1986. \_The Medical Implications of Nuclear War*. Washington,
-      DC: National Academies Press.
-1020. []{#c10752*444.xhtml#R1020}Sørensen, B. 2011. \_History of Energy:
-      Northern Europe from the Stone Age to the Present Day*. London:
-      Routledge.
-1021. []{#c10752*444.xhtml#R1021}Speer, A. 1970. \_Inside the Third
-      Reich: Memoirs*. New York: Macmillan.
-1022. []{#c10752*444.xhtml#R1022}Spence, K. 2000. Ancient Egyptian
-      chronology and the astronomical orientation of pyramids. \_Nature*
-      408:320--324.
-1023. []{#c10752*444.xhtml#R1023}Spencer, J. E. 1966. \_Shifting
-      Cultivation in Southeastern Asia*. Berkeley: University of
-      California Press.
-1024. []{#c10752*444.xhtml#R1024}Spinardi, G. 2008. \_From Polaris to
-      Trident: The Development of US Fleet Ballistic Missile
-      Technology*. Cambridge: Cambridge University Press.
-1025. []{#c10752*444.xhtml#R1025}Sponheimer, M., et al. 2013. Isotopic
-      evidence of early hominin diets. \_Proceedings of the National
-      Academy of Sciences of the United States of America*
-      110:10513--10518.
-1026. []{#c10752*444.xhtml#R1026}Sprague, G. F., and J. W. Dudley,
-      eds. 1988. \_Corn and Corn Improvement*. Madison, WI: American
-      Society of Agronomy.
-1027. []{#c10752*444.xhtml#R1027}Spring-Rice, M. 1939. \_Working-Class
-      Wives*. Hardmonsworth: Penguin.
-1028. []{#c10752*444.xhtml#R1028}Spruytte, J. 19837. *Études
-      expérimentales sur l'attelage: Contribution à l'histoire du
-      cheval\_. Paris: Crépin-Lebond.
-1029. []{#c10752*444.xhtml#R1029}Stanhill, G. 1976. Trends and
-      deviations in the yield of the English wheat crop during the last
-      750 years. \_Agro-ecosystems* 3:1--10.
-1030. []{#c10752*444.xhtml#R1030}Stanley, W. 1912. Alternating-current
-      development in America. \_Journal of the Franklin Institute*
-      173:561--580.
-1031. []{#c10752*444.xhtml#R1031}Starbuck, A. 1878. \_History of the
-      American Whale Fishery*. Waltham, MA: A. Starbuck.
-1032. []{#c10752*444.xhtml#R1032}Stearns, P. N. 2012. \_The Industrial
-      Revolution in World History*. Boulder, CO: Westview Press.
-1033. []{#c10752*444.xhtml#R1033}Stern, D. I. 2004. Economic growth and
-      energy. In \_Encyclopedia of Energy*, ed. C. Cleveland et al., vol.
-      2, 35--51. Amsterdam: Elsevier.
-1034. []{#c10752*444.xhtml#R1034}Stern, D. I. 2010. \_The Role of Energy
-      in Economic Growth*. Canberra: Australian National University.
-1035. []{#c10752_444.xhtml#R1035}Stewart, I., D. De, and A. Cole. 2015.
-      Technology and people: The great job-creating machine. Deloitte.
-      <http://www2.deloitte.com/uk/en/pages/finance/articles/technology-and-people.html>.
-1036. []{#c10752_444.xhtml#R1036}Stockholm Resilience Center. 2015. The
-      nine planetary boundaries.
-      <http://www.stockholmresilience.org/research/planetary-boundaries/planetary-boundaries/about-the-research/the-nine-planetary-boundaries.html>.
-1037. []{#c10752*444.xhtml#R1037}Stockhuyzen, F. 1963. \_The Dutch
-      Windmill*. New York: Universe Books.
-1038. []{#c10752*444.xhtml#R1038}Stoltzenberg, D. 2004. \_Fritz Haber:
-      Chemist, Nobel Laureate, German, Jew*. Philadelphia: Chemical
-      Heritage Press.
-1039. []{#c10752*444.xhtml#R1039}Stopford, M. 2009. \_Maritime
-      Economics*. London: Routledge.
-1040. []{#c10752*444.xhtml#R1040}Straker, E. 1969. \_Wealden Iron*. New
-      York: Augustus M. Kelley.
-1041. []{#c10752*444.xhtml#R1041}Strauss, L. L. 1954. Speech to the
-      National Association of Science Writers, New York City,
-      September 16. Cited in \_New York Times*, September 17, 5.
-1042. []{#c10752*444.xhtml#R1042}Stross, R. E. 1996. \_The Microsoft Way:
-      The Real Story of How the Company Outsmarts its Competition*.
-      Reading, MA: Addison-Wesley.
-1043. []{#c10752*444.xhtml#R1043}Subcommittee on Horse Nutrition. 1978.
-      \_Nutrient Requirements of Horses*. Washington, DC: NAS.
-1044. []{#c10752*444.xhtml#R1044}Sullivan, R. J. 1990. The revolution of
-      ideas: Widespread patenting and invention during the English
-      Industrial Revolution. \_Journal of Economic History* 50:349--362.
-1045. []{#c10752*444.xhtml#R1045}Swade, D. 1991. \_Charles Babbage and
-      His Calculating Engines*. London: Science Museum.
-1046. []{#c10752*444.xhtml#R1046}Taeuber, I. B. 1958. \_The Population of
-      Japan*. Princeton, NJ: Princeton University Press.
-1047. []{#c10752*444.xhtml#R1047}Tainter, J. A. 1988. \_The Collapse of
-      Complex Societies*. New York: Cambridge University Press.
-1048. []{#c10752*444.xhtml#R1048}Takamatsu, N., et al. 2014. Steel
-      recycling circuit in the world. \_Tetsu To Hagane* 100:740--749.
-1049. []{#c10752*444.xhtml#R1049}Tanaka, Y. 1998. The cyclical
-      sensibility of Edo-period Japan. \_Japan Echo* 25 (2): 12--16.
-1050. []{#c10752_444.xhtml#R1050}Tata Steel. 2011. Tata Steel announces
-      completion of 100 years of its A-F Blast Furnace's existence.
-      <http://www.tatasteel.com/UserNewsRoom/usershowcontent.asp?id=785&type=PressRelease&REFERER=http://www.tatasteel.com/media/press-release.asp>.
-1051. []{#c10752_444.xhtml#R1051}Tate, K. 2009. America's Moon Rocket
-      Saturn V.
-      <http://www.space.com/18422-apollo-saturn-v-moon-rocket-nasa-infographic.html>.
-1052. []{#c10752*444.xhtml#R1052}Tauger, M. B. 2010. \_Agriculture in
-      World History*. London: Routledge.
-1053. []{#c10752_444.xhtml#R1053}Taylor, A. 2013. A luxury car club is
-      stirring up class conflict in China.
-      <http://www.businessinsider.com/chinas-sports-car-club-envy-2013-4>.
-1054. []{#c10752*444.xhtml#R1054}Taylor, C. F. 1984. \_The
-      Internal-Combustion Engine in Theory and Practice*. Cambridge, MA:
-      MIT Press.
-1055. []{#c10752*444.xhtml#R1055}Taylor, G. R., ed. 1982. \_The
-      Inventions That Changed the World*. London: Reader's Digest
-      Association.
-1056. []{#c10752*444.xhtml#R1056}Taylor, M. J. H., ed. 1989. \_Jane's
-      Encyclopedia of Aviation*. New York: Portland House.
-1057. []{#c10752*444.xhtml#R1057}Taylor, F. S. 1972. \_A History of
-      Industrial Chemistry*. New York: Arno Press.
-1058. []{#c10752*444.xhtml#R1058}Taylor, F. W. 1911. \_Principles of
-      Scientific Management*. New York: Harper & Brothers.
-1059. []{#c10752*444.xhtml#R1059}Taylor, N. A. S. 2006. Ethnic
-      differences in thermoregulation: Genotypic versus phenotypic heat
-      adaptation. \_Journal of Thermal Biology* 31:90--104.
-1060. []{#c10752*444.xhtml#R1060}Taylor, N. A. S., and C. A.
-      Machado-Moreira. 2013. Regional variations in transepidermal water
-      loss, eccrine sweat gland density, sweat secretion rates and
-      electrolyte composition in resting and exercising humans. \_Extreme
-      Physiology & Medicine* 2:1--29.
-1061. []{#c10752*444.xhtml#R1061}Taylor, R. 2007. The polemics of eating
-      fish in Tasmania: The historical evidence revisited. \_Aboriginal
-      History* 31:1--26.
-1062. []{#c10752*444.xhtml#R1062}Taylor, T. S. 2009. \_Introduction to
-      Rocket Science and Engineering*. Boca Raton, FL: CRC Press.
-1063. []{#c10752*444.xhtml#R1063}Telleen, M. 1977. \_The Draft Horse
-      Primer*. Emmaus, PA: Rodale Press.
-1064. []{#c10752*444.xhtml#R1064}Termuehlen, H. 2001. \_100 Years of
-      Power Plant Development*. New York: ASME Press.
-1065. []{#c10752*444.xhtml#R1065}Tesla, N. 1888. \_Electro-magnetic
-      Motor. Specification forming part of Letters Patent No. 391,968,
-      dated May 1, 1888*. Washington, DC: U.S. Patent Office.
-      <http://www.uspto.gov>.
-1066. []{#c10752*444.xhtml#R1066}Testart, A. 1982. The significance of
-      food storage among hunter-gatherers: Residence patterns,
-      population densities, and social inequalities. \_Current
-      Anthropology* 23:523--537.
-1067. []{#c10752*444.xhtml#R1067}Thieme, H. 1997. Lower Paleolithic
-      hunting spears from Germany. \_Nature* 385:807--810.
-1068. []{#c10752*444.xhtml#R1068}Thomas, B. 1986. Was there an energy
-      crisis in Great Britain in the 17th century? \_Explorations in
-      Economic History* 23:124--152.
-1069. []{#c10752_444.xhtml#R1069}Thomas Edison Papers. 2015. Edison's
-      patents. <http://edison.rutgers.edu/patents.htm>.
-1070. []{#c10752*444.xhtml#R1070}Thompson, W. C. 2002. \_Thompson
-      Releases Report on Fiscal Impact of 9/11 on New York City*. New
-      York: NYC Comptroller.
-1071. []{#c10752*444.xhtml#R1071}Thomsen, C. J. 1836. \_Ledetraad til
-      nordisk oldkyndighed*. Copenhagen: L. Mellers.
-1072. []{#c10752*444.xhtml#R1072}Thomson, K. S. 1987. How to sit on a
-      horse. \_American Scientist* 75:69--71.
-1073. []{#c10752*444.xhtml#R1073}Thomson, E. 2003. \_The Chinese Coal
-      Industry: An Economic History*. London: Routledge.
-1074. []{#c10752*444.xhtml#R1074}Thomson, W. 1896. Letter to Major Baden
-      Baden-Powell, December 8, 1896. \_Correspondence of Lord Kelvin*.
-      <http://zapatopi.net/kelvin/papers/letters.html#baden-powell>.
-1075. []{#c10752*444.xhtml#R1075}Thoreau, H. D. 1906. \_The Journal of
-      Henry David Thoreau, 1837--1861*. Boston: Houghton-Mifflin.
-1076. []{#c10752*444.xhtml#R1076}Thrupp, L. A., et al. 1997. \_The
-      Diversity and Dynamics of Shifting Cultivation: Myths, Realities,
-      and Policy Implications*. Washington, DC: World Resources
-      Institute.
-1077. []{#c10752*444.xhtml#R1077}Thurston, R. H. 1878. \_A History of the
-      Growth of the Steam-Engine*. New York: D. Appleton Co.
-1078. []{#c10752*444.xhtml#R1078}Titow, J. Z. 1969. \_English Rural
-      Society, 1200--1350*. London: George Allen and Unwin.
-1079. []{#c10752*444.xhtml#R1079}Tomaselli, I. 2007. \_Forests and Energy
-      in Developing Countries*. Rome: FAO.
-1080. []{#c10752_444.xhtml#R1080}Tomlinson, R. 2002. The invention of
-      e-mail just seemed like a neat idea. SAP INFO.
-      <http://www.sap.info>.
-1081. []{#c10752*444.xhtml#R1081}Tompkins, P. 1971. \_Secrets of the
-      Great Pyramid*. New York: Harper & Row.
-1082. []{#c10752*444.xhtml#R1082}Tompkins, P. 1976. \_Mysteries of
-      Mexican Pyramids*. New York: Harper & Row.
-1083. []{#c10752*444.xhtml#R1083}Torii, M. 1995. Maximal sweating rate
-      in humans. \_Journal of Human Ergology* 24:137--152.
-1084. []{#c10752*444.xhtml#R1084}Torr, G. 1964. \_Ancient Ships*.
-      Chicago: Argonaut Publishers.
-1085. []{#c10752*444.xhtml#R1085}Torrey, V. 1976. \_Wind-Catchers:
-      American Windmills of Yesterday and Tomorrow*. Brattleboro, VT:
-      Stephen Greene Press.
-1086. []{#c10752*444.xhtml#R1086}Tresemer, D. 1996. \_The Scythe Book*.
-      Chambersburg, PA: Alan C. Hood.
-1087. []{#c10752*444.xhtml#R1087}Trinkaus, E. 1987. Bodies, brawn,
-      brains and noses: Human ancestors and human predation. In \_The
-      Evolution of Human Hunting*, ed. M. Nitecki and D. V. Nitecki,
-      107--145. New York: Plenum.
-1088. []{#c10752*444.xhtml#R1088}Trinkaus, E. 2005. Early modern humans.
-      \_Annual Review of Anthropology* 34:207--230.
-1089. []{#c10752*444.xhtml#R1089}TsSU (Tsentral'noie statisticheskoie
-      upravlenie). 1977. \_Narodnoie khoziaistvo SSSR za 60 let*. Moscow:
-      Statistika.
-1090. []{#c10752*444.xhtml#R1090}Turner, B. L. 1990. The rise and fall
-      of population and agriculture in the Central Maya Lowlands 300
-      B.C. to present. In \_Hunger in History*, ed. L. F. Newman,
-      78--211. Oxford: Blackwell.
-1091. []{#c10752*444.xhtml#R1091}Tvengsberg, P. M. 1995. Rye and swidden
-      cultivation. \_Tools and Tillage* 7:131--146.
-1092. []{#c10752*444.xhtml#R1092}Tyne Built Ships. 2015. \_Glückauf*.
-      <http://www.tynebuiltships.co.uk/G-Ships/gluckauf1886.html>.
-1093. []{#c10752*444.xhtml#R1093}UNDP (United Nations Development
-      Programme). 2015. \_Human Development Report 2015*. New York: UNDP.
-1094. []{#c10752_444.xhtml#R1094}UNESCO. 2015a. Head-Smashed-In Buffalo
-      Jump. <http://whc.unesco.org/en/list/158>.
-1095. []{#c10752_444.xhtml#R1095}UNESCO. 2015b. Mount Qingcheng and
-      Dujianyang Irrigation System.
-      <http://whc.unesco.org/en/list/1001>.
-1096. []{#c10752*444.xhtml#R1096}Unger, R. 1984. Energy sources for the
-      Dutch Golden Age. \_Research in Economic History* 9:221--253.
-1097. []{#c10752*444.xhtml#R1097}United Nations Organization. 1956.
-      World energy requirements in 1975 and 2000. In \_Proceedings of the
-      International Conference on the Peaceful Uses of Atomic Energy*,
-      vol. 1, 3--33. New York: UNO.
-1098. []{#c10752*444.xhtml#R1098}Upham, C. W., ed. 1851. \_The life of
-      General Washington: First President of the United States*. vol. 2.
-      London: National Illustrated Library.
-1099. []{#c10752*444.xhtml#R1099}Urbanski, T. 1967. \_Chemistry and
-      Technology of Explosives*. New York: Pergamon Press.
-1100. []{#c10752*444.xhtml#R1100}U.S. Strategic Bombing Survey. 1947.
-      \_Effects of Air Attack on Urban Complex Tokyo-Kawasaki-Yokohama*.
-      Washington, DC: U.S. Strategic Bombing Survey.
-1101. []{#c10752*444.xhtml#R1101}USBC (U.S. Bureau of the Census). 1954.
-      \_U.S. Census of Manufacturers: 1954*. Washington, DC: U.S. GPO.
-1102. []{#c10752*444.xhtml#R1102}USBC. 1975. \_Historical Statistics of
-      the United States: Colonial Times to 1970*. Washington, DC: USBC.
-1103. []{#c10752*444.xhtml#R1103}U.S. Centennial of Flight
-      Commission. 2003. \_History of Flight*. Washington, DC.
-1104. []{#c10752_444.xhtml#R1104}U.S. Centennial of Flight Commission.
-      <http://www.centennialofflight.gov/hof/index.htm>.
-1105. []{#c10752*444.xhtml#R1105}USDA (U.S. Department of
-      Agriculture). 1959. \_Changes in Farm Production and Efficiency*.
-      Washington, DC: USDA.
-1106. []{#c10752*444.xhtml#R1106}USDA. 2011. \_National Nutrient Database
-      for Standard Reference* _._ <http://ndb.nal.usda.gov>.
-1107. []{#c10752*444.xhtml#R1107}USDA. 2014. \_Multi-Cropping Practices:
-      Recent Trends in Double Cropping*. Washington, DC: USDA.
-1108. []{#c10752*444.xhtml#R1108}USDOE (U.S. Department of
-      Energy). 2011. \_Biodiesel Basics*.
-      <http://www.afdc.energy.gov/pdfs/47504.pdf>.
-1109. []{#c10752_444.xhtml#R1109}USDOE. 2013. Energy efficiency of LEDs.
-      <http://apps1.eere.energy.gov/buildings/publications/pdfs/ssl/led_energy_efficiency.pdf>.
-1110. []{#c10752_444.xhtml#R1110}USDOL (U.S. Department of Labor). 2015.
-      Employment by major industry sector.
-      <http://www.bls.gov/emp/ep_table_201.htm>.
-1111. []{#c10752_444.xhtml#R1111}USEIA (U.S. Energy Information
-      Agency). 2014. Consumer energy expenditures are roughly 5% of
-      disposable income, below long-term average.
-      <http://www.eia.gov/todayinenergy/detail.cfm?id=18471>.
-1112. []{#c10752*444.xhtml#R1112}USEIA. 2015a. \_Annual Coal Report*.
-      <http://www.eia.gov/coal/annual>.
-1113. []{#c10752_444.xhtml#R1113}USEIA. 2015b. China.
-      <http://www.eia.gov/beta/international/analysis.cfm?iso=CHN>.
-1114. []{#c10752*444.xhtml#R1114}USEIA. 2015c. \_Direct Federal Financial
-      Interventions and Subsidies in Energy in Fiscal Year 2013.*
-      Washington, DC: USEIA.
-      <http://www.eia.gov/analysis/requests/subsidy>.
-1115. []{#c10752_444.xhtml#R1115}USEIA. 2015d. Energy intensity.
-      <http://www.eia.gov/cfapps/ipdbproject/iedindex3.cfm?tid=92&pid=46&aid=2>.
-1116. []{#c10752_444.xhtml#R1116}USEIA. 2016a. Coal.
-      <http://www.eia.gov/coal>.
-1117. []{#c10752_444.xhtml#R1117}USEIA. 2016b. U.S. imports from Iraq of
-      crude oil and petroleum products.
-      <https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=mttimiz1&f=a>.
-1118. []{#c10752_444.xhtml#R1118}USEPA (U.S. Environmental Protection
-      Agency). 2004. Photochemical smog.
-      <http://www.epa.sa.gov.au/files/8238_info_photosmog.pd>.
-1119. []{#c10752*444.xhtml#R1119}USEPA. 2015. \_Light-Duty Automotive
-      Technology, Carbon Dioxide Emissions, and Fuel Economy Trends:
-      1975 Through 2015*.
-      <https://www3.epa.gov/fueleconomy/fetrends/1975-2015/420r15016.pdf>.
-1120. []{#c10752_444.xhtml#R1120}USGS (U.S. Geological Survey). 2015.
-      Commodity statistics and information.
-      <http://minerals.usgs.gov/minerals/pubs/commodity>.
-1121. []{#c10752*444.xhtml#R1121}Usher, A. P. 1954. \_A History of
-      Mechanical Inventions*. Cambridge, MA: Harvard University Press.
-1122. []{#c10752*444.xhtml#R1122}Utley, F. 1925. \_Trade Guilds of the
-      Later Roman Empire*. London: London School of Economics.
-1123. []{#c10752*444.xhtml#R1123}Van Beek, G. W. 1987. Arches and vaults
-      in the ancient Near East. \_Scientific American* 257 (2): 96--103.
-1124. []{#c10752*444.xhtml#R1124}van Duijn, J. J. 1983. \_The Long Wave
-      in Economic Life*. London: George Allen & Unwin.
-1125. []{#c10752*444.xhtml#R1125}Van Noten, F., and J. Raymaekers. 1988.
-      Early iron smelting in Central Africa. \_Scientific American*
-      258:104--111.
-1126. []{#c10752*444.xhtml#R1126}Varvoglis, H. 2014. \_History and
-      Evolution of Concepts in Physics*. Berlin: Springer.
-1127. []{#c10752*444.xhtml#R1127}Vasko, T., R. Ayres, and L.
-      Fontvieille, eds. 1990. \_Life Cycles and Long Waves*. Berlin:
-      Springer-Verlag.
-1128. []{#c10752*444.xhtml#R1128}Vavilov, N. I. 1951. \_Origin,
-      Variation, Immunity and Breeding of Cultivated Plants*. Waltham,
-      MA: Chronica Botanica.
-1129. []{#c10752*444.xhtml#R1129}Veraverbeke, W. S., and J. A.
-      Delcour. 2002. Wheat protein composition and properties of wheat
-      glutenin in relation to breadmaking functionality. \_Critical
-      Reviews in Food Science and Nutrition* 42:179--208.
-1130. []{#c10752_444.xhtml#R1130}Versatile. 2015. Versatile.
-      <http://www.versatile-ag.ca>.
-1131. []{#c10752_444.xhtml#R1131}Vikingeskibs Museet. 2016. Wool
-      sailcloth.
-      <http://www.vikingeskibsmuseet.dk/en/professions/boatyard/experimental-archaeological-research/maritime-crafts/maritime-technology/woollen-sailcloth>.
-1132. []{#c10752*444.xhtml#R1132}Ville, S. P. 1990. \_Transport and the
-      Development of European Economy, 1750--1918*. London: Macmillan.
-1133. []{#c10752*444.xhtml#R1133}Villiers, G. 1976. \_The British Heavy
-      Horse*. London: Barrie and Jenkins.
-1134. []{#c10752*444.xhtml#R1134}Vogel, H. U. 1993. The Great Wall of
-      China. \_Scientific American* 268 (6): 116--121.
-1135. []{#c10752_444.xhtml#R1135}Volkswagen, A. G. 2013. Ivan Hirst.
-      <http://www.volkswagenag.com/content/vwcorp/info_center/en/publications/2013/11/ivan_hirst.bin.html/binarystorageitem/file/VWAG_HN_4_Ivan-Hirst-eng_2013_10_18.pdf>.
-1136. []{#c10752*444.xhtml#R1136}von Bertalanffy, L. 1968. \_General
-      System Theory*. New York: George Braziller.
-1137. []{#c10752*444.xhtml#R1137}von Braun, W., and F. I. Ordway. 1975.
-      \_History of Rocketry and Space Travel*. New York: Thomas Y.
-      Crowell.
-1138. []{#c10752*444.xhtml#R1138}von Hippel, Frank, et al. 1988.
-      Civilian casualties from counterforce attacks. \_Scientific
-      American* 259 (3): 36--42.
-1139. []{#c10752*444.xhtml#R1139}von Tunzelmann, G. N. 1978. \_Steam
-      Power and British Industrialization to 1860*. Oxford: Clarendon
-      Press.
-1140. []{#c10752*444.xhtml#R1140}Wailes, R. 1975. \_Windmills in England:
-      A Study of Their Origin, Development and Future*. London:
-      Architectural Press.
-1141. []{#c10752*444.xhtml#R1141}Waldron, A. 1990. \_The Great Wall of
-      China*. Cambridge: Cambridge University Press.
-1142. []{#c10752*444.xhtml#R1142}Walther, R. 2007. \_Pechelbronn: A la
-      source du pétrole, 1735--1970*. Strasbourg: Hirlé.
-1143. []{#c10752*444.xhtml#R1143}Walton, S. A., ed. 2006. \_Wind and
-      Water in the Middle Ages: Fluid Technologies from Antiquity to the
-      Renaissance*. Tempe: Arizona Center for Medieval and Renaissance
-      Studies.
-1144. []{#c10752*444.xhtml#R1144}Walz, W., and H. Niemann. 1997.
-      \_Daimler-Benz: Wo das Auto Anfing*. Konstanz: Verlag Stadler.
-1145. []{#c10752*444.xhtml#R1145}Wang, Z. 1991. \_A History of Chinese
-      Firearms*. Beijing: Military Science Press.
-1146. []{#c10752_444.xhtml#R1146}War Chronicle. 2015. Estimated war dead
-      World War II. <http://warchronicle.com/numbers/WWII/deaths.htm>.
-1147. []{#c10752*444.xhtml#R1147}Warburton, M. 2001. Barefoot running.
-      \_Sportscience* 5 (3): 1--4.
-1148. []{#c10752*444.xhtml#R1148}Warde, P. 2007. \_Energy Consumption in
-      England and Wales, 1560--2004*. Naples: Consiglio Nazionale della
-      Ricerche.
-1149. []{#c10752*444.xhtml#R1149}Warde, P. 2013. The first industrial
-      revolution. In \_Power to the People: Energy in Europe Over the
-      Last Five Centuries*, ed. A. Kander, P. Malanima, and P. Warde,
-      129--247. Princeton, NJ: Princeton University Press.
-1150. []{#c10752_444.xhtml#R1150}Washlaski, R. A. 2008. Manufacture of
-      Coke at Salem No. 1 Mine Coke Works.
-      <http://patheoldminer.rootsweb.ancestry.com/coke2.html>.
-1151. []{#c10752*444.xhtml#R1151}Waterbury, J. 1979. \_Hydropolitics of
-      the Nile Valley*. Syracuse, NY: Syracuse University Press.
-1152. []{#c10752*444.xhtml#R1152}Watkins, G. 1967. Steam power---an
-      illustrated guide. \_Industrial Archaeology* 4 (2): 81--110.
-1153. []{#c10752*444.xhtml#R1153}Watt, J. 1855 (1769). \_Steam Engines,
-      &c. 29 April 1769.* Patent reprint by G. E. Eyre and W.
-      Spottiswoode.
-      <https://upload.wikimedia.org/wikipedia/commons/0/0d/James_Watt_Patent_1769_No_913.pdf>.
-1154. []{#c10752*444.xhtml#R1154}Watters, R. F. 1971. \_Shifting
-      Cultivation in Latin America*. Rome: FAO.
-1155. []{#c10752*444.xhtml#R1155}Watts, P. 1905. \_The Ships of the Royal
-      Navy as They Existed at the Time of Trafalgar*. London:
-      Institution of Naval Architects.
-1156. []{#c10752*444.xhtml#R1156}Wei, J. 2012. \_Great Inventions that
-      Changed the World*. Hoboken, NJ: Wiley.
-1157. []{#c10752*444.xhtml#R1157}Weissenbacher, M. 2009. \_Sources of
-      Power: How Energy Forges Human History*. Santa Barbara, CA:
-      Praeger.
-1158. []{#c10752*444.xhtml#R1158}Weisskopf, V. F. 1983. Los Alamos
-      anniversary: "We meant so well." \_Bulletin of the Atomic
-      Scientists,* August--September, 24--26.
-1159. []{#c10752_444.xhtml#R1159}Weller, J. A. 1999. Roman traction
-      systems. <http://www.humanist.de/rome/rts>.
-1160. []{#c10752*444.xhtml#R1160}Welsch, R. L. 1980. No fuel like an old
-      fuel. \_Natural History* 89 (11): 76--81.
-1161. []{#c10752*444.xhtml#R1161}Wendel, J. F., et al. 1999. Genes,
-      jeans, and genomes: Reconstructing the history of cotton. In
-      \_Seventh International Symposium of the
-      International-Organization-of-Plant-Biosystematists*, ed. L. W. D.
-      VanRaamsdonk and J. C. M. DenNijs, 133--159.
-1162. []{#c10752*444.xhtml#R1162}Wesley, J. P. 1974. \_Ecophysics*.
-      Springfield, IL: Charles C. Thomas.
-1163. []{#c10752*444.xhtml#R1163}Whaples, R. 2005. Child Labor in the
-      United States. \_EH.Net Encyclopedia*
-      <http://eh.net/encyclopedia/child-labor-in-the-united-states>.
-1164. []{#c10752_444.xhtml#R1164}Wheat Foods Council. 2015. Wheat facts.
-      <http://www.wheatfoods.org/resources/72>.
-1165. []{#c10752*444.xhtml#R1165}Whipp, B. J., and K. Wasserman. 1969.
-      Efficiency of muscular work. \_Journal of Applied Physiology*
-      26:644--648.
-1166. []{#c10752*444.xhtml#R1166}White, A. 2007. A global projection of
-      subjective well-being: A challenge to positive psychology?
-      \_Psychtalk* 56:17--20.
-1167. []{#c10752*444.xhtml#R1167}White, K. D. 1967. \_Agricultural
-      Implements of the Roman World*. Cambridge: Cambridge University
-      Press.
-1168. []{#c10752*444.xhtml#R1168}White, K. D. 1970. \_Roman Farming*.
-      London: Thames & Hudson.
-1169. []{#c10752*444.xhtml#R1169}White, K. D. 1984. \_Greek and Roman
-      Technology*. Ithaca, NY: Cornell University Press.
-1170. []{#c10752*444.xhtml#R1170}White, L. A. 1943. Energy and the
-      evolution of culture. \_American Anthropologist* 45:335--356.
-1171. []{#c10752*444.xhtml#R1171}White, L. 1978. \_Medieval Religion and
-      Technology*. Berkeley: University of California Press.
-1172. []{#c10752*444.xhtml#R1172}White, P., and T. Denham, eds. 2006.
-      \_The Emergence of Agriculture: A Global View*. London: Routledge.
-1173. []{#c10752*444.xhtml#R1173}Whitmore, T. M., et al. 1990. Long-term
-      population change. In \_The Earth as Transformed by Human Action*,
-      ed. B. L. Turner II et al., 25--39. Cambridge: Cambridge
-      University Press.
-1174. []{#c10752*444.xhtml#R1174}WHO (World Health Organization). 2002.
-      \_Protein and Amino Acid Requirements in Human Nutrition*. Geneva:
-      WHO.
-1175. []{#c10752_444.xhtml#R1175}WHO. 2015a. Life expectancy.
-      <http://apps.who.int/gho/data/node.main.688>.
-1176. []{#c10752_444.xhtml#R1176}WHO. 2015b. Road traffic injuries.
-      <http://www.who.int/mediacentre/factsheets/fs358/en>.
-1177. []{#c10752*444.xhtml#R1177}Wier, S. K. 1996. Insight from geometry
-      and physics into the construction of Egyptian Old Kingdom
-      pyramids. \_Cambridge Archaeological Journal* 6:150--163.
-1178. []{#c10752*444.xhtml#R1178}Wikander, Ö. 1983. \_Exploitation of
-      Water-Power or Technological Stagnation?* Lund: CWK Gleerup.
-1179. []{#c10752*444.xhtml#R1179}Wilkins, J., et al. 2012. Evidence for
-      early hafted hunting technology. \_Science* 338:942--946.
-1180. []{#c10752*444.xhtml#R1180}Williams, M. 2006. \_Deforesting the
-      Earth :From Prehistory to Global Crisis*. Chicago: Chicago
-      University Press.
-1181. []{#c10752*444.xhtml#R1181}Williams, M. R. 1997. \_History of
-      Computing Technology*. Los Alamitos, CA: IEEE Computer Society.
-1182. []{#c10752*444.xhtml#R1182}Williams, T. 1987. \_The History of
-      Invention: From Stone Axes to Silicon Chips*. New York: Facts on
-      File.
-1183. []{#c10752*444.xhtml#R1183}Wilson, A. M. 1999. Windmills, cattle
-      and railroad: The settlement of the Llano Estacado. \_Journal of
-      the West* 38 (1): 62--67.
-1184. []{#c10752*444.xhtml#R1184}Wilson, A. M. et al. 2001. Horses damp
-      the spring in their step. \_Nature* 414:895--899.
-1185. []{#c10752*444.xhtml#R1185}Wilson, C. 1990. \_The Gothic Cathedral:
-      The Architecture of the Great Church 1130--1530*. London: Thames
-      and Hudson.
-1186. []{#c10752*444.xhtml#R1186}Wilson, C. 2012. Up-scaling, formative
-      phases, and learning in the historical diffusion of energy
-      technologies. \_Energy Policy* 50:81--94.
-1187. []{#c10752*444.xhtml#R1187}Wilson, D. G. 2004. \_Bicycling
-      Science*. Cambridge, MA: MIT Press.
-1188. []{#c10752*444.xhtml#R1188}Winkelmann, R., et al. 2015. Combustion
-      of available fossil fuel resources sufficient to eliminate the
-      Antarctic Ice Sheet. \_Science Advances* 1:e1500589.
-1189. []{#c10752*444.xhtml#R1189}Winter, T. N. 2007. \_The Mechanical
-      Problems in the Corpus Aristotle*. Lincoln:: University of
-      Nebraska, Classics and Religious Studies Department.
-1190. []{#c10752*444.xhtml#R1190}Winterhalder, B., R. Larsen, and R. B.
-      Thomas. 1974. Dung as an essential resurce in a highland Peruvian
-      community. \_Human Ecology* 2:89--104.
-1191. []{#c10752_444.xhtml#R1191}Wirfs-Brock, J. 2014. Explore 15 years
-      of power outages.
-      <http://insideenergy.org/2014/08/18/data-explore-15-years-of-power-outages/>.
-1192. []{#c10752_444.xhtml#R1192}WNA (World Nuclear Association). 2014.
-      Decommissioning nuclear facilities.
-      <http://www.world-nuclear.org/info/nuclear-fuel-cycle/nuclear-wastes/decommissioning-nuclear-facilities>.
-1193. []{#c10752_444.xhtml#R1193}WNA. 2015a. Uranium enrichment.
-      <http://www.world-nuclear.org/info/Nuclear-Fuel-Cycle/Conversion-Enrichment-and-Fabrication/Uranium-Enrichment>.
-1194. []{#c10752_444.xhtml#R1194}WNA. 2015b. World nuclear power
-      reactors & uranium requirements.
-      <http://www.world-nuclear.org/info/Facts-and-Figures/World-Nuclear-Power-Reactors-and-Uranium-Requirements>.
-1195. []{#c10752*444.xhtml#R1195}Wolfe, D. A., and A. Bramwell. 2008.
-      Innovation, creativity and governance: Social dynamics of economic
-      performance in city-regions. \_Innovation: Management. Policy &
-      Practice* 10:170--182.
-1196. []{#c10752*444.xhtml#R1196}Wolff, A. R. 1900. \_The Windmill as
-      Prime Mover*. New York: John Wiley.
-1197. []{#c10752*444.xhtml#R1197}Wölfel, W. 1987. \_Das Wasserrad:
-      Technik und Kulturgeschichte*. Wiesbaden: U. Pfriemer.
-1198. []{#c10752*444.xhtml#R1198}Womack, J. P., D. T. Jones, and D.
-      Roos. 1990. \_The Machine that Changed the World: The Story of Lean
-      Production*. New York: Simon and Schuster.
-1199. []{#c10752*444.xhtml#R1199}Wood, W. 1922. \_All Afloat*. Toronto:
-      Glasgow, Brook & Company.
-1200. []{#c10752*444.xhtml#R1200}Woodall, F. P. 1982. Water wheels for
-      winding. \_Industrial Archaeology* 16:333--338.
-1201. []{#c10752*444.xhtml#R1201}Woolfe, J. A. 1987. \_The Potato in the
-      Human Diet*. Cambridge: Cambridge University Press.
-1202. []{#c10752_444.xhtml#R1202}World Bank. 2015a. Energy use.
-      <http://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE>.
-1203. []{#c10752_444.xhtml#R1203}World Bank. 2015b. Motor vehicles (per
-      1,000 people).
-      <http://data.worldbank.org/indicator/IS.VEH.NVEH.P3>.
-1204. []{#c10752_444.xhtml#R1204}World Bank. 2015c. Trade.
-      <http://data.worldbank.org/indicator/NE.TRD.GNFS.ZS>.
-1205. []{#c10752_444.xhtml#R1205}World Bank. 2015d. Urban population (%
-      total). <http://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS>.
-1206. []{#c10752_444.xhtml#R1206}World Coal Association. 2015. Coal
-      mining. <http://www.worldcoal.org/coal/coal-mining>.
-1207. []{#c10752_444.xhtml#R1207}World Digital Library. 2014. Telegram
-      from Orville Wright in Kitty Hawk, North Carolina, to his father
-      announcing four successful flights, 1903 December 17.
-      <http://www.wdl.org/en/item/11372>.
-1208. []{#c10752_444.xhtml#R1208}World Economic Forum. 2012. Energy for
-      economic growth.
-      <http://www3.weforum.org/docs/WEF_EN_EnergyEconomicGrowth_IndustryAgenda_2012.pdf>.
-1209. []{#c10752*444.xhtml#R1209}Wrangham, R. 2009. \_Catching Fire: How
-      Cooking Made Us Human*. New York: Basic Books.
-1210. []{#c10752*444.xhtml#R1210}Wright, O. 1953. \_How We Invented the
-      Airplane*. New York: David McKay.
-1211. []{#c10752*444.xhtml#R1211}Wrigley, E. A. 2002. The transition to
-      an advanced organic economy: Half a millennium of English
-      agriculture. \_Economic History Review* 59:435--480.
-1212. []{#c10752*444.xhtml#R1212}Wrigley, E. A. 2006. The transition to
-      an advanced organic economy: Half a millennium of English
-      agriculture. \_Economic History Review* 59:435--480.
-1213. []{#c10752*444.xhtml#R1213}Wrigley, E. A. 2010. \_Energy and the
-      English Industrial Revolution*. Cambridge: Cambridge University
-      Press.
-1214. []{#c10752*444.xhtml#R1214}Wrigley, E. A. 2013. Energy and the
-      English Industrial Revolution. \_Philosophical Transactions of the
-      Royal Society A* 371. doi:10.1098/rsta.2011.0568.
-1215. []{#c10752*444.xhtml#R1215}Wu, K. C. 1982. \_The Chinese Heritage*.
-      New York: Crown Publishers.
-1216. []{#c10752*444.xhtml#R1216}Wulff, H. E. 1966. \_The Traditional
-      Crafts of Persia*. Cambridge, MA: MIT Press.
-1217. []{#c10752*444.xhtml#R1217}Xie, Y., and Y. Jin. 2015. Household
-      wealth in China. \_China Sociological Review* 47: 203--229.
-1218. []{#c10752_444.xhtml#R1218}Xinhua. 2015. China boasts world's
-      largest highspeed railway network.
-      <http://news.xinhuanet.com/english/photo/2015-01/30/c_133959250.htm>.
-1219. []{#c10752*444.xhtml#R1219}Xu, Z., and J. L. Dull. 1980. \_Han
-      Agriculture: The Formation of Early Chinese Agrarian Economy, 206
-      B.C.--A.D. 220*. Seattle: University of Washington Press.
-1220. []{#c10752*444.xhtml#R1220}Yang, J. 2012 \_Tombstone: The Great
-      Chinese Famine, 1958--1962*. New York: Farrar, Straus and Giroux.
-1221. []{#c10752*444.xhtml#R1221}Yates, P. 2012. \_Evaluation and Model
-      of the Chinese Kang System*. Fort Collins, CO: University of
-      Colorado.
-1222. []{#c10752*444.xhtml#R1222}Yates, R. S. 1990. War, food shortages,
-      and relief measures in early China. In \_Hunger in History*,
-      ed. L. F. Newman, 147--177. Oxford: Basil Blackwell.
-1223. []{#c10752*444.xhtml#R1223}Yenne, B. 2006. \_The American Aircraft
-      Factory in World War II*. Minneapolis, MN: Zenith Press.
-1224. []{#c10752*444.xhtml#R1224}Yergin, D. 2008. \_The Prize: The Epic
-      Quest for Oil, Money, and Power*. New York: Simon and Schuster.
-1225. []{#c10752*444.xhtml#R1225}Yesner, D. R. 1980. Maritime
-      hunter-gatherers: Ecology and prehistory. \_Current Anthropology*
-      21:727--750.
-1226. []{#c10752*444.xhtml#R1226}Yonekura, S. 1994. \_The Japanese Iron
-      and Steel Industry, 1850--1990: Continuity and Discontinuity*. New
-      York: St. Martin's Press.
-1227. []{#c10752_444.xhtml#R1227}Zaanse Schans. 2015. Zaanse Schans.
-      <http://www.dezaanseschans.nl/en>.
-1228. []{#c10752*444.xhtml#R1228}Zeder, M. 2011. The origins of
-      agriculture in the Near East. \_Current Anthropology* 52
-      (Supplement): S221--S235.
-1229. []{#c10752*444.xhtml#R1229}Ziemke, E. F. 1968. \_The Battle for
-      Berlin: End of the Third Reich*. New York: Ballantine Books.
-      :::
-
-[]{#c10752_555n.xhtml}
-
-<div>
-
-# [[]{#c10752_555n.xhtml#d2e61}Name Index]{.chapterTitle}
-
-</div>
-
-::: section
-
-- Amontons, Guillaume, 142
-
-```{=html}
-<!-- -->
-```
-
-- Ampère, André-Marie, 255
-- Apuleius, Lucius, 144--145, 172
-- Archimedes, 136
-- Auer von Welsbach, Carl, 232
-
-```{=html}
-<!-- -->
-```
-
-- Babbage, Charles, 337
-- Bald, Robert, 230, 232
-- Bardeen, John, 338--339
-- Bauer, Andreas F., 335
-- Beau de Rochas, Alphonse, 249
-- Bell, Alexander G., 336
-- Benedict, Francis G., 144
-- Benz, Karl F., 249
-- Berliner, Emil, 337
-- Berners-Lee, Tim, 343
-- Bissell, George H., 246
-- Blériot, Louis C., 252
-- Bosch, Carl, 308--309
-- Boulton, Matthew, 238--239
-- Bradley, Charles S., 265
-- Brattain, Walter, 338--339
-- Braudel, Fernand, 430
-- Braun, Ferdinand, 337
-- Braun, Wernher von, 293
-- Bruegel, Pieter, 140
-- Brunelleschi, Filippo, 198
-- Buehler, Ernest, 336
-- Buz, Heinrich von, 254
-
-```{=html}
-<!-- -->
-```
-
-- Carrier, Willis, 361
-- Casement, Robert, 155
-- Charles IV, 205
-- Cody, William F., 179
-- Columbus, Christopher, 195
-- Cooke, Thomas, 326
-- Cooke, William, 336
-- Corliss, George H., 240
-- Coulomb, Charles-Augustin de, 144, 255
-- Cubbitt, William, 143
-
-```{=html}
-<!-- -->
-```
-
-- Daguerre, Louis J.-M., 337
-- Daimler, Gottlieb, 249--250
-- Daimler, Paul, 251
-- Darby, Abraham, 234
-- Debussy, Claude, 432
-- Deere, John, 106
-- De Forest, Lee, 337
-- De la Rue, Warren, 258
-- Diesel, Rudolf, 252--255
-- Diocletian, 183
-- Dolivo-Dobrovolsky, Mikhail O., 267
-- Doret, Gustave, 432
-- Drake, Edwin, 246
-
-```{=html}
-<!-- -->
-```
-
-- Edison, Thomas A., 244, 258--259, 260--262, 264--266, 336--337, 402,
-  418
-- Elcano, Juan S., 195
-- Ellul, Jacques, 423
-- Evans, Oliver, 240
-
-```{=html}
-<!-- -->
-```
-
-- Faraday, Michael, 256--257, 263
-- Feynman, Richard, 3
-- Ford, Henry, 250, 285
-- Francis, James B., 157
-- Franklin, Benjamin, 174
-- Frisch, Otto, 282
-- Fulton, Richard, 240
-
-```{=html}
-<!-- -->
-```
-
-- Galvani, Luigi, 255
-- Gaulard, Lucien H. 267
-- Gibbs, John D., 267
-- Goddard, Robert H., 293
-- Grey, Elisha, 336
-- Gutenberg, Johannes, 335
-
-```{=html}
-<!-- -->
-```
-
-- Haber, Fritz, 308--309
-- Hall, Charles M., 323
-- Harrison, John, 426
-- Henning, Hans, 370
-- Herodotus, 201--203
-- Héroult, Paul L.-T., 323
-- Hertz, Heinrich, 337
-- Hill, Archibald V., 19
-- Hirst, Ivan, 330
-- Hitler, Adolf, 328, 330, 365, 379
-- Hollerith, Hermann, 427
-- Hughes, Howard, 276
-- Humphrey, Davy, 257--258
-- Hussein, Saddam, 367, 380
-- Hussey, Obed, 108
-
-```{=html}
-<!-- -->
-```
-
-- Jacquard, Jean M., 427
-- Jefferson, Thomas, 432
-- Jellinek, Emil, 250
-- Jevons, Stanley, 14
-- Jobs, Steven, 341
-- Joule, James P., 9
-
-```{=html}
-<!-- -->
-```
-
-- Kaplan, Viktor, 157
-- Keeling, Charles, 382
-- Kilby, Jack S., 339
-- Koenig, Friedrich, 335
-- Krupp, Friedrich A., 254
-
-```{=html}
-<!-- -->
-```
-
-- Lane, John, 106
-- Langley, Samuel P., 251
-- Lawes, John D., 308
-- Leakey, Richard, 21
-- Lee, Edmund, 426
-- Lefebvre des Noëttes, Richard, 71
-- Lenin, Vladimir I., 367, 436--437
-- Lenoir, Joseph E., 249
-- Leonardo da Vinci, 432
-- Levassor, Emile, 250
-- Lewis, Robert, 360
-- Licklider, J.C.R., 342
-- Liebig, Justus von, 307
-- Lilienfeld, Julius E., 338
-- Lotka, Alfred, 1--2
-- Lukas, Anthony F., 247
-
-```{=html}
-<!-- -->
-```
-
-- Madison, James, 432
-- Magellan, Ferdinand, 195
-- Manly, Charles, 251
-- Mao, Zedong, 275, 359, 365
-- Marconi, Guglielmo, 337--338
-- Marsh, C. W., 108
-- Maxwell, James C., 337--338
-- Maybach, Wilhelm, 249--251
-- McCormick, Cyrus, 108
-- Meitner, Lise, 282
-- Michelangelo, 204, 432
-- Monet, Claude, 432
-- Montferrand, Auguste de, 130--131
-- Moore, Gordon, 339, 341
-- Morse, Samuel, 336
-- Morton, Frederick, 118
-- Murdoch, William, 239
-
-```{=html}
-<!-- -->
-```
-
-- Napoleon, Bonaparte, 221--222, 364--365
-- Neubold, Charles, 106
-- Newcomen, Thomas, 236--238
-- Niépce, Nicéphore, 337
-- Nobel, Alfred, 247, 370
-- Noyce, Robert, 339--340
-
-```{=html}
-<!-- -->
-```
-
-- Obert, Hermann, 293
-- Odum, Howard, 2, 311
-- Ohain, Hans P. von, 290
-- Ørsted, Hans, 255--256
-- Orwell, George, 2--3
-- Ostwald, Wilhelm, 2--3
-- Otto, Nicolaus A., 249
-
-```{=html}
-<!-- -->
-```
-
-- Papin, Denis, 236
-- Parsons, Charles A., 244, 263
-- Pelton, Lester A., 157
-- Perkins, Jacob, 240
-- Pissarro, Camille, 432--433
-- Porsche, Ferdinand, 330
-
-```{=html}
-<!-- -->
-```
-
-- Rathenau, Emil, 262
-- Revelle, Roger, 382
-- Rickover, Hyman, 283
-- Roentgen, Wilhelm, K., 343
-- Roosevelt, Franklin D., 367
-
-```{=html}
-<!-- -->
-```
-
-- Savery, Thomas, 236
-- Scheutz, Edward, 337
-- Schlumberger, Conrad, 276
-- Seaborg, Glen, 438
-- Shannon, Claude, 339
-- Shockley, William, 339
-- Smeaton, John, 151, 154, 161, 237
-- Sobrero, Ascanio, 370
-- Soddy, Frederick, 344--345
-- Sprengel, Hermann, 258
-- Spruytte, Jean, 71
-- Stalin, Iosif V., 365, 380
-- Stanley, William, 263--265
-- Stephenson, George, 241
-- Strauss, Lewis L., 438
-- Suess, Hans, 382
-- Swan, Joseph W., 258--260
-
-```{=html}
-<!-- -->
-```
-
-- Taylor, Charles, 251
-- Taylor, Frederick W., 317--318
-- Teal, Gordon W., 339
-- Tesla, Nikola, 265--267
-- Thompson, Benjamin, 174
-- Thomson, William (Lord Kelvin), 265, 436
-- Thoreau, Henry D., 166
-- Tomlinson, Ray, 342
-- Trevithick, Richard, 240--241
-- Tsiolkovsky, Konstantin E., 293
-
-```{=html}
-<!-- -->
-```
-
-- Vauban, Sebastien, 224
-- Verne, Jules, 257
-- Vivaldi, Antonio, 426
-- Volta, Alessandro, 255, 336
-
-```{=html}
-<!-- -->
-```
-
-- Washington, George, 245, 432
-- Watt, James, 9--11, 142, 213, 237--240, 242, 268, 426
-- Westinghouse, George, 265, 267
-- Wheatstone, Charles, 336
-- Whittle, Frank, 290
-- Wilbrand, Joseph, 370
-- Wilhelm II, 364
-- Wood, Jethro, 106
-- Woodard, Henry, 259
-- Wozniak, Steven, 341--342
-- Wright, Orville, 250--254
-- Wright, Wilbur, 250--254
-
-```{=html}
-<!-- -->
-```
-
-- Zola, Émile, 432
-  :::
-
-[]{#c10752_555s.xhtml}
-
-<div>
-
-# [[]{#c10752_555s.xhtml#d2e61}Subject Index]{.chapterTitle}
-
-</div>
-
-::: section
-
-- Accidents, 136, 202, 284, 292, 304, 318, 327, 381, 418, 437
-  - traffic, 331, 407
-
-```{=html}
-<!-- -->
-```
-
-- Africa, 18, 21, 31, 45--46, 47, 54, 59, 65, 68, 121--122, 169--171,
-  195, 216, 269, 280, 286, 348, 354--357, 388, 416, 427
-  - South, 24--25, 27, 163, 274, 278
-  - sub-Saharan, 122, 132, 164, 210, 285, 287, 351
-- Agriculture
-  - in China, 116, 121, 124--125
-  - energy returns in, 15, 45, 50, 60, 74, 79, 81, 93--95, 97--98,
-    100, 104--105, 109--110, 113, 115, 120, 122
-  - in Europe, 63, 83--85, 99--106, 122--126
-  - innovation in, 52, 55, 85, 87--88, 91, 99--100, 106--107, 112,
-    125
-  - intensification of, 50--52, 65, 95, 98, 102, 105, 113--117,
-    121--122, 124, 126--217, 407, 419--420
-  - in Mesoamerica, 97--99, 119
-  - modern, 306--313
-- energy inputs in, 126, 311--313
-- mechanization of, 97, 307, 354
-- origins of, 42--44
-  - Roman, 53--55, 66, 70, 77, 84--85, 90--91, 99--101, 104--105
-  - shifting, 29, 44--45, 97--98, 120, 122--124, 407
-  - traditional, 49--52, 419--421
-- field work, 53--57
-- limits of, 110, 120--126
-  - in US, 53, 75, 84, 88, 106--110, 114--115, 125--126
-- Airbus, 291, 333, 335, 386, 402
-  - models, 335
-- Airplanes, 221, 252, 254, 290--292, 302, 320, 333--335, 369,
-  375--376, 401--403, 405. _See also_ Airbus; Boeing
-  - jetliners, 229, 303--304, 325, 332--333, 335, 341, 369, 417
-  - military, 375--376
-  - speed of, 333--334
-- Alaska, 39, 278, 366
-- Alberta, 33, 106, 247, 277
-- Aluminum, 320, 323--324
-  - in cars, 250--51
-  - energy cost of, 323, 375
-  - production of, 320--321, 324, 411
-- Amazonia, 36, 43
-- Ammonia, 84, 279, 308--311, 383, 397, 409, 441
-  - energy cost of synthesis, 309--311
-- Animals, 27--29, 32, 35, 37--41, 45--47, 66--76, 111, 115, 392, 423
-  - domestication of, 21, 28, 42--43, 58, 66, 88, 91, 97, 145, 179,
-    389
-  - draft, 66--76, 101--103, 108, 110--111, 115, 120, 126, 131,
-    144--146, 149, 182, 185--186, 199, 219, 221, 236, 244, 254,
-    267--268, 278, 306--307, 389, 392, 397--398, 400--401, 419--421,
-    423, 425, 432
-  - feeding of, 15, 18, 22, 50--51, 57, 70, 74--75, 83, 86, 91, 94,
-    101--103, 110--112, 115, 121, 126, 144--146, 164, 171, 186, 225,
-    313, 389, 419--420, 423
-  - harnessing of, 67--74, 91, 100, 128, 182, 272, 392--393, 417,
-    425
-  - power of, 66--68, 70--71
-  - in warfare, 219--222
-- Apple, 342
-- Aqueducts, 198, 205--207
-  - Roman, 205--207
-- Arrows, 26, 217--219, 223, 368, 403, 430
-- Artillery, 219, 221, 223--224, 319
-- Asia, 18, 21, 45--47, 54--55, 57, 63--66, 68, 70, 74, 128, 132, 158,
-  164, 169--171, 174--175, 179, 191, 208, 221, 241, 290, 333,
-  347--348, 354--357, 379--380, 382, 387--388, 427, 432
-  - agriculture in, 45--47, 54--55, 57, 63--65, 76--77, 83--84, 88,
-    113, 115, 119, 121--122, 124, 145, 311, 408, 420
-  - energy use in, 269, 272, 280, 285, 307, 321, 331, 355, 360--361,
-    391, 428
-- Australia, 32, 36, 44, 108, 163, 241, 272, 274, 363, 420
-- _Australopithecus_, 21, 23
-- Aztecs, 98--99
-
-```{=html}
-<!-- -->
-```
-
-- Barley, 42--43, 59, 62, 85--90, 94, 102, 104--105, 119
-- Basarwa, 32, 36--37
-- Baku, 247
-- Beef, 177, 313
-- Belgium, 229, 235, 250, 315--316
-- Belts, transmission, 157, 236, 240, 243, 313, 317, 319
-- Bicycles, 187--188, 250
-- Biodiesel, 17, 286
-- Biofuels, modern, 285--286, 288, 299, 358, 396
-- Bipedalism, 22--23, 31--32
-- Bloomeries, 212--213
-- BMR (basal metabolic rate), 19, 144
-- Boeing, 292, 333--335, 369, 401--402
-  - Boeing 707, 292, 333--335, 369
-  - Boeing 737, 292, 333, 335
-  - Boeing 747, 292, 302, 334--335, 401--402
-  - Boeing 767, 369
-  - Boeing 787, 320, 325, 335
-- Boilers
-  - for steam engines, 237, 239--242, 244, 426
-  - for steam turbines, 281, 297, 316, 319, 389, 401
-- Bombs, 367--368, 370--379, 403
-  - fire, 372--373
-  - nuclear, 283, 371--374, 378--379, 403
-- Bones, 21, 24, 32, 40--41, 44, 53, 430
-- Bows, 218--219, 368, 403
-- Brain, 22--23, 345
-  - energy need of, 23, 345
-- Brass, 210--211
-- Brazil, 30--31, 278, 285--286, 326, 330--331, 335, 354, 392, 405,
-  416, 422, 434, 439
-- Bread, 10, 60, 104, 119, 121, 154, 168, 171, 173
-- Bricks, 7, 16, 163, 166, 174--175, 199, 201, 231, 321, 404
-  - production of, 197--198
-- Bridges, 152, 184, 198, 205--207, 216
-- Bronze, 124, 179, 182, 188, 207, 210--211, 223
-
-```{=html}
-<!-- -->
-```
-
-- California, 108--109, 112, 189, 247, 276--277, 288, 340, 417
-- Calorie, 9--10, 227
-- Canada, 44, 246--247, 258, 270, 280, 284, 286, 338, 349--350, 363,
-  366, 376
-- Canals, 184, 190--191, 198, 205, 231, 239, 244, 278, 332, 391--392
-  - irrigation, 51, 74, 76, 79--81, 83--84, 88, 90, 92--93, 97--99,
-    420--421
-- Candles, 14, 174, 176--177, 402
-- Cane, sugar, 22, 82, 145, 161, 169, 171, 285
-- Cannons, 223, 403
-- Capstans, 11, 131, 137--139, 190, 198
-- Carbon, 5, 21, 82, 165, 212, 216, 257--260, 284, 320--321, 335, 384,
-  418, 423, 430
-  - in fossil fuels, 13, 166, 226, 234, 269--271, 274, 381--383, 397
-- Carbon dioxide (CO~2~), 5, 41, 82, 92, 235, 269, 381--384, 406, 440
-  - emissions of, 269--270, 274, 322, 381--382
-- Cars, 187, 249--250, 277, 289--290, 297, 304, 307, 325--326,
-  328--330, 345, 352, 358, 381, 399, 401, 413--416, 425, 437
-  - CAFE (corporate average fuel economy), 345
-  - energy embodied in, 344
-  - manufacturing of, 413
-  - as mechatronic machines, 325
-  - Mercedes, 250--251, 325, 330, 375
-  - Model T, 250, 276, 289, 328, 371
-  - ownership of, 327--329
-  - popular models of, 330
-  - power of, 415--416
-  - Volkswagen, 290, 328, 330, 402, 413
-- Catapults, 132--133, 137, 189, 217--220, 222, 251, 403, 419
-- Cathedrals, 52, 140, 198--199, 204--205, 212, 391, 393
-- Cavalry, 221, 223
-- Cement, 16, 204--205, 359, 397
-- Cereals. _See_ Grains
-- Charcoal, 12--13, 16, 38, 126, 128, 130, 163--167, 169, 175--176,
-  198, 207, 208--216, 222, 225, 229, 233, 267--268, 285, 301, 306,
-  353, 388--389, 404, 411, 420--421
-  - in iron smelting, 211--216, 234--235
-- Chimpanzees, 6, 22--23, 28
-- China, 95--97, 171, 175, 187, 190--191, 193, 197, 211, 216, 219,
-  223, 226, 269--270, 280, 284--289, 305, 326--327, 329, 347--349,
-  354--359, 363, 367, 379, 380, 387--388, 390, 392--394, 404--405,
-  416--417, 420, 427, 431, 434
-  - agriculture, 50, 53, 57, 59, 63--64, 70, 74, 76--79, 86--97, 99,
-    100, 110--111, 115--119, 121, 124--125, 307, 309, 310, 312
-  - coal in, 132, 164, 228, 234, 272--275, 298
-  - dynasties
-- Han, 70, 91, 118, 134, 184, 190, 211--212, 216, 228--229, 245, 435
-- Ming, 69, 78, 91, 95
-- Qin, 110
-- Qing, 81, 91, 93--96, 252, 435
-- Sung, 189
-- Tang, 352
-- Yuan, 92
-- Circuits, integrated, 339--340, 427
-- Cities
-  - environmental degradation in, 355
-  - growth of, 352
-  - modern, 177, 185--187, 191, 255, 258, 267, 280--281, 304, 307,
-    328, 351, 354--355, 357, 367, 372, 376, 386, 409, 420--421,
-    437--438
-  - power density of, 352--353
-  - premodern, 12--13, 52, 83--84, 93, 118, 145--146, 152, 164, 224,
-    315, 326, 353, 420
-- Civilization, 2, 20, 116, 225, 385, 418, 430--431, 439--441
-  - high-energy, 8, 411, 417, 422
-  - modern, 18, 289, 295--296, 306, 321, 341, 386--387
-  - traditional, 13, 51, 97, 99, 117, 174, 191, 393
-- Coal, 9, 17--18, 106, 110, 113, 165, 168, 171, 177, 211--212, 226,
-  227--229, 247, 270--271, 309, 345, 353, 393--397, 410--412, 421,
-  426, 428, 435, 437
-  - carriers of, 230--232
-  - in China, 274--275
-  - combustion of, 154--155, 242, 244, 249, 268, 281, 297, 299, 302,
-    314--315, 326, 381--382, 389, 401, 407, 440
-  - in electricity generation, 9--10, 14, 261, 284, 305
-  - energy density of, 227
-  - in England, 228--234, 272--273, 298
-  - production, 2, 131--132, 144, 157, 164, 226, 230--234, 238, 240,
-    269, 271--275, 278, 297--298, 315--316, 321, 346, 404, 422, 424
-  - properties, 227
-  - in US, 164, 235, 271--272, 274, 316, 389
-- Coke, 15, 126, 213--215, 217, 226, 231, 234--235, 272, 276, 306,
-  308, 316, 321, 389, 394, 411, 421, 441
-- Combines, 61, 108--109, 306, 398
-- Combustion, 6--7, 18, 222, 372. _See also_ Engines
-  - of biomass fuels, 18, 44, 110, 128, 130, 164--166, 168--171,
-    175, 270, 285, 355, 389, 432
-  - of fossil fuels, 7, 18, 113, 198, 226--230, 234, 245, 272, 280,
-    349, 352--353, 381--383, 389, 406--407, 440
-- Computers, 304, 320, 324, 337, 339, 341--342, 416, 423, 427
-  - personal, 341--342
-- Construction. 64, 80, 83, 127, 130--131, 134--136, 140, 145, 166,
-  174, 177--178, 183--187, 191, 212, 216, 219, 236, 243, 316--317,
-  359, 386, 390--392
-  - of energy projects, 263, 284, 286, 319, 368, 381, 397, 404, 426
-  - in premodern world, 197--207
-- Controls, 317, 319--329, 360--371, 409, 425--428
-  - electronic, 304, 320, 324--325, 427
-  - of energy flows, 1--2, 7, 26--27, 58, 67, 71, 86, 102, 108, 115,
-    166, 246, 251--253, 258, 267, 282--283, 296, 302--304, 319, 325,
-    338--339, 364--365, 367, 392, 419, 426--429
-  - feedback, 65, 394, 409, 426
-- Cooking, 12--13, 18, 26--27, 62, 89, 163--165, 168--169, 171,
-  174--175, 203, 212, 229, 272, 280, 299, 315, 353, 359--360, 413,
-  417, 430
-- Copper, 16, 82, 203, 207--212, 216, 260, 264, 282, 321, 331
-  - smelting of, 208--209
-- Corn, 10, 22, 43--45, 49, 51, 57, 59, 62--63, 76, 79--80, 86--87,
-  91, 95, 97--99, 108, 110--111, 115, 119, 121, 285, 313, 420
-- Cotton, 87, 97, 145, 169, 232, 236, 252, 259
-- Countries
-  - affluent, 14, 297, 302, 313, 331, 347, 349--350, 356, 358--359,
-    363--364, 381, 405, 415--416, 423, 429
-  - low-income, 18, 120, 229, 280, 285, 307, 309, 350, 356, 360,
-    388, 406, 416
-- Cranes, 127, 137, 142, 198--199, 243, 331
-- Crops, 42, 50, 52, 85--87, 94, 104--105, 121, 124, 217, 225, 306,
-  308--309, 311, 352, 386, 407, 420, 428, 441
-  - cycles of, 62--65
-  - diversity of, 85--87
-  - monocultures, 85--86
-  - multicropping, 50--52, 65, 86, 90, 124, 408, 420
-  - residues, 12, 44, 82--83, 98, 100, 163, 165, 169--160, 175, 225,
-    268, 285, 289, 301, 420
-  - rotations of, 12, 65, 85--86, 90, 102, 104--105, 113, 121, 408
-- Crossbows, 218, 223, 368, 402
-- Crossings, transatlantic
-  - by jetliners, 334
-  - by steamships, 241, 324--325, 331--332
-- Crusades, 158, 221
-- Cucumber, 87
-- Cycles
-  - business, 346, 410--412
-  - cropping, 44, 52--53, 62--65
-
-```{=html}
-<!-- -->
-```
-
-- Decarbonization, 270--271
-- Degradation, environmental, 44, 116, 285, 296, 356, 381--384, 406,
-  423--424, 435
-- Density
-  - energy, 9--10, 12--13, 16--17, 27, 30, 34--35, 38--39, 49,
-    58--59, 165, 257, 407, 419--420
-- of fossil fuels, 227, 234, 245, 248--249, 253, 397
-  - populations, 28, 39, 44, 85, 90, 95--97, 99--100, 117, 120--121,
-    124, 354, 407, 419
-  - power, 10, 12--13, 352--353
-- Destruction, mutually assured (MAD), 378
-- Diets, 21, 23, 34, 40--41, 49, 57--60, 63, 85--86, 111, 116,
-  118--120, 122, 173, 309, 313, 353, 357, 362
-  - vegetarian, 49, 59--60, 75, 95, 119, 408
-- Drainage, 62, 82, 88, 102, 113, 161, 163, 185, 381
-- Dung, 104, 130, 163, 165--171, 197, 225, 301
-  - dried, 169--170, 285
-- Dynamite, 224, 370
-
-```{=html}
-<!-- -->
-```
-
-- Earth, 1, 4--5, 368, 389, 403, 430
-  - habitability of, 4--5
-- Economy
-  - energy intensity of, 15, 209, 323, 348--350, 429
-  - oil intensity of, 345
-- Education, 314, 345, 349, 351, 355, 359, 362, 387, 409
-- Efficacy, luminous, 402
-- Efficiency, 12, 14, 18, 66--67, 127, 188, 196--198, 211, 228,
-  268--269, 287, 317, 319, 347, 349, 357--358
-  - of cars, 345
-  - of cooking, 26--27
-  - of energy use, 297, 323, 352, 404--405, 413, 423, 425--429
-  - of gas turbines, 14, 335
-  - of heating, 174--175, 299
-  - of horses, 75
-  - of internal combustion engines, 249, 253--254, 306, 401
-  - of irrigation, 76, 79--80, 93
-  - of labor, 232
-  - of lighting, 14, 401--402, 406
-  - of muscles, 19, 178, 419
-  - of steam engines, 237, 242--243, 245
-  - of waterwheels, 147, 149, 151--155
-- Egypt, 286, 367, 439
-  - ancient, 41, 53, 63, 77, 79, 87--91, 95, 100, 117, 127, 130,
-    132, 170, 181--182, 185, 192, 208, 210--211, 218, 301, 367, 390,
-    419, 421
-- agriculture in, 63, 87--91, 100
-  - population density, 90, 117
-  - pyramids, 199--202
-- Electricity, 7, 9, 10, 14--15, 18, 126, 155, 157, 186, 225--229,
-  231, 243--245, 248, 254--265, 268--269, 272, 274--276, 280--284,
-  286--289, 309, 311, 317, 319--320, 336, 348--351, 353, 355--360,
-  365--366, 374, 398, 400, 404--411, 414, 422, 429, 434, 437--438
-  - Edison's system, 244, 259--262, 264--265
-  - generation of, 228--229, 245, 248, 258--259, 263, 269--272, 274,
-    276, 281--284, 286--289, 295--297, 299, 304--305, 323, 344, 379,
-    381, 383, 394, 397, 401, 404, 406--407, 410--411
-- history of early development, 254--267
-  - geothermal, 288
-  - grids, 264, 270--271, 283, 287
-  - in households, 359--360
-  - hydro, 226, 286--288, 304
-  - induction, 256--257, 263, 265, 276
-  - nuclear, 282--284, 286--288
-  - reliability of supply, 283
-  - transmission of, 258--260, 262--265, 267--268, 281--282, 317,
-    319, 360, 381, 409
-- alternating current (AC), 263--265
-- direct current (DC), 263--266, 281
-- high-voltage (HV), 262--264, 268, 281, 381
-- Electrification, 281, 317--319, 360, 367, 438
-- Electronics, 282--283, 304, 306, 320, 324--325, 377--378, 341, 343,
-  357--359, 387, 410, 416, 429
-- Elephants, 145, 221
-- Empires, 130, 221, 316, 365, 393, 418, 428, 435
-  - Austro-Hungarian 250, 316
-  - British, 273, 426
-  - Inca, 170
-  - Qing, 110
-  - Roman, 90--91, 100, 110, 149, 168, 172, 178, 245, 295, 301--302,
-    421, 435
-  - Russian, 233
-  - Soviet, 433
-  - Turkish, 314
-- Encephalization, 23, 32
-- Energy
-  - and affluence, 242, 297, 302, 313, 347, 349--350, 356--359, 363,
-    405, 409, 413, 416
-  - animate, 132--146, 217--222 (_see also_ Animals, draft; Muscles)
-  - and business cycles, 410--412
-  - as _cassus belli_, 379--380
-  - and culture, 2--3, 36, 125, 127, 132, 199, 315, 351, 364, 410,
-    418, 427, 430--431, 434
-  - concepts of, 8--9
-  - consumption of, 268--269, 299--300, 394--396, 404--405, 427
-- per capita, 3, 14, 27, 118, 122, 126, 168--169, 229, 285, 299,
-  301--302, 309, 313, 346--348, 353, 355--359, 363, 387, 395,
-  404--405, 408--409, 413, 416--417, 420, 432--435
-- forecasts of, 269, 438
-- inequality of, 119, 356--358, 413, 416--417, 436
-  - conversions of (_see_ Coke; Combustion; Electricity, generation
-    of; Electricity, hydro; Electricity, nuclear; Energy, solar;
-    Wind)
-  - definitions of, 3
-  - and economy, 14--15, 209, 323, 344--350, 410--412, 429
-  - efficiency of use (_see_ Efficiency)
-  - as explanatory variable, 417--425
-  - extrasomatic, 6, 418, 440
-  - geothermal, 5, 228, 288, 305
-  - in households, 7, 49, 83, 119, 126, 161, 163, 169, 177, 216,
-    231, 263, 272, 274, 276, 280, 282, 285, 297, 299, 301--302, 341,
-    357--361, 387, 401, 411, 416
-  - hydroelectric, 226, 265, 270, 286--288, 304--305, 349, 367, 381,
-    428
-  - imperatives of, 418--425
-  - laws, 2, 8--9
-  - measurements, 8, 10, 17--18
-  - kinetic (mechanical), 5, 7, 130, 132, 149, 152, 154, 160, 191,
-    217--218, 222, 226, 236, 286, 325, 368--370, 393, 404, 419
-  - in modern agriculture, 306--313
-  - net returns of, 14--15, 18, 45, 408
-  - nuclear, 282--284, 286--288
-  - and politics, 364--368
-  - prices of, 269, 272, 278, 281, 289, 296, 345--347, 366,
-    405--406, 411
-  - and quality of life, 259, 295, 351, 355--359, 362--363, 385,
-    409--410, 413, 421, 433--434, 437
-  - renewable, 7--8, 50, 110, 196, 269, 271, 284--289, 295, 304,
-    383, 388, 397, 407, 424, 440.
-  - self-sufficiency in, 366, 394, 428
-  - solar, 1, 4, 7, 13, 15, 17, 39, 50, 110, 225, 228, 230, 235,
-    270, 286--288, 295, 304--305, 311, 381, 397, 407, 418, 429
-  - thermal, 5, 7--10, 228, 261, 269, 272, 274, 277, 282, 286, 297,
-    365, 372, 422
-  - and time savings, 413
-  - useful, 2, 8--9, 18--19, 26, 74--75, 142, 144, 149, 152, 155,
-    160, 168, 171--172, 196, 202--203, 225, 297, 299--301, 347, 392,
-    400, 404--405, 408, 422, 432
-  - and warfare, 137, 208, 211--212, 217--224, 283, 296, 368,
-    373--374, 378--379
-  - wind, 128, 147, 157--163, 286--287
-- Engines
-  - Diesel, 229, 245, 252--255, 272, 281, 289--290, 302, 306--307,
-    311, 332, 389
-  - gasoline, 244, 249, 253, 327, 401, 436
-  - internal combustion, 7, 14, 170, 186, 221, 226, 229, 245,
-    248--254, 297, 306--307, 327, 392, 394, 398--401, 405, 408,
-    411--412
-- mass/power ratio, 250--251, 289--290, 401
-  - jet (gas turbines), 268, 276, 290--291, 293, 304, 320, 345, 411,
-    426
-  - rocket, 268, 289, 293, 374, 436
-  - steam, 9, 11, 14, 17, 110, 130, 139, 146, 151, 154--155, 178,
-    185, 190, 213, 217, 222, 224, 226, 229, 235--245, 247, 249, 263,
-    265, 268, 313--314, 317, 319, 349, 389, 390--392, 394, 397--401,
-    405, 411--412, 426, 437
-- mass/power ratio of, 244--245, 263, 400
-- power of, 242--244
-- in the UK, 236--238
-- England, 13, 84, 126, 290, 302, 317, 386--387, 389, 391--392, 421
-  - agriculture in, 100--101, 104--106, 113, 118--119, 121
-  - coal in, 228--229, 232--234, 236, 240
-  - traditional energies in, 128, 134, 147, 152--153, 157--158, 164,
-    169, 185, 214
-- Entropy, 8--9, 12, 430
-- EROI (energy return on investment), 16--17
-- Ethanol, 17, 285--286, 289, 293, 407
-- Ethiopia, 21, 358, 363, 380
-- Europe
-  - agriculture in, 43--44, 46, 50, 52--57, 59, 62, 63--75, 83--85,
-    87--89, 91, 93, 99--106, 111--113, 115, 117--119, 122--126
-  - electricity in, 254, 258, 260, 262, 266, 270, 287, 360, 405--406
-  - energy transitions in, 228--244, 314, 316, 389--391, 393--394,
-    409
-  - energy use in, 302, 348, 358, 395, 420, 426, 432--435
-  - modern energies in, 250, 272, 277--278, 280, 289--290, 307--308,
-    326--327, 329, 331--333, 335, 351--352, 354, 357
-  - in prehistory, 21, 25--26, 28, 38, 40
-  - traditional energies in, 128, 132, 134, 138, 140, 145, 147,
-    152--155, 158, 161, 164, 171--172, 174, 176--178, 180--187,
-    189--191, 193--198, 205, 208--209, 211--212, 221, 223--224, 226
-- Explosives, 16, 132, 217, 222--224, 304, 368--374, 376--377
-  - kinetic energy of, 370
-
-```{=html}
-<!-- -->
-```
-
-- Famines, 35, 99, 104, 111, 120--122, 126, 234, 275, 365, 435, 438
-- Fantail, 158, 426
-- Farming. _See_ Agriculture
-- Fertilization, 51--52, 65, 82--86, 91, 94, 104, 121, 307, 311, 408,
-  423
-  - energy return of, 94
-- Fertilizers, 15, 65, 84, 88, 91, 94--95, 106, 125--126, 169, 235,
-  270, 306, 308--311, 370, 422, 441
-  - nitrogen, 309--310
-  - synthetic, 117, 126, 308--311
-- Fields
-  - crop, 91--92, 94, 97--100, 102, 104--105, 108, 161, 244, 309,
-    420, 429
-- fallowed, 44, 50, 100, 102, 104--105, 111, 122, 124
-- raised, 51, 82, 97--99
-- terraced, 50--51, 92, 94, 97, 116, 430
-  - hydrocarbon, 16--17, 246--247, 277--278, 316, 366--367, 379,
-    380, 422
-- Filaments, light bulb, 9, 258--260
-- Finland, 122--123, 131
-- Fire, control of, 7, 26--27, 33
-- Fireplaces, 7, 174--175, 426
-- Flight, 250--253, 276, 291--292, 324--325, 333--334, 375, 378, 387,
-  401, 416, 436
-  - first, 252
-- Fodder, 74, 104, 168, 302
-- Food, 6, 12, 15, 17--18, 21, 28, 34, 39, 49, 62, 118--120, 133, 302,
-  306, 353, 360, 385, 387, 408--409, 413, 418--419, 423, 428, 435
-  - energy density of, 35, 37, 49
-  - supply of, 313, 331, 351--352, 357, 404, 420, 439
-- Foraging, 6, 19, 21--22, 27--42, 44--46, 49, 52--53, 55, 57,
-  301--302, 404, 407, 411, 419
-- Forests, 29--30, 36, 44, 122, 164, 184, 209, 214--215, 233, 388
-  - tropical rain, 29--30, 37
-- Fracturing, hydraulic, 277, 280, 366, 380, 424
-- France, 17, 26, 37--38, 84, 221, 223--224, 288, 312, 432
-  - agriculture in, 104--105, 110, 114, 121--122, 134
-  - energy consumption in, 164, 215, 229, 232--233, 240, 246, 250,
-    258, 260, 269, 315, 324, 329, 348, 350, 358--359, 363--364, 395,
-    413, 434
-  - nuclear energy in, 281, 284
-- Fuels. _See_ Charcoal; Coal; Fuelwood; Gas, natural; Oil, crude;
-  Crops, residues; Peat; Wood
-- Fuelwood, 12--13, 164, 171, 209, 233, 285, 353, 389, 409, 417. _See
-  also_ Wood
-- Furnaces
-  - basic oxygen (BOF), 321--322
-  - blast, 16, 128, 153, 211--214, 234--235, 304, 316, 321--322,
-    345, 372, 434, 441
-- energy balance of, 321
-  - electric arc (EAF), 320--322
-  - open-hearth, 54, 316, 322
-
-```{=html}
-<!-- -->
-```
-
-- Galleys, 189, 389
-- Gas
-  - coal, 177, 249, 401
-  - greenhouse, 381--384
-  - liquefied natural (LNG), 280--281
-  - natural, 14, 18, 164, 226--227, 245--247, 270, 272--274, 276,
-    279--281, 289, 297--299, 305, 309, 345, 380--381, 393, 395--397,
-    401, 412, 424, 428
-- Gasoline, 168, 227, 229, 250, 252, 270, 277, 289--290, 297, 306,
-  327, 344, 353, 359, 372, 377, 379, 381
-- GDP (Gross domestic product), 320, 345--350, 362, 377--378, 407, 428
-  - and energy, 346--350
-  - energy intensity of, 349--350
-- Germany, 24, 50, 68, 73, 102, 104--105, 124--125, 152, 155, 163,
-  191, 221, 227, 249--250, 258, 262--263, 266, 268, 274, 277, 280,
-  284, 287, 289--290, 293, 308, 324, 327--328, 330, 335, 346, 354,
-  375--377, 429, 432, 434
-  - energy consumption in, 17, 166, 169, 272, 302, 321, 348--349,
-    363--364, 377, 395
-- Grains, 12, 31, 34, 40--41, 45, 49, 57--62, 75, 86--87, 89, 94--95,
-  103, 111, 119--121, 144--145, 153, 158, 171--173, 313, 420
-  - energy density of, 49, 58--59
-  - milling of, 62, 146--147, 153, 158, 172--73
-- Gramophone, 337
-- Gravity, 4--5, 76, 79, 149, 151, 180, 218, 250
-- Great Wall, 391
-- Growth, 62, 260, 295--296, 311, 314, 321, 354, 387, 394, 408, 430
-  - body, 18, 20, 419
-  - of crops, 27, 82, 93
-  - economic, 197, 229, 236, 242, 269, 274, 299, 306, 344--350,
-    356--357, 361--362, 366, 395, 410, 417, 421
-  - of energy industries, 268, 277--278, 284, 287, 297, 304, 321,
-    332, 340, 400, 437
-  - populations, 39, 41, 96, 284, 425, 434--435
-  - of trees, 12, 44, 214--215, 225, 388
-- Guatemala, 45, 97, 439
-- Gunpowder, 132, 217, 219, 222--223, 370, 388, 403
-- Guns, 193--194, 210, 216--217, 221--224, 251, 368, 370--371, 375,
-  388, 403
-
-```{=html}
-<!-- -->
-```
-
-- Hammers, 127--129, 132, 134, 156, 197--198, 208, 216
-- Hammerstones, 6, 24
-- Harness, 67--74, 91, 100, 128, 182, 272, 393, 425
-  - collar, 70--71, 73, 91, 100, 128, 392--393, 417, 425
-- Harrowing, 54, 61, 65--66, 94, 101, 108--109
-- Hawaii, 7, 382--383
-- HDI (Human development index), and energy consumption, 362--363
-- Hearths, 54, 174, 211--213, 316, 321--322
-- Heating, 12--13, 208, 210, 229, 231, 234, 245, 281, 287, 353, 369
-  - space, 163--165, 168, 171, 174--175, 272, 276, 280, 288, 297,
-    299, 326, 355, 358--359, 405--406, 413
-- Herbicides, 311
-- Herbivores, 29, 31, 33, 35--38
-- Highways, 328, 401
-- Hominins, 6, 21--24, 30, 40, 389
-- _Homo_, 21, 23, 25--26
-  - _erectus_, 21, 23
-  - _sapiens_, 21, 23, 26
-- Horses, 1--11, 65--68, 70--75, 83, 100--105, 108--111, 115, 129,
-  130, 144--145, 154, 161, 177, 179--180, 185, 190, 209, 219,
-  221--222, 230--231, 302, 307, 392, 398, 400, 405, 417, 420, 423, 425
-  - energy cost of, 75
-  - feeding of, 110--111, 423
-  - gaits, 179
-  - harnessing of, 70--73, 91, 100, 128, 392--393, 417, 425
-  - as industrial prime movers, 144--146
-  - power of, 66--68, 146, 244, 302, 304, 398, 400
-  - races, 189
-  - riders of, 219, 221
-  - riding of, 179--180, 219, 221
-  - in transportation, 145, 182, 185--186, 190
-  - in warfare, 219, 221--223
-- Horsepower, 9--10, 66, 70, 128, 142, 178, 236, 244
-- Horseshoes, 71--73, 100, 103, 128, 182, 212, 216, 417
-- Houses, 37, 171, 175, 214, 358, 430
-  - American, 359, 363, 415
-  - wooden, 28, 38, 176
-- Hunger, 120, 413
-- Hunters, 29--34, 37--38, 40
-  - Paleolithic, 26, 27, 37--38, 40--41, 53, 176
-- Hunting, 24, 26--34, 36--42, 88, 98, 407, 418--419
-- Hydrocarbons, 17--18, 225--227, 245, 274--280, 297, 410, 421,
-  424--425, 428, 440
-- _Hypocaust_, 175--176
-
-```{=html}
-<!-- -->
-```
-
-- IBM, 337, 342
-- Incas, 51, 57, 79, 84, 99, 170, 181, 184
-- India, 59--60, 64, 66, 74, 79, 95, 119, 121, 132, 142, 145,
-  169--170, 174, 191, 196, 233, 241, 269, 272, 274, 278, 284--286,
-  312, 314, 316, 326, 331, 349, 354, 363, 368, 380, 387, 405, 416,
-  431, 433--434
-- Industrialization, 12, 85, 127--128, 131, 153, 155, 235--236,
-  242--243, 275, 280, 286, 295, 306, 313--324, 354, 358, 386, 408
-- Information, 6, 27, 94, 113, 118, 161, 196, 251, 283, 295, 306,
-  333--344, 385, 409, 413, 426, 430
-- Innovation
-  - in agriculture, 52, 55, 85, 87--88, 91, 99--100, 106--107, 112,
-    125
-  - technical, 127, 139, 158, 172, 219, 223--224, 228, 234,
-    238--240, 258--259, 262, 267--269, 296, 323, 326, 335--336, 343,
-    351, 354, 360, 371, 388, 393--395, 407, 410--412, 416, 426--428,
-    436
-- Intel, 340--341
-- Intensity
-  - cropping, 50, 84, 93, 111, 420, 423
-  - energy, 15--16, 323, 349--350, 429
-- Iron, 15--16, 120, 126, 131, 135, 138, 143, 164, 166, 168, 173--174,
-  184, 207--208, 210--217, 223--224, 229--232, 234--236, 245--246,
-  263, 272, 275, 335, 345, 369, 375, 379, 383, 390, 393--394, 397,
-  403, 411, 420, 422
-  - cast (pig), 55, 91, 106, 109, 152, 155, 178, 210, 212, 216, 234,
-    241, 246, 393
-  - smelting of, 16, 128, 153, 211--214, 234--235, 304, 316,
-    321--323, 345, 372, 434, 441
-  - wrought, 54, 106, 212, 216, 232, 242, 314
-- Irrigation, 51--52, 63--65, 74, 76--82, 86, 88, 90--93, 98--99, 116,
-  118, 124, 254, 306--307, 311, 388, 391, 408, 420, 423
-  - devices, 76--81
-- bucket lift, 76--77, 79--80
-- noria, 79--80
-- shaduf, 77, 80
-- water ladder, 77, 79--81, 93
-  - energy cost of, 81
-  - energy return of, 93, 95
-  - power requirements of, 80--81
-
-```{=html}
-<!-- -->
-```
-
-- Japan, 60, 207, 314--315, 324, 327--329, 331, 343, 364, 376--377,
-  379, 387, 416, 429, 434, 439
-  - agriculture in, 95, 111, 115--116, 169
-  - energy use in, 272, 277--278, 280--281, 284, 290, 305, 321,
-    348--350, 358, 363--364, 366
-- Java, 50, 95, 115
-
-```{=html}
-<!-- -->
-```
-
-- Kenya, 24, 356
-- Kuwait, 279, 367, 380
-
-```{=html}
-<!-- -->
-```
-
-- Labor, 18--19, 36--37, 45, 50, 52, 58--61, 94, 101, 108--110, 127,
-  130--132, 171, 320, 324, 355, 360, 364, 387--392, 394, 397, 405,
-  407--408, 410, 419--420, 423
-  - in agriculture, 64--65, 74, 94, 101, 104, 108--110, 112--115,
-    122, 125--126, 307
-  - child, 131--132
-  - energy cost of, 18--19, 58--60
-  - massed, 127, 181, 390--391
-- Legumes, 45, 49, 58--59, 84--87, 95, 100, 111, 121
-- Levers, 6, 23, 26, 77, 128, 130, 133--35, 180, 202, 218--219, 245
-- Life, quality of, 1, 259, 295, 351, 355--364, 405, 409--410,
-  413--414, 421, 433--434, 437
-- Lights, 14, 176--177, 248, 257--262, 268, 297, 402, 411, 436
-  - arc, 257--258
-  - cost of, 406
-  - efficiency of, 402
-  - fluorescent, 14, 262, 402, 411
-  - incandescent, 232, 258--262, 268, 297, 402, 436
-- Loads, 131, 133--134, 136, 145, 187, 199, 221--222
-  - carrying of, 18, 132, 180--181, 231--232
-  - pulling of, 71, 128, 181--182, 185
-- Locomotives
-  - Diesel, 290
-  - steam, 139, 161--162, 187, 240--242, 244, 255, 272, 298,
-    302--303, 316, 403
-- London, 152, 168, 229, 232, 239, 241, 258, 261, 265, 325, 333,
-  353--354, 428
-  - transportation in, 146, 186, 244
-- Longitude
-  - determination of, 425--426
-
-```{=html}
-<!-- -->
-```
-
-- Maasai, 46--47
-- Machines, 138, 151, 154, 157, 160, 187, 199, 202, 235--239,
-  241--243, 249, 250--255, 258, 263, 266--267, 290, 314--315, 337,
-  360, 371, 375, 379, 438. _See also_ Airplanes; Cars; Engines; Motors
-- Macronutrients, 10, 40, 51, 82, 307
-- Malnutrition, 111, 120--121, 413
-- Mammoths, 27, 33--35, 37
-- Manufacturing, 83, 127, 131, 155, 157, 168--169, 236, 238, 242--243,
-  255, 267, 314, 318--321, 324, 340, 348--349, 376, 388, 390, 392,
-  413, 416, 420, 422
-  - assembly line in, 153, 320
-  - labor in, 320--321
-  - productivity of, 317--318
-  - services in, 324
-- Manure, 65, 75, 83--84, 86, 93, 100, 104, 120--121, 417, 420
-  - green, 84--85, 100, 121
-- Materials _See also_ Aluminum; Cement; Iron; Metals; Steel; Stones;
-  Wood
-  - building, 133, 178, 183, 197, 203, 245
-  - energy intensity of, 15--16
-- Mayas, 45, 82, 87, 97--98, 124
-- Meat, 12, 16, 30--31, 33--34, 39, 42, 46, 101, 313, 420
-  - consumption, 23--24, 26--27, 40, 60, 75, 95, 105, 118--120, 309
-  - efficiency of production, 313
-- Mechanization, 94, 271, 307, 354, 401, 409
-  - in agriculture, 94, 111, 126, 254, 302, 306--307, 354, 392, 398
-- Megafauna, 33, 37--38
-  - Pleistocene, 33, 37
-- Mesoamerica, 45, 51, 57, 88
-  - agriculture in, 97--99, 119
-- Mesopotamia, 43, 54, 67, 88, 118--119, 132, 134, 197, 202, 205, 208,
-  211
-- Metallurgy, 127, 130, 153, 168, 179, 207--217, 315, 323, 381,
-  393--394, 411
-- Metals, 9, 16, 54, 70--71, 79, 84, 91, 106, 126, 128, 129--140,
-  151--153, 158, 166, 168--169, 179, 184, 222, 226, 241, 264, 272,
-  287, 340--341, 349, 360, 371 377, 390, 393--394, 409, 421, 434, 439,
-  441
-  - production of, 7, 15, 50, 153, 163, 207--217, 229--230, 231,
-    234, 272, 306, 320--321, 323, 383, 394, 404, 420--421
-  - properties of, 210
-- Methane (CH~4~), 227, 270, 381, 383--384
-- Mexico, 7, 9, 28, 32, 82, 97--99, 117, 121, 247, 330, 354, 371, 434
-- Microprocessors (microchips), 339--341, 425--427
-  - Moore's law, 339, 341
-- Middle East, 54, 169, 171--172, 176, 197, 431
-  - agriculture in, 43, 46, 63, 68, 76--77, 87, 91, 99, 102
-  - hydrocarbons in, 16--17, 245, 247, 345, 365--367
-  - interventions in, 366--367
-- Migrations, 39, 95, 124, 314, 354, 361, 384, 408, 419, 429, 437
-- Millstones, 146--147, 154, 158--159, 171--173, 258
-- Missiles, 369, 371, 374, 378, 403
-  - intercontinental ballistic, 293, 368, 373--374
-- Mongolia, 47, 179, 221, 436
-- Moon, 293
-- Mortality, infant, 35, 362, 364
-- Motors, electric, 257--258, 261--262, 265--268, 272, 306, 313,
-  318--319, 405, 411
-- Mules, 67, 110--111, 180, 190, 221, 307, 389, 392
-- Muscles, 5--6, 24--25, 50, 52, 130, 153, 217, 221, 325, 387, 392,
-  403
-  - animal, 32, 50--72, 179, 387
-  - human, 23, 76, 110, 127, 133, 140, 142, 218--219, 230, 316,
-    386--387, 389, 392, 419
-
-```{=html}
-<!-- -->
-```
-
-- Nazism, 367
-- Negentropy, 8
-- Netherlands, 187, 228, 280, 315, 367, 424
-  - agriculture in, 101, 104--105, 114
-  - wind power in, 152, 157, 161, 163
-- New York, 130, 146, 186, 244, 247, 261, 267, 325, 332--333, 353
-- Newspapers, 336
-- Nile, 63, 87, 90, 136, 200
-- 9/11, cost of, 378
-- Nitrate
-  - ammonium, 308, 370, 377
-  - Chilean, 84, 308
-  - potassium, 222
-- Nitrogen, 5, 44, 51, 82--86, 94, 120--121, 126, 279, 306, 308--310,
-  430
-- Nutrition, 5, 17, 35, 38, 58--60, 82, 111, 118--121, 145, 172, 306,
-  312--313, 419, 435
-- Nuts, 6, 24, 30--31, 34, 36, 171, 225
-  - Brazil, 30--31
-  - mongongo, 36
-
-```{=html}
-<!-- -->
-```
-
-- Obelisks, 130--131, 201
-- Obesity, 313, 351
-- Oil, crude, 110, 226--227, 229, 245--248, 268, 270, 273--277, 286,
-  297--298, 314, 332, 344--346, 352, 365--366, 380, 396, 402, 412,
-  424, 426
-  - in Canada, 246--247
-  - drilling for, 241, 245--246, 393
-  - exploration for, 276, 319
-  - history of development, 245--247
-  - in the Middle East, 16--17, 245, 247, 345, 365--367
-  - peak production of, 425
-  - prices of, 269, 272, 278, 281, 289, 296, 345--347, 366, 411
-  - production of, 248, 268, 274--278, 286, 297--298, 352, 380, 396,
-    424, 428
-  - refining of, 207, 226--227, 245--246, 248, 276--277, 314, 328,
-    345, 381, 422
-  - in Russia, 246--247
-  - in US, 246--247
-- OPEC (Organization of Petroleum Exporting Countries), 269, 272, 278,
-  281, 289, 296, 345--347, 365--367, 411, 413
-- Opuntia, 9
-- Oxen, 65--67, 70--72, 79, 87, 89--91, 94, 100--106, 108--111, 115,
-  135, 145, 183, 185, 190, 221--222, 386
-  - harnessing of, 67--69
-
-```{=html}
-<!-- -->
-```
-
-- Pantheon, 118, 178, 197, 203--204
-- Papua New Guinea, 29, 44--45
-- Paradox, 14, 385
-  - Jevons, 14
-- Parasitism, 428--429
-- Paris, 83, 87, 122, 130, 205, 215, 244, 258, 262, 267, 333, 353, 432
-- Parthenon, 178, 197, 203--204
-- Pastoralism, 27, 45--47
-  - nomadic, 46--47
-- Peat, 12, 196, 225--226, 228, 421
-  - and the Dutch Golden Age, 196, 228, 421
-- Peppers, 87, 97
-- Persian Gulf, 278--280, 366
-- Pesticides, 15, 306--307, 311, 429
-- Philippines, 7, 195, 434
-- Phones, 336--337
-  - mobile, 341, 343--344, 357
-- energy embodied in, 343--344
-- Phosphates, 308--309
-- Photography, 336
-- Photosynthesis, 5, 13, 82
-- Phytomass, 1, 3, 5, 12--13, 18, 27--29, 40, 50--51, 128, 130,
-  163--164, 169, 215, 225--226, 228--229, 234, 267--268, 286, 295
-  - power density of, 13
-  - recycling of, 83--84
-- Planes, inclined, 127, 130--131, 133--136, 140--141, 201
-- Plants, 5, 7, 21, 28--30, 34, 37, 40--42, 57, 59, 70, 83, 85, 93,
-  116, 121, 155, 164, 225, 311, 418, 420
-  - C~4~, 21--22, 40
-  - domestication of, 7, 21, 29, 41--42
-- Plowing, 51--55, 57, 61, 64--67, 74--75, 82--83, 85, 88, 90, 94, 97,
-  100--102, 106, 108--109, 112, 115, 302, 392, 410
-- Plows, 51--55, 74, 87, 91, 102, 106, 108, 120, 125, 216--217, 244,
-  316, 393
-  - moldboard, 52, 54--55, 97, 102, 106--107, 115, 124, 393, 417
-  - steel, 54--55, 61, 106--107, 109, 115, 302
-- Pollution
-  - air, 227, 243, 270, 275, 280--281, 319, 331, 351, 381--382, 414,
-    437
-  - water, 351, 381
-- Population, 1, 21, 27, 31, 33, 43, 49--50, 86, 88, 104, 110, 119,
-  121, 126, 168, 205, 217, 327, 348, 354, 407--408, 419, 425, 429,
-  431, 434--435
-  - density of, 28, 39, 44--47, 51--52, 58, 85, 90, 95--97, 99--100,
-    103, 105, 116--118, 120--121, 124, 354, 407, 419
-  - growth of, 39, 41, 96, 284, 425, 434--435
-  - world, 295, 299, 306, 309, 311, 313, 353, 356, 395, 437--438,
-    440
-- Pork, 313
-- Potash, 308--309
-- Potassium, 82, 168, 308, 321
-- Potatoes, 51, 57, 87, 121
-- Power
-  - animate, 15, 18, 90, 106, 111--112, 127--128, 130, 132--146,
-    171, 187, 190, 217--222, 228--229, 267, 302, 325, 387--388,
-    391--392, 397--398, 405, 407--408, 419
-  - concentration of, 302--304
-  - definition of, 9
-  - measuring of, 10
-  - water, 146--157, 226, 265, 270, 286--288, 304--305, 349, 367,
-    381, 428, 438
-  - wind, 7, 17, 158--163, 228, 230, 270, 287, 429, 438
-- Primates, 6, 21--24, 28
-- Prime movers, 6--9, 50--51, 65, 151, 155--157, 163, 217, 221, 226,
-  228--230, 237, 245, 258, 267, 269, 307, 314, 352--353, 368,
-  385--394, 397--401, 407, 410, 412, 417, 419, 425--428, 430--431,
-  435--436. _See also_ Animals; Engines; Machines; Sails; Turbines
-  - animate, 50, 106, 110, 127--146, 243
-  - capacities of, 397--399, 402
-  - mass/power ratio, 244--245, 250--251, 263, 289--291, 293,
-    400--401
-  - in modern transportation, 289--293
-  - power of, 397--398
-  - speed of, 401--403
-- Printing, 142, 333, 335--336, 341, 426--427, 430
-- Projectiles, 24, 217--219, 223--224, 368--369, 402, 419
-  - kinetic energy of, 368--369
-  - range of, 402--404
-- Protein, 5, 10, 17--18, 34, 36, 49, 58--60, 75, 82, 86, 121, 169,
-  308--309, 313, 418
-  - animal, 29, 31, 33, 40, 60, 118--119
-- Pulleys, 127, 130, 133--134, 136--137, 142, 173, 198
-- Pyramids, 127, 136, 198--203, 205
-  - Khufu's (Great), 134, 199--203, 224
-- energy cost of, 203
-
-```{=html}
-<!-- -->
-```
-
-- Radiation
-  - infrared, 383
-  - ionizing, 372, 378
-  - solar, 13, 15, 50, 225, 228, 235, 287--288, 295, 337, 418, 430,
-    440
-  - thermal, 372
-  - ultraviolet, 382
-- Radio, 337, 436
-- Railway, 161--162, 180, 185, 191, 236, 241--243, 245, 259, 276, 290,
-  316, 323, 325--326, 331, 336, 349, 359, 403, 411, 422, 424, 444
-- Ramps, 33, 136, 181, 201
-- Ratio, mass/power, 244--245, 250--251, 263, 289--291, 293, 400--401,
-  424
-- Reactors, nuclear, 283--284, 438
-- Reapers, 57, 61, 64, 68, 100, 106--108
-- Recycling, of organic wastes, 75, 82--84, 100--111, 120
-- Revolution
-  - agricultural, 71, 85
-  - Cultural, 234, 365
-  - industrial, 236, 315
-  - transportation, 327
-- Rice, 43, 45, 57--59, 61--65, 74, 76, 82, 86--87, 90, 92--95, 97,
-  115--116, 119--120, 125, 145, 171, 222, 313, 420
-- Rio Tinto, 209
-- Roads, 51, 102, 146, 178, 180, 182--185, 240, 325, 330, 401,
-  420--421, 424
-  - Roman, 183--184
-- energy cost of, 183
-- Rockets, 341, 343, 369, 374--375, 436
-- Rome, 90, 118, 130, 152, 185, 189, 204--207, 352, 390, 415, 421
-- Running, 22, 31--32, 178--179
-  - energy cost of, 178--179
-  - power of, 179
-- Russia, 122, 124, 130, 221--222, 258, 270, 281, 284, 293, 333, 335,
-  365, 373, 376--379, 389, 427--428, 434, 438--439
-  - energy use in, 233, 272, 274, 298, 315--316, 363--364, 395
-  - oil in, 50, 228, 241, 246--247, 277, 316
-
-```{=html}
-<!-- -->
-```
-
-- Sails
-  - ship, 7, 130, 191--196, 217, 393, 421, 427
-- types of, 191--193
-  - windmill, 128, 147, 157--158, 160--161
-- Santa Maria del Fiore, 198--199
-- Saudi Arabia, 277, 279, 281, 298, 346, 351, 363, 365--367, 380, 428,
-  433--444
-- Scythes, 55--56, 87, 108, 111, 133
-- Sherpas, 180--181
-- Ships, 7, 127, 136, 158, 187--196, 224, 229, 239, 246, 254--255,
-  272, 371, 387, 403
-  - gunned, 193, 224, 389
-  - oared, 133, 187--189
-  - sail, 7, 131--132, 133, 147, 177, 181, 191--196, 217, 388, 389,
-    393, 405, 408, 421, 425--426, 428
-- clippers, 194, 196
-- in Dutch history, 196
-- Portuguese, 195
-- voyages of discovery, 195--196, 427--428
-  - steam, 221, 236, 240--241, 243, 331--333, 411, 436
-- Shovels, steam, 241
-- Sickles, 52, 55--56, 61, 87, 89, 100--101, 106, 108--109, 169, 212,
-  417
-- Siphons, 198, 206--207
-- Slash-and-burn cropping. _See_ Agriculture, shifting
-- Slaves, 172, 389, 432
-- Smog, photochemical, 331
-- Soybeans, 58--59, 86, 95, 286
-- Speed, 153, 177--178, 185, 188, 195, 238, 267, 304, 314, 316--317,
-  324, 339, 368, 370, 394, 401--403
-  - of airplanes, 252, 290, 333--334, 375, 401--403
-  - of animals, 67, 70, 102, 179, 190
-  - of cars, 230, 250, 330, 401, 414
-  - of labor, 142, 199
-  - of railways, 241, 326--327, 359, 401, 403
-  - of running, 66, 178--179
-  - of ships, 187, 191, 195--196, 403
-  - of walking, 10, 32, 178, 181, 403
-  - of water, 149, 151, 154
-  - of wind, 158, 160
-- Steel, 16, 126, 178, 187, 207, 214, 216--217, 235, 241--242, 247,
-  251, 277, 280--282, 306, 328, 331, 369, 379
-  - production of, 254, 268, 275, 314--323, 375, 393--394, 422--423
-  - _wootz_, 314
-- Stirrups, 180, 219, 221, 425
-- St. Peter's, 130, 204, 415
-- St. Petersburg, 130--131, 354
-- Stones, 6, 24, 26--27, 132, 172, 219, 223, 403
-  - in construction, 130, 136, 140, 181, 183--184, 198--204, 263,
-    388
-  - mill, 147, 158, 171, 173, 258
-- Stoves, 7, 12, 18, 169, 171, 174--175, 196, 285, 297, 299, 360, 417
-- Straw, 17--18, 71--72, 82--84, 89--90, 103, 110, 130, 164--165,
-  169--170, 175, 186, 197, 222, 396, 417
-- Streetcars, 146, 187, 266
-- Subsidies, of energy production, 113, 126, 287, 306, 346, 407, 429
-- Sulfate, ammonium, 87, 235, 308
-- Sun, 4--5, 89, 225
-- Sweating, 31--32
-- Swords, 210, 216--219, 314, 368
-
-```{=html}
-<!-- -->
-```
-
-- Tankers
-  - LNG, 270, 280
-  - oil, 254--255, 268, 277--278, 290, 381, 388, 402
-- Tanks, 221, 368, 371--372, 375
-- Tanzania, 21, 36
-- Telecommunication, 287, 320, 336, 394, 409--410
-- Telegraph, 336
-- Teotihuacan, 98, 200, 202, 435
-- Texas, 247--248, 276, 278, 360
-- Textiles, 155, 157, 242, 314--315
-- Thermoregulation, 32
-- Tomatoes, 87, 97, 119
-- Tools, 6--7, 22--27, 35, 37, 44, 127, 133, 164, 169, 173, 197, 203,
-  205, 208, 212, 224, 242, 314, 316, 379, 389, 407, 428
-  - in farming, 50--53, 55--57, 76, 79, 91, 110, 112, 124--127,
-    419--420
-  - stone, 6--7, 24--26, 31, 40
-- Toyota, 318, 320, 330, 414
-- Tract, gastrointestinal, 23--24
-- Tractors, 111, 126, 254, 302, 306--307, 392, 398
-- Trains, 221, 272, 290, 304, 324, 326--327, 386, 401--403
-  - rapid, 326--327
-  - _shinkansen_, 272, 304, 326--327
-- Transformers, 241, 262--265, 282
-- Transistors, 337--341, 427
-- Transitions
-  - in agriculture, 41, 43, 49, 98, 100--103, 124
-  - energy, 8, 175, 226, 228--230, 233--234, 267, 287, 289, 297,
-    383, 385, 387--397, 416, 421, 425, 439--441
-- Transportation
-  - modern, 230, 241, 250, 252, 290, 324--334, 359, 401--403, 414
-  - traditional, 177--197
-- Treadwheels, 127, 133, 137, 140--143, 198
-- Trebuchets, 217--219, 222
-- Trees, 13, 30--31, 44, 58, 87, 98, 165--166, 169, 197, 209, 214,
-  225, 285, 288, 425
-- TNT (trinitrotoluene), 370, 373--374
-- Trucks, 126, 221, 255, 289, 328--329, 331, 401--402, 417
-- Turbines
-  - gas (jet engines), 268, 276, 290--291, 293, 304, 320, 345, 411,
-    426
-  - steam, 14, 226, 229, 244--245, 254, 262--263, 268, 281--282,
-    371, 386, 390, 393, 397--398, 411--412
-  - water, 156--157, 163, 286, 316, 319, 397--399
-  - wind, 7, 17, 228, 230, 270, 287, 429, 438
-- Turbogenerators, 226, 241, 262--263, 281--282, 398, 400--401
-
-```{=html}
-<!-- -->
-```
-
-- United Kingdom, 105, 126, 163, 258--259, 265, 268, 284, 287, 293,
-  302, 315, 324, 326, 354, 376
-  - coal in, 233--234, 272--274, 298
-  - energy consumption in, 346, 350, 395, 405
-- United States, 9, 53, 154--155, 157, 214--215, 235, 240, 250, 258,
-  266, 268, 270, 289, 293, 299, 307, 316, 323--324, 338--339,
-  342--343, 351, 354, 417, 423, 429, 432--433
-  - agriculture, 53, 84, 88, 106--110, 114--115, 120, 125--126, 307
-  - coal in, 164, 235, 272, 274, 316
-  - electricity in, 9, 258--268, 270, 272, 274, 284, 286, 288, 302
-  - electronics in, 337--339, 342--343
-  - energy use in, 163--164, 269, 272, 274, 281, 302, 307, 323--324,
-    326, 347--349, 358, 361, 363--364, 395, 405--406, 408, 416, 420
-  - hydrocarbons in, 246--247, 274, 277, 280--281, 366--367, 339,
-    342--343
-  - and wars, 375--380
-  - water power in, 155, 157, 163
-  - windmills in, 161--163
-- Uranium, 7, 374--375, 379
-- Urbanization, 225--236, 242, 295--296, 307, 314, 326, 328, 351--355,
-  381, 386, 407--408, 422
-- Urea, 279, 309
-- USSR (Union of Soviet Socialist Republics), 274, 286, 298, 358, 365,
-  367, 373, 376--389, 426, 433, 439
-
-```{=html}
-<!-- -->
-```
-
-- Walking, 10, 22--23, 44, 79, 178--179, 181, 360, 403, 414
-  - energy cost of, 22
-- War, 8, 179, 217--224, 296, 368--380
-  - casualties of, 296, 364, 372, 376, 378
-  - energy cost of, 376
-  - Vietnam, 377
-  - World I, 221, 244, 252, 268, 308, 365, 371, 376--377
-  - World II, 222, 227, 268, 277, 281, 290, 293, 323, 330, 337, 365,
-    368--372, 376--377, 389, 403, 408
-- Warming
-  - global, 274, 296, 352, 382--384, 406
-- Waterwheels, 128, 130, 146--157, 161, 163, 171, 173, 209, 211--213,
-  216, 230, 236, 239, 258, 286, 314, 317, 388, 390--393, 397--399,
-  404--405, 425
-  - Barbegal, 153--154
-  - breast, 149, 151--152
-  - efficiency of, 151--52, 154--155
-  - floating, 152
-  - horizontal, 128, 147--148, 171, 173, 397
-  - Lady Isabella, 128, 155--156
-  - in London, 152
-  - Marly, 153
-  - overshot, 128, 150--152, 154--155
-  - power of, 151, 153, 155
-  - tidal, 152
-  - undershot, 149--152
-- Weapons
-  - energy of, 369--370, 374
-  - modern, 296, 352, 367--380
-  - nuclear, 283, 296, 368, 373--374, 378--379
-- energy cost of, 374
-  - traditional, 23, 26, 30, 32, 34, 36, 137, 208, 211--212,
-    217--218
-- Whaling, 38--39, 177, 246
-- Wheat, 43, 62--63, 76, 81--82, 100--101, 105, 112
-  - energy cost of, 105
-  - energy returns, 113--115
-  - in Europe, 100--101, 105, 113--114
-  - in US, 108--110, 112--115
-  - yields, 76, 81, 93, 97, 105, 109, 114--115, 312--313
-- Wheel, 54, 77, 79--80, 102, 106--107, 133--141, 146, 181--182, 185,
-  188, 249, 414
-  - great, 138--140
-- Wheelbarrows, 57, 133--134, 145, 181, 184--185
-- Wind, 157--163, 177, 191--193, 196, 217, 225, 287--288, 295, 301,
-  304--305, 388, 392--393, 397, 407, 420--421, 425, 427
-  - energy, 160
-  - power, 160--161, 163
-- Windlass, 127, 137--138, 198
-- Windmills, 128, 147, 157--163
-  - in Europe, 158--163
-  - in Netherlands, 156, 161--163
-  - post, 158--159
-  - power of, 160--161, 163
-  - in US, 161--163
-- Wood, 12--13, 18, 26--27, 44, 54, 110, 130--131, 133--134, 136,
-  139--140, 142, 153, 163--169, 175--176, 198, 208--209, 213--216,
-  225, 228--230, 267--268, 273--274, 315, 323, 331, 335, 371, 388--389
-  - consumption of, 166, 168--169, 274, 285, 299, 301, 315, 353,
-    360, 395--396, 408, 417, 421, 428, 432, 439
-  - energy density of, 165
-  - properties of, 165
-- World Trade Center, attack on, 369--370
-
-```{=html}
-<!-- -->
-```
-
-- Xerox Alto, 341
-
-```{=html}
-<!-- -->
-```
-
-- Yeast, 60
-- Yields - crop, 22, 44, 49--50, 58, 60, 63--65, 79--80, 82, 83--85, 90,
-  92, 94--95, 97--100, 104--105, 111, 113, 116, 119--120, 125,
-  296, 306--308, 342--353, 394, 420 - wheat, 76, 81, 93, 97, 105, 109, 114--115, 312--313
-  :::
