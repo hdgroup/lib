@@ -20727,8 +20727,8 @@ modern contributions.
       <http://geo-energy.org/events/2014%20Annual%20US%20&%20Global%20Geothermal%20Power%20Production%20Report%20Final.pdf>.
 410.  []{#c10752*444.xhtml#R410}Gerhold, D. 1993. \_Road Transport before
       the Railways*. Cambridge: Cambridge University Press.
-411.  []{#c10752*444.xhtml#R411}Gesner, J. M., ed. 1735*.* \_Scriptores
-      rei rusticae*. Leipzig: Fritsch.
+411.  []{#c10752*444.xhtml#R411}Gesner, J. M., ed. 1735*._ \_Scriptores
+      rei rusticae_. Leipzig: Fritsch.
 412.  []{#c10752*444.xhtml#R412}Giampietro, M., and K. Mayumi. 2009. \_The
       Biofuel Delusion*. London: Earthscan.
 413.  []{#c10752*444.xhtml#R413}Gies, F., and J. Gies. 1995. \_Cathedral
