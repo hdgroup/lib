@@ -179,7 +179,9 @@ conversions. Where more possibilities exist, no more than two leading
 transformations are
 identified.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_001_fig_001.jpg)
 
-## []{#c10752_001.xhtml#S1}[]{#c10752_001.xhtml#d2e147}Flows, Stores, and Controls
+
+
+## Flows, Stores, and Controls
 
 All known forms of energy are critical for human existence, a reality
 precluding any rank ordering of their importance. Much in the course of
@@ -190,6 +192,11 @@ energy, which orders countless galaxies and star systems. Gravity also
 keeps our planet orbiting at just the right distance from the Sun, and
 it holds a sufficiently massive atmosphere that makes Earth habitable
 (box 1.1).
+
+
+
+
+
 
 ## Box 1.1 Gravity and the habitability of Earth {.featuretitle}
 
@@ -217,6 +224,10 @@ number of important trace gases regulating surface temperature---but
 this thin gaseous envelope could not persist without the planet being
 sufficiently large to exert enough gravity to hold the atmosphere in
 place.
+
+
+
+
 
 As with all active stars, fusion powers the Sun, and the product of
 those thermonuclear reactions reaches Earth as electromagnetic (solar,
@@ -325,7 +336,10 @@ environment. Quantitative accounts are essential to appreciate the
 constraints of our actions and the extent of our achievements, and they
 require knowledge of basic scientific concepts and measures.
 
-## []{#c10752_001.xhtml#S2}[]{#c10752_001.xhtml#d2e210}Concepts and Measures
+
+
+
+## Concepts and Measures
 
 Several first principles underlie all energy conversions. Every form of
 energy can be turned into heat, or thermal energy. No energy is ever
@@ -341,6 +355,11 @@ low-entropy store of energy, capable of much useful work once
 metabolized or burned, and it ends up as the random motion of slightly
 heated air molecules, an irreversible high-entropy state that represents
 an irretrievable loss of utility.
+
+
+
+
+
 
 ## Box 1.2 Diminishing utility of converted energy {.featuretitle}
 
@@ -360,6 +379,10 @@ high-entropy heat that warmed the air above the station, along the
 wires, and around the light bulb and caused an imperceptible temperature
 increase above a page. No energy has been lost, but a highly useful form
 was degraded to the point of no practical utility.
+
+
+
+
 
 This unidirectional entropic dissipation leads to a loss of complexity
 and to greater disorder and homogeneity in any closed system. But all
@@ -391,6 +414,11 @@ obvious comparison with the prime mover they were to replace, a
 harnessed horse commonly used to power a mill or a pump
 ([]{#c10752_001.xhtml#fig_003a}[fig. 1.3](#c10752_001.xhtml#fig_003),
 box 1.3).
+
+
+
+
+
 
 ## Box 1.3 Measuring energy and power {.featuretitle}
 
@@ -425,6 +453,10 @@ bulb (100 W). A double toaster needs 1,000 W, or 1 kW; small cars
 deliver around 50 kW; a large coal-fired or nuclear power plant produces
 electricity at the rate of 2 GW.
 
+
+
+
+
 ![[]{#c10752_001.xhtml#fig_003}[[Figure
 1.3](#c10752_001.xhtml#fig_003a)]{.figureLabel} Two horses turning a
 capstan geared to pumping well water in a mid-eighteenth-century French
@@ -450,6 +482,11 @@ small woman surviving only on the carbohydrates of cactus pears
 macronutrients) would have to eat 5 kg of the fruit every day---but she
 could get the same amount of energy from only about 650 g of ground corn
 consumed as tortillas or tamales.
+
+
+
+
+
 
 ## Box 1.4 Energy densities of foodstuffs and fuels {.featuretitle}
 
@@ -490,6 +527,10 @@ are listed in Merrill and Watt (1973), Jenkins (1993), and USDA (2011).
 </figure>
 ```
 
+
+
+
+
 **_Power density_** is the rate at which energies are produced or
 consumed per unit of area and hence is a critical structural determinant
 of energy systems (Smil 2015b). For example, city size in all
@@ -503,6 +544,11 @@ cooking, and manufactures. Consequently, cities had to draw on nearby
 areas at least 30 times their size for fuel supply. This reality
 restricted their growth even where other resources, such as food and
 water, were adequate.
+
+
+
+
+
 
 ## Box 1.5 Power densities of phytomass fuels {.featuretitle}
 
@@ -531,6 +577,10 @@ temperate climate and relying heavily on charcoal (China's Xi'an or
 Beijing would be good examples) would have required a wooded area at
 least 100 times their size to ensure a continuous supply of that fuel.
 
+
+
+
+
 ![[]{#c10752_001.xhtml#fig_004}[[Figure
 1.4](#c10752_001.xhtml#fig_004a)]{.figureLabel} Charcoaling in early
 seventeenth-century England as depicted in John Evelyn's *Silva*
@@ -547,6 +597,11 @@ these improvements, but we have pushed some processes close to the
 practical efficiency limits, though in most instances, including such
 common energy converters as internal combustion engines and lights,
 there is still much room for further improvement.
+
+
+
+
+
 
 ## Box 1.6 Efficiency improvements and the Jevons paradox {.featuretitle}
 
@@ -582,6 +637,10 @@ at the end-use level are often small and decrease over time, and
 specific economy-wide rebounds may be trivial, and even net positive
 (Goldstein, Martinez, and Roy 2011).
 
+
+
+
+
 When efficiencies are calculated for the production of foodstuffs
 (energy in food/energy in inputs to grow it), fuels, or electricity they
 are usually called **_energy returns_**. Net energy returns in every
@@ -597,6 +656,11 @@ subsidized directly (fuel for field operations) and indirectly (the
 energies needed to synthesize fertilizers and pesticides and to build
 farm machinery) and hence has, invariably, lower energy returns than
 traditional cropping (box 1.7).
+
+
+
+
+
 
 ## Box 1.7 Comparison of energy returns in food production {.featuretitle}
 
@@ -624,6 +688,10 @@ problem remains: there is no satisfactory way to compare, simply and
 directly, the energy returns of the two farming systems that depend on
 two fundamentally different kinds of energy inputs.
 
+
+
+
+
 Finally, **_energy intensity_** measures the cost of products, services,
 and even of aggregate economic output, in standard energy units---and of
 energy itself. Among the commonly used materials, aluminum and plastics
@@ -635,6 +703,11 @@ declines in energy intensities. Perhaps most notably, the coke-fueled
 smelting of pig iron in large blast furnaces now requires less than 10%
 of energy per unit mass of hot metal than did the preindustrial
 charcoal-based production of pig iron (Smil 2016).
+
+
+
+
+
 
 ## Box 1.8 Energy intensities of common materials {.featuretitle}
 
@@ -677,6 +750,10 @@ _Source:_ Data from Smil (2014b).
 </figure>
 ```
 
+
+
+
+
 The energy cost of energy (often called EROI, energy return on
 investment, although EROEI, energy return on energy investment, would be
 more correct) is a revealing measure only if we compare values that have
@@ -687,6 +764,11 @@ energy returns, and that is a major reason why we have favored crude oil
 in general, and the rich Middle Eastern fields in particular; oil's high
 energy density, and hence easy transportability, are other obvious
 advantages (box 1.9).
+
+
+
+
+
 
 ## Box 1.9 Energy returns on energy investment {.featuretitle}
 
@@ -707,7 +789,14 @@ biofuels (ethanol, biodiesel) they are at best only 1.5, but their
 production has often entailed an energy loss or no net again (an EROEI
 of just 0.9--1.0).
 
-## []{#c10752_001.xhtml#S3}[]{#c10752_001.xhtml#d2e787}Complexities and Caveats
+
+
+
+
+
+
+
+## Complexities and Caveats
 
 Using standard units to measure energy storages and flows is physically
 straightforward and scientifically impeccable---yet these reductions to
@@ -774,6 +863,11 @@ basal metabolism operates regardless of whether people or animals rest
 or work. Calculating the net energy cost is perhaps the most
 satisfactory solution (box 1.10).
 
+
+
+
+
+
 ## Box 1.10 Calculating the net energy cost of human labor {.featuretitle}
 
 There is no universally accepted way to express the energy cost of human
@@ -807,6 +901,10 @@ expenditure in their historical comparison of energy sources. They
 assumed an average annual food intake of 3.9 GJ/capita, unchanged
 between 1800 and 2008.
 
+
+
+
+
 But even in much simpler societies than ours a great deal of labor was
 always mental rather than physical---deciding how to approach a task,
 how to execute it with the limited power available, how to lower energy
@@ -832,6 +930,7 @@ sequences, and consequences of these fundamental evolutionary
 determinants can be explained only by referring to human motivations and
 preferences, and by acknowledging those surprising, and often seemingly
 inexplicable, choices that have shaped our civilization's history.
+
 
 []{#c10752_002.xhtml}
 
@@ -1059,6 +1158,12 @@ efficiencies. Experiments show that 2--10% of wood's energy ends up as
 useful heat for cooking, and plausible assumptions indicate annual wood
 consumption maxima of 100--150 kg/year/capita (box 2.1).
 
+
+
+
+
+
+
 ## Box 2.1 Wood consumption in open-fire cooking of meat {.featuretitle}
 
 Realistic assumptions for setting plausible maxima of wood consumption
@@ -1079,6 +1184,10 @@ fresh and some air-dried) wood. For 200,000 people who lived 20,000
 years ago the global need would be 20,000--30,000 t, a negligible share
 (on the order of 10^--8^) of the standing pre-agricultural woody
 phytomass.
+
+
+
+
 
 In addition to warming and cooking, fire was also used as an engineering
 tool: modern humans were heat-treating stones to improve their flaking
@@ -1105,7 +1214,10 @@ the absence of a typical foraging pattern does not preclude recognition
 of a number of biophysical imperatives governing energy flows and
 determining the behavior of gathering and hunting groups.
 
-## []{#c10752_002.xhtml#S2}[]{#c10752_002.xhtml#d2e220}Foraging Societies
+
+
+
+## Foraging Societies
 
 The most comprehensive collections of reliable evidence show that the
 average population densities of modern foraging populations---reflecting
@@ -1201,6 +1313,11 @@ larger foraging populations. This image shows canopies at La Fortuna,
 Costa Rica
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_002.jpg)
 
+
+
+
+
+
 ## Box 2.2 Harvesting Brazil nuts {.featuretitle}
 
 Because of their high lipid content (66%), Brazil nuts contain about 27
@@ -1216,6 +1333,10 @@ and gatherers must waste energy on another trip; too late, and agoutis
 (_Dasyprocta punctata_), which are large rodents and the only animals
 able to open the fallen pods, will eat the seeds right away or bury some
 of them in food caches (Haugaasen et al. 2010).
+
+
+
+
 
 In contrast to the often frustrating hunting in tropical and boreal
 forests, grasslands and open woodlands offered excellent opportunities
@@ -1243,6 +1364,11 @@ provide enough meat and that only hunting could secure sufficient animal
 protein on grasslands. In any case, human bipedalism and ability to
 sweat better than any other mammal made it also possible to chase to
 exhaustion even the fastest herbivores (box 2.3).
+
+
+
+
+
 
 ## Box 2.3 Running and heat dissipation by humans {.featuretitle}
 
@@ -1276,6 +1402,10 @@ exhaustion, as some Australian Aborigines did with kangaroos. Hunters
 running barefoot reduced their energy costs by about 4% (and had fewer
 acute ankle and chronic lower leg injuries) than modern runners with
 athletic shoes (Warburton 2001).
+
+
+
+
 
 Carrier (1984) believes that the outstanding rates of human heat
 dissipation provided a notable evolutionary advantage that served our
@@ -1330,6 +1460,11 @@ megafauna, animals with a body mass greater than 50 kg (Martin 1958,
 2005; Fiedel and Haynes 2004), but the verdict remains uncertain (box
 2.4).
 
+
+
+
+
+
 ## Box 2.4 Extinction of the Late Pleistocene megafauna {.featuretitle}
 
 The persistent killing of slow-breeding animals (those with a single
@@ -1346,6 +1481,10 @@ required an annual kill of some two million animals. A more likely
 explanation for the Late Pleistocene extinctions is a combination of
 natural (climate and vegetation change) and anthropogenic (hunting and
 fire) factors (Smil 2013a).
+
+
+
+
 
 All pre-agricultural societies were omnivorous; they did not have the
 luxury of ignoring any available food resource. Although foragers ate a
@@ -1368,9 +1507,18 @@ simple stone-tipped weapons, or why Indians on the North American
 plains, seeking fatty meat for preparing long-lasting pemmican, spent so
 much energy in pursuing bison.
 
+
+
+
+
+
 ## Box 2.5 Body masses, energy densities, and food energy content of hunted animals {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_BT2.5.png)
+
+
+
+
 
 But energy considerations alone cannot provide a full explanation of
 foraging behavior. If they were always dominant, then optimal
@@ -1386,6 +1534,11 @@ the most important ones were the availability of safe night shelters,
 the need to defend territories against competing groups, and the needs
 for reliable water sources and for vitamins and minerals. Food
 preferences and attitudes toward work were also important (box 2.6).
+
+
+
+
+
 
 ## Box 2.6 Food preferences and attitudes toward work {.featuretitle}
 
@@ -1425,6 +1578,10 @@ reduce the risk inherent in big-game hunting---but Hadza sharing was not
 motivated by the expectation of risk-reducing reciprocity but was done
 primarily to enhance a hunter's status as a desirable neighbor.
 
+
+
+
+
 Our inability to reconstruct prehistoric energy balances has provoked
 some inadmissible generalizations. For some groups the total foraging
 effort was relatively low, only a few hours a day. This finding led to
@@ -1462,6 +1619,11 @@ were 10--20-fold, similar to those of hunting large mammals. Prehistoric
 returns were undoubtedly much higher in many biomass-rich environments,
 allowing for a gradual increase in social complexity.
 
+
+
+
+
+
 ## Box 2.7 Net energy returns in foraging {.featuretitle}
 
 I use the method described in box 1.10 and assume smaller statures of
@@ -1475,6 +1637,10 @@ rate for men and five times that for women, or almost 900 kJ/h.
 Subtracting the basic existential need puts the net energy input in
 foraging at roughly 600 kJ/h. Energy output is simply the value of
 edible portions of collected plants or killed animals.
+
+
+
+
 
 In fact, many foraging societies reached levels of complexity usually
 associated only with later agricultural societies. They had permanent
@@ -1516,6 +1682,11 @@ dependent on maritime hunting is that of northwestern Alaskan Inuit,
 whose net energy returns in killing migrating baleen whales were more
 than 2,000-fold (Sheehan 1985) (box 2.8).
 
+
+
+
+
+
 ## Box 2.8 Alaskan whalers {.featuretitle}
 
 In less than four months of near-shore hunting of baleen whales, whose
@@ -1538,6 +1709,10 @@ and artistic creativity (large wooden totems). Eventual limits on the
 population growth of these coastal settlements were imposed by the
 necessity to hunt other marine species and land game in order to secure
 raw materials for clothing, bedding, and hunting equipment.
+
+
+
+
 
 A food supply dependent on a few seasonal energy flows required
 extensive, and often elaborate, storage. Storage practices included
@@ -1611,7 +1786,10 @@ Egypt (earlier than 3100 BCE), the cultivation of emmer wheat and barley
 was complemented by the hunting of waterfowl, antelopes, wild pigs,
 crocodiles, and elephants (Hartmann 1923; Janick 2002).
 
-## []{#c10752_002.xhtml#S3}[]{#c10752_002.xhtml#d2e604}Origins of Agriculture
+
+
+
+## Origins of Agriculture
 
 Why did some foragers start to farm? Why did these new practices diffuse
 so widely, and why did their adoption proceed at what, in evolutionary
@@ -1768,6 +1946,11 @@ periodically, with the actually cultivated area ranging from just 0.1 to
 population densities an order of magnitude higher than the best
 foraging.
 
+
+
+
+
+
 ## Box 2.9 Energy costs and population densities in shifting cultivation {.featuretitle}
 
 Net energy cost is used to calculate returns of shifting farming. I
@@ -1775,6 +1958,10 @@ assume that an average labor input requires 700 kJ/h. Outputs are edible
 harvests uncorrected for storage losses and seed needs.
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_BT2.9.png)
+
+
+
+
 
 Where scarcity of precipitation, or its long seasonal absence, made
 cropping unrewarding or impossible, nomadic pastoralism has been an
@@ -1805,6 +1992,11 @@ densities of such societies were no higher than those of foraging groups
 cattle
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_002_fig_005.jpg)
 
+
+
+
+
+
 ## Box 2.10 Nomadic pastoralists {.featuretitle}
 
 Helland (1980) illustrated low labor requirements in pastoral societies
@@ -1831,6 +2023,10 @@ cases, nomadic population densities were low compared with those of
 settled farmers, in East Africa mostly between 0.8--2.2 people/km^2^,
 and 0.03--0.14 heads/ha (Helland 1980; Homewood 2008).
 
+
+
+
+
 For millennia, nomadic grazing dominated parts of Europe and the Middle
 East, and large regions of Africa and Asia. In all of these places it
 sometimes blended into mixtures of seminomadic agropastoralism,
@@ -1843,6 +2039,7 @@ temporary conquests of agricultural societies (Grousset 1938; Khazanov
 2001). Some pure pastoralists and agropastoralists survive even
 today---above all in Central Asia and in Sahelian and eastern
 Africa---but it has been an increasingly marginal existence.
+
 
 []{#c10752_003.xhtml}
 
@@ -2001,7 +2198,9 @@ only by rising inputs of fossil fuels, an energy subsidy that reduced
 agricultural labor to only a small fraction of the total labor force and
 enabled the rise of modern high-energy urban societies.
 
-## []{#c10752_003.xhtml#S1}[]{#c10752_003.xhtml#d2e116}Commonalities and Peculiarities
+
+
+## Commonalities and Peculiarities
 
 The requirements of crop growing imposed a general pattern on the
 sequence of field work. Cultivation of identical crops led to the
@@ -2020,7 +2219,9 @@ will first provide brief surveys of field operations, tools, and simple
 machines and then describe the dominance of cereal grains and the
 peculiarities of cropping cycles.
 
-### []{#c10752_003.xhtml#S1-1}[]{#c10752_003.xhtml#d2e123}Field Work
+
+
+### Field Work
 
 A great deal of traditional farming required heavy work, but such spells
 were often followed by extended periods of less demanding activities or
@@ -2167,7 +2368,10 @@ and water and windmills were used to mechanize the task. Oil was
 extracted from seeds by manual or animal-operated presses, as was the
 sweet juice from cane.
 
-### []{#c10752_003.xhtml#S1-2}[]{#c10752_003.xhtml#d2e197}The Dominance of Grains
+
+
+
+### The Dominance of Grains
 
 Although all traditional agricultures grew a variety of grain, oil,
 fiber, and feed crops, the described sequence of common field tasks was
@@ -2227,9 +2431,18 @@ total energy content, all cereals are remarkably similar: differences
 between mature seeds of various grains are mostly less than 10% (box
 3.1).
 
+
+
+
+
+
 ## Box 3.1 Energy density and carbohydrate and protein content of principal grains {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.1.png)
+
+
+
+
 
 The bulk of cereals' food energy is in carbohydrates, present mostly as
 highly digestible polysaccharides (starches). Rising share of starches
@@ -2293,9 +2506,18 @@ agricultural productivity. Data on typical agricultural labor
 requirements and their energy costs are available for a large variety of
 individual field and farmyard tasks (box 3.2).
 
+
+
+
+
+
 ## Box 3.2 Labor and energy requirements in traditional farming {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.2.png)
+
+
+
+
 
 But this level of detail is not necessary for calculating approximate
 energy balances. Using a representative average of typical net energy
@@ -2322,6 +2544,11 @@ Some grains are eaten whole, but before actual food preparation (cooking
 or baking) most cereals are milled first, and in the process lose a
 significant share of the whole grain's mass (box 3.3).
 
+
+
+
+
+
 ## Box 3.3 Cereal milling {.featuretitle}
 
 Whole grain flours incorporate the complete kernel, but white wheat
@@ -2345,6 +2572,10 @@ loosens the hulls from the kernels, softens the kernels by dissolving
 hemicellulose, reduces the presence of mycotoxins, and enhances the
 bioavailability of niacin (vitamin B~3~).
 
+
+
+
+
 Storage losses on traditional farms---to fungi and insect infestations
 and to rodents able to access bins or jars---would commonly reduce the
 edible grain total by anywhere between a few percent to more than 10%.
@@ -2356,7 +2587,10 @@ grain can be consumed by rodents. Even as recently as the mid-eighteenth
 century a combination of seeding requirements and storage losses could
 have reduced the gross energy gain of European grains by around 25%.
 
-### []{#c10752_003.xhtml#S1-3}[]{#c10752_003.xhtml#d2e738}Cropping Cycles
+
+
+
+### Cropping Cycles
 
 The commonalities of annual crop cycles and the dominance of cereal
 cultivation obscured an astonishing variety of local and regional
@@ -2466,7 +2700,11 @@ day ranged from just five hours for oxen in many African locations to
 more than ten hours for water buffaloes in Asian rice fields and for
 horses during European or North American grain harvests.
 
-## []{#c10752_003.xhtml#S2}[]{#c10752_003.xhtml#d2e768}Routes to Intensification
+
+
+
+
+## Routes to Intensification
 
 No quest for higher yields could succeed without three essential
 advances. The first one was a partial replacement of human work by
@@ -2497,7 +2735,9 @@ turn, these advances could support large numbers of more powerful
 animals as the three intensification paths were linked by mutually
 reinforcing feedback loops.
 
-### []{#c10752_003.xhtml#S2-1}[]{#c10752_003.xhtml#d2e778}Draft Animals
+
+
+### Draft Animals
 
 Domestication has resulted in many working breeds with distinctive
 characteristics, with weights spanning an order of magnitude, from just
@@ -2535,9 +2775,18 @@ horsepower (745 W), and usually delivered between 500 and 850 W (box
 3.4, []{#c10752_003.xhtml#fig_003a}[fig.
 3.3](#c10752_003.xhtml#fig_003)).
 
+
+
+
+
+
 ## Box 3.4 Typical weights, drafts, working speeds, and power of domestic animals {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.4.png)
+
+
+
+
 
 ![[]{#c10752_003.xhtml#fig_003}[[Figure
 3.3](#c10752_003.xhtml#fig_003a)]{.figureLabel} Comparisons of animal
@@ -2622,6 +2871,11 @@ decades a widely accepted conclusion that this was a very inefficient
 arrangement because it choked the animal, as the breast collar tended to
 ride up (box 3.5).
 
+
+
+
+
+
 ## Box 3.5 Comparing harnesses and draft power {.featuretitle}
 
 For decades many writings repeated the claim that the ancient
@@ -2649,6 +2903,10 @@ millennia ago. In any case, because of the weight limit (500 kg) put on
 the horse-drawn wagons by the Theodosian Code (439 CE), "It seems
 certain that the Romans were aware of the distress caused in horses by
 pulling heavy loads" (Gans 2004, 179).
+
+
+
+
 
 The breastband harness, introduced in China no later than the early Han
 dynasty, had its point of traction too far away from the animal's most
@@ -2773,6 +3031,11 @@ nineteenth-century draft horse were to be seen merely as a substitute
 for tedious human labor, it would have earned its keep, but strong,
 well-fed horses could perform tasks beyond human capacity and endurance.
 
+
+
+
+
+
 ## Box 3.6 Energy cost, efficiency, and performance of a draft horse {.featuretitle}
 
 A mature 500-kg horse needs about 70 MJ of digestible energy per day to
@@ -2795,6 +3058,10 @@ peaks above 150 W, a horse could work steadily at 500 W and have brief
 peak pulls in excess of 1 kW, an effort that would require the exertions
 of a dozen men.
 
+
+
+
+
 Horses could drag logs and pull out stumps when humans converted forests
 to cropland, break up rich prairie soils by deep plowing, or pull heavy
 machinery. There were, of course, additional energy costs of animal
@@ -2810,7 +3077,10 @@ protein. Leather was used in making a large number of tools essential in
 farming and in traditional manufactures. And, of course, the animals
 were self-reproducing.
 
-### []{#c10752_003.xhtml#S2-2}[]{#c10752_003.xhtml#d2e1074}Irrigation
+
+
+
+### Irrigation
 
 The water demand of crops depends on many environmental, agronomic, and
 genetic variables, but the total seasonal need is commonly about 1,000
@@ -2918,9 +3188,18 @@ water-raising devices make the limits of human performance obvious (box
 3.7, []{#c10752_003.xhtml#fig_009a}[fig.
 3.9](#c10752_003.xhtml#fig_009)).
 
+
+
+
+
+
 ## Box 3.7 Power requirements, lifts, and capacities of traditional water-lifting devices {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.7.png)
+
+
+
+
 
 ![[]{#c10752_003.xhtml#fig_009}[[Figure
 3.9](#c10752_003.xhtml#fig_009a)]{.figureLabel} Comparison of lifts,
@@ -2941,6 +3220,11 @@ insensitive to a temporary water deficit, corn is rather vulnerable). A
 realistic example shows that energy returns could be easily 10-fold or
 higher (box 3.8).
 
+
+
+
+
+
 ## Box 3.8 Energy returns of wheat irrigation {.featuretitle}
 
 A single specific calculation demonstrates the considerable energy
@@ -2958,6 +3242,10 @@ about 65 MJ of additional food energy, while the increased wheat yield
 would contain (after subtracting about 10% for seed and storage losses)
 about 2 GJ of digestible energy. Consequently, water ladder treading
 would return about 30 times more food energy than its food cost.
+
+
+
+
 
 In contrast, for some Inca projects, net energy returns had to be low.
 Gravity irrigation required no water lifting, but carving long and wide
@@ -2994,7 +3282,10 @@ grasses, weeds, and pond deposits---sustained high yields of mulberries
 for silkworms, sugar cane, rice, and numerous vegetables and fruits, as
 well as a high output of fish.
 
-### []{#c10752_003.xhtml#S2-3}[]{#c10752_003.xhtml#d2e1499}Fertilization
+
+
+
+### Fertilization
 
 Atmospheric CO~2~ and water supply carbon and hydrogen, the two elements
 forming the bulk of plant tissues as new carbohydrates. But other
@@ -3152,7 +3443,10 @@ varied and nutritious diet and how these improvements in the worker's
 diet promoted higher productivity, steady employment, and rising
 affluence.
 
-### []{#c10752_003.xhtml#S2-4}[]{#c10752_003.xhtml#d2e1567}Crop Diversity
+
+
+
+### Crop Diversity
 
 Modern farming is dominated by monocultures, annual plantings of the
 same crop, reflecting the regional specialization of commercial
@@ -3208,7 +3502,11 @@ included the three staples of the New World farming---corn, beans, and
 squash---but also tubers (sweet potato, manioc, jicama) and agave and
 cotton for fiber (Atwood 2009).
 
-## []{#c10752_003.xhtml#S3}[]{#c10752_003.xhtml#d2e1583}Persistence and Innovation
+
+
+
+
+## Persistence and Innovation
 
 The inertia of traditional farming practices was, in many instances,
 unmistakable even after several millennia: sowing dryland grains by hand
@@ -3261,7 +3559,9 @@ North America, and the unprecedented rate of agricultural innovation in
 the United States during the nineteenth century, created the world's
 most efficient traditional farming arrangement.
 
-### []{#c10752_003.xhtml#S3-1}[]{#c10752_003.xhtml#d2e1602}Ancient Egypt
+
+
+### Ancient Egypt
 
 Predynastic Egyptian agriculture, traceable from shortly before 5000
 BCE, coexisted with a great deal of hunting (of antelopes and pigs, as
@@ -3354,7 +3654,10 @@ it surpassed 1.5 (Waterbury 1979). Farming was still powered by animate
 energies but, already helped by inorganic fertilizers, fellahin were
 feeding six people from every hectare of cultivated land.
 
-### []{#c10752_003.xhtml#S3-2}[]{#c10752_003.xhtml#d2e1644}China
+
+
+
+### China
 
 Imperial China also underwent long periods of turmoil and stagnation,
 but its traditional farming was considerably more innovative than
@@ -3443,6 +3746,11 @@ periods could still return around 20 times as much food energy in the
 additional harvest as the food consumed by peasants while treading water
 ladders.
 
+
+
+
+
+
 ## Box 3.9 Nitrogen content of organic materials recycled in China {.featuretitle}
 
 Scale of traditional recycling (and hence the energies devoted to
@@ -3483,6 +3791,10 @@ in a variety of historical and modern Chinese sources.
 </figure>
 ```
 
+
+
+
+
 In China's rice-growing areas applications of animal manure and night
 soil commonly averaged 10 t/ha during the late nineteenth and early
 twentieth centuries. Huge amounts of organic wastes were collected in
@@ -3507,6 +3819,11 @@ and barley was commonly the most time-consuming part of the human labor
 one-third) devoted to those crops. But this investment was very
 rewarding: its net energy return was commonly over 50 (box 3.10).
 
+
+
+
+
+
 ## Box 3.10 Net energy return of fertilization {.featuretitle}
 
 A good late Qing dynasty winter wheat harvest of about 1.5 t/ha required
@@ -3523,6 +3840,10 @@ yielded at least 200 kg of flour, or about 2.8 GJ of food energy,
 compared to an investment of about 40 MJ of additional food for human
 labor. The net energy return of fertilization was thus around 70, an
 impressive benefit/cost ratio.
+
+
+
+
 
 Overall food energy returns in traditional Chinese cropping were not so
 high even during the period of its peak performance in the early decades
@@ -3599,7 +3920,10 @@ invariably lower in wet rice farming but that was more than
 counterbalanced by greater yields per hectare: double-cropping of rice
 and wheat in the most fertile areas could feed 12--15 people/ha.
 
-### []{#c10752_003.xhtml#S3-3}[]{#c10752_003.xhtml#d2e1795}Mesoamerican Cultures
+
+
+
+### Mesoamerican Cultures
 
 Without any draft animals (and hence without any plowing), agricultures
 of the classical Mesoamerican civilizations differed substantially from
@@ -3667,6 +3991,11 @@ return on the invested labor, and the high benefit/cost ratio explains
 the frequency of the practice, which started as early as 100 BCE and
 reached its peak during the last decades of the Aztec rule (box 3.11).
 
+
+
+
+
+
 ## Box 3.11 Raised fields in the basin of Mexico {.featuretitle}
 
 A chinampa could yield up to four times as much as nonirrigated land. An
@@ -3679,6 +4008,10 @@ than 2.5 m^3^. Raising 1 ha of fields thus required about 6,000 man-days
 of labor. With a labor energy cost of 900 kJ/h, the task called for
 about 30 GJ of additional food energy---an amount gained in increased
 harvest in just a single year.
+
+
+
+
 
 At the time of the Spanish conquest the Texcoco, Chaco, and Xochimilco
 lakes had about 12,000 ha of chinampa fields (Sanders, Parsons, and
@@ -3708,7 +4041,10 @@ were supported by raised-field cultivation of potatoes in the wetlands
 around Lake Titicaca, the core area of the Incas, between today's Peru
 and Bolivia (Denevan 1982; Erickson 1988).
 
-### []{#c10752_003.xhtml#S3-4}[]{#c10752_003.xhtml#d2e1852}Europe
+
+
+
+### Europe
 
 In Europe, much as in China, periods of relatively steady improvements
 alternated with stagnation in productivity, and major regional peacetime
@@ -3747,9 +4083,18 @@ human labor (and around 200 hours of animal labor) to produce typical
 harvests of merely close to 0.5 t/ha. Even so, gross food energy
 returns, ranging mostly between 30 and 40, were fairly high (box 3.12).
 
+
+
+
+
+
 ## Box 3.12 Labor requirements of European wheat harvests, 200--1800 {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.12.png)
+
+
+
+
 
 The productivity of European farming changed very slowly during the
 millennium between the demise of the Western Roman Empire and the
@@ -3905,9 +4250,18 @@ than 160-fold compared to less than 40-fold gain in medieval English
 wheat cultivation and a less than 25-fold return in Roman grain farming
 in Italy around 200 CE (box 3.13).
 
+
+
+
+
+
 ## Box 3.13 Energy costs and returns of European wheat harvests, 200--1800 {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.13.png)
+
+
+
+
 
 Farming intensification continued in most European countries after the
 recovery from an overproduction-induced depression in the early
@@ -3938,7 +4292,10 @@ century became a hybrid energy system: still critically dependent on
 animate prime movers but increasingly benefiting from many inputs of
 fossil energy.
 
-### []{#c10752_003.xhtml#S3-5}[]{#c10752_003.xhtml#d2e2264}North America
+
+
+
+### North America
 
 The history of postrevolutionary American farming is remarkable because
 of the fairly high, and accelerating, rate of innovation. These changes
@@ -4028,6 +4385,11 @@ kilogram of wheat, but less than half a minute was needed in
 California's Central Valley in 1900, roughly a 20-fold labor
 productivity gain in a century.
 
+
+
+
+
+
 ## Box 3.14 Labor requirements (human/animal) in hours/hectare and the energy cost of American wheat, 1800--1900 {.featuretitle}
 
 ![](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_BT3.14.png)
@@ -4043,6 +4405,10 @@ Because the yields of American wheat did not show any upward trend
 during the nineteenth century, I assume a constant yield of 20 bushels
 per acre, or 1,350 kg/ha (18.75 GJ/ha). Accounts are based largely on
 performance rates compiled by Rogin (1931).
+
+
+
+
 
 In terms of net energy expenditures, these differences were slightly
 larger: most of the longer labor hours in 1800 were spent in much
@@ -4074,6 +4440,11 @@ claim was possible only because of America's plentiful farmland. In 1910
 the country had almost 1.5 ha/capita, twice as much as in 1990 and about
 ten times as much as contemporary China.
 
+
+
+
+
+
 ## Box 3.15 Feeding America's draft horses {.featuretitle}
 
 In 1910 America had 24.2 million farm horses and mules (and only 1,000
@@ -4093,6 +4464,10 @@ annually harvested land, which means that America's farm horse herd
 cultivated land. The USDA's (1959) calculation came up with a nearly
 identical total of 29.1 Mha.
 
+
+
+
+
 During the last decades of the nineteenth century it was not only a
 combination of clever designs and plentiful horse power that made
 American farming so productive. During the 1880s American coal
@@ -4103,7 +4478,11 @@ inputs of coal and oil. American farmers ceased to be just skilled
 managers of renewable solar flows: their outputs were subsidized by
 fossil fuels.
 
-## []{#c10752_003.xhtml#S4}[]{#c10752_003.xhtml#d2e2720}The Limits of Traditional Farming
+
+
+
+
+## The Limits of Traditional Farming
 
 The enormous socioeconomic contrasts between life during the Qin
 dynasty, China's first period of unification (221--207 BCE), and the
@@ -4127,7 +4506,9 @@ malnutrition and recurrent famines. Productive arrangements that were
 durable, resilient, and adaptable were also fragile, vulnerable, and
 inadequate to meet the rising needs.
 
-### []{#c10752_003.xhtml#S4-1}[]{#c10752_003.xhtml#d2e2730}Achievements
+
+
+### Achievements
 
 Advances in traditional farming were slow, and the adoption of new
 methods did not mean a general disappearance of old practices. Fallow
@@ -4333,7 +4714,10 @@ Butzer (1976), Waterbury (1979), Richards (1990), and Whitmore and
 co-workers
 (1990).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_003_fig_017.jpg)
 
-### []{#c10752_003.xhtml#S4-2}[]{#c10752_003.xhtml#d2e2817}Nutrition
+
+
+
+### Nutrition
 
 Numbers tracing the population densities of preindustrial societies
 reveal little about the adequacy and quality of typical diets.
@@ -4433,7 +4817,10 @@ inadequate diets and widespread malnutrition remain a norm today in many
 poor countries where population densities have surpassed the limits
 sustainable by even the most intensive traditional farming.
 
-### []{#c10752_003.xhtml#S4-3}[]{#c10752_003.xhtml#d2e2850}Limits
+
+
+
+### Limits
 
 Despite the slow progress in yields and labor productivities,
 traditional farming was an enormous evolutionary success. There would be
@@ -4706,6 +5093,8 @@ to make a major difference only after 1910 with the diffusion of
 tractors, trucks, and synthetic nitrogenous fertilizers, advances I
 trace in the fifth chapter.
 
+
+
 []{#c10752_004.xhtml}
 
 # 4 Preindustrial Prime Movers and Fuels
@@ -4817,6 +5206,12 @@ with us not only since the time of ancient empires but, necessarily,
 long before that---or how else did Stonehenge's 40 t outer stones get
 raised?
 
+
+
+
+
+
+
 ## Box 4.1 Raising Alexander's column {.featuretitle}
 
 The large piece of red granite that became Alexander's Column was
@@ -4848,6 +5243,10 @@ without being fastened to the pedestal: the 25.45 m tall, slightly
 conical (3.6 m diameter at the bottom, 3.15 m at the top) mass simply
 rests on its foundations.
 
+
+
+
+
 In this chapter I first appraise the kinds, capacities, and limits of
 all traditional prime movers---human and animal muscles, wind, and
 water---as well as the combustion of phytomass fuels, mostly wood and
@@ -4858,7 +5257,10 @@ critical segments of traditional economies: in food preparation, in the
 provision of heat and light, in land and waterborne transportation, in
 construction, and in color and ferrous metallurgy.
 
-## []{#c10752_004.xhtml#S2}[]{#c10752_004.xhtml#d2e143}Prime Movers
+
+
+
+## Prime Movers
 
 Animate labor and conversions of the kinetic energies of water and wind
 (by sails and mills) were the only prime movers in traditional societies
@@ -4903,7 +5305,9 @@ quicklime were used in these incendiary mixtures. Only the invention of
 gunpowder combined the propulsive force with great explosive and
 inflammatory power.
 
-### []{#c10752_004.xhtml#S2-1}[]{#c10752_004.xhtml#d2e156}Animate Power
+
+
+### Animate Power
 
 Animate energies remained the most important prime mover for most of
 humanity until the middle of the twentieth century. Their limited power,
@@ -4949,6 +5353,11 @@ planes, and pulleys---were used by virtually all old high cultures
 (Lacey 1935; Usher 1954; Needham 1965; Burstall 1968; Cotterell and
 Kamminga 1990; Wei 2012).
 
+
+
+
+
+
 ## Box 4.2 Work, force, and distance {.featuretitle}
 
 Work is done when a force---no matter whether provided by animate or
@@ -4974,6 +5383,10 @@ countless examples of these actions in everyday life, from opening locks
 with a key (a row of wedges, that is, inclined planes, moving the pins
 inside a lock) to pulling a nail from a piece of wood by using a claw
 hammer (a lever action).
+
+
+
+
 
 Levers are rigid, slender pieces of wood or metal. As they pivot around
 a fulcrum they convey an mechanical advantage that is easily calculated
@@ -5191,6 +5604,11 @@ with laborers leaning against a bar ([fig.
 became common in the early nineteenth century (box 4.3,
 []{#c10752_004.xhtml#fig_008a}[fig. 4.8](#c10752_004.xhtml#fig_008)).
 
+
+
+
+
+
 ## Box 4.3 Working on a treadmill {.featuretitle}
 
 The largest treading devices operated during the nineteenth century in
@@ -5212,6 +5630,10 @@ machines unemotionally, stressed nevertheless that a well-designed
 treadwheel was not only a highly efficient mechanical device but also
 one most comfortable for the operator "in so far as any continuous,
 monotonous physical work can be comfortable."
+
+
+
+
 
 ![[]{#c10752_004.xhtml#fig_008}[[Figure
 4.8](#c10752_004.xhtml#fig_008a)]{.figureLabel} Prisoners on a treadmill
@@ -5326,6 +5748,11 @@ before the adoption of electric streetcars Western cities had many urban
 horses harnessed to omnibuses and carts (box 4.4; see also
 []{#c10752_004.xhtml#fig_018a}[fig. 4.18](#c10752_004.xhtml#fig_018)).
 
+
+
+
+
+
 ## Box 4.4 Draft horses in urban transportation {.featuretitle}
 
 Draft horses were employed in cities to deliver food, fuel, and
@@ -5351,6 +5778,10 @@ data collected by McShane and Tarr (2007) show that typical daily
 rations per animal were 5--8 kg of oats and a similar mass of hay.
 Supplying urban horses with this feed was an important service in all
 large nineteenth-century cities.
+
+
+
+
 
 The use of horses for transportation or in construction was constrained
 by the same factors that limited their employment as draft animals in
@@ -5384,7 +5815,10 @@ axle for work in small manufactures requiring steady rotary power, could
 not deliver much more, and before the introduction of steam engines many
 of them were replaced by much more powerful waterwheels and windmills.
 
-### []{#c10752_004.xhtml#S2-2}[]{#c10752_004.xhtml#d2e464}Water Power
+
+
+
+### Water Power
 
 Antipater of Thessalonica, writing during the first century BCE, left
 the first literary reference to a simple water mill doing away with the
@@ -5475,6 +5909,11 @@ overshot wheel powering ore-washing machinery in a French forge
 (bottom). Reproduced from the *Encyclopédie* (Diderot and d'Alembert
 1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_010.jpg)
 
+
+
+
+
+
 ## Box 4.5 Power of undershot wheels {.featuretitle}
 
 The kinetic energy of flowing water (in joules) is 0.5ρ*v*^2^, one-half
@@ -5487,6 +5926,10 @@ cross section of about 0.15 m^2^ (roughly 50 × 50 cm) could ideally
 develop just over 400 W of power---but an inefficient wooden medieval
 undershot could actually deliver no more than a fifth of this rate, or
 about 80 W, as useful rotary motion.
+
+
+
+
 
 The efficiency of undershot wheels could be further improved by forming
 the base below the waterwheel rim into a closely fitting breast over a
@@ -5514,6 +5957,11 @@ more than 1,000 L/s and at speeds of 4--12 rpm. Because most of the
 rotary power was generated by the weight of the descending water,
 overshot wheels could be placed on slowly flowing streams (box 4.6).
 
+
+
+
+
+
 ## Box 4.6 Power of overshot waterwheels {.featuretitle}
 
 The potential energy of water (in joules) is equal to _mgh_, the product
@@ -5525,6 +5973,10 @@ the wheel would have a theoretical power of nearly 12 kW. The useful
 mechanical power of such a machine would have ranged from less than 4 kW
 for a heavy wooden wheel to well over 9 kW for a carefully crafted and
 properly lubricated nineteenth-century metal machine.
+
+
+
+
 
 This advantage was partially negated by the need for a well-directed and
 carefully regulated water supply, which required the frequent building
@@ -5623,6 +6075,11 @@ the textbooks, never existed at all---an authentic, ancient Roman,
 power-driven, mass-production, assembly-line factory." A closer look
 shows a less impressive reality (box 4.7).
 
+
+
+
+
+
 ## Box 4.7 Barbegal waterwheels {.featuretitle}
 
 Water for the Barbegal's 16 overshot wheels (most likely built during
@@ -5647,6 +6104,10 @@ four weak) Roman horses harnessed to a whim, and enough to produce daily
 about 3.4 t of flour to feed about 11,000 people: certainly a much
 higher performance than for typical mills of the second century CE but
 less than a prototype of mass production.
+
+
+
+
 
 In any case, larger water mills remained rare for centuries to come.
 Even during the early decades of the eighteenth century European
@@ -5771,7 +6232,10 @@ the end of the nineteenth century most water turbines had stopped
 delivering direct power and had started to turn electricity generators
 instead.
 
-### []{#c10752_004.xhtml#S2-3}[]{#c10752_004.xhtml#d2e669}Wind Power
+
+
+
+### Wind Power
 
 The history of harnessing wind for stationary power (as opposed to the
 much longer history of converting wind into motion through the clever
@@ -5820,6 +6284,11 @@ lantern-and-crown gear and the only access was by ladder. Reproduced
 from the *Encyclopédie* (Diderot and d'Alembert
 1769--1772).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_012.jpg)
 
+
+
+
+
+
 ## Box 4.8 Wind energy and power {.featuretitle}
 
 Average wind speed increases roughly with one-seventh the power of
@@ -5855,6 +6324,10 @@ airstream! The maximum extractable power is equal to 16/27, or nearly
 20--30% for preindustrial windmills. An eighteenth-century tower mill
 with a blade diameter of 20 m thus had a theoretical power of about 189
 kW with a velocity of 10 m/s---but it delivered less than 50 kW.
+
+
+
+
 
 While post mills continued to work in parts of Eastern Europe until the
 twentieth century, in Western Europe they were gradually replaced by
@@ -5965,7 +6438,11 @@ with Halladay, Adams, and Buchanan being the leading brands (Baker
 2006). Large numbers of American-type water-pumping windmills were used
 during the twentieth century in Australia, South Africa, and Argentina.
 
-## []{#c10752_004.xhtml#S3}[]{#c10752_004.xhtml#d2e791}Biomass Fuels
+
+
+
+
+## Biomass Fuels
 
 Nearly all traditional societies could produce heat and light only by
 burning biomass fuels. Woody phytomass, the charcoal derived from it,
@@ -6011,7 +6488,9 @@ traditional societies, energy needs have always amounted just to cooking
 two or three meals a day, in cold climates heating at least one room,
 and in some regions also preparing feed for animals and drying food.
 
-### []{#c10752_004.xhtml#S3-1}[]{#c10752_004.xhtml#d2e807}Wood and Charcoal
+
+
+### Wood and Charcoal
 
 Wood was used in any available form: as fallen, broken, or lopped-off
 branches, twigs, bark, and roots---but chopped stem wood became
@@ -6028,6 +6507,11 @@ contain, respectively, 26.5 MJ/kg and up to 35 MJ/kg, compared to 17.5
 MJ/kg for cellulose), but the differences among common woody species are
 fairly small, mostly 17.5--20 MJ/kg for hardwoods and, because of their
 higher resin content, 19--21 MJ/kg for softwoods (box 4.9).
+
+
+
+
+
 
 ## Box 4.9 Energy content of biomass fuels {.featuretitle}
 
@@ -6059,6 +6543,10 @@ _Source:_ Based on Smil (1983) and Jenkins (1993).
 ```{=html}
 </figure>
 ```
+
+
+
+
 
 The energy density of wood should always refer to absolutely dry matter,
 but wood burned in traditional societies had a widely varying moisture
@@ -6145,6 +6633,11 @@ GJ/capita (Galloway, Keene, and Murphy 1996). Estimates for Western
 Europe and North America just before their switch to coal show even
 higher average needs.
 
+
+
+
+
+
 ## Box 4.10 Wood consumption in the Roman Empire {.featuretitle}
 
 My conservative estimate accounts for all major wood consumption
@@ -6171,6 +6664,10 @@ half split roughly 2:1 between food and fodder energy. His higher total
 was 16.8 GJ/capita, while my estimate for food, fodder, and wood was
 18--19 GJ/capita (Smil 2010c).
 
+
+
+
+
 Those nineteenth-century northern European, New England, Midwestern, or
 Canadian communities heating and cooking only with wood consumed
 annually anywhere between 3 and 6 t of the fuel per capita. That was the
@@ -6182,7 +6679,10 @@ Although that figure also included growing industrial (mainly
 metallurgical charcoal) and transportation uses, household combustion
 was still the leading consumer of American wood during the 1850s.
 
-### []{#c10752_004.xhtml#S3-2}[]{#c10752_004.xhtml#d2e968}Crop Residues and Dung
+
+
+
+### Crop Residues and Dung
 
 Crop residues were indispensable fuels on deforested, densely settled
 agricultural plains and in arid, sparsely treed regions. Cereal straws
@@ -6249,7 +6749,11 @@ Bangladeshi households are still using dung for cooking (Behera et al.
 patties left to dry in Varanasi, Uttar Pradesh, India
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_015.jpg)
 
-## []{#c10752_004.xhtml#S4}[]{#c10752_004.xhtml#d2e1006}Household Needs
+
+
+
+
+## Household Needs
 
 An ancient Chinese proverb had the right order of things that people
 cannot do without every day: firewood, rice, oil, salt, sauce, vinegar,
@@ -6294,7 +6798,9 @@ nineteenth-century America, endowed with plenty of fuelwood, an average
 household claimed only a small fraction of the useful energy flows that
 became available to its twentieth-century counterpart.
 
-### []{#c10752_004.xhtml#S4-1}[]{#c10752_004.xhtml#d2e1025}Food Preparation
+
+
+### Food Preparation
 
 In light of the dominance of cereals in the nutrition of all high
 cultures, milling of grains was certainly the most important
@@ -6323,6 +6829,11 @@ commonly used, and slaves also powered dough-kneading machines in large
 bakeries: the empire's staple was paid for by terrible suffering (box
 4.11).
 
+
+
+
+
+
 ## Box 4.11 Lucius Apuleius (_Metamorphoses_ IX, 12, 3.4) on Roman mill slaves {.featuretitle}
 
 > Ye gods, what a set of men I saw! Their skins were seamed all over
@@ -6334,6 +6845,10 @@ bakeries: the empire's staple was paid for by terrible suffering (box
 > Their eyes were bleared, sore, and raw, from the smoke of the ovens.
 > They were covered with flour as athletes with dust! (J. A. Hanson
 > translation)
+
+
+
+
 
 A donkey-powered mill (energy input at the rate of 300 W) produced from
 less than 10 kg/h to 25 kg/h (Forbes 1965), while millstones driven by a
@@ -6411,7 +6926,10 @@ Thompson (Count Rumford, 1753--1814) designed a brick range with top
 openings for placing the pots and with a cylindrical oven; the range was
 first adopted by large kitchens (Brown 1999).
 
-### []{#c10752_004.xhtml#S4-2}[]{#c10752_004.xhtml#d2e1090}Heat and Light
+
+
+
+### Heat and Light
 
 The primitive nature and inefficiency of traditional heating and
 lighting are especially remarkable when contrasted with the often
@@ -6528,7 +7046,11 @@ England's ports (Starbuck 1878). The subsequent decline in sperm whale
 numbers and competition from coal gas and kerosene led to a rapid
 decline of the hunt.
 
-## []{#c10752_004.xhtml#S5}[]{#c10752_004.xhtml#d2e1166}Transportation and Construction
+
+
+
+
+## Transportation and Construction
 
 The preindustrial evolution of transportation and construction shows a
 highly uneven pattern of advances and stagnation, or even decline.
@@ -6548,7 +7070,9 @@ the diffusion of a much more powerful prime mover and a superior
 construction material. The steam engine and cheap cast iron and steel
 revolutionized transportation as well as construction.
 
-### []{#c10752_004.xhtml#S5-1}[]{#c10752_004.xhtml#d2e1173}Moving on Land
+
+
+### Moving on Land
 
 Walking and running, the two natural modes of human locomotion, have
 accounted for most of the personal movements in all preindustrial
@@ -6754,6 +7278,11 @@ construction (box 4.12) In Western Europe the Roman achievements in road
 building were surpassed only during the nineteenth century, in the
 eastern regions of the continent only during the twentieth.
 
+
+
+
+
+
 ## Box 4.12 Energy cost of Roman roads {.featuretitle}
 
 If we assume that the average Roman road was just 5 m wide and 1 m deep,
@@ -6770,6 +7299,10 @@ prorating this grand total over 600 years of construction would result
 in an annual average of six million labor-days, an equivalent of some
 20,000 full-time construction workers. This would represent (at 2
 MJ/day) an annual energy investment of nearly 12 TJ of labor.
+
+
+
+
 
 The Muslim world had no roads network comparable to the Roman _cursus
 publicus_, although it had intense communication (Hill 1984). Its
@@ -6944,7 +7477,10 @@ and China is still the world's largest producer of bicycles, with more
 than 80 million units a year, of which more than 60% are exported (IBIS
 World 2015).
 
-### []{#c10752_004.xhtml#S5-2}[]{#c10752_004.xhtml#d2e1327}Oared Ships and Sail Ships
+
+
+
+### Oared Ships and Sail Ships
 
 Human**-**powered waterborne movement achieved much higher power ratings
 than animate transport on land. Oared vessels were ingeniously designed
@@ -7004,6 +7540,11 @@ powered by 40 men turning capstans or treadmills appeared in the middle
 of the sixteenth century. Animate power was also the principal prime
 mover for moving goods and people by canal boats and barges (box 4.13).
 
+
+
+
+
+
 ## Box 4.13 Ancient canal transportation {.featuretitle}
 
 The earliest description of their sluggish progress (snoring waterman,
@@ -7019,6 +7560,10 @@ in his _Satires_ (Buckley 1855, 160):
 > fellow, one of the passengers, leaps out of the boat, and drubs the
 > head and sides of both mule and waterman with a willow cudgel. At last
 > we were scarcely set ashore at the fourth hour.
+
+
+
+
 
 Canals were particularly important catalysts of economic development in
 the core area of the Chinese state (in the lower basin of the Huang He
@@ -7067,6 +7612,11 @@ minimize drag (box 4.14). But this force from the sail's foil shape must
 be combined with the balancing force of the keel; otherwise the vessel
 will drift downwind (Anderson 2003).
 
+
+
+
+
+
 ## Box 4.14 Sails and sailing near the wind {.featuretitle}
 
 When wind strikes a sail, the difference in pressure generates two
@@ -7095,6 +7645,10 @@ the course. Square-rigged ships had to resort to wearing, or making a
 complete downwind turn. Ships with fore-and-aft sails tried tacking,
 turning their bows into the wind, and eventually catching the wind on
 the opposite side of the sail.
+
+
+
+
 
 Square sails set at right angles across the ship's long axis were
 efficient energy converters only with the wind astern. Roman ships
@@ -7190,6 +7744,11 @@ dominance before and after the Napoleonic age. Starting in the early
 fifteenth century the simplest ships of this innovative design carried
 the audacious Portuguese sailors on longer voyages (box 4.15).
 
+
+
+
+
+
 ## Box 4.15 Portuguese voyages of discovery {.featuretitle}
 
 Portuguese sailors advanced first southward, along the western coast of
@@ -7201,6 +7760,7 @@ Indian Ocean to India (Boxer 1969; Newitt 2005). Luís de Camões
 and cited here in Richard Burton's translation (Burton 1880, 11),
 captured their progress:
 
+> 
 > They walked the water's vasty breadth of blue,
 >
 > parting the restless billows on their way;
@@ -7216,6 +7776,11 @@ captured their progress:
 > the sacred spaces of that ocean-plain
 >
 > where Proteus' cattle cleave his own domain.
+> 
+
+
+
+
 
 In 1492 the Atlantic was crossed to America by three Spanish ships
 captained by Christopher Columbus (1451--1506). In 1519 Ferdinand
@@ -7254,6 +7819,11 @@ expansion of shipping (preceding that of the economy as a whole) and its
 rising productivity were critical contributions to Europe's economic
 growth between 1350 and 1850 (Lucassen and Unger 2011).
 
+
+
+
+
+
 ## Box 4.16 Contribution of sail ships to Dutch energy use {.featuretitle}
 
 Information on tonnages and speeds that would allow us to calculate the
@@ -7281,7 +7851,14 @@ pressure. Comparisons of aggregate power thus make no greater sense than
 those of specific conversion efficiencies (in this case, contrasting the
 efficiency of a sail with the performance of a peat stove).
 
-### []{#c10752_004.xhtml#S5-3}[]{#c10752_004.xhtml#d2e1559}Buildings and Structures
+
+
+
+
+
+
+
+### Buildings and Structures
 
 The enormous variety of building styles and ornaments can be reduced to
 only four fundamental structural members: walls, columns, beams, and
@@ -7352,6 +7929,11 @@ Parthenon in just 15 years (447--432 BCE), the Pantheon in about eight
 Byzantine church later converted into a mosque, in less than five years
 (527--532).
 
+
+
+
+
+
 ## Box 4.17 Brunelleschi's ingenious machines {.featuretitle}
 
 Filippo Brunelleschi's work on the Cathedral of Santa Maria del Fiore is
@@ -7378,6 +7960,10 @@ structure) could not be moved from the central elevated location to
 their precisely predetermined sites by pulling or pushing: the task was
 done by the load positioner with two horizontal screw-actuated slideways
 mounted on a vertical rod and using a counterweight.
+
+
+
+
 
 Several types of large construction projects stand out. By far the best
 known are various ceremonial structures, above all funerary monuments
@@ -7505,6 +8091,11 @@ numbers of workers, most of them concentrated on the Giza Plateau, might
 have been a factor as limiting as or even more limiting than delivering
 and lifting the stones.
 
+
+
+
+
+
 ## Box 4.18 Energy cost of the Great Pyramid {.featuretitle}
 
 The Great Pyramid's potential energy (required to lift the mass of 2.5
@@ -7544,6 +8135,10 @@ Mendelssohn (1974) estimated the total at 70,000 seasonal laborers and
 perhaps as many as 10,000 permanent masons. Both of these are
 indefensible exaggerations.
 
+
+
+
+
 Other ancient structures that required a long-term labor commitment
 included the Mesopotamian stepped temple towers (ziggurats) built after
 2200 BCE, and stupas (or _dagobas_), monuments built to honor Buddha and
@@ -7580,6 +8175,11 @@ metallic oxides in an inclined rotating kiln---and there was no cement
 in the Roman _opus caementicium_ used to build the Pantheon or in any
 other building until the 1820s (box 4.19).
 
+
+
+
+
+
 ## Box 4.19 Rome's Pantheon {.featuretitle}
 
 The Roman _opus caementicium_ was a mixture of aggregates (sand, gravel,
@@ -7607,6 +8207,10 @@ as they converge on the central oculus but are built of progressively
 thinner layers of masonry using lighter aggregates, from travertine at
 the bottom to pumice at the top (MacDonald 1976). The entire dome weighs
 about 4,500 t.
+
+
+
+
 
 We know that massive architraves (such as those at the Parthenon,
 weighing almost 10 t) had to be lifted by a crane (and could be rolled
@@ -7692,7 +8296,11 @@ over often considerable distances from its smelting centers. For
 example, the total amount of lead for nine siphons in the Lyon water
 supply was about 15,000 t.
 
-## []{#c10752_004.xhtml#S6}[]{#c10752_004.xhtml#d2e1784}Metallurgy
+
+
+
+
+## Metallurgy
 
 The beginnings of all old high cultures are marked by the use of color
 (nonferrous) metals. Besides copper, early metallurgists also recognized
@@ -7723,7 +8331,9 @@ availability of wood, and later also the accessibility and reliability
 of water power resources needed to energize larger bellows and hammers,
 were thus the key determinants of metallurgical progress.
 
-### []{#c10752_004.xhtml#S6-1}[]{#c10752_004.xhtml#d2e1794}Nonferrous Metals
+
+
+### Nonferrous Metals
 
 Copper tools and weapons bridged the stone and the iron eras of human
 evolution. The first copper uses, datable to the sixth millennium BCE,
@@ -7780,6 +8390,11 @@ the late medieval metallurgical expertise (Agricola 1912 \[1556\];
 Biringuccio 1959 \[1540\]) describe copper smelting in ways that hardly
 differ from the Rio Tinto practices.
 
+
+
+
+
+
 ## Box 4.20 Fuelwood needs for Roman copper and silver smelting at Rio Tinto {.featuretitle}
 
 The first mapping of Rio Tinto's enormous slag heaps resulted in
@@ -7803,6 +8418,10 @@ Cyprus (starting around 2600 BCE) left behind more than 4 Mt of slag.
 Clearly, ancient smelting was a major cause of deforestation in the
 Mediterranean region, as well as in Transcaucasia and Afghanistan, and
 local wood shortages eventually limited the extent of smelting.
+
+
+
+
 
 From the very beginning of copper smelting some of the metal was
 incorporated into bronze, the first practical alloy, chosen by Christian
@@ -7840,7 +8459,10 @@ first uses of brass date to the first century BCE. The alloy became
 widely used in Europe only during the eleventh century, and became
 common only after 1500.
 
-### []{#c10752_004.xhtml#S6-2}[]{#c10752_004.xhtml#d2e1839}Iron and Steel
+
+
+
+### Iron and Steel
 
 The replacement of copper and bronze by iron proceeded slowly. Small
 iron objects were produced in Mesopotamia during the first half of the
@@ -7919,6 +8541,11 @@ before 1400. Blast furnaces produce cast, or pig, iron, an alloy with
 strength is no higher than copper's (and it can be up to 55% weaker) but
 it is two to three times harder (Oberg et al. 2012; box 4.21).
 
+
+
+
+
+
 ## Box 4.21 Tensile strength and hardness of common metals and alloys {.featuretitle}
 
 ```{=html}
@@ -7950,6 +8577,10 @@ _Source:_ Based on Oberg and co-workers (2012).
 ```{=html}
 </figure>
 ```
+
+
+
+
 
 The number of blast furnaces grew steadily during the sixteenth and
 seventeenth centuries. Perhaps the most notable improvement of that time
@@ -7989,6 +8620,11 @@ inevitably caused extensive deforestation around furnace sites. A
 typical early eighteenth-century English furnace needed about 1,600 ha
 of trees for a sustainable supply (box 4.22).
 
+
+
+
+
+
 ## Box 4.22 Fuel needs of an eighteenth-century English blast furnace {.featuretitle}
 
 Early eighteenth-century English blast furnaces worked only from October
@@ -8006,6 +8642,10 @@ Dean needed about 5,300 ha of coppice growth, while the smaller Wealden
 ironworks needed around 2,000 ha for each furnace-forge combination
 (Crossley 1990).
 
+
+
+
+
 The total national wood requirements of charcoal-based iron making can
 be fairly well estimated for England of the early 1700s, before the
 industry began to adopt coke-based smelting: a sustainable supply would
@@ -8016,6 +8656,11 @@ charcoal made from wood from its rich natural forests, but by the
 beginning of the twentieth century it would have been impossible, and
 only the use of coke allowed the country to become the world's larger
 producer of pig iron (box 4.23).
+
+
+
+
+
 
 ## Box 4.23 Energy needs in British and American iron production {.featuretitle}
 
@@ -8050,6 +8695,10 @@ equal to Missouri (or a third of France), represented by a square whose
 side would reach from Philadelphia to Boston or from Paris to Frankfurt.
 Obviously, even a forest-rich America could not afford to energize its
 iron ore smelting with charcoal.
+
+
+
+
 
 Not surprisingly, during the wooden era communities surrounded by
 traditional iron mills and forges found themselves in a desperate
@@ -8118,7 +8767,11 @@ swords, later by guns, iron cannonballs, and more reliable firearms.
 These trends were greatly accelerated with the introduction of
 coke-based iron smelting and the emergence of the steam engine.
 
-## []{#c10752_004.xhtml#S7}[]{#c10752_004.xhtml#d2e2042}Warfare
+
+
+
+
+## Warfare
 
 Armed conflicts have always had a formative role in history: they
 require the mobilization of energy resources (often on an extraordinary
@@ -8150,7 +8803,9 @@ this impact was limited by the clumsy designs of personal weapons
 (front- and breach-loading rifles), but gunpowder gained ever greater
 importance as the propellant of cannonballs.
 
-### []{#c10752_004.xhtml#S7-1}[]{#c10752_004.xhtml#d2e2052}Animate Energies
+
+
+### Animate Energies
 
 All prehistoric land warfare and all conflicts of ancient and early
 medieval eras were powered solely by human and animal muscles. Warriors
@@ -8181,6 +8836,11 @@ and even if well-rested and well-fed men were able to move swiftly, the
 army's progress was often limited by the speed of its supply train, made
 up of slow-moving animals.
 
+
+
+
+
+
 ## Box 4.24 Kinetic energy of swords and arrows {.featuretitle}
 
 Even heavy medieval swords weighed no more than 2 kg, usually less than
@@ -8198,6 +8858,10 @@ projectile's impact is basically punctiform and hence deeply
 penetrating: flint- or metal-tipped arrows could easily penetrate a coat
 of mail when shot from distances of up to 40--50 m and, when well aimed,
 could kill unprotected men from more than 200 m away.
+
+
+
+
 
 The two most powerful military machines of antiquity and the early
 Middle Ages relied on the mechanical advantage of levers. Catapults were
@@ -8279,6 +8943,11 @@ Napoleon's armies for their invasion of Russia in 1812 (box 4.25).
 Without oxen---44,000 of them---pulling the supply wagons, the army
 could not have advanced.
 
+
+
+
+
+
 ## Box 4.25 Prussian supplies and animals for the Russian invasion {.featuretitle}
 
 Opening the road to Russia to Napoleon: that is how Philip Paul, comte
@@ -8295,6 +8964,10 @@ Prussian contribution:
 > each carrying a load of fifteen hundred weight; and finally, hospitals
 > provided with everything necessary for twenty thousand sick. (Ségur
 > 1825, 17)
+
+
+
+
 
 Western armed conflicts fought after 1840 would use the first modern
 inanimate prime mover, the steam engine, to mobilize troops and animals
@@ -8324,7 +8997,10 @@ Square, Moscow, on November 7, 1941, a week before the start of the
 German offensive to reach Moscow
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_004_fig_027.jpg)
 
-### []{#c10752_004.xhtml#S7-2}[]{#c10752_004.xhtml#d2e2142}Explosives and Guns
+
+
+
+### Explosives and Guns
 
 The only inanimate energies used in the pregunpowder warfare were
 incendiary materials prepared by combining sulfur, asphalt, petroleum,
@@ -8405,6 +9081,8 @@ were not surpassed until the middle of the nineteenth century with the
 introduction of nitrocellulose-based powders (during the 1860s) and
 dynamite (patented by Alfred Nobel in 1867).
 
+
+
 []{#c10752_005.xhtml}
 
 # 5 Fossil Fuels, Primary Electricity, and Renewables
@@ -8447,7 +9125,14 @@ for hard coals. This origin dictates their high carbon content, which,
 combined with the low content of water and incombustible impurities,
 translates into high energy densities (box 5.1)
 
-## []{#c10752_005.xhtml#S1}[]{#c10752_005.xhtml#d2e93}
+
+
+## 
+
+
+
+
+
 
 ## Box 5.1 Fossil fuels {.featuretitle}
 
@@ -8508,6 +9193,10 @@ Coals
 </figure>
 ```
 
+
+
+
+
 But only a small fraction of initially sedimented biomass carbon was
 transformed into fossil fuels (Dukes 2003). During the formation of coal
 up to 15% of plant carbon ended up as peat, up to 90% of that could be
@@ -8564,7 +9253,10 @@ movers; in the second part I trace important technical innovations that
 have combined to create the efficiency, reliability, and affordability
 characteristic of modern high-energy societies.
 
-## []{#c10752_005.xhtml#S2}[]{#c10752_005.xhtml#d2e204}The Great Transition
+
+
+
+## The Great Transition
 
 In some countries fossil fuels were used, though in relatively small
 quantities, for centuries before the beginning of a rapid displacement
@@ -8625,7 +9317,9 @@ harvests of phytomass fuels and the deployment of animate energies
 entered a new era of diversifying fossil fuel supply and the mass-scale
 deployment of mechanical prime movers.
 
-### []{#c10752_005.xhtml#S2-1}[]{#c10752_005.xhtml#d2e228}The Beginnings and Diffusion of Coal Extraction
+
+
+### The Beginnings and Diffusion of Coal Extraction
 
 The beginnings of coal utilization go back to antiquity, when the most
 important use of the fuel was by the Han dynasty Chinese in iron
@@ -8678,6 +9372,11 @@ accurate appraisal of actual physical exertion (box 5.2).
 Scottish mine in the early nineteenth century
 (Corbis).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_001.jpg)
 
+
+
+
+
+
 ## Box 5.2 _An Inquiry Into the Condition of the Women Who Carry Coals Under Ground in Scotland, Known by the Name of BEARERS_ {.featuretitle}
 
 This was the title of the addition to _A General View of the Coal Trade
@@ -8710,6 +9409,10 @@ only rarely can it be exceeded (Smil 2008a). Clearly, the bearers were
 operating, day after day, many for years---they entered this work when
 seven years old, and frequently continued till they were upward of
 50---near the maximum of human capacity.
+
+
+
+
 
 Bald's vivid description is also a perfect illustration of a fundamental
 fact of energetics, an impressive example of how every transition to a
@@ -8811,7 +9514,10 @@ a result, it was only in 1965 that biomass fuels began to supply less
 than half of China's primary energy; by 1983 their share had fallen
 below 25% and by 2006 below 10% (Smil 2010a).
 
-### []{#c10752_005.xhtml#S2-2}[]{#c10752_005.xhtml#d2e303}From Charcoal to Coke
+
+
+
+### From Charcoal to Coke
 
 The replacement of charcoal by metallurgical coke in pig (or cast) iron
 smelting belongs undoubtedly to the greatest technical innovations of
@@ -8869,7 +9575,10 @@ about 800,000 t in 1750 to about 30 Mt in 1900, laying the foundation
 for the post-1860 development of the modern steel industry and providing
 the key metal of industrialization (Smil 2016).
 
-### []{#c10752_005.xhtml#S2-3}[]{#c10752_005.xhtml#d2e337}Steam Engines
+
+
+
+### Steam Engines
 
 Steam engine was the first new prime mover successfully introduced since
 the adoption of windmills, which preceded it by more than 800 years. The
@@ -8959,6 +9668,11 @@ Lessening the Consumption of Steam and Fuel in Fire Engines_ (Watt 1855
 systematic listing of improvements makes it clear how the new machine
 differed from its predecessors (box 5.3).
 
+
+
+
+
+
 ## Box 5.3 Watt's 1769 patent {.featuretitle}
 
 This is how Watt explained his improved design:
@@ -8982,6 +9696,10 @@ This is how Watt explained his improved design:
 > cold of the condenser, and may impede the working of the engine, is to
 > be drawn out of the steam vessells or condensers, by means of pumps
 > wrought by the engines themselves, or otherwise. (Watt 1855 \[1769\], 2)
+
+
+
+
 
 A separate condenser was clearly the most important innovation ([fig.
 5.2](#c10752_005.xhtml#fig_002)). Later Watt also introduced a
@@ -9024,6 +9742,11 @@ discouraged William Murdoch (1754--1839), the principal erector of their
 engines, from developing such a machine, and when Murdoch persisted,
 Boulton persuaded him not to file a patent (box 5.4)
 
+
+
+
+
+
 ## Box 5.4 Watt and Boulton delay the development of a steam carriage {.featuretitle}
 
 In 1777, when he was 23 years old, William Murdoch walked nearly 500 km
@@ -9051,6 +9774,10 @@ Watt:
 > disorder or turn evil to good. At least I shall prevent a mischief
 > that would have been the consequence of his journey to London.
 > (Griffiths 1992, 161)
+
+
+
+
 
 But perhaps that made no difference for the future development of
 steam-powered transportation because even the best conceivable road
@@ -9205,6 +9932,11 @@ inefficient: by 1900 the typical steam locomotive wasted 92% of coal fed
 into its boiler. And they remained heavy, limiting mobile uses beyond
 water and rails where it was easier to support their mass (box 5.5)
 
+
+
+
+
+
 ## Box 5.5 Mass/power ratio of steam engines and a _Megatherium_ {.featuretitle}
 
 A medium-heavy horse weighing 750 kg and delivering one horsepower (745
@@ -9234,6 +9966,10 @@ The massive Greenwich machines were nearly as high (14.5 m) as they were
 wide---while a Parsons's generator of the same power would be only 3.35
 m wide and 4.45 m high.
 
+
+
+
+
 When steam engines reached their highest efficiency, greatest power, and
 the lowest mass/power ratio, these were not achievements paving the way
 for further dominance: despite its impressive improvements and its
@@ -9251,7 +9987,10 @@ had higher energy density than coal, were cleaner to burn, and were
 easier to move and store, a combination that still makes them the best
 fuel choice for transportation.
 
-### []{#c10752_005.xhtml#S2-4}[]{#c10752_005.xhtml#d2e538}Oil and Internal Combustion Engines
+
+
+
+### Oil and Internal Combustion Engines
 
 The beginnings of large-scale crude oil extraction and utilization were
 concentrated in just a few decades of the late nineteenth century. Of
@@ -9433,6 +10172,11 @@ road vehicles, and as the new century began, the leading German
 manufacturer designed the first essentially modern car (box 5.6,
 []{#c10752_005.xhtml#fig_007a}[fig. 5.7](#c10752_005.xhtml#fig_007)).
 
+
+
+
+
+
 ## Box 5.6 The first modern car {.featuretitle}
 
 The car was a German invention, but a French engineer, Emile Levassor
@@ -9463,6 +10207,10 @@ g/W, 70% lower than in the best DMG engine made in 1895. The new car
 soon set the world speed record (64.4 km/h), and an even more powerful
 Mercedes 60, with fancier bodywork, followed in 1903, the beginning of a
 marquee that has lost little of its appeal 125 years later.
+
+
+
+
 
 ![[]{#c10752_005.xhtml#fig_007}[[Figure
 5.7](#c10752_005.xhtml#fig_007a)]{.figureLabel} The Mercedes 35,
@@ -9515,6 +10263,11 @@ shapes and with experimental glider flights. Their first flights, on
 December 17, 1903, are well documented (box 5.7,
 []{#c10752_005.xhtml#fig_008a}[fig. 5.8](#c10752_005.xhtml#fig_008)).
 
+
+
+
+
+
 ## Box 5.7 The first flights {.featuretitle}
 
 Nine days after Manly's second dunking, the Wright brothers were ready
@@ -9538,6 +10291,10 @@ father, Reverend Milton Wright: "Success four flights Thursday morning
 all against twenty one mile wind started from Level with engine power
 alone average speed through air thirty one miles longest 57 second
 inform Press home Christmas" (World Digital Library 2014).
+
+
+
+
 
 ![[]{#c10752_005.xhtml#fig_008}[[Figure
 5.8](#c10752_005.xhtml#fig_008a)]{.figureLabel} The first flight of a
@@ -9602,6 +10359,11 @@ largely realized, but his initial hopes for the machine's social impact
 were completely misplaced---yet another instance of the unintended
 consequences of a technical advance (box 5.8).
 
+
+
+
+
+
 ## Box 5.8 Diesel's engine: The intent and the outcome {.featuretitle}
 
 Diesel's ambition was to produce a light, small (about the size of a
@@ -9636,6 +10398,10 @@ vision, an unprecedented concentration of mass-scale manufacturing and
 the inexpensive distribution of its products in a new global economy
 (Smil 2010b).
 
+
+
+
+
 Commercialization of the new engine was slower than initially
 anticipated, with fewer than 300 units sold by the end of 1901 (Smil
 2010b). In 1903 the first diesel-powered vessel, the small oil tanker
@@ -9660,7 +10426,10 @@ the steam turbine, soon deployed as a superior prime mover to rotate
 generators producing electricity in increasingly larger central
 stations.
 
-### []{#c10752_005.xhtml#S2-5}[]{#c10752_005.xhtml#d2e738}Electricity
+
+
+
+### Electricity
 
 A systematic understanding of the fundamental properties and laws of
 electricity was gained through the labors of many European and American
@@ -9692,6 +10461,11 @@ the answer he discovered (box 5.9).
 5.9](#c10752_005.xhtml#fig_009a)]{.figureLabel} Michael Faraday.
 Wellcome Library, London,
 photograph.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_005_fig_009.jpg)
+
+
+
+
+
 
 ## Box 5.9 Faraday's discovery of electromagnetic induction {.featuretitle}
 
@@ -9732,6 +10506,10 @@ described them in _Experimental Researches in Electricity_ (Faraday
 > direction to the inducing current. As the wires receded, the induced
 > current was in the same direction as the inducing current. When the
 > wires remained stationary, there was no induced current.
+
+
+
+
 
 Faraday's demonstration that mechanical energy can be converted into
 electricity (to generate alternating current) and vice versa opened the
@@ -9810,6 +10588,11 @@ the determination and organizational talent to make the whole work (box
 5.10, []{#c10752_005.xhtml#fig_010a}[fig.
 5.10](#c10752_005.xhtml#fig_010)).
 
+
+
+
+
+
 ## Box 5.10 Edison's electrical system {.featuretitle}
 
 The first durable electric lamp, demonstrated by Joseph Swan in
@@ -9850,6 +10633,10 @@ components." But Friedel and Israel (1986, 227) concluded that "the
 completeness of that system was more the product of opportunities
 afforded by technical accomplishments and financial resources than the
 outcome of a purposeful systems approach."
+
+
+
+
 
 ![[]{#c10752_005.xhtml#fig_010}[[Figure
 5.10](#c10752_005.xhtml#fig_010a)]{.figureLabel} Thomas A. Edison in
@@ -9969,6 +10756,11 @@ serving limited local areas---and either option would have been very
 expensive. Transformers of AC provided an inexpensive and reliable
 solution (box 5.11)
 
+
+
+
+
+
 ## Box 5.11 Transforming electricity and transmission losses {.featuretitle}
 
 Electricity is most efficiently generated and most conveniently
@@ -9992,6 +10784,10 @@ requirements, transmission tower sizes), though high-voltage (HV) and
 extra-high-voltage (EHV) transmission are now done routinely at
 240,000--750,000 V (240--750 kV), with losses limited usually to less
 than 7% of the transmitted electricity.
+
+
+
+
 
 As already noted, transformers work by electromagnetic induction, a
 process discovered by Faraday, and their development was not the result
@@ -10117,7 +10913,11 @@ wire. The conquest of the market by three-phase motors was rapidly
 creating, as I explain in the next section, a major transformation of
 manufacturing.
 
-## []{#c10752_005.xhtml#S3}[]{#c10752_005.xhtml#d2e955}Technical Innovations
+
+
+
+
+## Technical Innovations
 
 The great transition from phytomass fuels to fossil fuels and from
 animate to mechanical prime movers brought unprecedented changes, both
@@ -10285,7 +11085,9 @@ additions, but their inherent intermittency and their low-capacity
 factors pose nontrivial problems in integrating them into existing
 grids.
 
-### []{#c10752_005.xhtml#S3-1}[]{#c10752_005.xhtml#d2e1012}Coals
+
+
+### Coals
 
 The two universal trends in coal production have been the growing
 mechanization of underground extraction and the rising share of surface
@@ -10375,6 +11177,11 @@ coal output was surpassed by the Chinese production in 1985, and coal
 has been by far the most important energizer of China's extraordinary
 economic growth (USEIA 2015b; box 5.12).
 
+
+
+
+
+
 ## Box 5.12 Chinese coal production {.featuretitle}
 
 Once the Chinese Communist Party established a new regime on October 1,
@@ -10410,6 +11217,10 @@ levels of air pollution, with levels of small particulate matter (\<2.5
 μm) repeatedly reaching an order of magnitude above the desirable maxima
 (Smil 2013b).
 
+
+
+
+
 Until 1983 the USSR was a larger coal producer than the United States,
 but after the state collapsed, Russian coal extraction declined as
 natural gas and crude oil filled the need. India is now the third
@@ -10431,7 +11242,10 @@ any rapid abandonment of the fuel, but in longer run, coal may be the
 first major energy resource whose extraction, despite of its still very
 abundant resources, will be limited because of environmental concerns.
 
-### []{#c10752_005.xhtml#S3-2}[]{#c10752_005.xhtml#d2e1078}Hydrocarbons
+
+
+
+### Hydrocarbons
 
 At the beginning of the twentieth century oil was produced in quantity
 in just a handful of countries, and the fuel provided just 3% of all
@@ -10525,6 +11339,11 @@ distance between its origin and the final user has become only a minor
 economic consideration and as annual intercontinental crude oil sales
 surpass 2 Gt (box 5.13).
 
+
+
+
+
+
 ## Box 5.13 Giant oil tankers {.featuretitle}
 
 The first tanker, the British-built German _Glückauf,_ launched in 1886,
@@ -10551,6 +11370,10 @@ largest tanker, the _Seawise Giant_, was built in 1979, enlarged to
 and used as a floating storage and offloading unit off Qatar
 (2004--2009), then sold to Indian ship-breakers and renamed _Mont_ for
 its final journey to Alang in Gujarat (Konrad 2010).
+
+
+
+
 
 The single most important advance in refining was catalytic cracking of
 crude oil. Thermal cracking was the norm until 1936, when Eugène Houdry
@@ -10657,7 +11480,10 @@ of LNG, perhaps even as a future rival of Qatar, a small, rich country
 selling LNG from the world's largest gas field in the Persian Gulf (Smil
 2015a).
 
-### []{#c10752_005.xhtml#S3-3}[]{#c10752_005.xhtml#d2e1188}Electricity
+
+
+
+### Electricity
 
 Advancing electrification has required exponential increases in the
 ratings of all system components. The earliest, relatively small boilers
@@ -10723,6 +11549,11 @@ by increased reliability of the service, a particularly important
 consideration in a world full of electronic devices and controls (box
 5.14)
 
+
+
+
+
+
 ## Box 5.14 Reliability of electricity supply {.featuretitle}
 
 The reliability of the electricity supply is often expressed in terms of
@@ -10751,6 +11582,10 @@ and between 2003 and 2011 the nationwide U.S. loss ranged between \$18
 and \$75 billion (in 2008, with Hurricane Ike) (Executive Office of the
 President 2013). And electrical grids are the prime candidates for
 cyber-attacks by terrorist groups or adversary governments.
+
+
+
+
 
 Nuclear fission's arrival as the other major way to raise steam for
 thermal electricity generation was accelerated by World War II. The
@@ -10812,7 +11647,10 @@ reactors under construction 25 were in China, nine in Russia, and six in
 India (WNA 2015b). The West has essentially given up on this clean,
 carbon-free way of electricity generation.
 
-### []{#c10752_005.xhtml#S3-4}[]{#c10752_005.xhtml#d2e1251}Renewable Energies
+
+
+
+### Renewable Energies
 
 A rising dependence on fossil fuels has made biofuels relatively much
 less important, but because of the rapid growth of populations in rural
@@ -10991,7 +11829,10 @@ away from fossil fuels will be a protracted process, and we will have to
 wait to see how different conversions will evolve to claim key roles in
 a new energy world.
 
-### []{#c10752_005.xhtml#S3-5}[]{#c10752_005.xhtml#d2e1314}Prime Movers in Transportation
+
+
+
+### Prime Movers in Transportation
 
 In light of the importance of mobility of both people and goods in
 modern civilization, the final section of my survey of technical
@@ -11153,6 +11994,8 @@ combined thrust reached nearly 36 MN, an equivalent of about 2.6 GW and
 a mass/power ratio (including the weight of the fuel and three booster
 rockets) of just 0.001 g/W (Tate 2009).
 
+
+
 []{#c10752_006.xhtml}
 
 # 6 Fossil-Fueled Civilization
@@ -11224,7 +12067,9 @@ economic growth and expectations that this process, fed by incessant
 innovation, need not end anytime soon---but its continuation is by no
 means certain.
 
-## []{#c10752_006.xhtml#S1}[]{#c10752_006.xhtml#d2e97}Unprecedented Power and Its Uses
+
+
+## Unprecedented Power and Its Uses
 
 Even though interrupted by two world wars and the world's worst economic
 crisis during the 1930s, the growth of global energy proceeded at
@@ -11286,6 +12131,11 @@ in a key consumption sector, household heating, entire populations have
 experienced a complete efficiency transition just in a matter of a few
 decades (box 6.1).
 
+
+
+
+
+
 ## Box 6.1 Efficiency of household heating {.featuretitle}
 
 In less than 50 years I have lived in homes heated by four different
@@ -11306,6 +12156,10 @@ in a furnace with no more than 60% efficiency. Our first Canadian house
 had a natural gas furnace rated at 65%, and when I designed a new
 super-efficient home, I installed a natural gas furnace rated at
 94%---and have since replaced it with one rated at 97%.
+
+
+
+
 
 While the total supply of all fossil energies was up 14-fold during the
 twentieth century, the steady progress of efficiencies supplied more
@@ -11497,7 +12351,9 @@ disproportionately to a minority of the world's population, and will
 also note considerable intranational inequities. Even so, there have
 been many universal improvements.
 
-### []{#c10752_006.xhtml#S1-1}[]{#c10752_006.xhtml#d2e243}Energy in Agriculture
+
+
+### Energy in Agriculture
 
 Fossil fuels and electricity have become indispensable inputs in modern
 farming. They are used directly to power machines and indirectly to
@@ -11607,6 +12463,11 @@ of about 100 Mt N by the year 2000, accounting for about 80% of the
 compound's total synthesis (box 6.2, []{#c10752_006.xhtml#fig_006a}[fig.
 6.6](#c10752_006.xhtml#fig_006)).
 
+
+
+
+
+
 ## Box 6.2 Energy costs of nitrogenous fertilizers {.featuretitle}
 
 The energy requirements of the Haber-Bosch synthesis include fuels and
@@ -11634,6 +12495,10 @@ cost to 55 GJ/t N. Using this rate as the global average means that in
 2015, with about 115 Mt N used in agriculture, the synthesis of
 nitrogenous fertilizers claimed about 6.3 EJ of energy, or just over 1%
 of the global energy supply (Smil 2014b).
+
+
+
+
 
 ![[]{#c10752_006.xhtml#fig_006}[[Figure
 6.6](#c10752_006.xhtml#fig_006a)]{.figureLabel} An exponential increase
@@ -11751,7 +12616,10 @@ countries. Most notably, the energy content of China's average per
 capita diet is now, at about 3,000 kcal/day, about 10% ahead of the
 Japanese mean (FAO 2015a).
 
-### []{#c10752_006.xhtml#S1-2}[]{#c10752_006.xhtml#d2e358}Industrialization
+
+
+
+### Industrialization
 
 Critical ingredients of the industrialization process include a large
 number of interconnected changes (Blumer 1990), and this has been true
@@ -11917,6 +12785,11 @@ Scientific Management_ (Taylor 1911); a century later its lessons
 continue to guide some of the world's most successful makers of consumer
 products (box 6.3).
 
+
+
+
+
+
 ## Box 6.3 From experiments with steel cutting to Japan's car exports {.featuretitle}
 
 Frederick Winslow Taylor's main concern was with wasted labor, that is,
@@ -11945,6 +12818,10 @@ system---an alliterative trio of _muda mura muri_ (reducing
 non-value-adding activities, an uneven pace of production, and an
 excessive workload)---is nothing but pure Taylorism (Ohno 1988; Smil
 2006).
+
+
+
+
 
 A radically new period of industrialization came when steam engines were
 eclipsed by electrification. Electricity is a superior form of energy,
@@ -12066,6 +12943,11 @@ have been impossible without the much larger and more efficient blast
 furnaces (box 6.4, []{#c10752_006.xhtml#fig_009a}[fig.
 6.9](#c10752_006.xhtml#fig_009)).
 
+
+
+
+
+
 ## Box 6.4 Growth and mass and energy balances of blast furnaces {.featuretitle}
 
 Few production structures with a medieval pedigree remain as important
@@ -12095,6 +12977,10 @@ rates were about 370 kg/t in Japan and less than 340 kg/t in Germany
 (Lüngen 2013). The energy cost of coke-fueled iron smelting thus fell
 from about 275 GJ/t in 1750 to about 55 GJ/t in 1900, close to 30 GJ/t
 in 1950, and between 12 and 15 GJ/t by 2010.
+
+
+
+
 
 ![[]{#c10752_006.xhtml#fig_009}[[Figure
 6.9](#c10752_006.xhtml#fig_009a)]{.figureLabel} Changing designs of
@@ -12177,6 +13063,11 @@ manufacturing sector, to 44--50% in Germany, France, and the UK, and to
 different from their predecessors, they are actually very different
 hybrids (box 6.5).
 
+
+
+
+
+
 ## Box 6.5 Cars as mechatronic machines {.featuretitle}
 
 There is no better example of the fusion of mechanical and electronic
@@ -12207,6 +13098,10 @@ a vehicle. The trend has been clear, but completely autonomous,
 self-driving vehicles are not coming as soon as many uncritical
 observers believe.
 
+
+
+
+
 Cars are just one prominent example of an industry that now finds
 research, design, marketing, and servicing no less important than the
 actual production of goods. Even if a specific embedded energy use (per
@@ -12219,7 +13114,10 @@ This trend has major implications both for future energy use and for the
 structure of labor force, but not necessarily in any simple,
 unidirectional way (for more on this topic, see chapter 7).
 
-### []{#c10752_006.xhtml#S1-3}[]{#c10752_006.xhtml#d2e564}Transportation
+
+
+
+### Transportation
 
 Several attributes apply to all forms of fossil-fueled, or electrified,
 transport. In contrast to traditional ways of moving people and goods
@@ -12363,6 +13261,11 @@ Other notable models were the Austin Seven, the Morris Minor, the
 Citroen 2CV, the Renault 4CV, the Fiat Topolino, and, the most popular
 of them all, Ferdinand Porsche's Hitler-inspired Volkswagen (box 6.6).
 
+
+
+
+
+
 ## Box 6.6 Volkswagen and other durable models {.featuretitle}
 
 In terms of the aggregate production, size, and longevity (though with
@@ -12399,6 +13302,10 @@ was made between 1936 and 1955, and the British Morris Minor was made
 between 1948 and 1971. All these models were eclipsed in popularity by
 Japanese designs: after relatively small exports during the 1960s and
 1970s they became the global bestsellers during the 1980s.
+
+
+
+
 
 Freedom of personal travel has had enormous effects on both residential
 and professional mobility. These benefits have proved to be highly
@@ -12514,6 +13421,11 @@ Plotted from data in Taylor (1989) and Gunston (2002) and from technical
 specifications on the Boeing corporate
 website.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_013.jpg)
 
+
+
+
+
+
 ## Box 6.7 Boeing and Airbus {.featuretitle}
 
 Boeing is an old U.S. company---established by William E. Boeing
@@ -12551,6 +13463,10 @@ Corporation of China, and Japan's Mitsubishi, are entering the lucrative
 market for narrow-body planes that is now served by the Boeing 737 and
 the Airbus A319/320.
 
+
+
+
+
 The speed and range of these planes, the proliferation of airlines and
 flights, and the nearly universal linking of reservation systems have
 made it possible to travel among virtually all major cities of the
@@ -12568,7 +13484,10 @@ beaches. They also opened up new possibilities for unprecedented migrant
 and refugee movements, for widespread drug smuggling, and for
 international terrorism involving aircraft hijacking.
 
-### []{#c10752_006.xhtml#S1-4}[]{#c10752_006.xhtml#d2e736}Information and Communication
+
+
+
+### Information and Communication
 
 From their very conception, fossil-fueled societies have produced,
 stored, distributed, and used incomparably larger amounts of information
@@ -12729,6 +13648,11 @@ invented miniaturized circuits integrated into the body of semiconductor
 material (Noyce 1961; Kilby 1964). Noyce's design of a planar transistor
 opened the new era of solid-state electronics (box 6.8).
 
+
+
+
+
+
 ## Box 6.8 Invention of integrated circuits {.featuretitle}
 
 When working as the director of research at Fairchild Semiconductors in
@@ -12760,6 +13684,10 @@ arrangements with both of them. In principle, Kilby's and Noyce's ideas
 were identical, but Noyce died of a heart attack in 1990, whereas Kilby
 lived long enough to share a Nobel Prize for Physics in the year 2000
 "for his part in the invention of the integrated circuit."
+
+
+
+
 
 The U.S. military was the first customer for integrated circuits. In
 1965, when the number of transistors on a microchip had doubled to 64
@@ -12869,6 +13797,11 @@ dependent on an incessant and highly reliable electricity supply to
 energize the requisite infrastructures, ranging from data centers to
 cell towers (box 6.9).
 
+
+
+
+
+
 ## Box 6.9 Energy embodied in mobile phones and cars {.featuretitle}
 
 Even a compact car weighs 10,000 times as much as a smart phone (1.4 t
@@ -12902,6 +13835,10 @@ communications networks is rising: it claimed nearly 5% of worldwide
 electricity generation in 2012 and will approach 10% by 2020 (Lannoo
 2013).
 
+
+
+
+
 Of special note is the enormous progress that has been made since the
 1960s in designing and deploying a wide range of diagnostic, measuring,
 and remote sensing techniques. These advances yielded a previously
@@ -12915,7 +13852,10 @@ satellite-based sensors acquiring data in various bands of the
 electromagnetic spectrum and enabling much improved weather forecasting
 and natural resource management.
 
-### []{#c10752_006.xhtml#S1-5}[]{#c10752_006.xhtml#d2e886}Economic Growth
+
+
+
+### Economic Growth
 
 To talk about energy _and_ the economy is a tautology: every economic
 activity is fundamentally nothing but a conversion of one kind of energy
@@ -13071,6 +14011,11 @@ have a significantly lower energy intensity (energy per unit of GDP)
 than they had during earlier stages of their development (box 6.10,
 []{#c10752_006.xhtml#fig_017a}[fig. 6.17](#c10752_006.xhtml#fig_017)).
 
+
+
+
+
+
 ## Box 6.10 Declining energy intensity of economic growth {.featuretitle}
 
 Historical statistics show a steady decline in the British energy
@@ -13110,6 +14055,10 @@ Interestingly, Kaufmann (1992) showed that most of the post-1950 decline
 in energy intensity in affluent economies resulted from shifts in the
 kind of energies used and the type of dominant goods and services rather
 than from technical advances.
+
+
+
+
 
 ![[]{#c10752_006.xhtml#fig_017}[[Figure
 6.17](#c10752_006.xhtml#fig_017a)]{.figureLabel} A declining energy
@@ -13164,7 +14113,11 @@ difference without the rising consumption of fuels and electricity: a
 decoupling of economic growth and energy consumption during early stages
 of modern economic development would defy the laws of thermodynamics.
 
-## []{#c10752_006.xhtml#S2}[]{#c10752_006.xhtml#d2e975}Consequences and Concerns
+
+
+
+
+## Consequences and Concerns
 
 The negative consequences of high energy use by modern societies range
 from obvious physical manifestations to gradual changes whose
@@ -13217,7 +14170,9 @@ combustion of fossil fuels has brought many negative environmental
 impacts, above all the risk of rapid global warming, and it will be very
 challenging to mitigate this threat.
 
-### []{#c10752_006.xhtml#S2-1}[]{#c10752_006.xhtml#d2e991}Urbanization
+
+
+### Urbanization
 
 Cities, even large cities, have a long history (Mumford 1961; Chandler
 1987). Rome of the first century CE housed more than half a million
@@ -13233,6 +14188,11 @@ societies could support only a small number of large cities because
 their energies had to come from croplands and woodlands that were at
 least 50 times and commonly about 100 times larger than the size of the
 settlement itself (box 6.11).
+
+
+
+
+
 
 ## Box 6.11 Power densities of traditional urban energy supply and use {.featuretitle}
 
@@ -13260,6 +14220,10 @@ own size---and the absence of powerful and inexpensive prime movers
 limited the capacity to transport food and fuel from distant regions,
 putting pressure on the plant resources of the surrounding areas (Smil
 2015b).
+
+
+
+
 
 Modern cities use fuels with much higher efficiency, but their high
 concentrations of housing, factories, and transport push their power
@@ -13379,7 +14343,10 @@ moved to one of Asia's new growing cities can be easily an order of
 magnitude higher than the meager amounts of biomass fuels used in the
 village of her birth to cook and (if need be) to heat a room.
 
-### []{#c10752_006.xhtml#S2-2}[]{#c10752_006.xhtml#d2e1061}Quality of Life
+
+
+
+### Quality of Life
 
 Rising energy consumption has been exerting usually gradual (but in some
 instances, as in post-1990 China, fairly abrupt) and largely desirable
@@ -13548,6 +14515,11 @@ eventual liberator. Regardless of the availability of other energy
 forms, it was only the introduction of electricity that did away with
 exhausting and often dangerous labor (Caro 1982; box 6.12).
 
+
+
+
+
+
 ## Box 6.12 Importance of electricity for easing housework {.featuretitle}
 
 The liberating effects of electricity are unforgettably illustrated in
@@ -13567,6 +14539,10 @@ nearly 300 t/year, and to supply them required an equivalent of more
 than 60 eight-hour days and walking about 2,500 km. Not surprisingly,
 nothing could have been as revolutionary in the life of these people as
 the extension of transmission lines.
+
+
+
+
 
 Many electric appliances were available already by 1900: during the
 1890s General Electric was selling electric irons, fans, and an
@@ -13692,7 +14668,10 @@ rankings are clear: there is not the slightest indication that America's
 high energy use has any beneficial effect on the country's educational
 achievements.
 
-### []{#c10752_006.xhtml#S2-3}[]{#c10752_006.xhtml#d2e1180}Political Implications
+
+
+
+### Political Implications
 
 The dependence of modern societies on incessant, reliable, and
 inexpensive supplies of fossil fuels and electricity (delivered at
@@ -13853,7 +14832,10 @@ involvement in building dams and electrifying the countryside as a means
 of economic recovery, some of it in the country's most backward regions
 (Lilienthal 1944).
 
-### []{#c10752_006.xhtml#S2-4}[]{#c10752_006.xhtml#d2e1221}Weapons and Wars
+
+
+
+### Weapons and Wars
 
 Weapons production has become a leading industrial activity, one now
 heavily supported by advanced research, and all major economies have
@@ -13898,6 +14880,11 @@ half a dozen specific weapons are shown in box 6.13: the values for gun
 shells are only the kinetic energies of projectiles and exclude the
 energies of the explosives they may or may not carry.
 
+
+
+
+
+
 ## Box 6.13 Kinetic energy of projectiles propelled by explosives {.featuretitle}
 
 ```{=html}
@@ -13926,6 +14913,10 @@ M1A1 Abrams tank Depleted U shell 6 × 10^6^
 ```{=html}
 </figure>
 ```
+
+
+
+
 
 Rockets and missiles, propelled by solid or liquid fuels, cause most of
 their damage by targeted explosion of their warheads, not by their
@@ -13983,6 +14974,11 @@ NH~4~NO~3~ (as an oxidizing agent) and 6% of fuel oil, both readily
 available ingredients whose effect is the result of the mass of the
 explosive used, not of any extraordinary detonation velocity (box 6.14).
 
+
+
+
+
+
 ## Box 6.14 Kinetic energy of explosive devices {.featuretitle}
 
 ```{=html}
@@ -14009,6 +15005,10 @@ Truck bomb (500 kg) ANFO 2 × 10^9^
 ```{=html}
 </figure>
 ```
+
+
+
+
 
 The combination of better propellants and high-quality steels increased
 the range of field and naval guns from less than 2 km during the 1860s
@@ -14068,6 +15068,11 @@ explosive energy of 3.8 GJ. But the greatest damage was done by dropping
 incendiary bombs on Tokyo on March 9--10, 1945 (box 6.15,
 []{#c10752_006.xhtml#fig_021a}[fig. 6.21](#c10752_006.xhtml#fig_021)).
 
+
+
+
+
+
 ## Box 6.15 Firebombing of Tokyo, March 9--10, 1945 {.featuretitle}
 
 The raid, the largest of its kind ever, involved 334 B-29 bombers that
@@ -14091,6 +15096,10 @@ magnitude (300 times) larger than the energy of incendiary bombs. The
 destroyed area amounted to about 4,100 ha, and at least 100,000 people
 died. For comparison, the totally destroyed area in Hiroshima was about
 800 ha, and the best estimate of immediate deaths was 66,000.
+
+
+
+
 
 ![[]{#c10752_006.xhtml#fig_021}[[Figure
 6.21](#c10752_006.xhtml#fig_021a)]{.figureLabel} Aftermath of Tokyo
@@ -14124,6 +15133,11 @@ magnitudes of energy release I do not use scientific notation
 (exponents) in the staggering ladder of maximum destructivity of
 explosive weapons (box 6.16).
 
+
+
+
+
+
 ## Box 6.16 Maximum energy of explosive weapons {.featuretitle}
 
 ```{=html}
@@ -14152,6 +15166,10 @@ Year Weapon Energy (J)
 ```{=html}
 </figure>
 ```
+
+
+
+
 
 The two nuclear superpowers eventually amassed about 5,000 strategic
 nuclear warheads (and an arsenal of more than 15,000 other nuclear
@@ -14243,6 +15261,11 @@ increasing destructiveness of weapons and the more concentrated delivery
 of explosives can be illustrated by comparing both discrete events and
 overall conflict casualties (box 6.17).
 
+
+
+
+
+
 ## Box 6.17 Casualties of modern wars {.featuretitle}
 
 Combat casualties during the Battle of the Somme (July--November 19, 1916) totaled 1.043 million. Those during the Battle of Stalingrad
@@ -14266,6 +15289,10 @@ bombers, which leveled about 83 km^2^ of Japan's four principal cities
 between March 10 and 20, 1945. The effects of the firebombing of Tokyo
 and of the nuclear attack on Hiroshima have already been described (see
 box 6.15).
+
+
+
+
 
 Calculating the energy cost of major armed conflicts requires important
 arbitrary delimitations of what should be included in such totals. After
@@ -14446,7 +15473,10 @@ conclusion is clear: broader strategic aims, whether well justified or
 misplaced, and not a quest for resources have led America into its
 post--World War II conflicts.
 
-### []{#c10752_006.xhtml#S2-5}[]{#c10752_006.xhtml#d2e1676}Environmental Changes
+
+
+
+### Environmental Changes
 
 The provision and the use of fossil fuels and electricity are the
 largest causes of anthropogenic pollution of the atmosphere and
@@ -14553,6 +15583,11 @@ forcing (box 6.18).
 measured at Mauna Loa Observatory in Hawaii (NOAA
 2015).](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_006_fig_022.jpg)
 
+
+
+
+
+
 ## Box 6.18 Greenhouse gases and rising tropospheric temperature {.featuretitle}
 
 In 2014 the global rate of anthropogenic radiative forcing (capacity of
@@ -14589,6 +15624,10 @@ international cooperation. Unintentionally, this worrisome challenge
 also offers a fundamental motivation for a new departure in managing
 human affairs.
 
+
+
+
+
 The consensus position is that, to avoid the worst consequences of
 global warming, the average temperature rise should be limited to less
 than 2°C, but this would require immediate and substantial curtailment
@@ -14599,6 +15638,8 @@ energy requirements of low-income societies: some of those large new
 needs can come from renewable electricity generation, but there is no
 affordable, mass-scale alternative available for transportation fuels,
 feedstocks (ammonia, plastics), or iron ore smelting.
+
+
 
 []{#c10752_007.xhtml}
 
@@ -14630,7 +15671,9 @@ fundamental constraints. But these life-sustaining energy flows cannot
 explain either the very existence of organisms or the particular
 complexities of their organization.
 
-## []{#c10752_007.xhtml#S1}[]{#c10752_007.xhtml#d2e88}Grand Patterns of Energy Use
+
+
+## Grand Patterns of Energy Use
 
 The long-term relationship between human accomplishments and dominant
 energy sources and changing prime movers is perhaps best revealed when
@@ -14718,7 +15761,9 @@ Porsche Carrera GT (Taylor 2013), while Asia's most expensive private
 residential building, Mukesh Ambani's 27-story \$2 billion skyscraper in
 downtown Mumbai, has an unimpeded view of sprawling slums.
 
-### []{#c10752_007.xhtml#S1-1}[]{#c10752_007.xhtml#d2e111}Energy Eras and Transitions
+
+
+### Energy Eras and Transitions
 
 Any realistic periodization of human energy use must take into account
 both the dominant fuels and the leading prime movers. This need
@@ -14879,6 +15924,11 @@ came only with steam engines of the nineteenth century. Maximum
 capacities are plotted from prime mover--specific sources cited in this
 book.](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_007_fig_002.jpg)
 
+
+
+
+
+
 ## Box 7.1 Persistence of animate power {.featuretitle}
 
 In the Americas, horse, mule, and ox teams also converted most of the
@@ -14905,6 +15955,10 @@ multiples of those rates. A traditional master architect or a canal
 builder thus controlled energy flows equivalent to no more than those
 produced by a single engine powering today's small earth-moving
 machines.
+
+
+
+
 
 But long before the maximum power of working animals was itself tripled
 (by strong horses with collar harnesses), waterwheels had become the
@@ -15081,7 +16135,10 @@ then we would still face the challenges of replacing billions of tonnes
 of high energy-density liquid fuels in transportation, and producing pig
 iron, cement, plastics, and ammonia without any fossil carbon.
 
-### []{#c10752_007.xhtml#S1-2}[]{#c10752_007.xhtml#d2e243}Long-Term Trends and Falling Costs
+
+
+
+### Long-Term Trends and Falling Costs
 
 Secular transitions to more powerful prime movers can be traced quite
 accurately in terms of both typical and maximum capacities
@@ -15193,6 +16250,11 @@ are still very low. Poorly maintained car engines often perform at less
 than a third of their rated maxima. Improvements in lighting efficiency
 have been even more impressive (box 7.2).
 
+
+
+
+
+
 ## Box 7.2 Efficiency and efficacy of lighting {.featuretitle}
 
 Candles convert as little as 0.01% and no more than 0.04% of the
@@ -15219,6 +16281,10 @@ sodium lamps are currently the most efficient commercial source of light
 only for street lighting. Light-emitting diodes, suitable for any indoor
 applications, already deliver close to 100 lm/W, and soon they will go
 above 150 lm/W (USDOE 2013).
+
+
+
+
 
 More powerful yet more efficient and lighter mechanical prime movers
 have increased the typical speeds of long-distance travel by more than
@@ -15410,6 +16476,11 @@ in high- or low-income countries---have been subsidized, often heavily,
 mostly by ignoring externalities, by setting low tax rates, and by other
 preferential treatments (box 7.3).
 
+
+
+
+
+
 ## Box 7.3 Energy subsidies {.featuretitle}
 
 The International Monetary Fund (IMF 2015) more than doubled its
@@ -15427,7 +16498,14 @@ the two leading ways of renewable electricity production, and
 fermentation of carbohydrate crops to produce automotive ethanol
 (Charles and Wooders 2011; Alberici et al. 2014; USEIA 2015c).
 
-### []{#c10752_007.xhtml#S1-3}[]{#c10752_007.xhtml#d2e390}What Has Not Changed?
+
+
+
+
+
+
+
+### What Has Not Changed?
 
 Given the fundamental nature of energy-driven developments, this is a
 fair question to ask---and the obvious simple answer must be that the
@@ -15585,6 +16663,11 @@ and prime movers, on the one hand, and accelerated investment on the
 other (box 7.4, []{#c10752_007.xhtml#fig_008a}[fig.
 7.8](#c10752_007.xhtml#fig_008)).
 
+
+
+
+
+
 ## Box 7.4 Business cycles and energy {.featuretitle}
 
 The first well-documented upswing (1787--1814) coincides with the
@@ -15617,6 +16700,10 @@ telephone, steam turbine, the electrolytic production of aluminum, and
 the internal combustion engine. The third one, clustered around 1937,
 includes the gas turbine, jet engine, fluorescent lights, radar, and
 nuclear energy.
+
+
+
+
 
 ![[]{#c10752_007.xhtml#fig_008}[[Figure
 7.8](#c10752_007.xhtml#fig_008a)]{.figureLabel} Comparison of the onsets
@@ -15816,7 +16903,11 @@ integrity have become major considerations in contemplating the future
 of high-energy civilization. They range from preservation of
 biodiversity to rapid anthropogenic climate change.
 
-## []{#c10752_007.xhtml#S2}[]{#c10752_007.xhtml#d2e516}Between Determinism and Choice
+
+
+
+
+## Between Determinism and Choice
 
 Many historical developments are the result of a limited array of
 outcomes that follow using particular energies in certain ways. A
@@ -15870,7 +16961,9 @@ possibilities: they too are not predestined, but their scope is
 definitely restricted, and energy flows impose the most fundamental
 limits.
 
-### []{#c10752_007.xhtml#S2-1}[]{#c10752_007.xhtml#d2e532}Imperatives of Energy Needs and Uses
+
+
+### Imperatives of Energy Needs and Uses
 
 Energy's essential role in the physical world and in the maintenance of
 life is necessarily reflected in evolutionary and historical
@@ -16162,7 +17255,10 @@ through global climate change) that is the most important near- and
 long-term concern resulting from the world's dependence on coals and
 hydrocarbons.
 
-### []{#c10752_007.xhtml#S2-2}[]{#c10752_007.xhtml#d2e627}The Importance of Controls
+
+
+
+### The Importance of Controls
 
 Past adoptions of new energy sources and new prime movers could never
 have had such far-reaching consequences without introducing and
@@ -16372,7 +17468,10 @@ globally, multinational companies strive to lower the energy intensity
 of their production, diffusing new techniques and fostering higher
 energy conversion efficiencies worldwide.
 
-### []{#c10752_007.xhtml#S2-3}[]{#c10752_007.xhtml#d2e684}The Limits of Energy Explanations
+
+
+
+### The Limits of Energy Explanations
 
 Most historians have had no use for energy as an essential explanatory
 variable. Even Fernand Braudel (1902--1985), known for his insistence on
@@ -16691,6 +17790,11 @@ reserves soon swept that myth away. Electricity was the next carrier of
 unbounded possibilities, its powers eventually so far-reaching that they
 would cure poverty and disease (box 7.5).
 
+
+
+
+
+
 ## Box 7.5 Electricity's promise that never ends {.featuretitle}
 
 Electricity is the most versatile form of energy, and its multifaceted
@@ -16735,6 +17839,10 @@ megacities, hardly the best location for decentralized power). And then
 there is, as there has been ever since 1945, the ultimate promise of
 electricity from nuclear fusion (although in practical terms we are no
 closer to that goal now than we were a generation ago).
+
+
+
+
 
 What can be foreseen with great certainty is that much more energy will
 be needed during the coming generations to extend decent life to the
@@ -16897,10 +18005,12 @@ Senancour (1770--1846),
 > Man perisheth. That may be, but let us struggle even though we perish;
 > and if the nothing is to be our portion, let it not come to us as a
 > just reward. (Senancour 1901 \[1804\], 2:187)
+> 
+> 
 
 []{#c10752_008.xhtml}
 
-## []{#c10752_008.xhtml#S1}[]{#c10752_008.xhtml#d2e79}Basic Measures
+## Basic Measures
 
 Length, mass, time, and temperature are the basic units of scientific
 accounts. The meter (m) is the basic unit of length. For average-sized
@@ -16992,9 +18102,16 @@ km^2^), and the four markers of time (second, hour, day, and year). The
 full list of prefixes follows, but only few of them (going up: hecto,
 kilo, mega, giga; going down: milli, micro) are used frequently.
 
-## []{#c10752_008.xhtml#S2}[]{#c10752_008.xhtml#d2e170}Scientific Units and Their Multiples and Submultiples
 
-## []{#c10752_008.xhtml#S3}[]{#c10752_008.xhtml#d2e174}Basic SI units
+
+
+## Scientific Units and Their Multiples and Submultiples
+
+
+
+
+
+## Basic SI units
 
 ```{=html}
 <figure>
@@ -17026,7 +18143,11 @@ Luminous intensity candela cd
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S4}[]{#c10752_008.xhtml#d2e250}Other units used in the text
+
+
+
+
+## Other units used in the text
 
 ```{=html}
 <figure>
@@ -17062,7 +18183,11 @@ Volume cubic meter m^3^
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S5}[]{#c10752_008.xhtml#d2e365}Multiples used in the International System of Units
+
+
+
+
+## Multiples used in the International System of Units
 
 ```{=html}
 <figure>
@@ -17097,7 +18222,11 @@ yota Y 10^24^
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S6}[]{#c10752_008.xhtml#d2e488}Submultiples used in the International System of Units
+
+
+
+
+## Submultiples used in the International System of Units
 
 ```{=html}
 <figure>
@@ -17132,7 +18261,11 @@ yocto y 10^−24^
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S7}[]{#c10752_008.xhtml#d2e633}Chronology of Energy-Related Developments
+
+
+
+
+## Chronology of Energy-Related Developments
 
 This list is compiled from a wide variety of sources cited in the text
 and in the bibliography. More extensive chronologies of technical
@@ -17150,7 +18283,10 @@ original idea, to patenting, to the first practical application, or to
 successful commercialization. For problems in dating inventions, see
 Petroski (1993).
 
-## []{#c10752_008.xhtml#S8}[]{#c10752_008.xhtml#d2e640}BCE
+
+
+
+## BCE
 
 ```{=html}
 <figure>
@@ -17239,7 +18375,11 @@ _Norias_ in the Middle East
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S9}[]{#c10752_008.xhtml#d2e1019}CE
+
+
+
+
+## CE
 
 ```{=html}
 <figure>
@@ -17535,9 +18675,17 @@ Global population reaches 7 billion
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S10}[]{#c10752_008.xhtml#d2e2642}Power in History
 
-## []{#c10752_008.xhtml#S11}[]{#c10752_008.xhtml#d2e2646}Power ratings: From a candle to global civilization
+
+
+
+## Power in History
+
+
+
+
+
+## Power ratings: From a candle to global civilization
 
 ```{=html}
 <figure>
@@ -17611,7 +18759,11 @@ Global commercial energy consumption (2015) 17,530,000,000,000
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S12}[]{#c10752_008.xhtml#d2e2959}Maximum power of prime movers in field work, 1700--2015
+
+
+
+
+## Maximum power of prime movers in field work, 1700--2015
 
 ```{=html}
 <figure>
@@ -17643,7 +18795,11 @@ Year Actions, prime movers Power (W)
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S13}[]{#c10752_008.xhtml#d2e3036}Maximum power of prime movers in land transportation, 1700--2015
+
+
+
+
+## Maximum power of prime movers in land transportation, 1700--2015
 
 ```{=html}
 <figure>
@@ -17675,6 +18831,11 @@ Year Prime movers Power (W)
 </figure>
 ```
 
-## []{#c10752_008.xhtml#S14}[]{#c10752_008.xhtml#d2e3115}Average annual consumption (GJ/capita) of primary energy
+
+
+
+
+## Average annual consumption (GJ/capita) of primary energy
 
 ![[]{#c10752_008.xhtml#Tj}](vertopal_c7b1276959634ad39553458bb92e4366/images/10752_008_T8.1.png)
+
