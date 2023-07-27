@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 区块链技术驱动金融
-categories: 普林斯顿
-description: 普林斯顿
-keywords: 普林斯顿
+title: 追捕祝融星
+categories: 追捕祝融星
+description: 追捕祝融星
+keywords: 追捕祝融星
 ---
 
 想象中的祝融星，因经验和自信而诞生，为科学进步而退场
