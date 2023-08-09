@@ -6,7 +6,7 @@ description: 移动浪潮
 keywords: 移动浪潮
 ---
 
-大饼哥 2012 年的书
+大饼哥 2012 年的书,论为什么该鼓励小孩用 iPad
 
 [豆瓣书评](https://book.douban.com/subject/20480821/)
 
