@@ -8,8 +8,6 @@ keywords: 吴思
 
 > 暴力的投入产出比
 
-- 不带评论的观察是人类智力的最高形式
-
 [豆瓣书评](https://book.douban.com/subject/3640150/)
 
 # 再版前言
