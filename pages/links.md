@@ -10,40 +10,41 @@ permalink: /links/
 
 # 镇站之宝
 
-[https://z-lib.org/](https://zh.zlibrary-africa.se/)
+- [https://z-lib.org/](https://zh.zlibrary-africa.se/)
+- [https://book.douban.com/top250/](https://book.douban.com/top250)
 
 # Blog
 
-卢昌海 [https://www.changhai.org/](https://www.changhai.org/)  
-[https://manateelazycat.github.io/](https://manateelazycat.github.io/)
+- 卢昌海 [https://www.changhai.org/](https://www.changhai.org/)
+- [https://manateelazycat.github.io/](https://manateelazycat.github.io/)
 
 # Dev
 
-[https://www.bmpi.dev/self/](https://www.bmpi.dev/self/)
+- [https://www.bmpi.dev/self/](https://www.bmpi.dev/self/)
 
 # News
 
-[https://news.ycombinator.com/](https://news.ycombinator.com/)  
-[https://www.bloomberg.com/](https://www.bloomberg.com/)  
-[https://www.wired.com/](https://www.wired.com/)  
-[https://chinadigitaltimes.net/chinese/](https://chinadigitaltimes.net/chinese/)
+- [https://news.ycombinator.com/](https://news.ycombinator.com/)
+- [https://www.bloomberg.com/](https://www.bloomberg.com/)
+- [https://www.wired.com/](https://www.wired.com/)
+- [https://chinadigitaltimes.net/chinese/](https://chinadigitaltimes.net/chinese/)
 
 # Read
 
-[https://www.marxists.org/chinese/maozedong/index.htm](https://www.marxists.org/chinese/maozedong/index.htm)  
-[https://www.marxists.org/chinese/reference-books/luxun/index.htm](https://www.marxists.org/chinese/reference-books/luxun/index.htm)
+- [https://www.marxists.org/chinese/maozedong/index.htm](https://www.marxists.org/chinese/maozedong/index.htm)
+- [https://www.marxists.org/chinese/reference-books/luxun/index.htm](https://www.marxists.org/chinese/reference-books/luxun/index.htm)
 
 # Bitcoin
 
-[http://www.weidai.com/](http://www.weidai.com/)  
-[https://yilinhut.net/](https://yilinhut.net/)  
-[http://btc.mom/](http://btc.mom/)
+- [http://www.weidai.com/](http://www.weidai.com/)
+- [https://yilinhut.net/](https://yilinhut.net/)
+- [http://btc.mom/](http://btc.mom/)
 
 # 本站字体
 
-[https://github.com/lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+- [https://github.com/lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 
 # Airports
 
-[https://dler.pro/](https://dler.pro/)  
-[https://v2club.cc/](https://v2club.cc/)
+- [https://dler.pro/](https://dler.pro/)
+- [https://v2club.cc/](https://v2club.cc/)
