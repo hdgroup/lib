@@ -10,7 +10,7 @@ permalink: /links/
 
 # 镇站之宝
 
-- [https://z-lib.org/](https://z-lib.is/)
+- [https://z-lib.org/](https://zh.zlibrary-africa.se/)
 - [https://book.douban.com/top250/](https://book.douban.com/top250)
 
 # Blog
