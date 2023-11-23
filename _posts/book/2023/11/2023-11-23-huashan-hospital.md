@@ -8,7 +8,8 @@ keywords: 马伯庸
 
 > 马伯庸
 
-[豆瓣书评·破晓篇](https://book.douban.com/subject/36069426/)
+- [豆瓣书评·破晓篇](https://book.douban.com/subject/36069426/)
+- [豆瓣书评·日出篇](https://book.douban.com/subject/36155568/)
 
 # 大医·破晓篇 上册
 
