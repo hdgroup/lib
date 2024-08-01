@@ -43,6 +43,7 @@ permalink: /links/
 # 本站字体
 
 - [https://github.com/lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
+- [https://lxgw.github.io/](https://lxgw.github.io/)
 
 # Airports
 
