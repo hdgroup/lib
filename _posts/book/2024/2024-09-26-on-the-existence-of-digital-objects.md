@@ -1248,7 +1248,8 @@ keywords: 论数码物的存在
 日期: 2024-08-18 19:58:22
 录制: 西蒙东读书会
 日期: 2024-08-25 20:11:43
-录制文件：https://meeting.tencent.com/crm/K04yYG0K2b 录制: 西蒙东读书会
+录制文件：https://meeting.tencent.com/crm/K04yYG0K2b
+录制: 西蒙东读书会
 日期: 2024-09-01 19:58:52
 录制文件：https://meeting.tencent.com/crm/NXn3gWGK77
 录制: 西蒙东读书会
