@@ -1214,7 +1214,7 @@ keywords: 论数码物的存在
 
 # 西蒙东读书会
 
-- [2024-05-19 19:46:38](https://meeting.tencent.com/crm/KWRwqzEl5f)
+- 导论 [2024-05-19 19:46:38](https://meeting.tencent.com/crm/KWRwqzEl5f)
 - [2024-05-26 19:29:24](https://meeting.tencent.com/crm/Kwj8M7jl06)
 - [2024-06-02 20:35:11](https://meeting.tencent.com/crm/2MOznb4l3c)
 - [2024-06-09 19:57:55](https://meeting.tencent.com/crm/2k36p442af)
