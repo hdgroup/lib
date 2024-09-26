@@ -1211,3 +1211,49 @@ keywords: 论数码物的存在
 对与我进行学术讨论的学者与朋友们，我心中感激不尽：戈茨·巴赫曼（Goetz Bachmann）、让于格斯·巴蒂莱米（Jean-Hugues Barthélémy）、安德烈亚斯·布鲁克曼（Andreas Broeckmann）、雷古拉·布厄（Regula Bührer）、马库斯·伯克哈特（Marcus Burkhardt）、梅塞德斯·邦兹（Mercedez Bunz）、詹姆斯·伯顿（James Burton）、陈舒延（Shu Yan Chan）、霍华德·凯吉尔（Howard Caygill）、霍尔格·法斯（Holger Fath）、哈利·哈尔平、斯特凡·海登瑞奇（Stefan Heidenreich）、纪尧姆·辛奇（Guillaume Hincky）、艾利希·霍尔（Erich Hrl）、安德烈亚斯·克里席纳（Andreas Kirchner）、亚历山大·莫南、卢洽娜·帕里西（Luciana Parisi）、尼克拉·索莱（Nicolas Sauret）、理查德·瑟斯坦斯（Richard Thurstans）、尼克拉斯·沃克尔（Nicholas Walker）、卡提安·维西格（Katian Witchger）与齐格飞·杰林斯基（Siegfried Zielinski）。本研究感谢莱弗尔梅信托基金资助的金史密斯新媒体研究项目的慷慨支持；感谢由全球海军研究局资助的创新研究中心的社交网络项目；以及欧洲区域发展基金与下萨克森州联邦政府支持下的吕讷堡大学数字文化中心。我还要感谢明尼苏达大学出版社的编辑丹妮艾尔·卡斯普尔扎科（Danielle Kasprzak）与安娜·卡特（Anne Carter）以及电子媒介系列的编辑对本研究的支持。
 
 我最想向我的父母表达感激之情，他们鼓励我参与他们从未经历过也从未想象过的冒险；感谢我最亲爱的哥哥本对我的支持与理解，以及他作为计算机科学教授提出的建议；感谢马克·麦克古克（Mark McGurk）教授及其同事提出的操劳的基本问题。
+
+# 西蒙东读书会
+
+录制: 西蒙东读书会
+日期: 2024-05-19 19:46:38
+录制文件：https://meeting.tencent.com/crm/KWRwqzEl5f
+录制: 西蒙东读书会
+日期: 2024-05-26 19:29:24
+录制文件：https://meeting.tencent.com/crm/Kwj8M7jl06
+录制: 西蒙东读书会
+日期: 2024-06-02 20:35:11
+录制文件：https://meeting.tencent.com/crm/2MOznb4l3c
+录制: 西蒙东读书会
+日期: 2024-06-09 19:57:55
+录制文件：https://meeting.tencent.com/crm/2k36p442af
+录制: 西蒙东读书会
+日期: 2024-06-16 20:05:02
+录制文件：https://meeting.tencent.com/crm/2qDqzwdKb6
+录制: 西蒙东读书会
+日期: 2024-06-23 20:03:52
+录制文件：https://meeting.tencent.com/crm/KmDjxM6l54
+录制: 西蒙东读书会
+日期: 2024-07-07 19:53:04
+录制文件：https://meeting.tencent.com/crm/2958A69204
+录制: 西蒙东读书会
+日期: 2024-07-14 19:56:56
+录制文件：https://meeting.tencent.com/crm/KWRLxkJl3b
+录制: 西蒙东读书会
+日期: 2024-07-28 20:11:26
+录制文件：https://meeting.tencent.com/crm/2rjvy5X2c2
+录制: 西蒙东读书会
+日期: 2024-08-11 20:01:02
+录制文件：https://meeting.tencent.com/crm/N1GJQ0zK20
+录制: 西蒙东读书会
+日期: 2024-08-18 19:58:22
+录制: 西蒙东读书会
+日期: 2024-08-25 20:11:43
+录制文件：https://meeting.tencent.com/crm/K04yYG0K2b 录制: 西蒙东读书会
+日期: 2024-09-01 19:58:52
+录制文件：https://meeting.tencent.com/crm/NXn3gWGK77
+录制: 西蒙东读书会
+日期: 2024-09-08 20:01:21
+录制文件：https://meeting.tencent.com/crm/N8pBQE7N53
+录制: 西蒙东读书会
+日期: 2024-09-22 20:01:08
+录制文件：https://meeting.tencent.com/crm/NxdXpJoN8e
