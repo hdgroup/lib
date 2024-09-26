@@ -1216,45 +1216,45 @@ keywords: 论数码物的存在
 
 录制: 西蒙东读书会
 日期: 2024-05-19 19:46:38
-录制文件：https://meeting.tencent.com/crm/KWRwqzEl5f
+录制文件：https://meeting.tencent.com/crm/KWRwqzEl5f  
 录制: 西蒙东读书会
 日期: 2024-05-26 19:29:24
-录制文件：https://meeting.tencent.com/crm/Kwj8M7jl06
+录制文件：https://meeting.tencent.com/crm/Kwj8M7jl06  
 录制: 西蒙东读书会
 日期: 2024-06-02 20:35:11
-录制文件：https://meeting.tencent.com/crm/2MOznb4l3c
+录制文件：https://meeting.tencent.com/crm/2MOznb4l3c  
 录制: 西蒙东读书会
 日期: 2024-06-09 19:57:55
-录制文件：https://meeting.tencent.com/crm/2k36p442af
+录制文件：https://meeting.tencent.com/crm/2k36p442af  
 录制: 西蒙东读书会
 日期: 2024-06-16 20:05:02
-录制文件：https://meeting.tencent.com/crm/2qDqzwdKb6
+录制文件：https://meeting.tencent.com/crm/2qDqzwdKb6  
 录制: 西蒙东读书会
 日期: 2024-06-23 20:03:52
-录制文件：https://meeting.tencent.com/crm/KmDjxM6l54
+录制文件：https://meeting.tencent.com/crm/KmDjxM6l54  
 录制: 西蒙东读书会
 日期: 2024-07-07 19:53:04
-录制文件：https://meeting.tencent.com/crm/2958A69204
+录制文件：https://meeting.tencent.com/crm/2958A69204  
 录制: 西蒙东读书会
 日期: 2024-07-14 19:56:56
-录制文件：https://meeting.tencent.com/crm/KWRLxkJl3b
+录制文件：https://meeting.tencent.com/crm/KWRLxkJl3b  
 录制: 西蒙东读书会
 日期: 2024-07-28 20:11:26
-录制文件：https://meeting.tencent.com/crm/2rjvy5X2c2
+录制文件：https://meeting.tencent.com/crm/2rjvy5X2c2  
 录制: 西蒙东读书会
 日期: 2024-08-11 20:01:02
-录制文件：https://meeting.tencent.com/crm/N1GJQ0zK20
+录制文件：https://meeting.tencent.com/crm/N1GJQ0zK20  
 录制: 西蒙东读书会
 日期: 2024-08-18 19:58:22
 录制: 西蒙东读书会
 日期: 2024-08-25 20:11:43
-录制文件：https://meeting.tencent.com/crm/K04yYG0K2b
+录制文件：https://meeting.tencent.com/crm/K04yYG0K2b  
 录制: 西蒙东读书会
 日期: 2024-09-01 19:58:52
-录制文件：https://meeting.tencent.com/crm/NXn3gWGK77
+录制文件：https://meeting.tencent.com/crm/NXn3gWGK77  
 录制: 西蒙东读书会
 日期: 2024-09-08 20:01:21
-录制文件：https://meeting.tencent.com/crm/N8pBQE7N53
+录制文件：https://meeting.tencent.com/crm/N8pBQE7N53  
 录制: 西蒙东读书会
 日期: 2024-09-22 20:01:08
-录制文件：https://meeting.tencent.com/crm/NxdXpJoN8e
+录制文件：https://meeting.tencent.com/crm/NxdXpJoN8e  
