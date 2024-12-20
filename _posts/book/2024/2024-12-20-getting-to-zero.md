@@ -8,7 +8,7 @@ keywords: 冲突的勇气
 
 > 不处理的冲突就像看见垃圾却扔进家里，结果只会是垃圾越堆越多，影响越来越大。
 
-[豆瓣书评](https://www.douban.com/personage/36650341/)
+[豆瓣书评](https://book.douban.com/subject/36650341/)
 
 
 
