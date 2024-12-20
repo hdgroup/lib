@@ -8,7 +8,7 @@ keywords: 美国种族简史
 
 > 美国种族简史
 
-[豆瓣书评](https://www.douban.com/personage/6892579/)
+[豆瓣书评](https://www.douban.com/subject/6892579/)
 
 # 序言
 

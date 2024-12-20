@@ -8,7 +8,7 @@ keywords: 中国文化的深层结构
 
 > 弑父指南
 
-[豆瓣书评](https://www.douban.com/personage/1965857/)
+[豆瓣书评](https://book.douban.com/subject/1965857/)
 
 # 新千年版序
 

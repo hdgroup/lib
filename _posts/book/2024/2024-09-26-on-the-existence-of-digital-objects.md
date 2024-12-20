@@ -8,7 +8,7 @@ keywords: 论数码物的存在
 
 > 西蒙东&数码物读书会
 
-[豆瓣书评](https://www.douban.com/personage/30321101/)
+[豆瓣书评](https://book.douban.com/subject/30321101/)
 
 # 前言
 

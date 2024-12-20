@@ -8,7 +8,7 @@ keywords: 国家为什么会失败
 
 > 2024诺奖得主
 
-[豆瓣书评](https://www.douban.com/personage/26388427/)
+[豆瓣书评](https://book.douban.com/subject/26388427/)
 
 
 # 序言

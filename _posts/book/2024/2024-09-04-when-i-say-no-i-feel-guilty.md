@@ -10,7 +10,7 @@ keywords: 强势
 
 > 如何在工作、恋爱和人际交往中快速取得主导权？
 
-[豆瓣书评](https://www.douban.com/personage/25925226/)
+[豆瓣书评](https://book.douban.com/subject/25925226/)
 
 # 强势十大法则
 
