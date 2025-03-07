@@ -8,6 +8,8 @@ keywords: 小镇喧嚣
 
 > 刁民与恶政的双重互动
 
+[豆瓣书评](https://book.douban.com/subject/30122152/)
+
 小镇喧嚣
 
 一个乡镇政治运作的演绎与阐释
